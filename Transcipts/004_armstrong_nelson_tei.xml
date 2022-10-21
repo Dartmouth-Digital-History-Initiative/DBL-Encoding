@@ -26,7 +26,7 @@
             <orgName>Dartmouth Black Lives</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/armstrong_nelson/armstrong_nelson_transcript_final.pdf"></ref>
+          <ref target="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/armstrong_nelson/armstrong_nelson_transcript_final.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
