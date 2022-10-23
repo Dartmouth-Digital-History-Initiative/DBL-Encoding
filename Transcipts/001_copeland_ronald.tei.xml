@@ -1,5 +1,5 @@
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dbl_001">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,10 +12,11 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">dbl_001</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="1:33:25">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="" mimeType="MIMEaudio/wav"/>
           </recording>
@@ -50,7 +51,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2021-10-30"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -128,7 +129,7 @@
       <u who="COPELAND">Oh yeah I lived right on campus in the dorms. You know we all got assigned dorm assignments when we first came on board as freshmen and if I recall I think I might have been in Lord <persName>Hall</persName>, if I remember correctly. But I was in one of the dorm halls and we all had our different assignments. Some had roommates, some were singles etc. And then later on when the <orgName>Afro-American Society</orgName>, I had one of the dorms transformed to the <placeName>El Hajj Malik</placeName> <orgName>El Shabazz Temple</orgName>, if you will, that’s how we referred to it, a number of us were moved into that dorm to actually live there. So, my first two years I lived I think in Lord <persName>Hall</persName>, and then my junior and senior year I was staying at the temple.</u>
       <u who="METELUS">Ah okay and so you lived in <placeName>Shabazz</placeName> junior and senior year and you were President also your junior year into your senior year?</u>
       <u who="COPELAND">Yeah, yeah</u>
-      <u who="METELUS">Okay, great. And, actually, in Rauner [Special Collections Library] there are executive meeting notes from one of your <orgName>Afro-American Society</orgName> meetings. And I saw that part of that meeting, you spoke about how you would go about choosing who would have priority to live in <placeName>Shabazz</placeName>. So, obviously I'm a Black student at <orgName>Dartmouth</orgName> and <placeName>Shabazz</placeName> is obviously an option for me, and there was an application process and everything like that. There is now, was there an application process back then, or was it kind of more just like people would apply and then the society would choose.</u>
+      <u who="METELUS">Okay, great. And, actually, in <placeName>Rauner [Special Collections Library] </placeName>there are executive meeting notes from one of your <orgName>Afro-American Society</orgName> meetings. And I saw that part of that meeting, you spoke about how you would go about choosing who would have priority to live in <placeName>Shabazz</placeName>. So, obviously I'm a Black student at <orgName>Dartmouth</orgName> and <placeName>Shabazz</placeName> is obviously an option for me, and there was an application process and everything like that. There is now, was there an application process back then, or was it kind of more just like people would apply and then the society would choose.</u>
       <u who="COPELAND">Well, when we first created that there was no real formalized process per se, that I can recall. I mean, of course, if you were going to move your residency that had to be worked through the <orgName>Dartmouth</orgName> process because they had to have obviously a close documentation of where students were living in their occupancy and so on, so those had to be achieved. But in turns of selections, you know many of the students had selected fellow Black roommates when they came in as freshmen, and so they were fine in their current situations and had no desire or need to move. And so we, as I recall, I think we did— there was only a limited number of rooms available in that space because the way we were going to use that particular dorm as more of a cultural center than actual living scenario. And so for the handful that were there, I think it was a number of people were asked if they were interested to volunteer and some folks volunteered and then selections are made. But I don't remember it ever being really controversial or a lot of people, you know jockeying for a handful of rooms to stay there. I can't even remember if you were an officer of the <orgName>Afro-American Society</orgName> if those individuals in that group were given preference or not, when we first launched it. And how it evolved or or created over time, and what it looks like now, I couldn't tell. It was a long, long time ago.</u>
       <u who="METELUS">Yeah, in those notes actually you guys were still considering whether or not to give people in the <orgName>Afro-American</orgName> Society preference. I don't fully remember the order, but there was an order that you guys were considering. So, it's very interesting to just speak to you about that, because you were in the room talking about the notes that I was looking at. And then also in those notes, thinking about the idea of <placeName>Shabazz</placeName> and what you wanted it to be. You specifically, as the President, but also as the society as a whole. I know that one of the things that you were fighting for, at the time were the runoff elections for <orgName>the College Committee on Standing and Conduct</orgName>. I’m not sure if that rings a bell. Let me know.</u>
       <u who="COPELAND">Not at all [laughs]</u>
