@@ -3,11 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with Eileen Cave</title>
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Dartmouth Black Lives</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -15,24 +15,24 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="1:22:26">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/cave_eileen/cave_eileen.mp3" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Tamonie Brown</persName>
+            <orgName>Dartmouth Black Lives</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/cave_eileen/cave_eileen_transcript_final.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>Dartmouth Black Lives</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -50,7 +50,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2021-10-26"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -60,7 +60,7 @@
     <body>
       <u who="BROWN">Okay, my name is <persName>Tamonie Brown</persName> and I’m currently in <orgName>the Shabazz Center</orgName> in <placeName>Hanover, New Hampshire</placeName>. I’m doing a zoom interview with <persName>Eileen Cave</persName>. Eileen, where are you right now? </u>
       <u who="CAVE">I am residing in <placeName>Hyattsville, Maryland</placeName>. </u>
-      <u who="BROWN">Okay, <persName>Eileen</persName> is in <placeName>Hyattsville, Maryland</placeName>. Today is <date when="2001-10-26">October 26, 2021</date>, and this interview is for <orgName>the Dartmouth Black Lives Oral History Project</orgName>. So, first of all, again, thank you so much for agreeing to do this with me. It means a lot and I’m excited to just get whatever information I can from you. </u>
+      <u who="BROWN">Okay, <persName>Eileen</persName> is in <placeName>Hyattsville, Maryland</placeName>. Today is <date when="2021-10-26">October 26, 2021</date>, and this interview is for <orgName>the Dartmouth Black Lives Oral History Project</orgName>. So, first of all, again, thank you so much for agreeing to do this with me. It means a lot and I’m excited to just get whatever information I can from you. </u>
       <u who="CAVE">Absolutely, glad to participate. </u>
       <u who="BROWN">Okay, so first, can you tell me where and when you were born? </u>
       <u who="CAVE">I was born <date when="1955-12-21">December 21, 1955</date>, in <placeName>Brooklyn, New York</placeName>. </u>
