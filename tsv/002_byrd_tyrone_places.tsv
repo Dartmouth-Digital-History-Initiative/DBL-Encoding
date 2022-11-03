@@ -1,57 +1,57 @@
-id	placeName
-dbl_002_place_0	Houston
-dbl_002_place_1	Hanover
-dbl_002_place_2	Hanover
-dbl_002_place_3	Texas
-dbl_002_place_4	Texas
-dbl_002_place_5	Texas
-dbl_002_place_6	New York
-dbl_002_place_7	Texas
-dbl_002_place_8	Texas
-dbl_002_place_9	San Antonio
-dbl_002_place_10	San Antonio
-dbl_002_place_11	Virginia
-dbl_002_place_12	East Texas
-dbl_002_place_13	Madisonville, Texas
-dbl_002_place_14	Houston
-dbl_002_place_15	Madisonville, Texas
-dbl_002_place_16	San Antonio, Texas
-dbl_002_place_17	San Antonio
-dbl_002_place_18	San Antonio, Texas
-dbl_002_place_19	New York
-dbl_002_place_20	Boston
-dbl_002_place_21	Texas
-dbl_002_place_22	California
-dbl_002_place_23	Chicago
-dbl_002_place_24	Chicago
-dbl_002_place_25	Texas
-dbl_002_place_26	New York
-dbl_002_place_27	Texas
-dbl_002_place_28	New York
-dbl_002_place_29	Brooklyn
-dbl_002_place_30	New York City
-dbl_002_place_31	New York
-dbl_002_place_32	Chicago
-dbl_002_place_33	Chicago
-dbl_002_place_34	Chicago
-dbl_002_place_35	Hanover
-dbl_002_place_36	Hanover
-dbl_002_place_37	United States
-dbl_002_place_38	Afghanistan
-dbl_002_place_39	Vietnam
-dbl_002_place_40	Canada
-dbl_002_place_41	Boston
-dbl_002_place_42	Boston
-dbl_002_place_43	Boston
-dbl_002_place_44	Boston
-dbl_002_place_45	West Africa
-dbl_002_place_46	Freetown, Sierra Leone
-dbl_002_place_47	Freetown
-dbl_002_place_48	Ethiopia
-dbl_002_place_49	African
-dbl_002_place_50	Africa
-dbl_002_place_51	Europe
-dbl_002_place_52	London
-dbl_002_place_53	US
-dbl_002_place_54	Hanover
-dbl_002_place_55	Massachusetts
+id	placeName	QID	dbl_id	coordinate location
+dbl_002_place_0	Houston	Q16555		29.762777777778,-95.383055555556
+dbl_002_place_1	Hanover	Q131908		43.7,-72.28333333333333
+dbl_002_place_2	Hanover	Q131908		43.7,-72.28333333333333
+dbl_002_place_3	Texas	Q1439		31,-100
+dbl_002_place_4	Texas	Q1439		31,-100
+dbl_002_place_5	Texas	Q1439		31,-100
+dbl_002_place_6	New York	Q1384		43,-75
+dbl_002_place_7	Texas	Q1439		31,-100
+dbl_002_place_8	Texas	Q1439		31,-100
+dbl_002_place_9	San Antonio	Q975		29.425,-98.49388888888889
+dbl_002_place_10	San Antonio	Q975		29.425,-98.49388888888889
+dbl_002_place_11	Virginia	Q1370		37.5,-79
+dbl_002_place_12	East Texas	Q2576428		31.866666666666667,-94.91666666666667
+dbl_002_place_13	Madisonville	Q975754		30.95083,-95.9125
+dbl_002_place_14	Houston	Q16555		29.762777777778,-95.383055555556
+dbl_002_place_15	Madisonville	Q975754		30.95083,-95.9125
+dbl_002_place_16	San Antonio	Q975		29.425,-98.49388888888889
+dbl_002_place_17	San Antonio	Q975		29.425,-98.49388888888889
+dbl_002_place_18	San Antonio	Q975		29.425,-98.49388888888889
+dbl_002_place_19	New York	Q1384		43,-75
+dbl_002_place_20	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_002_place_21	Texas	Q1439		31,-100
+dbl_002_place_22	California	Q99		37,-120
+dbl_002_place_23	Chicago	Q1297		41.85003,-87.65005
+dbl_002_place_24	Chicago	Q1297		41.85003,-87.65005
+dbl_002_place_25	Texas	Q1439		31,-100
+dbl_002_place_26	New York	Q1384		43,-75
+dbl_002_place_27	Texas	Q1439		31,-100
+dbl_002_place_28	New York	Q1384		43,-75
+dbl_002_place_29	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_002_place_30	New York City	Q60		40.7,-74
+dbl_002_place_31	New York	Q1384		43,-75
+dbl_002_place_32	Chicago	Q1297		41.85003,-87.65005
+dbl_002_place_33	Chicago	Q1297		41.85003,-87.65005
+dbl_002_place_34	Chicago	Q1297		41.85003,-87.65005
+dbl_002_place_35	Hanover	Q131908		43.7,-72.28333333333333
+dbl_002_place_36	Hanover	Q131908		43.7,-72.28333333333333
+dbl_002_place_37	United States of America	Q30		39.828175,-98.5795
+dbl_002_place_38	Afghanistan	Q889		33,66
+dbl_002_place_39	Vietnam	Q881		16,108
+dbl_002_place_40	Canada	Q16		56,-109
+dbl_002_place_41	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_002_place_42	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_002_place_43	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_002_place_44	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_002_place_45	West Africa	Q4412		12,3
+dbl_002_place_46	Freetown	Q3780		8.4833333333333,-13.233055555556
+dbl_002_place_47	Freetown	Q3780		8.4833333333333,-13.233055555556
+dbl_002_place_48	Ethiopia	Q115		9,40
+dbl_002_place_49	Africa	Q15		21.09375,7.1881
+dbl_002_place_50	Africa	Q15		21.09375,7.1881
+dbl_002_place_51	Europe	Q46		48.690959,9.14062
+dbl_002_place_52	London	Q84		51.507222222222,-0.1275
+dbl_002_place_53	United States of America	Q30		39.828175,-98.5795
+dbl_002_place_54	Hanover	Q131908		43.7,-72.28333333333333
+dbl_002_place_55	Massachusetts	Q771		42.3,-71.8

@@ -1,70 +1,70 @@
-id	orgName
-dbl_002_org_0	Dartmouth College
-dbl_002_org_1	Alumni Council Board of Trustees
-dbl_002_org_2	Alumni Council
-dbl_002_org_3	Board of Trustees
-dbl_002_org_4	Alumni Council
-dbl_002_org_5	Dartmouth
-dbl_002_org_6	Dartmouth
-dbl_002_org_7	Dartmouth
-dbl_002_org_8	Army
-dbl_002_org_9	Air Force
-dbl_002_org_10	US Treasury
-dbl_002_org_11	Treasury
-dbl_002_org_12	Dartmouth
-dbl_002_org_13	Dartmouth
-dbl_002_org_14	Dartmouth
-dbl_002_org_15	Dartmouth
-dbl_002_org_16	Dartmouth
-dbl_002_org_17	Dartmouth
-dbl_002_org_18	Dartmouth
-dbl_002_org_19	Dartmouth
-dbl_002_org_20	Dartmouth
-dbl_002_org_21	Dartmouth
-dbl_002_org_22	Brooklyn Tech
-dbl_002_org_23	Tucker Foundation
-dbl_002_org_24	Tucker Foundation
-dbl_002_org_25	Tucker Foundation
-dbl_002_org_26	Dartmouth
-dbl_002_org_27	A Better Chance
-dbl_002_org_28	ABC
-dbl_002_org_29	ABC
-dbl_002_org_30	ABC
-dbl_002_org_31	Exeter
-dbl_002_org_32	Andover
-dbl_002_org_33	Black Panthers
-dbl_002_org_34	Ivy League
-dbl_002_org_35	Penn State
-dbl_002_org_36	Ivy League
-dbl_002_org_37	University of Chicago Business School
-dbl_002_org_38	University of Chicago Business School
-dbl_002_org_39	Dartmouth
-dbl_002_org_40	University of Chicago
-dbl_002_org_41	Dartmouth
-dbl_002_org_42	Dartmouth
-dbl_002_org_43	Mount Holyoke
-dbl_002_org_44	Dartmouth
-dbl_002_org_45	Dartmouth College
-dbl_002_org_46	Dartmouth
-dbl_002_org_47	Mount Holyoke
-dbl_002_org_48	Smith
-dbl_002_org_49	Dartmouth
-dbl_002_org_50	Simmons College
-dbl_002_org_51	Dartmouth College
-dbl_002_org_52	Dartmouth College
-dbl_002_org_53	Fourah Bay College
-dbl_002_org_54	Fourah Bay College
-dbl_002_org_55	West African College
-dbl_002_org_56	Dartmouth
-dbl_002_org_57	Hoover Institute
-dbl_002_org_58	Stanford
-dbl_002_org_59	Stanford
-dbl_002_org_60	Dartmouth
-dbl_002_org_61	Ivy League
-dbl_002_org_62	Dartmouth College
-dbl_002_org_63	Dartmouth
-dbl_002_org_64	Columbia
-dbl_002_org_65	Dartmouth
-dbl_002_org_66	Ivy League
-dbl_002_org_67	Dartmouth
-dbl_002_org_68	NBA
+id	orgName	QID	dbl_id
+dbl_002_org_0	Dartmouth College	Q49116	
+dbl_002_org_1	Board of Trustees of Dartmouth College	Q4931386	
+dbl_002_org_2	Dartmouth Alumni Council	Q114879368	
+dbl_002_org_3	Board of Trustees of Dartmouth College	Q4931386	
+dbl_002_org_4	Dartmouth Alumni Council	Q114879368	
+dbl_002_org_5	Dartmouth College	Q49116	
+dbl_002_org_6	Dartmouth College	Q49116	
+dbl_002_org_7	Dartmouth College	Q49116	
+dbl_002_org_8	United States Army	Q9212	
+dbl_002_org_9	United States Air Force	Q11223	
+dbl_002_org_10	Department of the Treasury	Q3277092	
+dbl_002_org_11	United States Department of the Treasury	Q648666	
+dbl_002_org_12	Dartmouth College	Q49116	
+dbl_002_org_13	Dartmouth College	Q49116	
+dbl_002_org_14	Dartmouth College	Q49116	
+dbl_002_org_15	Dartmouth College	Q49116	
+dbl_002_org_16	Dartmouth College	Q49116	
+dbl_002_org_17	Dartmouth College	Q49116	
+dbl_002_org_18	Dartmouth College	Q49116	
+dbl_002_org_19	Dartmouth College	Q49116	
+dbl_002_org_20	Dartmouth College	Q49116	
+dbl_002_org_21	Dartmouth College	Q49116	
+dbl_002_org_22	Brooklyn Technical High School	Q2737843	
+dbl_002_org_23	William Jewett Tucker Foundation	Q105660312	
+dbl_002_org_24	William Jewett Tucker Foundation	Q105660312	
+dbl_002_org_25	William Jewett Tucker Foundation	Q105660312	
+dbl_002_org_26	Dartmouth College	Q49116	
+dbl_002_org_27	A Better Chance	Q25469497	
+dbl_002_org_28	A Better Chance	Q25469497	
+dbl_002_org_29	A Better Chance	Q25469497	
+dbl_002_org_30	A Better Chance	Q25469497	
+dbl_002_org_31	Phillips Exeter Academy	Q1426464	
+dbl_002_org_32	Phillips Academy	Q1432645	
+dbl_002_org_33	Black Panther Party	Q189150	
+dbl_002_org_34	Ivy League	Q49113	
+dbl_002_org_35	Pennsylvania State University	Q739627	
+dbl_002_org_36	Ivy League	Q49113	
+dbl_002_org_37	Booth School of Business	Q2963304	
+dbl_002_org_38	Booth School of Business	Q2963304	
+dbl_002_org_39	Dartmouth College	Q49116	
+dbl_002_org_40	University of Chicago	Q131252	
+dbl_002_org_41	Dartmouth College	Q49116	
+dbl_002_org_42	Dartmouth College	Q49116	
+dbl_002_org_43	Mount Holyoke	Q3321866	
+dbl_002_org_44	Dartmouth College	Q49116	
+dbl_002_org_45	Dartmouth College	Q49116	
+dbl_002_org_46	Dartmouth College	Q49116	
+dbl_002_org_47	Mount Holyoke	Q3321866	
+dbl_002_org_48	Smith College	Q49204	
+dbl_002_org_49	Dartmouth College	Q49116	
+dbl_002_org_50	Simmons University	Q14437811	
+dbl_002_org_51	Dartmouth College	Q49116	
+dbl_002_org_52	Dartmouth College	Q49116	
+dbl_002_org_53	Fourah Bay College	Q1506926	
+dbl_002_org_54	Fourah Bay College	Q1506926	
+dbl_002_org_55	Fourah Bay College	Q1506926	
+dbl_002_org_56	Dartmouth College	Q49116	
+dbl_002_org_57	Hoover Institution	Q1147088	
+dbl_002_org_58	Stanford University	Q41506	
+dbl_002_org_59	Stanford University	Q41506	
+dbl_002_org_60	Dartmouth College	Q49116	
+dbl_002_org_61	Ivy League	Q49113	
+dbl_002_org_62	Dartmouth College	Q49116	
+dbl_002_org_63	Dartmouth College	Q49116	
+dbl_002_org_64	Columbia University	Q49088	
+dbl_002_org_65	Dartmouth College	Q49116	
+dbl_002_org_66	Ivy League	Q49113	
+dbl_002_org_67	Dartmouth College	Q49116	
+dbl_002_org_68	National Basketball Association	Q155223	
