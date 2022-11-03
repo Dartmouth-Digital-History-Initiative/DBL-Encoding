@@ -1,2 +1,2 @@
-id	name
-dbl_004_event_0	Shockley incident
+id	name	QID	dbl_id	start time	end time	point in time
+dbl_004_event_0	Shockley Incident	Q115024875				1969-10-15T00:00:00Z
