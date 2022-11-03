@@ -1,68 +1,68 @@
-id	persName
-dbl_004_person_0	Liana Laremont
-dbl_004_person_1	Nelson Armstrong
-dbl_004_person_2	Nelson
-dbl_004_person_3	Fred
-dbl_004_person_4	Carissa Armstrong
-dbl_004_person_5	George Washington
-dbl_004_person_6	Booker T. Washington
-dbl_004_person_7	Booker T. Washington
-dbl_004_person_8	Booker T. Washington
-dbl_004_person_9	Carlos B Huntington
-dbl_004_person_10	Nelson
-dbl_004_person_11	Mamie Bacote
-dbl_004_person_12	Anthony Harley
-dbl_004_person_13	Nels
-dbl_004_person_14	Nelson
-dbl_004_person_15	Nels
-dbl_004_person_16	Nels
-dbl_004_person_17	Nels
-dbl_004_person_18	Forester Lee
-dbl_004_person_19	Woody Lee
-dbl_004_person_20	Hutch
-dbl_004_person_21	James Hutcherson
-dbl_004_person_22	Hutch
-dbl_004_person_23	Hutch
-dbl_004_person_24	Nels
-dbl_004_person_25	Woody Lee
-dbl_004_person_26	Woody Lee
-dbl_004_person_27	E. E. Just [Ernest Everett Just]
-dbl_004_person_28	E. E. Just
-dbl_004_person_29	James Shockley [William B. Shockley
-dbl_004_person_30	Bill McCurine ‘68
-dbl_004_person_31	Willie Bogan
-dbl_004_person_32	Jesse Spikes
-dbl_004_person_33	Caleb Watt
-dbl_004_person_34	Caleb Watt
-dbl_004_person_35	Caleb Watt
-dbl_004_person_36	Watt
-dbl_004_person_37	Caleb Watt.
-dbl_004_person_38	Nelson Armstrong
-dbl_004_person_39	Nels Armstrong
-dbl_004_person_40	Nels Armstrong
-dbl_004_person_41	Thomas Parker
-dbl_004_person_42	Nels
-dbl_004_person_43	John Rassias
-dbl_004_person_44	Dean Schaefer
-dbl_004_person_45	Dean Ralph Manuel
-dbl_004_person_46	Dean Schaefer
-dbl_004_person_47	Dean Manuel
-dbl_004_person_48	Nels
-dbl_004_person_49	Nels
-dbl_004_person_50	Charlie Simmons
-dbl_004_person_51	Linda Barton
-dbl_004_person_52	Trump
-dbl_004_person_53	John Kemeny
-dbl_004_person_54	Linda Barton
-dbl_004_person_55	Linda Barton
-dbl_004_person_56	President Hanlon
-dbl_004_person_57	Phil
-dbl_004_person_58	Willie Mays
-dbl_004_person_59	Hank Aaron
-dbl_004_person_60	Billie Jean King
-dbl_004_person_61	Nels
-dbl_004_person_62	Nelson Armstrong
-dbl_004_person_63	Forester Lee
-dbl_004_person_64	Woody Lee
-dbl_004_person_65	Caleb Watt
-dbl_004_person_66	Nelson
+id	persName	QID	dvp_id
+dbl_004_person_0	Liana Laremont	Q115024980	
+dbl_004_person_1	Nelson Armstrong	Q114647430	
+dbl_004_person_2	Nelson Armstrong	Q114647430	
+dbl_004_person_3	Fred Armstrong	Q115025907	
+dbl_004_person_4	Carissa Armstrong	Q115026363	
+dbl_004_person_5	George Washington	Q23	
+dbl_004_person_6	Booker T. Washington	Q319871	
+dbl_004_person_7	Booker T. Washington	Q319871	
+dbl_004_person_8	Booker T. Washington	Q319871	
+dbl_004_person_9	Collis Potter Huntington	Q1109882	
+dbl_004_person_10	Nelson Armstrong	Q114647430	
+dbl_004_person_11	Mamie Bacote	Q115025054	
+dbl_004_person_12	Anthony Harley	Q4772669	
+dbl_004_person_13	Nelson Armstrong	Q114647430	
+dbl_004_person_14	Nelson Armstrong	Q114647430	
+dbl_004_person_15	Nelson Armstrong	Q114647430	
+dbl_004_person_16	Nelson Armstrong	Q114647430	
+dbl_004_person_17	Nelson Armstrong	Q114647430	
+dbl_004_person_18	Forester Lee	Q115025001	
+dbl_004_person_19	Forester Lee	Q115025001	
+dbl_004_person_20	James Hutcherson	Q115025081	
+dbl_004_person_21	James Hutcherson	Q115025081	
+dbl_004_person_22	James Hutcherson	Q115025081	
+dbl_004_person_23	James Hutcherson	Q115025081	
+dbl_004_person_24	Nelson Armstrong	Q114647430	
+dbl_004_person_25	Forester Lee	Q115025001	
+dbl_004_person_26	Forester Lee	Q115025001	
+dbl_004_person_27	Ernest Everett Just	Q724591	
+dbl_004_person_28	Ernest Everett Just	Q724591	
+dbl_004_person_29	William Shockley	Q163415	
+dbl_004_person_30	William McCurine	Q114648071	
+dbl_004_person_31	Willie Bogan	Q114647610	
+dbl_004_person_32	Jesse Spikes	Q6186863	
+dbl_004_person_33	Caleb Watt	Q115025128	
+dbl_004_person_34	Caleb Watt	Q115025128	
+dbl_004_person_35	Caleb Watt	Q115025128	
+dbl_004_person_36	Caleb Watt	Q115025128	
+dbl_004_person_37	Caleb Watt	Q115025128	
+dbl_004_person_38	Nelson Armstrong	Q114647430	
+dbl_004_person_39	Nelson Armstrong	Q114647430	
+dbl_004_person_40	Nelson Armstrong	Q114647430	
+dbl_004_person_41	Thomas Parker	Q115025162	
+dbl_004_person_42	Nelson Armstrong	Q114647430	
+dbl_004_person_43	John Rassias	Q6254272	
+dbl_004_person_44	Dean Schaefer		
+dbl_004_person_45	Dean Ralph N. Manuel	Q115025365	
+dbl_004_person_46	Dean Schaefer		
+dbl_004_person_47	Dean Ralph N. Manuel	Q115025365	
+dbl_004_person_48	Nelson Armstrong	Q114647430	
+dbl_004_person_49	Nelson Armstrong	Q114647430	
+dbl_004_person_50	Charlie Simmons	Q115025770	
+dbl_004_person_51	Linda Barton	Q115025654	
+dbl_004_person_52	Donald Trump	Q22686	
+dbl_004_person_53	John George Kemeny	Q28900	
+dbl_004_person_54	Linda Barton	Q115025654	
+dbl_004_person_55	Linda Barton	Q115025654	
+dbl_004_person_56	Philip J. Hanlon	Q7183819	
+dbl_004_person_57	Philip J. Hanlon	Q7183819	
+dbl_004_person_58	Willie Mays	Q561852	
+dbl_004_person_59	Hank Aaron	Q215777	
+dbl_004_person_60	Billie Jean King	Q54527	
+dbl_004_person_61	Nelson Armstrong	Q114647430	
+dbl_004_person_62	Nelson Armstrong	Q114647430	
+dbl_004_person_63	Forester Lee	Q115025001	
+dbl_004_person_64	Forester Lee	Q115025001	
+dbl_004_person_65	Caleb Watt	Q115025128	
+dbl_004_person_66	Nelson Armstrong	Q114647430	
