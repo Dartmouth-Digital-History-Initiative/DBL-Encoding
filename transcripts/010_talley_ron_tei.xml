@@ -1,5 +1,5 @@
 <!--<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dbl_010">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,12 +12,13 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">dbl_010</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
           <recording xml:id="primary_recording" type="audio" dur-iso="02:10:26">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/talley_ron/talley_ron.mp3" mimeType="MIMEaudio/wav"/>
+            <media url="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/talley_ron/talley_ron.mp3" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
