@@ -1,119 +1,119 @@
-id	orgName
-dbl_003_org_0	the Shabazz Center
-dbl_003_org_1	the Dartmouth Black Lives Oral History Project
-dbl_003_org_2	Wingate High School
-dbl_003_org_3	Wingate High School
-dbl_003_org_4	Dartmouth
-dbl_003_org_5	Dartmouth
-dbl_003_org_6	Smith
-dbl_003_org_7	Holyoke
-dbl_003_org_8	Rutgers
-dbl_003_org_9	Dartmouth
-dbl_003_org_10	Dartmouth
-dbl_003_org_11	Ivy League
-dbl_003_org_12	Dartmouth
-dbl_003_org_13	Alphas
-dbl_003_org_14	Dartmouth
-dbl_003_org_15	Dartmouth
-dbl_003_org_16	the African American Society
-dbl_003_org_17	AAM
-dbl_003_org_18	Dartmouth
-dbl_003_org_19	AAM
-dbl_003_org_20	AAM
-dbl_003_org_21	 Black Alumni of Dartmouth Association
-dbl_003_org_22	Dartmouth
-dbl_003_org_23	Dartmouth
-dbl_003_org_24	Blacks and Black
-dbl_003_org_25	AAM
-dbl_003_org_26	Dartmouth
-dbl_003_org_27	College
-dbl_003_org_28	College
-dbl_003_org_29	AAM
-dbl_003_org_30	Dartmouth Association
-dbl_003_org_31	Dartmouth
-dbl_003_org_32	College
-dbl_003_org_33	Dartmouth
-dbl_003_org_34	Alphas
-dbl_003_org_35	Dartmouth
-dbl_003_org_36	Dartmouth
-dbl_003_org_37	Alpha
-dbl_003_org_38	Dartmouth
-dbl_003_org_39	AKAs
-dbl_003_org_40	Howard University
-dbl_003_org_41	Dartmouth
-dbl_003_org_42	Ivy League
-dbl_003_org_43	Black Alumni of Dartmouth
-dbl_003_org_44	Dartmouth
-dbl_003_org_45	Dartmouth
-dbl_003_org_46	Dartmouth
-dbl_003_org_47	the Praxis 
-dbl_003_org_48	College
-dbl_003_org_49	Dartmouth
-dbl_003_org_50	Dartmouth
-dbl_003_org_51	Dartmouth
-dbl_003_org_52	Dartmouth
-dbl_003_org_53	Dartmouth
-dbl_003_org_54	Dartmouth
-dbl_003_org_55	the Black Alumni of Dartmouth
-dbl_003_org_56	Dartmouth
-dbl_003_org_57	Dartmouth
-dbl_003_org_58	College
-dbl_003_org_59	the McLane Report
-dbl_003_org_60	the McLane Report
-dbl_003_org_61	College
-dbl_003_org_62	College
-dbl_003_org_63	Dartmouth
-dbl_003_org_64	Dartmouth
-dbl_003_org_65	Dartmouth
-dbl_003_org_66	BADA
-dbl_003_org_67	Dartmouth
-dbl_003_org_68	Dartmouth
-dbl_003_org_69	College
-dbl_003_org_70	Praxis
-dbl_003_org_71	The Dartmouth 
-dbl_003_org_72	Dartmouth
-dbl_003_org_73	Dartmouth
-dbl_003_org_74	Dartmouth
-dbl_003_org_75	UCSD
-dbl_003_org_76	Pace Institute
-dbl_003_org_77	Cook County Jail
-dbl_003_org_78	Dartmouth
-dbl_003_org_79	Dartmouth
-dbl_003_org_80	Dartmouth
-dbl_003_org_81	the College Committee of Standing and Conduct
-dbl_003_org_82	Dartmouth
-dbl_003_org_83	Temple
-dbl_003_org_84	Black alumni of Dartmouth
-dbl_003_org_85	Black Praxis
-dbl_003_org_86	Black Alumni of Dartmouth
-dbl_003_org_87	the Black Alumni of Dartmouth
-dbl_003_org_88	the African American Society
-dbl_003_org_89	the Black Alumni of Dartmouth Association
-dbl_003_org_90	BADA
-dbl_003_org_91	2022
-dbl_003_org_92	Black Praxis
-dbl_003_org_93	Dartmouth
-dbl_003_org_94	United Airlines
-dbl_003_org_95	Dartmouth
-dbl_003_org_96	Dartmouth
-dbl_003_org_97	United Airlines
-dbl_003_org_98	Dartmouth
-dbl_003_org_99	Dartmouth
-dbl_003_org_100	UCSD
-dbl_003_org_101	UCSD
-dbl_003_org_102	Pace Institute
-dbl_003_org_103	United Airlines
-dbl_003_org_104	US Airways
-dbl_003_org_105	United
-dbl_003_org_106	United
-dbl_003_org_107	Prince George’s arts and humanities council
-dbl_003_org_108	Dartmouth
-dbl_003_org_109	Dartmouth
-dbl_003_org_110	Dartmouth
-dbl_003_org_111	College
-dbl_003_org_112	Dartmouth
-dbl_003_org_113	 Black Alumni of Dartmouth organization
-dbl_003_org_114	Black Alumni of Dartmouth
-dbl_003_org_115	Dartmouth
-dbl_003_org_116	Dartmouth
-dbl_003_org_117	College
+id	orgName	QID	dbl_id
+dbl_003_org_0	El-Hajj Malik El-Shabazz Center	Q104931609	
+dbl_003_org_1	Dartmouth Black Lives	Q114647391	
+dbl_003_org_2	Wingate High School	Q107645993	
+dbl_003_org_3	Wingate High School	Q107645993	
+dbl_003_org_4	Dartmouth College	Q49116	
+dbl_003_org_5	Dartmouth College	Q49116	
+dbl_003_org_6	Smith College	Q49204	
+dbl_003_org_7	Mount Holyoke College	Q1140542	
+dbl_003_org_8	Rutgers University	Q499451	
+dbl_003_org_9	Dartmouth College	Q49116	
+dbl_003_org_10	Dartmouth College	Q49116	
+dbl_003_org_11	Ivy League	Q49113	
+dbl_003_org_12	Dartmouth College	Q49116	
+dbl_003_org_13	Alpha Phi Alpha	Q2839513	
+dbl_003_org_14	Dartmouth College	Q49116	
+dbl_003_org_15	Dartmouth College	Q49116	
+dbl_003_org_16	Dartmouth African American Association	Q115027403	
+dbl_003_org_17	Dartmouth African American Association	Q115027403	
+dbl_003_org_18	Dartmouth College	Q49116	
+dbl_003_org_19	Dartmouth African American Association	Q115027403	
+dbl_003_org_20	Dartmouth African American Association	Q115027403	
+dbl_003_org_21	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_22	Dartmouth College	Q49116	
+dbl_003_org_23	Dartmouth College	Q49116	
+dbl_003_org_24	Blacks and Black		
+dbl_003_org_25	Dartmouth African American Association	Q115027403	
+dbl_003_org_26	Dartmouth College	Q49116	
+dbl_003_org_27	Dartmouth College	Q49116	
+dbl_003_org_28	Dartmouth College	Q49116	
+dbl_003_org_29	Dartmouth African American Association	Q115027403	
+dbl_003_org_30	Dartmouth African American Association	Q115027403	
+dbl_003_org_31	Dartmouth College	Q49116	
+dbl_003_org_32	Dartmouth College	Q49116	
+dbl_003_org_33	Dartmouth College	Q49116	
+dbl_003_org_34	Alpha Phi Alpha	Q2839513	
+dbl_003_org_35	Dartmouth College	Q49116	
+dbl_003_org_36	Dartmouth College	Q49116	
+dbl_003_org_37	Alpha Kappa Alpha	Q3308284	
+dbl_003_org_38	Dartmouth College	Q49116	
+dbl_003_org_39	Alpha Kappa Alpha	Q3308284	
+dbl_003_org_40	Howard University	Q1068752	
+dbl_003_org_41	Dartmouth College	Q49116	
+dbl_003_org_42	Ivy League	Q49113	
+dbl_003_org_43	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_44	Dartmouth College	Q49116	
+dbl_003_org_45	Dartmouth College	Q49116	
+dbl_003_org_46	Dartmouth College	Q49116	
+dbl_003_org_47	Dartmouth Black Praxis	Q115027533	
+dbl_003_org_48	Dartmouth College	Q49116	
+dbl_003_org_49	Dartmouth College	Q49116	
+dbl_003_org_50	Dartmouth College	Q49116	
+dbl_003_org_51	Dartmouth College	Q49116	
+dbl_003_org_52	Dartmouth College	Q49116	
+dbl_003_org_53	Dartmouth College	Q49116	
+dbl_003_org_54	Dartmouth College	Q49116	
+dbl_003_org_55	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_56	Dartmouth College	Q49116	
+dbl_003_org_57	Dartmouth College	Q49116	
+dbl_003_org_58	Dartmouth College	Q49116	
+dbl_003_org_59	the McLane Report		
+dbl_003_org_60	the McLane Report		
+dbl_003_org_61	Dartmouth College	Q49116	
+dbl_003_org_62	Dartmouth College	Q49116	
+dbl_003_org_63	Dartmouth College	Q49116	
+dbl_003_org_64	Dartmouth College	Q49116	
+dbl_003_org_65	Dartmouth College	Q49116	
+dbl_003_org_66	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_67	Dartmouth College	Q49116	
+dbl_003_org_68	Dartmouth College	Q49116	
+dbl_003_org_69	Dartmouth College	Q49116	
+dbl_003_org_70	Dartmouth Black Praxis	Q115027533	
+dbl_003_org_71	The Dartmouth	Q7729068	
+dbl_003_org_72	Dartmouth College	Q49116	
+dbl_003_org_73	Dartmouth College	Q49116	
+dbl_003_org_74	Dartmouth College	Q49116	
+dbl_003_org_75	University of California, San Diego	Q622664	
+dbl_003_org_76	Pace Institute Cook County Jail	Q115041250	
+dbl_003_org_77	Cook County Jail	Q5166904	
+dbl_003_org_78	Dartmouth College	Q49116	
+dbl_003_org_79	Dartmouth College	Q49116	
+dbl_003_org_80	Dartmouth College	Q49116	
+dbl_003_org_81	Dartmouth College Committee of Standards	Q115044607	
+dbl_003_org_82	Dartmouth College	Q49116	
+dbl_003_org_83	Temple University	Q1420239	
+dbl_003_org_84	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_85	Black Praxis	Q115027533	
+dbl_003_org_86	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_87	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_88	Dartmouth African American Association	Q115027403	
+dbl_003_org_89	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_90	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_91	2022		
+dbl_003_org_92	Black Praxis	Q115027533	
+dbl_003_org_93	Dartmouth College	Q49116	
+dbl_003_org_94	United Airlines	Q174769	
+dbl_003_org_95	Dartmouth College	Q49116	
+dbl_003_org_96	Dartmouth College	Q49116	
+dbl_003_org_97	United Airlines	Q174769	
+dbl_003_org_98	Dartmouth College	Q49116	
+dbl_003_org_99	Dartmouth College	Q49116	
+dbl_003_org_100	University of California, San Diego	Q622664	
+dbl_003_org_101	University of California, San Diego	Q622664	
+dbl_003_org_102	Pace Institute Cook County Jail	Q115041250	
+dbl_003_org_103	United Airlines	Q174769	
+dbl_003_org_104	US Airways	Q208046	
+dbl_003_org_105	United Airlines	Q174769	
+dbl_003_org_106	United Airlines	Q174769	
+dbl_003_org_107	Prince George Arts and Humanities Council	Q115044758	
+dbl_003_org_108	Dartmouth College	Q49116	
+dbl_003_org_109	Dartmouth College	Q49116	
+dbl_003_org_110	Dartmouth College	Q49116	
+dbl_003_org_111	Dartmouth College	Q49116	
+dbl_003_org_112	Dartmouth College	Q49116	
+dbl_003_org_113	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_114	Black Alumni of Dartmouth Association	Q115010917	
+dbl_003_org_115	Dartmouth College	Q49116	
+dbl_003_org_116	Dartmouth College	Q49116	
+dbl_003_org_117	Dartmouth College	Q49116	
