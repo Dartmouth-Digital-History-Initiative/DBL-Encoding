@@ -1,65 +1,65 @@
-id	placeName
-dbl_001_place_0	Maxwell apartments
-dbl_001_place_1	Dartmouth College
-dbl_001_place_2	Hanover, New Hampshire
-dbl_001_place_3	Oakland, California
-dbl_001_place_4	Rochester, New York
-dbl_001_place_5	Rochester, New York
-dbl_001_place_6	Atlanta, Georgia
-dbl_001_place_7	Atlanta
-dbl_001_place_8	the University of Rochester Medical Center
-dbl_001_place_9	Rochester, New York
-dbl_001_place_10	Rochester, New York
-dbl_001_place_11	James Madison High School
-dbl_001_place_12	James Madison High School
-dbl_001_place_13	Hanover, New Hampshire
-dbl_001_place_14	Rochester
-dbl_001_place_15	Seattle, Washington
-dbl_001_place_16	New York
-dbl_001_place_17	Hanover
-dbl_001_place_18	New Hampshire
-dbl_001_place_19	Canada
-dbl_001_place_20	Hanover
-dbl_001_place_21	Hanover
-dbl_001_place_22	Hanover
-dbl_001_place_23	Hanover
-dbl_001_place_24	Vermont
-dbl_001_place_25	Boston
-dbl_001_place_26	Boston
-dbl_001_place_27	Lord Hall
-dbl_001_place_28	El Hajj Malik El Shabazz Temple
-dbl_001_place_29	Lord Hall
-dbl_001_place_30	temple
-dbl_001_place_31	Shabazz
-dbl_001_place_32	Rauner [Special Collections Library]
-dbl_001_place_33	Shabazz
-dbl_001_place_34	Shabazz
-dbl_001_place_35	Shabazz
-dbl_001_place_36	Chicago
-dbl_001_place_37	Chicago
-dbl_001_place_38	Chicago
-dbl_001_place_39	El Hajj Malik El Shabazz Center
-dbl_001_place_40	Chicago
-dbl_001_place_41	El Hajj Malik El Shabazz Temple
-dbl_001_place_42	Chicago
-dbl_001_place_43	Chicago
-dbl_001_place_44	Chicago
-dbl_001_place_45	Chicago
-dbl_001_place_46	New York
-dbl_001_place_47	Rochester
-dbl_001_place_48	Chicago
-dbl_001_place_49	Rochester, New York
-dbl_001_place_50	Rauner
-dbl_001_place_51	Shabazz
-dbl_001_place_52	Shabazz
-dbl_001_place_53	Shabazz
-dbl_001_place_54	Shabazz
-dbl_001_place_55	El Hajj Malik El Shabazz Temple
-dbl_001_place_56	Shabazz
-dbl_001_place_57	Shabazz
-dbl_001_place_58	El Hajj Malik El Shabazz Temple
-dbl_001_place_59	the Baker Library
-dbl_001_place_60	El Hajj Malik El Shabazz Temple
-dbl_001_place_61	Orange, New Jersey
-dbl_001_place_62	Shabazz
-dbl_001_place_63	Chicago
+id	placeName	QID	dbl_id	coordinate location
+dbl_001_place_0	River Cluster	Q108887715		43.704013,-72.296405
+dbl_001_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dbl_001_place_2	Hanover	Q131908		43.7,-72.28333333333333
+dbl_001_place_3	Oakland	Q17042		37.8,-122.25
+dbl_001_place_4	Rochester	Q49218		43.165555555556,-77.611388888889
+dbl_001_place_5	Rochester	Q49218		43.165555555556,-77.611388888889
+dbl_001_place_6	Atlanta	Q23556		33.756944444444,-84.390277777778
+dbl_001_place_7	Atlanta	Q23556		33.756944444444,-84.390277777778
+dbl_001_place_8	University of Rochester Medical Center	Q7896217		43.123223,-77.626833
+dbl_001_place_9	Rochester	Q49218		43.165555555556,-77.611388888889
+dbl_001_place_10	Rochester	Q49218		43.165555555556,-77.611388888889
+dbl_001_place_11	James Madison High School		dbl_0009	
+dbl_001_place_12	James Madison High School		dbl_0009	
+dbl_001_place_13	Hanover	Q131908		43.7,-72.28333333333333
+dbl_001_place_14	Rochester	Q49218		43.165555555556,-77.611388888889
+dbl_001_place_15	Seattle	Q5083		47.60621,-122.33207
+dbl_001_place_16	New York	Q1384		43,-75
+dbl_001_place_17	Hanover	Q131908		43.7,-72.28333333333333
+dbl_001_place_18	New Hampshire	Q759		44,-71.5
+dbl_001_place_19	Canada	Q16		56,-109
+dbl_001_place_20	Hanover	Q131908		43.7,-72.28333333333333
+dbl_001_place_21	Hanover	Q131908		43.7,-72.28333333333333
+dbl_001_place_22	Hanover	Q131908		43.7,-72.28333333333333
+dbl_001_place_23	Hanover	Q131908		43.7,-72.28333333333333
+dbl_001_place_24	Vermont	Q16551		44,-72.7
+dbl_001_place_25	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_001_place_26	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_001_place_27	Lord Hall	Q100977616		43.70466,-72.292
+dbl_001_place_28	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_29	Lord Hall	Q100977616		43.70466,-72.292
+dbl_001_place_30	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_31	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_32	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dbl_001_place_33	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_34	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_35	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_36	Chicago	Q1297		41.85003,-87.65005
+dbl_001_place_37	Chicago	Q1297		41.85003,-87.65005
+dbl_001_place_38	Chicago	Q1297		41.85003,-87.65005
+dbl_001_place_39	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_40	Chicago	Q1297		41.85003,-87.65005
+dbl_001_place_41	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_42	Chicago	Q1297		41.85003,-87.65005
+dbl_001_place_43	Chicago	Q1297		41.85003,-87.65005
+dbl_001_place_44	Chicago	Q1297		41.85003,-87.65005
+dbl_001_place_45	Chicago	Q1297		41.85003,-87.65005
+dbl_001_place_46	New York	Q1384		43,-75
+dbl_001_place_47	Rochester	Q49218		43.165555555556,-77.611388888889
+dbl_001_place_48	Chicago	Q1297		41.85003,-87.65005
+dbl_001_place_49	Rochester	Q49218		43.165555555556,-77.611388888889
+dbl_001_place_50	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dbl_001_place_51	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_52	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_53	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_54	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_55	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_56	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_57	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_58	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_59	Baker-Berry Library	Q4849183		43.70545,-72.2887
+dbl_001_place_60	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_61	Orange	Q1087121		40.768,-74.2357
+dbl_001_place_62	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_001_place_63	Chicago	Q1297		41.85003,-87.65005
