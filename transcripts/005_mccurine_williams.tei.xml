@@ -3,7 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
+<<<<<<< Updated upstream
         <title>Transcript of an Interview with a Narrator</title>
+=======
+        <title>Transcript of an Interview with William McCurine</title>
+>>>>>>> Stashed changes
       </titleStmt>
       <publicationStmt>
         <authority>
