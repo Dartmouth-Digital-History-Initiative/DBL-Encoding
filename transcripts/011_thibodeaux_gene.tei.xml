@@ -7,7 +7,7 @@
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Dartmouth Black Lives</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -15,24 +15,24 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+          <recording xml:id="primary_recording" type="audio" dur-iso="1:54:06">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/thibodeaux_gene/thibodeaux_gene.mp3" mimeType="MIMEaudio/wav"/>
+            <media url="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/thibodeaux_gene/thibodeaux_gene.mp3" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Junelle Matthias</persName>
+            <orgName>Dartmouth Black Lives</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/thibodeaux_gene/thibodeaux_gene_transcript_final.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Black Lives Project</p>
+        <p>Dartmouth Black Lives</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -217,7 +217,7 @@
       <u who="THIBODEAUX">The trial judge ruled against this guy. He said in his ruling, that “I don't believe Mr. Thomas because he had to be subpoenaed to come the <orgName>Court</orgName>.” That's normal. And “I don't believe Mr. Williams, because he's on government assistance, that’s welfare”. Both of these guys were poor. So he ruled against them. When it comes to us on appeal is very difficult to overcome those credibility determinations. It’s hard, you are not there. You are reading a cold record on appeal. Black words on white Paper.The captain of that boat testified, and the first mate testified and the trial judge believed the captain and the first mate. I know, coming from <placeName>Louisiana</placeName> and coming from not very far from <placeName>the Gulf of Mexico</placeName>, that on a fishing boat always the captain is white. Always the first mate is white. Always the workers are Black. So what happened was he really believed the white captain and first mate because of their race and disbelieved the Black witnesses. So, we overturned on appeal because it wasn’t in the record, but I know that from my experience, and this is the fair thing to do.My experience taught me that, and from a criminal standpoint as a judge I knew pretty much that given what happened, this is an excessive sentence for what happened. So how do you correct them? You find creative ways to correct that sort of thing.</u>
       <u who="THIBODEAUX">In a worker’s compensation area, my dad work as a common laborer. You miss one check and you're in trouble. You lived from one check, one payday to the other, so I was very conscious of workers compensation cases and workers compensation injuries. I was very conscious and very aware that sometimes insurance companies will not do the right thing. My wife is a <orgName>State Farm</orgName> insurance agent and we don't talk too much about those things. So I am aware that people who are injured will work while injured because they can't afford to miss a check. I am also aware that how important this area of the law is. I was very sympathetic to that area of law because I knew my dad was a laborer. He worked with his hands every day. We can't afford to miss a check. So, I was not very sympathetic to those employers and those insurance companies that refused or failed to pay the appropriate workers compensation benefits. Those are things that I brought to the bench because of my experiences at <orgName>Dartmouth</orgName> and because of my experiences as a practicing attorney for 17 years before I became a judge.</u>
       <u who="MATTHIAS">Speaking of <orgName>Dartmouth</orgName>, how would you describe the <orgName>Title IX office</orgName>?</u>
-      <u who="THIBODEAUX">Well, we have very little interaction because remember this was <date when="1967">1967</date> through <date when="1971">1971</date> and <orgName>Title IX</orgName> was almost nonexistent. Women assault. What are you talking about? Should be in a home ec class. Softball no. Basketball no. We didn't have those programs those programs existed <persName>Junelle</persName> after I left the <orgName>Dartmouth</orgName>. And I think, it makes them a more inclusive society. It makes much more for a normal society to have those <orgName>Title IX</orgName> programs and, of course, in these times because of the pandemic those things were challenged because of schools. The incomes of schools are not as they were before, and the net limit of those orders are greater than they were. So something's got to give. So what do you do? You give women's tennis that doesn't generate a whole bunch of money, do you give up women's soccer? Do you give up women softball? Because those are not income generating. Those are not revenue streams and you keep men's football and basketball? Where’s the balance? Because of <orgName>Title IX</orgName> you're going to be very careful about those things.They're going to have equity and they going to have parody. And so college administrators, private employers have to be very conscious of those things as well. So I think that was a really great addition. There wasn’t a <persName>James Brown</persName> saying it’s a man world now. Not anymore.</u>
+      <u who="THIBODEAUX">Well, we have very little interaction because remember this was <date when="1967">1967</date> through <date when="1971">1971</date> and Title IX was almost nonexistent. Women assault. What are you talking about? Should be in a home ec class. Softball no. Basketball no. We didn't have those programs those programs existed <persName>Junelle</persName> after I left the <orgName>Dartmouth</orgName>. And I think, it makes them a more inclusive society. It makes much more for a normal society to have those Title IX programs and, of course, in these times because of the pandemic those things were challenged because of schools. The incomes of schools are not as they were before, and the net limit of those orders are greater than they were. So something's got to give. So what do you do? You give women's tennis that doesn't generate a whole bunch of money, do you give up women's soccer? Do you give up women softball? Because those are not income generating. Those are not revenue streams and you keep men's football and basketball? Where’s the balance? Because of Title IX you're going to be very careful about those things.They're going to have equity and they going to have parody. And so college administrators, private employers have to be very conscious of those things as well. So I think that was a really great addition. There wasn’t a <persName>James Brown</persName> saying it’s a man world now. Not anymore.</u>
       <u who="MATTHIAS">Speaking of you mentioned that you met your wife, your wife is from <orgName>Xavier</orgName>. How did you meet?</u>
       <u who="THIBODEAUX">I was practicing law here in <placeName>Lake Charles</placeName> and she was working as an engineer for the phone company. It was a cold day, unusual for <placeName>Louisiana</placeName>, and so my law partner saw her and offered inside for a cup of coffee. He said I’ve got someone that you need to meet and he introduced us that day. She came in for a cup of coffee and I drank a cup of coffee. I was not a coffee drinker. It made me sick. [laughter] But it was it was a good sickness and I was feeling badly because of my allergies. Within the next couple of nights we had a date, even though I wasn't feeling well. It was just fortuitous that she was planning fiber optics around my law office on a cold winter day and my law partner decided to introduce her to me, under the guise of coming in for a cup of coffee because it's a cold day.</u>
       <u who="MATTHIAS">How was that dynamic like — </u>
