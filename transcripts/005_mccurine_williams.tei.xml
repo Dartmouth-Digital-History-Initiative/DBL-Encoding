@@ -1,8 +1,9 @@
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dbl_005">
   <teiHeader>
     <fileDesc>
       <titleStmt>
+        <title>Transcript of an Interview with William McCurine</title>
       </titleStmt>
       <publicationStmt>
         <authority>
@@ -11,6 +12,7 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">dbl_005</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
