@@ -1,4 +1,4 @@
-id	placeName	QID	dvp_id	coordinate location
+id	placeName	QID	dbl_id	coordinate location
 dbl_005_place_0	Boston	Q100		42.360277777777775,-71.05777777777777
 dbl_005_place_1	San Diego	Q16552		32.715,-117.1625
 dbl_005_place_2	Chicago	Q1297		41.85003,-87.65005
