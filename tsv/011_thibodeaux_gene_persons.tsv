@@ -1,84 +1,84 @@
-id	persName
-dbl_011_person_0	Junelle Matthias
-dbl_011_person_1	Gene Thibodeaux
-dbl_011_person_2	Gene
-dbl_011_person_3	Lake Charles
-dbl_011_person_4	Junelle
-dbl_011_person_5	William Shockley
-dbl_011_person_6	Molly Ford
-dbl_011_person_7	Dr Renatus Hartogs
-dbl_011_person_8	the William Douglass
-dbl_011_person_9	Frederick Douglass
-dbl_011_person_10	Amiri Baraka
-dbl_011_person_11	Angela Davis
-dbl_011_person_12	James Baldwin
-dbl_011_person_13	Ralph Ellison
-dbl_011_person_14	Martin Luther king 
-dbl_011_person_15	[Forrester] Woody Lee
-dbl_011_person_16	Frank Watkins
-dbl_011_person_17	Martin Luther King
-dbl_011_person_18	Thibodeaux
-dbl_011_person_19	Junelle
-dbl_011_person_20	Martin Luther King
-dbl_011_person_21	Frank Watkins [‘71]
-dbl_011_person_22	a Dr Watkins
-dbl_011_person_23	Frank
-dbl_011_person_24	Junelle
-dbl_011_person_25	Junelle
-dbl_011_person_26	Meryl Streep
-dbl_011_person_27	Meryl Streep
-dbl_011_person_28	Junelle
-dbl_011_person_29	Woody Lee
-dbl_011_person_30	Junelle
-dbl_011_person_31	Percy Wiggins
-dbl_011_person_32	Percy
-dbl_011_person_33	Henry Crumpton [class of ‘73]
-dbl_011_person_34	Junelle
-dbl_011_person_35	Frank Smallwood
-dbl_011_person_36	Smallwood
-dbl_011_person_37	Gene
-dbl_011_person_38	Nixon
-dbl_011_person_39	Sullivan [Leon Sullivan
-dbl_011_person_40	Sullivan
-dbl_011_person_41	Junelle Matthias
-dbl_011_person_42	Lebron James
-dbl_011_person_43	Nina Simone
-dbl_011_person_44	Aretha Franklin
-dbl_011_person_45	James Brown
-dbl_011_person_46	Frank
-dbl_011_person_47	James Brown
-dbl_011_person_48	Willie Ruff
-dbl_011_person_49	Dwike Mitchell
-dbl_011_person_50	Dizzy Gillespie
-dbl_011_person_51	Dizzy
-dbl_011_person_52	Smokey Robinson
-dbl_011_person_53	Snoop Doggy Dogg
-dbl_011_person_54	Wynton Marsalis
-dbl_011_person_55	John Coltrane
-dbl_011_person_56	Miles Davis
-dbl_011_person_57	Jimmy Smith
-dbl_011_person_58	Nestor Young
-dbl_011_person_59	Ella Fitzgerald
-dbl_011_person_60	Wynton Marsalis
-dbl_011_person_61	Kenny G
-dbl_011_person_62	[Charles]Mingus
-dbl_011_person_63	Davis
-dbl_011_person_64	the Kenny G
-dbl_011_person_65	Drake
-dbl_011_person_66	Lil Wayne
-dbl_011_person_67	Aretha Franklin
-dbl_011_person_68	Peter Lance [class of 71]
-dbl_011_person_69	Peter
-dbl_011_person_70	Peter
-dbl_011_person_71	Peter Lance
-dbl_011_person_72	Junelle
-dbl_011_person_73	Obama
-dbl_011_person_74	Jack Greenberg
-dbl_011_person_75	Thurgood Marshall
-dbl_011_person_76	Reagan
-dbl_011_person_77	Junelle
-dbl_011_person_78	Junelle
-dbl_011_person_79	James Brown
-dbl_011_person_80	Frederick Douglass
-dbl_011_person_81	Booker T Washington
-dbl_011_person_82	Junelle
+id	persName	QID	dbl_id
+dbl_011_person_0	Junelle Matthias	Q115042329	
+dbl_011_person_1	Ulysses Gene Thibodeaux	Q114648307	
+dbl_011_person_2	Ulysses Gene Thibodeaux	Q114648307	
+dbl_011_person_3	Lake Charles		
+dbl_011_person_4	Junelle Matthias	Q115042329	
+dbl_011_person_5	William Shockley	Q163415	
+dbl_011_person_6	Molly Ford		
+dbl_011_person_7	Dr Renatus Hartogs		
+dbl_011_person_8	William Douglass	Q8007956	
+dbl_011_person_9	Frederick Douglass	Q215562	
+dbl_011_person_10	Amiri Baraka	Q354783	
+dbl_011_person_11	Angela Davis	Q160456	
+dbl_011_person_12	James Baldwin	Q273210	
+dbl_011_person_13	Ralph Ellison	Q299965	
+dbl_011_person_14	Martin Luther King Jr.	Q8027	
+dbl_011_person_15	[Forrester] Woody Lee		
+dbl_011_person_16	Frank Watkins		
+dbl_011_person_17	Martin Luther King Jr.	Q8027	
+dbl_011_person_18	Ulysses Gene Thibodeaux	Q114648307	
+dbl_011_person_19	Junelle Matthias	Q115042329	
+dbl_011_person_20	Martin Luther King Jr.	Q8027	
+dbl_011_person_21	Frank Watkins [‘71]		
+dbl_011_person_22	a Dr Watkins		
+dbl_011_person_23	Frank		
+dbl_011_person_24	Junelle Matthias	Q115042329	
+dbl_011_person_25	Junelle Matthias	Q115042329	
+dbl_011_person_26	Meryl Streep	Q873	
+dbl_011_person_27	Meryl Streep	Q873	
+dbl_011_person_28	Junelle Matthias	Q115042329	
+dbl_011_person_29	Woody Lee	Q8033682	
+dbl_011_person_30	Junelle Matthias	Q115042329	
+dbl_011_person_31	Percy Wiggins		
+dbl_011_person_32	Percy		
+dbl_011_person_33	Henry Crumpton [class of ‘73]		
+dbl_011_person_34	Junelle Matthias	Q115042329	
+dbl_011_person_35	Franklin Smallwood	Q108028729	
+dbl_011_person_36	Franklin Smallwood	Q108028729	
+dbl_011_person_37	Ulysses Gene Thibodeaux	Q114648307	
+dbl_011_person_38	Richard Nixon	Q9588	
+dbl_011_person_39	Leon Sullivan	Q2460277	
+dbl_011_person_40	Ed Sullivan	Q83807	
+dbl_011_person_41	Junelle Matthias	Q115042329	
+dbl_011_person_42	LeBron James	Q36159	
+dbl_011_person_43	Nina Simone	Q174957	
+dbl_011_person_44	Aretha Franklin	Q125121	
+dbl_011_person_45	James Brown	Q5950	
+dbl_011_person_46	Frank		
+dbl_011_person_47	James Brown	Q5950	
+dbl_011_person_48	Willie Ruff	Q2581484	
+dbl_011_person_49	Dwike Mitchell	Q11465926	
+dbl_011_person_50	Dizzy Gillespie	Q49575	
+dbl_011_person_51	Dizzy Gillespie	Q49575	
+dbl_011_person_52	Smokey Robinson	Q310332	
+dbl_011_person_53	Snoop Dogg	Q6096	
+dbl_011_person_54	Wynton Marsalis	Q273076	
+dbl_011_person_55	John Coltrane	Q7346	
+dbl_011_person_56	Miles Davis	Q93341	
+dbl_011_person_57	Jimmy Smith	Q318948	
+dbl_011_person_58	Lester Young	Q110714	
+dbl_011_person_59	Ella Fitzgerald	Q1768	
+dbl_011_person_60	Wynton Marsalis	Q273076	
+dbl_011_person_61	Kenny G	Q295777	
+dbl_011_person_62	Charles Mingus	Q107432	
+dbl_011_person_63	Miles Davis	Q93341	
+dbl_011_person_64	Kenny G	Q295777	
+dbl_011_person_65	Drake	Q33240	
+dbl_011_person_66	Lil Wayne	Q15615	
+dbl_011_person_67	Aretha Franklin	Q125121	
+dbl_011_person_68	Peter Lance [class of 71]		
+dbl_011_person_69	Peter		
+dbl_011_person_70	Peter		
+dbl_011_person_71	Peter Lance	Q7175346	
+dbl_011_person_72	Junelle Matthias	Q115042329	
+dbl_011_person_73	Barack Obama	Q76	
+dbl_011_person_74	Jack Greenberg	Q6112800	
+dbl_011_person_75	Thurgood Marshall	Q312348	
+dbl_011_person_76	Ronald Reagan	Q9960	
+dbl_011_person_77	Junelle Matthias	Q115042329	
+dbl_011_person_78	Junelle Matthias	Q115042329	
+dbl_011_person_79	James Brown	Q5950	
+dbl_011_person_80	Frederick Douglass	Q215562	
+dbl_011_person_81	Booker T. Washington	Q319871	
+dbl_011_person_82	Junelle Matthias	Q115042329	
