@@ -1,4 +1,4 @@
-id	orgName	QID	dvp_id
+id	orgName	QID	dbl_id
 dbl_005_org_0	Dartmouth Black Lives	Q114647391	
 dbl_005_org_1	Chicago Housing Authority	Q5095647	
 dbl_005_org_2	Railroad Retirement Board	Q7284074	
@@ -92,7 +92,6 @@ dbl_005_org_89	Afro-American Society at Dartmouth College	Q114879775
 dbl_005_org_90	Dartmouth College	Q49116	
 dbl_005_org_91	Dartmouth College	Q49116	
 dbl_005_org_92	Dartmouth College	Q49116	
-dbl_005_org_93	The Beatles	Q1299	
 dbl_005_org_94	Sigma Alpha Epsilon	Q7512272	
 dbl_005_org_95	Afro-American Society at Dartmouth College	Q114879775	
 dbl_005_org_96	Dartmouth College	Q49116	
@@ -110,11 +109,6 @@ dbl_005_org_107	Black Panther Party	Q189150
 dbl_005_org_108	US Organization	Q7875913	
 dbl_005_org_109	Student Nonviolent Coordinating Committee	Q127723	
 dbl_005_org_110	Dartmouth College	Q49116	
-dbl_005_org_111	The Temptations	Q846373	
-dbl_005_org_112	Four Tops	Q653480	
-dbl_005_org_113	The Imperials	Q7741553	
-dbl_005_org_114	Martha and the Vandellas	Q1326522	
-dbl_005_org_115	Smokey Robinson & The Miracles	Q47169080	
 dbl_005_org_116	Blackout		
 dbl_005_org_117	Dartmouth College	Q49116	
 dbl_005_org_118	A Better Chance	Q25469497	
