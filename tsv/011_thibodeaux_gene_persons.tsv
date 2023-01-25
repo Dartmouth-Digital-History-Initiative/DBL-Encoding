@@ -5,8 +5,8 @@ dbl_011_person_2	Ulysses Gene Thibodeaux	Q114648307
 dbl_011_person_3	Lake Charles		
 dbl_011_person_4	Junelle Matthias	Q115042329	
 dbl_011_person_5	William Shockley	Q163415	
-dbl_011_person_6	Molly Ford		
-dbl_011_person_7	Dr Renatus Hartogs		
+dbl_011_person_6	Molly Ford	Q116419545	
+dbl_011_person_7	Dr Renatus Hartogs	Q116419580	
 dbl_011_person_8	William Douglass	Q8007956	
 dbl_011_person_9	Frederick Douglass	Q215562	
 dbl_011_person_10	Amiri Baraka	Q354783	
@@ -14,15 +14,15 @@ dbl_011_person_11	Angela Davis	Q160456
 dbl_011_person_12	James Baldwin	Q273210	
 dbl_011_person_13	Ralph Ellison	Q299965	
 dbl_011_person_14	Martin Luther King Jr.	Q8027	
-dbl_011_person_15	[Forrester] Woody Lee		
-dbl_011_person_16	Frank Watkins		
+dbl_011_person_15	[Forrester] Woody Lee	Q116419637	
+dbl_011_person_16	Frank Watkins	Q116419702	
 dbl_011_person_17	Martin Luther King Jr.	Q8027	
 dbl_011_person_18	Ulysses Gene Thibodeaux	Q114648307	
 dbl_011_person_19	Junelle Matthias	Q115042329	
 dbl_011_person_20	Martin Luther King Jr.	Q8027	
-dbl_011_person_21	Frank Watkins [‘71]		
-dbl_011_person_22	a Dr Watkins		
-dbl_011_person_23	Frank		
+dbl_011_person_21	Frank Watkins [‘71]	Q116419702	
+dbl_011_person_22	a Dr Watkins	Q116419702	
+dbl_011_person_23	Frank	Q116419702	
 dbl_011_person_24	Junelle Matthias	Q115042329	
 dbl_011_person_25	Junelle Matthias	Q115042329	
 dbl_011_person_26	Meryl Streep	Q873	
@@ -30,9 +30,9 @@ dbl_011_person_27	Meryl Streep	Q873
 dbl_011_person_28	Junelle Matthias	Q115042329	
 dbl_011_person_29	Woody Lee	Q8033682	
 dbl_011_person_30	Junelle Matthias	Q115042329	
-dbl_011_person_31	Percy Wiggins		
-dbl_011_person_32	Percy		
-dbl_011_person_33	Henry Crumpton [class of ‘73]		
+dbl_011_person_31	Percy Wiggins	Q116419770	
+dbl_011_person_32	Percy	Q116419770	
+dbl_011_person_33	Henry Crumpton [class of ‘73]	Q116419810	
 dbl_011_person_34	Junelle Matthias	Q115042329	
 dbl_011_person_35	Franklin Smallwood	Q108028729	
 dbl_011_person_36	Franklin Smallwood	Q108028729	
@@ -45,7 +45,7 @@ dbl_011_person_42	LeBron James	Q36159
 dbl_011_person_43	Nina Simone	Q174957	
 dbl_011_person_44	Aretha Franklin	Q125121	
 dbl_011_person_45	James Brown	Q5950	
-dbl_011_person_46	Frank		
+dbl_011_person_46	Frank	Q116419702	
 dbl_011_person_47	James Brown	Q5950	
 dbl_011_person_48	Willie Ruff	Q2581484	
 dbl_011_person_49	Dwike Mitchell	Q11465926	
@@ -67,9 +67,9 @@ dbl_011_person_64	Kenny G	Q295777
 dbl_011_person_65	Drake	Q33240	
 dbl_011_person_66	Lil Wayne	Q15615	
 dbl_011_person_67	Aretha Franklin	Q125121	
-dbl_011_person_68	Peter Lance [class of 71]		
-dbl_011_person_69	Peter		
-dbl_011_person_70	Peter		
+dbl_011_person_68	Peter Lance [class of 71]	Q116419830	
+dbl_011_person_69	Peter	Q116419830	
+dbl_011_person_70	Peter	Q116419830	
 dbl_011_person_71	Peter Lance	Q7175346	
 dbl_011_person_72	Junelle Matthias	Q115042329	
 dbl_011_person_73	Barack Obama	Q76	
