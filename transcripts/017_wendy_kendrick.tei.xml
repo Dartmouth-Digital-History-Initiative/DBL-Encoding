@@ -1,5 +1,5 @@
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dbl_017">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,10 +12,11 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">dbl_017</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="01:37">
+          <recording xml:id="primary_recording" type="audio" dur-iso="01:37:00">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="https://course-exhibits.library.dartmouth.edu/s/HIST10_04_21F/item/3197" mimeType="MIMEaudtio/wav"/>
           </recording>
