@@ -1,97 +1,97 @@
-id	placeName
-dbl_005_place_0	Boston, Massachusetts
-dbl_005_place_1	San Diego, California
-dbl_005_place_2	Chicago, Illinois
-dbl_005_place_3	West side of Chicago
-dbl_005_place_4	Chicago
-dbl_005_place_5	Stanton, Tennessee
-dbl_005_place_6	Stanton
-dbl_005_place_7	Tennessee
-dbl_005_place_8	Chicago
-dbl_005_place_9	Chicago
-dbl_005_place_10	West-side of Chicago
-dbl_005_place_11	West-side
-dbl_005_place_12	South Side of Chicago
-dbl_005_place_13	35th and Cottage Grove
-dbl_005_place_14	Wendell Phillips
-dbl_005_place_15	South Side of Chicago
-dbl_005_place_16	North Side of Chicago
-dbl_005_place_17	Chicago
-dbl_005_place_18	West Side
-dbl_005_place_19	North Side
-dbl_005_place_20	Chicago
-dbl_005_place_21	South
-dbl_005_place_22	West
-dbl_005_place_23	South
-dbl_005_place_24	North
-dbl_005_place_25	North-side
-dbl_005_place_26	South Side
-dbl_005_place_27	North Side of Chicago
-dbl_005_place_28	North
-dbl_005_place_29	South Chicago
-dbl_005_place_30	Randolph
-dbl_005_place_31	Randolph Street
-dbl_005_place_32	North Side
-dbl_005_place_33	Miracle Mile
-dbl_005_place_34	Chicago
-dbl_005_place_35	Miracle Mile
-dbl_005_place_36	Chicago
-dbl_005_place_37	Chicago
-dbl_005_place_38	New England
-dbl_005_place_39	Midwest
-dbl_005_place_40	Midwest
-dbl_005_place_41	Midwest
-dbl_005_place_42	Chicago
-dbl_005_place_43	Hanover, New Hampshire
-dbl_005_place_44	Chicago
-dbl_005_place_45	Chicago
-dbl_005_place_46	Hanover
-dbl_005_place_47	Chicago
-dbl_005_place_48	Tower Room
-dbl_005_place_49	Green
-dbl_005_place_50	Casque and Gautlet
-dbl_005_place_51	Hanover Inn
-dbl_005_place_52	student center
-dbl_005_place_53	students center
-dbl_005_place_54	Carson
-dbl_005_place_55	New England
-dbl_005_place_56	Smith
-dbl_005_place_57	Mount Holyoke
-dbl_005_place_58	Afro-Am building
-dbl_005_place_59	Afro-Am building [Referring to 41 College Street, currently the Building for La Casa]
-dbl_005_place_60	Cutter
-dbl_005_place_61	Cutter
-dbl_005_place_62	Hanover ABC house
-dbl_005_place_63	Philadelphia
-dbl_005_place_64	ABC house
-dbl_005_place_65	Manchester, New Hampshire
-dbl_005_place_66	Vietnam
-dbl_005_place_67	Vietnam
-dbl_005_place_68	ABC house
-dbl_005_place_69	Egypt
-dbl_005_place_70	Chicago
-dbl_005_place_71	Chicago
-dbl_005_place_72	Harlem
-dbl_005_place_73	Chicago
-dbl_005_place_74	Hanover, New Hampshire
-dbl_005_place_75	Chicago
-dbl_005_place_76	Vietnam
-dbl_005_place_77	Vietnam
-dbl_005_place_78	Jersey City
-dbl_005_place_79	Jersey City
-dbl_005_place_80	Roxbury
-dbl_005_place_81	Jersey City
-dbl_005_place_82	Hanover, New Hampshire
-dbl_005_place_83	Chicago
-dbl_005_place_84	Chicago
-dbl_005_place_85	Lebanon airport
-dbl_005_place_86	Chicago
-dbl_005_place_87	35th and State
-dbl_005_place_88	Chicago
-dbl_005_place_89	Stateway gardens
-dbl_005_place_90	Dartmouth campus
-dbl_005_place_91	Oxford
-dbl_005_place_92	Chicago
-dbl_005_place_93	Cambridge
-dbl_005_place_94	Boston
-dbl_005_place_95	Agnes
+id	placeName	QID	dbl_id	coordinate location
+dbl_005_place_0	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_005_place_1	San Diego	Q16552		32.715,-117.1625
+dbl_005_place_2	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_3	West Side, Chicago	Q3567445		41.8671,-87.6216
+dbl_005_place_4	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_5	Stanton	Q2190486		35.4625,-89.401388888889
+dbl_005_place_6	Stanton	Q2190486		35.4625,-89.401388888889
+dbl_005_place_7	Tennessee	Q1509		36,-86
+dbl_005_place_8	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_9	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_10	West Side, Chicago	Q3567445		41.8671,-87.6216
+dbl_005_place_11	West Side, Chicago	Q3567445		41.8671,-87.6216
+dbl_005_place_12	South Side	Q3492277		41.8671,-87.6216
+dbl_005_place_13	Cottage Grove	Q2998600		41.780309,-87.605857
+dbl_005_place_14	Wendell Phillips Academy High School	Q7982462		41.8244779,-87.6197727
+dbl_005_place_15	South Side	Q3492277		41.8671,-87.6216
+dbl_005_place_16	North Side	Q3344167		41.9039, 87.6315
+dbl_005_place_17	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_18	West Side, Chicago	Q3567445		41.8671,-87.6216
+dbl_005_place_19	North Side	Q3344167		41.9039, 87.6315
+dbl_005_place_20	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_21	South Side	Q3492277		41.8671,-87.6216
+dbl_005_place_22	West Side, Chicago	Q3567445		41.8671,-87.6216
+dbl_005_place_23	South Side	Q3492277		41.8671,-87.6216
+dbl_005_place_24	North Side	Q3344167		41.9039, 87.6315
+dbl_005_place_25	North Side	Q3344167		41.9039, 87.6315
+dbl_005_place_26	South Side	Q3492277		41.8671,-87.6216
+dbl_005_place_27	North Side	Q3344167		41.9039, 87.6315
+dbl_005_place_28	North Side	Q3344167		41.9039, 87.6315
+dbl_005_place_29	South Chicago	Q3492237		41.74,-87.55
+dbl_005_place_30	Randolph Street	Q7291867		41.88441666666667,-87.64502777777778
+dbl_005_place_31	Randolph Street	Q7291867		41.88441666666667,-87.64502777777778
+dbl_005_place_32	North Side	Q3344167		41.9039, 87.6315
+dbl_005_place_33	Magnificent Mile	Q285218		41.89535,-87.624319444444
+dbl_005_place_34	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_35	Magnificent Mile	Q285218		41.89535,-87.624319444444
+dbl_005_place_36	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_37	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_38	New England	Q18389		44.205555555556,-70.306425
+dbl_005_place_39	Midwestern United States	Q186545		41,-90
+dbl_005_place_40	Midwestern United States	Q186545		41,-90
+dbl_005_place_41	Midwestern United States	Q186545		41,-90
+dbl_005_place_42	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_43	Hanover	Q131908		43.7,-72.28333333333333
+dbl_005_place_44	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_45	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_46	Hanover	Q131908		43.7,-72.28333333333333
+dbl_005_place_47	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_48	Baker Library	Q115184517		43.70514,-72.28867
+dbl_005_place_49	The Green	Q7738117		43.7033,-72.2886
+dbl_005_place_50	Casque and Gauntlet	Q5049130		43.70226,-72.2898
+dbl_005_place_51	The Hanover Public House	Q26483062		51.945524,1.288893
+dbl_005_place_52	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
+dbl_005_place_53	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
+dbl_005_place_54	Carson Hall	Q98605873		43.70578,-72.28905
+dbl_005_place_55	New England	Q18389		44.205555555556,-70.306425
+dbl_005_place_56	Smith College	Q49204		42.3175,-72.6375
+dbl_005_place_57	Mount Holyoke	Q3321866		42.300833333333,-72.586944444444
+dbl_005_place_58	El-Hajj Malik El-Shabazz Center	Q114879775		43.70678140394604,-72.2898819546128
+dbl_005_place_59	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_005_place_60	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_005_place_61	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_005_place_62	Hanover ABC house			41.9039, 87.6315
+dbl_005_place_63	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dbl_005_place_64	ABC House	Q61747277		23.8610762,90.363965
+dbl_005_place_65	Manchester	Q48370		42.990833333333,-71.463611111111
+dbl_005_place_66	Vietnam	Q881		16,108
+dbl_005_place_67	Vietnam	Q881		16,108
+dbl_005_place_68	ABC House	Q61747277		23.8610762,90.363965
+dbl_005_place_69	Egypt	Q79		27,29
+dbl_005_place_70	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_71	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_72	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_005_place_73	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_74	Hanover	Q131908		43.7,-72.28333333333333
+dbl_005_place_75	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_76	Vietnam	Q881		16,108
+dbl_005_place_77	Vietnam	Q881		16,108
+dbl_005_place_78	Jersey City	Q26339		40.71,-74.06
+dbl_005_place_79	Jersey City	Q26339		40.71,-74.06
+dbl_005_place_80	Roxbury	Q20138		42.325,-71.095277777778
+dbl_005_place_81	Jersey City	Q26339		40.71,-74.06
+dbl_005_place_82	Hanover	Q131908		43.7,-72.28333333333333
+dbl_005_place_83	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_84	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_85	Lebanon Airport	Q35274097		33.99204,-96.91584
+dbl_005_place_86	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_87	State Street	Q986343		41.8821,-87.6278
+dbl_005_place_88	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_89	Stateway Gardens	Q7604064		41.82722222,-87.62777778
+dbl_005_place_90	Dartmouth College	Q5028697		43.703333333333,-72.288333333333
+dbl_005_place_91	University of Oxford	Q34433		51.755,-1.255
+dbl_005_place_92	Chicago	Q1297		41.85003,-87.65005
+dbl_005_place_93	University of Cambridge	Q35794		52.205355979757925,0.11315726963968827
+dbl_005_place_94	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_005_place_95	Agnes			41.9039, 87.6315
