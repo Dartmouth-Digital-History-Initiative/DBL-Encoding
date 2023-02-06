@@ -1,111 +1,111 @@
-id	placeName
-dbl_011_place_0	Ledyard Apartments
-dbl_011_place_1	Hanover, New Hampshire
-dbl_011_place_2	Lake Charles
-dbl_011_place_3	Louisiana
-dbl_011_place_4	Louisiana
-dbl_011_place_5	Mallet, Louisiana
-dbl_011_place_6	Lake Charles, Louisiana
-dbl_011_place_7	Lake Charles, Louisiana
-dbl_011_place_8	Lake Charles, Louisiana
-dbl_011_place_9	Mallet
-dbl_011_place_10	Lake Charles
-dbl_011_place_11	Lake Charles
-dbl_011_place_12	Lake Charles
-dbl_011_place_13	Lake Charles
-dbl_011_place_14	Mallet
-dbl_011_place_15	Lake Charles
-dbl_011_place_16	Lake Charles
-dbl_011_place_17	Lake Charles
-dbl_011_place_18	Lake Charles
-dbl_011_place_19	Spring, Texas
-dbl_011_place_20	Houston, Texas
-dbl_011_place_21	Lake Charles
-dbl_011_place_22	Lake Charles
-dbl_011_place_23	Lake Charles
-dbl_011_place_24	New Orleans
-dbl_011_place_25	Louisiana
-dbl_011_place_26	Gulf of Mexico
-dbl_011_place_27	US
-dbl_011_place_28	Green
-dbl_011_place_29	South Africa
-dbl_011_place_30	Hinman hall
-dbl_011_place_31	Vietnam
-dbl_011_place_32	Canada
-dbl_011_place_33	New York City
-dbl_011_place_34	New York City
-dbl_011_place_35	the United States
-dbl_011_place_36	Rollins Chapel
-dbl_011_place_37	America
-dbl_011_place_38	Hinman
-dbl_011_place_39	Cohen
-dbl_011_place_40	Ripley Hall
-dbl_011_place_41	Ripley
-dbl_011_place_42	Boise, Idaho
-dbl_011_place_43	Pelham New York
-dbl_011_place_44	Louisiana
-dbl_011_place_45	New York
-dbl_011_place_46	Westchester County
-dbl_011_place_47	Stanford Connecticut
-dbl_011_place_48	Shaker Heights
-dbl_011_place_49	Lake Charles, Louisiana
-dbl_011_place_50	Westchester County
-dbl_011_place_51	Jamaica
-dbl_011_place_52	Hollywood
-dbl_011_place_53	Hinman
-dbl_011_place_54	River
-dbl_011_place_55	Jersey City, New Jersey
-dbl_011_place_56	Jersey City
-dbl_011_place_57	Jersey City
-dbl_011_place_58	Richmond, California
-dbl_011_place_59	Lake Charles, Louisiana
-dbl_011_place_60	Jamaica
-dbl_011_place_61	Jamaica
-dbl_011_place_62	New York City
-dbl_011_place_63	Brooklyn
-dbl_011_place_64	Manhattan
-dbl_011_place_65	Hanover
-dbl_011_place_66	Sierra Leone West Africa
-dbl_011_place_67	Hanover
-dbl_011_place_68	New York
-dbl_011_place_69	Boston
-dbl_011_place_70	Boston Massachusetts
-dbl_011_place_71	Massachusetts
-dbl_011_place_72	Hanover New Hampshire
-dbl_011_place_73	New Hampshire
-dbl_011_place_74	Cleveland
-dbl_011_place_75	Boston
-dbl_011_place_76	New York City
-dbl_011_place_77	Houston
-dbl_011_place_78	Chicago
-dbl_011_place_79	New York City
-dbl_011_place_80	New York City
-dbl_011_place_81	Dallas, Texas
-dbl_011_place_82	Dallas, Texas
-dbl_011_place_83	Dallas
-dbl_011_place_84	Philadelphia
-dbl_011_place_85	Chicago
-dbl_011_place_86	New Orleans
-dbl_011_place_87	Cutter
-dbl_011_place_88	Shabazz
-dbl_011_place_89	Student Center
-dbl_011_place_90	Lincoln Center
-dbl_011_place_91	New York
-dbl_011_place_92	Dix New Jersey
-dbl_011_place_93	Louisiana
-dbl_011_place_94	New Jersey
-dbl_011_place_95	Harlem New York
-dbl_011_place_96	Berkeley
-dbl_011_place_97	Louisiana
-dbl_011_place_98	New York City
-dbl_011_place_99	Lake Charles
-dbl_011_place_100	New York
-dbl_011_place_101	Lake Charles, Louisiana
-dbl_011_place_102	Louisiana
-dbl_011_place_103	Louisiana
-dbl_011_place_104	the Gulf of Mexico
-dbl_011_place_105	Lake Charles
-dbl_011_place_106	Louisiana
-dbl_011_place_107	Lake Charles
-dbl_011_place_108	America
-dbl_011_place_109	Louisiana
+id	placeName	QID	dbl_id	coordinate location
+dbl_011_place_0	Ledyard Apartments	Q116402516		43.7042204,-72.2839264
+dbl_011_place_1	Hanover	Q131908		43.7,-72.28333333333333
+dbl_011_place_2	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_3	Louisiana	Q1588		31,-92
+dbl_011_place_4	Louisiana	Q1588		31,-92
+dbl_011_place_5	Mallets Bluff	Q31597842		30.371111111111,-90.930833333333
+dbl_011_place_6	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_7	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_8	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_9	Mallet, Louisiana	Q116402735		30.4061256,-92.548414
+dbl_011_place_10	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_11	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_12	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_13	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_14	Mallet, Louisiana	Q116402735		30.4061256,-92.548414
+dbl_011_place_15	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_16	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_17	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_18	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_19	Spring	Q981346		30.0542,-95.3869
+dbl_011_place_20	Houston	Q16555		29.762777777778,-95.383055555556
+dbl_011_place_21	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_22	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_23	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_24	New Orleans	Q34404		29.95465,-90.07507
+dbl_011_place_25	Louisiana	Q1588		31,-92
+dbl_011_place_26	Gulf of Mexico	Q12630		25,-90
+dbl_011_place_27	United States of America	Q30		39.828175,-98.5795
+dbl_011_place_28	The Green	Q7738117		43.7033,-72.2886
+dbl_011_place_29	South Africa	Q258		-29,24
+dbl_011_place_30	Hinman Hall	Q109379598		43.70481,-72.296199
+dbl_011_place_31	Vietnam	Q881		16,108
+dbl_011_place_32	Canada	Q16		56,-109
+dbl_011_place_33	New York City	Q60		40.7,-74
+dbl_011_place_34	New York City	Q60		40.7,-74
+dbl_011_place_35	United States of America	Q30		39.828175,-98.5795
+dbl_011_place_36	Rollins Chapel	Q105718771		43.7044879,-72.2895365
+dbl_011_place_37	United States of America	Q30		39.828175,-98.5795
+dbl_011_place_38	River Cluster	Q108887715		43.704013,-72.296405
+dbl_011_place_39	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_011_place_40	Ripley Hall	Q116402977		43.7040728,-72.2857624
+dbl_011_place_41	Ripley Hall	Q116402977		43.7040728,-72.2857624
+dbl_011_place_42	Boise	Q35775		43.613611111111,-116.23777777778
+dbl_011_place_43	Pelham	Q958159		40.910555555556,-73.8075
+dbl_011_place_44	Louisiana	Q1588		31,-92
+dbl_011_place_45	New York City	Q60		40.7,-74
+dbl_011_place_46	Westchester County	Q54066		41.15,-73.775
+dbl_011_place_47	Stamford	Q49169		41.096666666667,-73.552222222222
+dbl_011_place_48	Shaker Heights	Q1065497		41.476388888889,-81.551666666667
+dbl_011_place_49	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_50	Westchester County	Q54066		41.15,-73.775
+dbl_011_place_51	Jamaica	Q766		18.18,-77.4
+dbl_011_place_52	Hollywood	Q34006		34.098333333333336,-118.32666666666667
+dbl_011_place_53	River Cluster	Q108887715		43.704013,-72.296405
+dbl_011_place_54	River Cluster	Q108887715		43.704013,-72.296405
+dbl_011_place_55	Jersey City	Q26339		40.71,-74.06
+dbl_011_place_56	Jersey City	Q26339		40.71,-74.06
+dbl_011_place_57	Jersey City	Q26339		40.71,-74.06
+dbl_011_place_58	Richmond	Q495377		37.935833333333,-122.34777777778
+dbl_011_place_59	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_60	Jamaica	Q766		18.18,-77.4
+dbl_011_place_61	Jamaica	Q766		18.18,-77.4
+dbl_011_place_62	New York City	Q60		40.7,-74
+dbl_011_place_63	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_011_place_64	Manhattan	Q11299		40.728333333333,-73.994166666667
+dbl_011_place_65	Hanover	Q131908		43.7,-72.28333333333333
+dbl_011_place_66	Sierra Leone	Q1044		8.5,-12.1
+dbl_011_place_67	Hanover	Q131908		43.7,-72.28333333333333
+dbl_011_place_68	New York City	Q60		40.7,-74
+dbl_011_place_69	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_011_place_70	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_011_place_71	Massachusetts	Q771		42.3,-71.8
+dbl_011_place_72	Hanover	Q131908		43.7,-72.28333333333333
+dbl_011_place_73	New Hampshire	Q759		44,-71.5
+dbl_011_place_74	Cleveland	Q37320		41.482222222222,-81.669722222222
+dbl_011_place_75	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_011_place_76	New York City	Q60		40.7,-74
+dbl_011_place_77	Houston	Q16555		29.762777777778,-95.383055555556
+dbl_011_place_78	Chicago	Q1297		41.85003,-87.65005
+dbl_011_place_79	New York City	Q60		40.7,-74
+dbl_011_place_80	New York City	Q60		40.7,-74
+dbl_011_place_81	Dallas	Q16557		32.779166666667,-96.808888888889
+dbl_011_place_82	Dallas	Q16557		32.779166666667,-96.808888888889
+dbl_011_place_83	Dallas	Q16557		32.779166666667,-96.808888888889
+dbl_011_place_84	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dbl_011_place_85	Chicago	Q1297		41.85003,-87.65005
+dbl_011_place_86	New Orleans	Q34404		29.95465,-90.07507
+dbl_011_place_87	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_011_place_88	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_011_place_89	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
+dbl_011_place_90	Lincoln Center for the Performing Arts	Q581044		40.77251,-73.98376
+dbl_011_place_91	New York City	Q60		40.7,-74
+dbl_011_place_92	Fort Dix	Q1087169		40.019166666667,-74.522777777778
+dbl_011_place_93	Louisiana	Q1588		31,-92
+dbl_011_place_94	New Jersey	Q1408		40,-74.5
+dbl_011_place_95	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_011_place_96	University of California, Berkeley	Q168756		37.87,-122.259
+dbl_011_place_97	Louisiana	Q1588		31,-92
+dbl_011_place_98	New York City	Q60		40.7,-74
+dbl_011_place_99	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_100	New York City	Q60		40.7,-74
+dbl_011_place_101	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_102	Louisiana	Q1588		31,-92
+dbl_011_place_103	Louisiana	Q1588		31,-92
+dbl_011_place_104	Gulf of Mexico	Q12630		25,-90
+dbl_011_place_105	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_106	Louisiana	Q1588		31,-92
+dbl_011_place_107	Lake Charles	Q864106		30.214722222222,-93.208611111111
+dbl_011_place_108	United States of America	Q30		39.828175,-98.5795
+dbl_011_place_109	Louisiana	Q1588		31,-92
