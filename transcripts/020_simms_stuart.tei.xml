@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with Stuarrt Simms</title>
       </titleStmt>
       <publicationStmt>
         <authority>
@@ -15,15 +15,15 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
-            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+          <recording xml:id="primary_recording" type="audio" dur-iso="00:53:06">
+            <!-- https://course-exhibits.library.dartmouth.edu/s/HIST10_04_21F/page/mccarthy1 -->
             <media url="" mimeType="MIMEaudio/wav"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>James McCarthy</persName>
+            <orgName>Dartmouth Black Lives</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
           <ref target="path_to_file">Primary transcription</ref>
@@ -32,7 +32,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>The Dartmouth Black Lives</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -50,7 +50,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2022-10-31"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -58,8 +58,8 @@
   </teiHeader>
   <text>
     <body>
-      <u who="MCCARTHY">Alright, my name is <persName>James McCarthy</persName>: and I am here at <placeName>Gamma Delta Chi</placeName> in <placeName>Hanover</placeName>, <placeName>New Hampshire</placeName>. I am doing a zoom interview with Mr. <persName>Stuart Simms</persName> who is in <placeName>Baltimore</placeName> [MD]. Today is <date when="2002-10-31">Monday, October 31st, 2022</date> and this is an interview for <orgName>the Dartmouth Black Lives Oral History Project</orgName>. Mr. <persName>Simms</persName>, thank you so much for joining me today. First, I'd like to learn a little about your childhood-sorry to interrupt you there. Can you please state when and where you were born?</u>
-      <u who="SIMMS">Born in <placeName>Baltimore, Maryland,</placeName> <date when="1950-07-17"date>July 17th, 1950</datedate>.</u>
+      <u who="MCCARTHY">Alright, my name is <persName>James McCarthy</persName>: and I am here at <placeName>Gamma Delta Chi</placeName> in <placeName>Hanover</placeName>, <placeName>New Hampshire</placeName>. I am doing a zoom interview with Mr. <persName>Stuart Simms</persName> who is in <placeName>Baltimore</placeName> [MD]. Today is <date when="2022-10-31">Monday, October 31st, 2022</date> and this is an interview for <orgName>the Dartmouth Black Lives Oral History Project</orgName>. Mr. <persName>Simms</persName>, thank you so much for joining me today. First, I'd like to learn a little about your childhood-sorry to interrupt you there. Can you please state when and where you were born?</u>
+      <u who="SIMMS">Born in <placeName>Baltimore, Maryland,</placeName> <date when="1950-07-17">July 17th, 1950</date>.</u>
       <u who="MCCARTHY">Awesome. And can you tell me the names of your parents? Excuse me.</u>
       <u who="SIMMS">Son of Clarence and <placeName>Louise Simms</placeName>. I have one brother who is seven years younger. Grew up in <placeName>West Baltimore</placeName> and, aside from a bout of rheumatic fever, had a good childhood.</u>
       <u who="MCCARTHY">Okay so <placeName>West Baltimore</placeName> with your one brother. And what was that like? Did you live in a neighborhood with a lot of kids? Were you guys outside playing a lot? I know you became quite the athlete and we'll get to that later on, but was that some sort of thing you would do to still spend time in your childhood?</u>
@@ -74,7 +74,7 @@
       <u who="MCCARTHY">Okay, three Black classmates so four of you and what was that like? I know it's hard to sort of dive into, as this was some years ago, but did you face a lot of challenges at that point?</u>
       <u who="SIMMS">We would celebrate it. I guess, several years ago, the 50th anniversary of the graduation and at that time, I recounted that certainly [inaudible] It would be welcome, it was very difficult given the economic isolation, as well learning the whole environment of Independent Schools that's associated with them, and the whole aspect of turning in a math class [inaudible] is certainly a reality, so,</u>
       <u who="MCCARTHY">Yes, that's certainly-</u>
-      <u who="SIMMS">So it [inaudible] expecting and you kept moving forward. And there were certain teachers who thought perhaps that your only purpose there was sort of a symbolic purpose I supposed [inaudible], wanting an education. But these were interesting and challenging times, certainly 19-, I entered in <date qhen="1965">'65</date>. So the time I was there, what was happening in the country from <date when="1964">1964</date> through <date when="1968">1968</date>.</u>
+      <u who="SIMMS">So it [inaudible] expecting and you kept moving forward. And there were certain teachers who thought perhaps that your only purpose there was sort of a symbolic purpose I supposed [inaudible], wanting an education. But these were interesting and challenging times, certainly 19-, I entered in <date when="1965">'65</date>. So the time I was there, what was happening in the country from <date when="1964">1964</date> through <date when="1968">1968</date>.</u>
       <u who="MCCARTHY">Right and that does line up sort of with some of the historic events and even into your college years, which we will get into in a second and, but just going back to your time of <orgName>Gilman</orgName>, When you say that teachers felt like you were there to fill a need or serve a cause, how would you yourself and your other classmates who were Black, try to dispel that or disprove that? Did you feel a need to prove your worth, or your, or your deserving-ness of being at that school?</u>
       <u who="SIMMS">[inaudbile] So the important thing was to try to, take care of business as was necessary. So I don't know that there was a symbolic gesture that I gave to the instructors or classmates. I think it was just a situation in which you had to be determined to take care of business. [Pause].</u>
       <u who="SIMMS">Everything from <persName>Jackie Robinson</persName>, And <persName>Joe Louis</persName> to <persName>Muhammad Ali</persName>, so.</u>
@@ -127,15 +127,15 @@
       <u who="SIMMS">Yes.</u>
       <u who="MCCARTHY">Okay so please go ahead. You were just beginning to talk about your involvement and the issues that I mentioned and what that meant to you.</u>
       <u who="SIMMS">Yeah. One of the things that I have always been involved in particularly insofar as criminal justice was improving aspects of the criminal justice system in terms of outcomes and reducing recidivism rates. And so, I took an approach to some extent that was different than some others did. When I tried to [inaudible] that was important to and increase our reliance on and respect for that criminal justice. Very difficult task, one which is risky but one which I enjoyed. The other aspect was really trying to make organizations effective and programming effective. So I enjoyed working with governmental entities and giving advice to people about governmental entities in order to make them effective as well. So, all of that was sort of part of [inaudible].</u>
-      <u who="MCCARTHY">Yeah, absolutely. And important things to commit yourself to and just in researching a little bit for this interview, some of the honors that you have been given throughout your fantastic career - that could be the interview in and of itself – But it's hard to ask people about the awards they have been given but it is certainly nice, I would assume to be recognized. I would think, as the best lawyers general practice criminal defense and commercial litigation <persName>Best Lawyers</persName> list. Super lawyer by <orgName>Super Lawyers</orgName> magazine. Some of the awards that have been granted your way. Is it nice to be recognized for some of your work?</u>
+      <u who="MCCARTHY">Yeah, absolutely. And important things to commit yourself to and just in researching a little bit for this interview, some of the honors that you have been given throughout your fantastic career - that could be the interview in and of itself – But it's hard to ask people about the awards they have been given but it is certainly nice, I would assume to be recognized. I would think, as the best lawyers general practice criminal defense and commercial litigation Best Lawyers list. Super lawyer by <orgName>Super Lawyers</orgName> magazine. Some of the awards that have been granted your way. Is it nice to be recognized for some of your work?</u>
       <u who="SIMMS">Yeah, I think that aspect of private practice turned out well. I was really thrilled about [inaudible] at private practice, the lawyers I was working with the firm. I was working for the projects that I worked on. Many were [inaudible] and I still got two pro bono matters and I'm still sort of working on at the current time so I enjoyed that. I was privileged to have a great run, I think, in terms of the legal projects I was involved in and then in the people that I was involved with.</u>
-      <u who="MCCARTHY">Absolutely. And that's remarkable that you're still at it. I didn't realize that was the case, still taking on cases, pro bono. And just as we sort to wrap up here because I've taken up enough of your time <date>today</date>, we touched on this briefly before, but can you just talk about your current impressions of the college and how you see <orgName>Dartmouth</orgName>, and how that fits into your life? Currently, how connected are you still and what are your thoughts or impressions of the college?</u>
-      <u who="SIMMS">Oh, the impressions are there and the impressions are positive. I see <orgName>Dartmouth</orgName> reaching out and continuing to reach out in great many ways and particularly over <date>the last five years</date> in terms of their [inaudible] electronically and through the clubs and keeping people engaged. I think it's certainly one of the positives that, reads a level of interest. It may feel to some degree less remote than people say and I'm [inaudible] by their presence in the life of so many individuals across the entire <placeName>United States</placeName>. I've not been, I was engaged certainly I had a term where I was on <orgName>the Alumni Council</orgName> and I served for a period on <orgName>Alumni Council</orgName> and enjoyed it. And I've been on and off with [inaudible] The <placeName>Baltimore</placeName> area. And to some extent, <orgName>the Washington Club of Dartmouth</orgName> and so benefited from being engaged with those organizations that need to sort of do what I can to try to take advantage of their programming and their involvement. I've also worked with their efforts to reach out to current and former athletes. I have two individuals who visited me in <placeName>Baltimore</placeName> and we spent <date>days</date> together talking about the law or talking about what they're going to do in terms of their graduate career and so I've enjoyed those relationships as well.</u>
+      <u who="MCCARTHY">Absolutely. And that's remarkable that you're still at it. I didn't realize that was the case, still taking on cases, pro bono. And just as we sort to wrap up here because I've taken up enough of your time today, we touched on this briefly before, but can you just talk about your current impressions of the college and how you see <orgName>Dartmouth</orgName>, and how that fits into your life? Currently, how connected are you still and what are your thoughts or impressions of the college?</u>
+      <u who="SIMMS">Oh, the impressions are there and the impressions are positive. I see <orgName>Dartmouth</orgName> reaching out and continuing to reach out in great many ways and particularly over the last five years in terms of their [inaudible] electronically and through the clubs and keeping people engaged. I think it's certainly one of the positives that, reads a level of interest. It may feel to some degree less remote than people say and I'm [inaudible] by their presence in the life of so many individuals across the entire <placeName>United States</placeName>. I've not been, I was engaged certainly I had a term where I was on <orgName>the Alumni Council</orgName> and I served for a period on <orgName>Alumni Council</orgName> and enjoyed it. And I've been on and off with [inaudible] The <placeName>Baltimore</placeName> area. And to some extent, <orgName>the Washington Club of Dartmouth</orgName> and so benefited from being engaged with those organizations that need to sort of do what I can to try to take advantage of their programming and their involvement. I've also worked with their efforts to reach out to current and former athletes. I have two individuals who visited me in <placeName>Baltimore</placeName> and we spent days together talking about the law or talking about what they're going to do in terms of their graduate career and so I've enjoyed those relationships as well.</u>
       <u who="MCCARTHY">Yeah, I'm sure those relationships are very rewarding and your connection to the college overall as an alum. I would have to use the word rewarding. Thank you so much for taking the time. Is there anything else, before I let you go, that you would like to say just about the oral history project and <orgName>Dartmouth Black Lives</orgName> overall and sort of, as we build this thing, what your thoughts are?</u>
       <u who="SIMMS">No, not really, but [inaudible] at least have a copy so I can tell my, my kids or somebody</u>
       <u who="MCCARTHY">Absolutely, yeah. We'll make that happen, I can send this over to you for sure.Thank you so much, Mr. <persName>Simms</persName> for taking the time, I really can't say enough how much I appreciate it despite the title difficulties. Thank you for joining me and I'll be sure to get this over to you.</u>
-      <u who="SIMMS">Sure, and good luck to you. There's always just the next game so <date>next week</date>.</u>
-      <u who="MCCARTHY">That's right. It's <date>our week</date> to bounce back. Thanks again.</u>
+      <u who="SIMMS">Sure, and good luck to you. There's always just the next game so next week.</u>
+      <u who="MCCARTHY">That's right. It's our week to bounce back. Thanks again.</u>
     </body>
   </text>
 </TEI>
