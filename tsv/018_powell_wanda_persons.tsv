@@ -1,43 +1,43 @@
-id	persName
-dbl_018_person_0	Kambrian Winston
-dbl_018_person_1	Wanda Powell
-dbl_018_person_2	Wanda Johnson Powell
-dbl_018_person_3	Mrs. Powell
-dbl_018_person_4	William C. Johnson
-dbl_018_person_5	Lola Rogers Johnson
-dbl_018_person_6	Billie
-dbl_018_person_7	Billie Regina Johnson
-dbl_018_person_8	Barbara Dean Johnson
-dbl_018_person_9	William C. Johnson Junior
-dbl_018_person_10	Christine
-dbl_018_person_11	Kristen Ada
-dbl_018_person_12	Nelson
-dbl_018_person_13	Adrian
-dbl_018_person_14	Wanda
-dbl_018_person_15	Adrian
-dbl_018_person_16	Adrian
-dbl_018_person_17	Adrian
-dbl_018_person_18	Adrian
-dbl_018_person_19	Adrian
-dbl_018_person_20	Bobby
-dbl_018_person_21	Rassias
-dbl_018_person_22	Professor Rassias [John Rassias]
-dbl_018_person_23	Professor Rassias
-dbl_018_person_24	Professor Rassias
-dbl_018_person_25	Shakespeare
-dbl_018_person_26	Shakespeare
-dbl_018_person_27	Shakespeare
-dbl_018_person_28	Toni Cade Bambara
-dbl_018_person_29	Higgins
-dbl_018_person_30	Malcolm X.
-dbl_018_person_31	Kevin Johnson
-dbl_018_person_32	Kevin
-dbl_018_person_33	Steve
-dbl_018_person_34	Powell
-dbl_018_person_35	Kelli
-dbl_018_person_36	Powell
-dbl_018_person_37	Ericc
-dbl_018_person_38	Steve
-dbl_018_person_39	Mrs. Powell
-dbl_018_person_40	Nixon
-dbl_018_person_41	Kam
+id	persName	QID	dbl_id
+dbl_018_person_0	Kambrian Winston	Q116783197	
+dbl_018_person_1	Wanda Powell	Q116783193	
+dbl_018_person_2	Wanda Powell	Q116783193	
+dbl_018_person_3	Wanda Powell	Q116783193	
+dbl_018_person_4	William C Johnson	Q116783647	
+dbl_018_person_5	Lola Rogers Johnson	Q116783620	
+dbl_018_person_6	Billie Regina Johnson	Q116783624	
+dbl_018_person_7	Billie Regina Johnson	Q116783624	
+dbl_018_person_8	Barbara Dean Johnson	Q116783627	
+dbl_018_person_9	William C Johnson Junior	Q116783631	
+dbl_018_person_10	Christine Johnson	Q116783633	
+dbl_018_person_11	Kristen Ada Johnson	Q116783636	
+dbl_018_person_12	Nelson Johnson	Q116783637	
+dbl_018_person_13	Adrian	Q116783203	
+dbl_018_person_14	Wanda Powell	Q116783193	
+dbl_018_person_15	Adrian	Q116783203	
+dbl_018_person_16	Adrian	Q116783203	
+dbl_018_person_17	Adrian	Q116783203	
+dbl_018_person_18	Adrian	Q116783203	
+dbl_018_person_19	Adrian	Q116783203	
+dbl_018_person_20	Bobby		
+dbl_018_person_21	John Rassias	Q6254272	
+dbl_018_person_22	John Rassias	Q6254272	
+dbl_018_person_23	John Rassias	Q6254272	
+dbl_018_person_24	John Rassias	Q6254272	
+dbl_018_person_25	William Shakespeare	Q692	
+dbl_018_person_26	William Shakespeare	Q692	
+dbl_018_person_27	William Shakespeare	Q692	
+dbl_018_person_28	Toni Cade Bambara	Q518455	
+dbl_018_person_29	Chester Higgins, Jr.	Q5093594	
+dbl_018_person_30	Malcolm X	Q43303	
+dbl_018_person_31	Kevin Johnson	Q116783638	
+dbl_018_person_32	Kevin Johnson	Q116783638	
+dbl_018_person_33	Steve Powell	Q116783640	
+dbl_018_person_34	Steve Powell	Q116783640	
+dbl_018_person_35	Kelli Powell	Q116783642	
+dbl_018_person_36	Steve Powell	Q116783640	
+dbl_018_person_37	Ericc Powell	Q116783645	
+dbl_018_person_38	Steve Powell	Q116783640	
+dbl_018_person_39	Wanda Powell	Q116783193	
+dbl_018_person_40	Richard Nixon	Q9588	
+dbl_018_person_41	Kambrian Winston	Q116783197	
