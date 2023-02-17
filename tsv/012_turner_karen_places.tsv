@@ -1,106 +1,105 @@
-id	placeName
-dbl_012_place_0	Rockefeller Center
-dbl_012_place_1	Hanover New Hampshire
-dbl_012_place_2	Westampton, New Jersey
-dbl_012_place_3	Trenton, New Jersey
-dbl_012_place_4	Trenton, New Jersey
-dbl_012_place_5	Trenton
-dbl_012_place_6	Trenton
-dbl_012_place_7	Ewing Township
-dbl_012_place_8	Trenton
-dbl_012_place_9	Trenton
-dbl_012_place_10	Oakland Street
-dbl_012_place_11	Ewing, New Jersey
-dbl_012_place_12	Ewing
-dbl_012_place_13	Princeton
-dbl_012_place_14	Trenton, New Jersey
-dbl_012_place_15	Ewing, New Jersey
-dbl_012_place_16	Ewing [NJ]
-dbl_012_place_17	Trenton
-dbl_012_place_18	Ewing
-dbl_012_place_19	Ewing
-dbl_012_place_20	Ewing
-dbl_012_place_21	Trenton
-dbl_012_place_22	Lawrenceville
-dbl_012_place_23	Princeton
-dbl_012_place_24	Ewing 
-dbl_012_place_25	Ewing
-dbl_012_place_26	Hartford
-dbl_012_place_27	New Jersey
-dbl_012_place_28	Vermont
-dbl_012_place_29	green
-dbl_012_place_30	Penn
-dbl_012_place_31	Penn
-dbl_012_place_32	Penn
-dbl_012_place_33	Choates
-dbl_012_place_34	Cohen
-dbl_012_place_35	New Hampshire
-dbl_012_place_36	Hanover
-dbl_012_place_37	Choates
-dbl_012_place_38	Cohen
-dbl_012_place_39	Bissell
-dbl_012_place_40	Cohen
-dbl_012_place_41	Bissell
-dbl_012_place_42	Cohen
-dbl_012_place_43	Cohen
-dbl_012_place_44	Cohen
-dbl_012_place_45	Choates
-dbl_012_place_46	Hanover
-dbl_012_place_47	California
-dbl_012_place_48	Hanover, New Hampshire
-dbl_012_place_49	California
-dbl_012_place_50	Dicks house
-dbl_012_place_51	Dick’s house
-dbl_012_place_52	California
-dbl_012_place_53	Trenton
-dbl_012_place_54	New York
-dbl_012_place_55	Nelson A. Rockefeller Center
-dbl_012_place_56	Rockefeller Center
-dbl_012_place_57	Rockefeller Center
-dbl_012_place_58	Rockefeller Center
-dbl_012_place_59	Rockefeller Center
-dbl_012_place_60	Rockefeller Center
-dbl_012_place_61	Rockefeller Center
-dbl_012_place_62	Mexico
-dbl_012_place_63	Mexico
-dbl_012_place_64	Dartmouth
-dbl_012_place_65	Mexico
-dbl_012_place_66	San Luis Potosi
-dbl_012_place_67	Boston
-dbl_012_place_68	Hanover
-dbl_012_place_69	the green
-dbl_012_place_70	the hood
-dbl_012_place_71	Hanover inn
-dbl_012_place_72	Collis
-dbl_012_place_73	Collis Center
-dbl_012_place_74	Ivys
-dbl_012_place_75	Atlanta
-dbl_012_place_76	Atlanta
-dbl_012_place_77	Atlanta
-dbl_012_place_78	Atlanta
-dbl_012_place_79	Dartmouth
-dbl_012_place_80	America
-dbl_012_place_81	Collis
-dbl_012_place_82	Collis
-dbl_012_place_83	Masses
-dbl_012_place_84	FOCO
-dbl_012_place_85	Boston
-dbl_012_place_86	Boston
-dbl_012_place_87	Boston
-dbl_012_place_88	Cambridge
-dbl_012_place_89	Cambridge
-dbl_012_place_90	Boston
-dbl_012_place_91	South Boston
-dbl_012_place_92	Boston
-dbl_012_place_93	Rockefeller Center
-dbl_012_place_94	South Africa
-dbl_012_place_95	Harvard
-dbl_012_place_96	Chicago
-dbl_012_place_97	Chicago
-dbl_012_place_98	Chicago
-dbl_012_place_99	New York
-dbl_012_place_100	the International House
-dbl_012_place_101	Cincinnati
-dbl_012_place_102	Cincinnati
-dbl_012_place_103	Cincinnati
-dbl_012_place_104	Chicago
+id	placeName	QID	dbl_id	coordinate location
+dbl_012_place_0	Nelson A. Rockefeller Center for Public Policy and the Social Sciences	Q107736923		43.705784,-72.29009
+dbl_012_place_1	Hanover	Q131908		43.7,-72.28333333333333
+dbl_012_place_2	Westampton Township	Q1072686		40.0184,-74.8168
+dbl_012_place_3	Trenton	Q25330		40.221666666667,-74.756111111111
+dbl_012_place_4	Trenton	Q25330		40.221666666667,-74.756111111111
+dbl_012_place_5	Trenton	Q25330		40.221666666667,-74.756111111111
+dbl_012_place_6	Trenton	Q25330		40.221666666667,-74.756111111111
+dbl_012_place_7	Ewing Township	Q579332		40.2627,-74.7983
+dbl_012_place_8	Trenton	Q25330		40.221666666667,-74.756111111111
+dbl_012_place_9	Trenton	Q25330		40.221666666667,-74.756111111111
+dbl_012_place_10	Oakland Street	Q87761932		42.3744809,-71.1011172
+dbl_012_place_11	Ewing Township	Q579332		40.2627,-74.7983
+dbl_012_place_12	Ewing Township	Q579332		40.2627,-74.7983
+dbl_012_place_13	Princeton	Q138518		40.352222222222,-74.656944444444
+dbl_012_place_14	Trenton	Q25330		40.221666666667,-74.756111111111
+dbl_012_place_15	Ewing Township	Q579332		40.2627,-74.7983
+dbl_012_place_16	Ewing Township	Q579332		40.2627,-74.7983
+dbl_012_place_17	Trenton	Q25330		40.221666666667,-74.756111111111
+dbl_012_place_18	Ewing Township	Q579332		40.2627,-74.7983
+dbl_012_place_19	Ewing Township	Q579332		40.2627,-74.7983
+dbl_012_place_20	Ewing Township	Q579332		40.2627,-74.7983
+dbl_012_place_21	Trenton	Q25330		40.221666666667,-74.756111111111
+dbl_012_place_22	Lawrenceville	Q1086191		40.3028,-74.738
+dbl_012_place_23	Princeton	Q138518		40.352222222222,-74.656944444444
+dbl_012_place_24	Ewing Township	Q579332		40.2627,-74.7983
+dbl_012_place_25	Ewing Township	Q579332		40.2627,-74.7983
+dbl_012_place_26	Hartford	Q33486		41.763333333333,-72.685
+dbl_012_place_27	New Jersey	Q1408		40,-74.5
+dbl_012_place_28	Vermont	Q16551		44,-72.7
+dbl_012_place_29	The Green	Q7738117		43.7033,-72.2886
+dbl_012_place_30	University of Pennsylvania	Q49117		39.95388888888889,-75.19305555555556
+dbl_012_place_31	University of Pennsylvania	Q49117		39.95388888888889,-75.19305555555556
+dbl_012_place_32	University of Pennsylvania	Q49117		39.95388888888889,-75.19305555555556
+dbl_012_place_33	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_34	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_35	New Hampshire	Q759		44,-71.5
+dbl_012_place_36	Hanover	Q131908		43.7,-72.28333333333333
+dbl_012_place_37	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_38	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_39	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_40	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_41	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_42	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_43	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_44	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_45	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_012_place_46	Hanover	Q131908		43.7,-72.28333333333333
+dbl_012_place_47	California	Q99		37,-120
+dbl_012_place_48	Hanover	Q131908		43.7,-72.28333333333333
+dbl_012_place_49	California	Q99		37,-120
+dbl_012_place_50	Dartmouth College Dick's House	Q104906179		43.70877,-72.28693
+dbl_012_place_51	Dartmouth College Dick's House	Q104906179		43.70877,-72.28693
+dbl_012_place_52	California	Q99		37,-120
+dbl_012_place_53	Trenton	Q25330		40.221666666667,-74.756111111111
+dbl_012_place_54	New York	Q1384		43,-75
+dbl_012_place_55	Nelson A. Rockefeller Center for Public Policy and the Social Sciences	Q107736923		43.705784,-72.29009
+dbl_012_place_56	Nelson A. Rockefeller Center for Public Policy and the Social Sciences	Q107736923		43.705784,-72.29009
+dbl_012_place_57	Nelson A. Rockefeller Center for Public Policy and the Social Sciences	Q107736923		43.705784,-72.29009
+dbl_012_place_58	Nelson A. Rockefeller Center for Public Policy and the Social Sciences	Q107736923		43.705784,-72.29009
+dbl_012_place_59	Nelson A. Rockefeller Center for Public Policy and the Social Sciences	Q107736923		43.705784,-72.29009
+dbl_012_place_60	Nelson A. Rockefeller Center for Public Policy and the Social Sciences	Q107736923		43.705784,-72.29009
+dbl_012_place_61	Nelson A. Rockefeller Center for Public Policy and the Social Sciences	Q107736923		43.705784,-72.29009
+dbl_012_place_62	Mexico	Q96		23,-102
+dbl_012_place_63	Mexico	Q96		23,-102
+dbl_012_place_64	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dbl_012_place_65	Mexico	Q96		23,-102
+dbl_012_place_66	San Luis Potosí	Q78980		22.603333333333,-100.42972222222
+dbl_012_place_67	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_012_place_68	Hanover	Q131908		43.7,-72.28333333333333
+dbl_012_place_69	The Green	Q7738117		43.7033,-72.2886
+dbl_012_place_70	Hood Museum of Art	Q3140304		43.70222222,-72.28805556
+dbl_012_place_71	The Hanover Public House	Q26483062		51.945524,1.288893
+dbl_012_place_72	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
+dbl_012_place_73	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
+dbl_012_place_75	Atlanta	Q23556		33.756944444444,-84.390277777778
+dbl_012_place_76	Atlanta	Q23556		33.756944444444,-84.390277777778
+dbl_012_place_77	Atlanta	Q23556		33.756944444444,-84.390277777778
+dbl_012_place_78	Atlanta	Q23556		33.756944444444,-84.390277777778
+dbl_012_place_79	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dbl_012_place_80	United States of America	Q30		39.828175,-98.5795
+dbl_012_place_81	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
+dbl_012_place_82	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
+dbl_012_place_83	Massachusetts Row	Q105718813		43.703794,-72.290354
+dbl_012_place_84	Class of 1953 Commons	Q98636574		43.70309,-72.29092
+dbl_012_place_85	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_012_place_86	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_012_place_87	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_012_place_88	Cambridge	Q49111		42.375,-71.106111111111
+dbl_012_place_89	Cambridge	Q49111		42.375,-71.106111111111
+dbl_012_place_90	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_012_place_91	South Boston	Q1373937		36.7078,-78.9033
+dbl_012_place_92	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_012_place_93	Nelson A. Rockefeller Center for Public Policy and the Social Sciences	Q107736923		43.705784,-72.29009
+dbl_012_place_94	South Africa	Q258		-29,24
+dbl_012_place_95	Harvard College	Q49123		42.374,-71.117
+dbl_012_place_96	Chicago	Q1297		41.85003,-87.65005
+dbl_012_place_97	Chicago	Q1297		41.85003,-87.65005
+dbl_012_place_98	Chicago	Q1297		41.85003,-87.65005
+dbl_012_place_99	New York	Q1384		43,-75
+dbl_012_place_100	International House of New York	Q111265730		40.813611,-73.961944
+dbl_012_place_101	Cincinnati	Q43196		39.1,-84.5125
+dbl_012_place_102	Cincinnati	Q43196		39.1,-84.5125
+dbl_012_place_103	Cincinnati	Q43196		39.1,-84.5125
+dbl_012_place_104	Chicago	Q1297		41.85003,-87.65005
