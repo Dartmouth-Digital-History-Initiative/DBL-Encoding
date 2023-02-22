@@ -1,64 +1,64 @@
-id	placeName
-dbl_018_place_0	French Hall
-dbl_018_place_1	Hanover, New Hampshire
-dbl_018_place_2	Agawam, Massachusetts
-dbl_018_place_3	Chattanooga, Tennessee
-dbl_018_place_4	Chattanooga
-dbl_018_place_5	Chattanooga
-dbl_018_place_6	Chattanooga
-dbl_018_place_7	Chattanooga
-dbl_018_place_8	Chattanooga
-dbl_018_place_9	Chattanooga
-dbl_018_place_10	Chattanooga
-dbl_018_place_11	Oregon
-dbl_018_place_12	St. Louis [MO]
-dbl_018_place_13	Texas
-dbl_018_place_14	Chattanooga
-dbl_018_place_15	Hanover
-dbl_018_place_16	Chattanooga
-dbl_018_place_17	Columbia
-dbl_018_place_18	Hanover
-dbl_018_place_19	New York
-dbl_018_place_20	New York
-dbl_018_place_21	Boston
-dbl_018_place_22	France
-dbl_018_place_23	France
-dbl_018_place_24	France
-dbl_018_place_25	Bourges, France
-dbl_018_place_26	Spain
-dbl_018_place_27	Morocco
-dbl_018_place_28	the Green
-dbl_018_place_29	D.C.
-dbl_018_place_30	Chicago
-dbl_018_place_31	Chicago
-dbl_018_place_32	Hopkins
-dbl_018_place_33	Rauner [Special Collections Library]
-dbl_018_place_34	Brown Hall
-dbl_018_place_35	Brown
-dbl_018_place_36	Brown
-dbl_018_place_37	Choates
-dbl_018_place_38	Choates
-dbl_018_place_39	Choates
-dbl_018_place_40	Brown
-dbl_018_place_41	Brown
-dbl_018_place_42	Brown Hall
-dbl_018_place_43	Shabazz Center
-dbl_018_place_44	Shabazz Center
-dbl_018_place_45	Canada
-dbl_018_place_46	New Jersey
-dbl_018_place_47	Boston
-dbl_018_place_48	Milwaukee
-dbl_018_place_49	Kansas City
-dbl_018_place_50	Massachusetts
-dbl_018_place_51	Springfield, Massachusetts
-dbl_018_place_52	Massachusetts
-dbl_018_place_53	Massachusetts
-dbl_018_place_54	Boston
-dbl_018_place_55	D.C.
-dbl_018_place_56	D.C.
-dbl_018_place_57	Kansas City
-dbl_018_place_58	Kansas City
-dbl_018_place_59	North Carolina
-dbl_018_place_60	Massachusetts
-dbl_018_place_61	Connecticut
-dbl_018_place_62	Missouri
+id	placeName	QID	dbl_id	coordinate location
+dbl_018_place_0	French Hall	Q109348639		43.704048,-72.297007
+dbl_018_place_1	Hanover	Q131908		43.7,-72.28333333333333
+dbl_018_place_2	Agawam	Q577215		42.069444444444,-72.615277777778
+dbl_018_place_3	Chattanooga	Q186702		35.045555555556,-85.267222222222
+dbl_018_place_4	Chattanooga	Q186702		35.045555555556,-85.267222222222
+dbl_018_place_5	Chattanooga	Q186702		35.045555555556,-85.267222222222
+dbl_018_place_6	Chattanooga	Q186702		35.045555555556,-85.267222222222
+dbl_018_place_7	Chattanooga	Q186702		35.045555555556,-85.267222222222
+dbl_018_place_8	Chattanooga	Q186702		35.045555555556,-85.267222222222
+dbl_018_place_9	Chattanooga	Q186702		35.045555555556,-85.267222222222
+dbl_018_place_10	Chattanooga	Q186702		35.045555555556,-85.267222222222
+dbl_018_place_11	Oregon	Q824		43.935833,-120.575
+dbl_018_place_12	St. Louis	Q38022		38.62638888888889,-90.19944444444444
+dbl_018_place_13	Texas	Q1439		31,-100
+dbl_018_place_14	Chattanooga	Q186702		35.045555555556,-85.267222222222
+dbl_018_place_15	Hanover	Q131908		43.7,-72.28333333333333
+dbl_018_place_16	Chattanooga	Q186702		35.045555555556,-85.267222222222
+dbl_018_place_17	Columbia	Q59670		38.95171,-92.33407
+dbl_018_place_18	Hanover	Q131908		43.7,-72.28333333333333
+dbl_018_place_19	New York City	Q60		40.7,-74
+dbl_018_place_20	New York City	Q60		40.7,-74
+dbl_018_place_21	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_018_place_22	France	Q142		47,2
+dbl_018_place_23	France	Q142		47,2
+dbl_018_place_24	France	Q142		47,2
+dbl_018_place_25	Bourges	Q132404		47.083611111111,2.3955555555556
+dbl_018_place_26	Spain	Q29		40.2,-3.5
+dbl_018_place_27	Morocco	Q1028		32,-6
+dbl_018_place_28	The Green	Q7738117		43.7033,-72.2886
+dbl_018_place_29	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_018_place_30	Chicago	Q1297		41.85003,-87.65005
+dbl_018_place_31	Chicago	Q1297		41.85003,-87.65005
+dbl_018_place_32	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
+dbl_018_place_33	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dbl_018_place_34	Brown Hall	Q107671350		43.707306,-72.290344
+dbl_018_place_35	Brown Hall	Q107671350		43.707306,-72.290344
+dbl_018_place_36	Brown Hall	Q107671350		43.707306,-72.290344
+dbl_018_place_37	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_018_place_38	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_018_place_39	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_018_place_40	Brown Hall	Q107671350		43.707306,-72.290344
+dbl_018_place_41	Brown Hall	Q107671350		43.707306,-72.290344
+dbl_018_place_42	Brown Hall	Q107671350		43.707306,-72.290344
+dbl_018_place_43	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_018_place_44	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_018_place_45	Canada	Q16		56,-109
+dbl_018_place_46	New Jersey	Q1408		40,-74.5
+dbl_018_place_47	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_018_place_48	Milwaukee	Q37836		43.05,-87.95
+dbl_018_place_49	Kansas City	Q41819		39.05,-94.583333333333
+dbl_018_place_50	Massachusetts	Q771		42.3,-71.8
+dbl_018_place_51	Springfield	Q49158		42.112411,-72.547455
+dbl_018_place_52	Massachusetts	Q771		42.3,-71.8
+dbl_018_place_53	Massachusetts	Q771		42.3,-71.8
+dbl_018_place_54	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_018_place_55	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_018_place_56	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_018_place_57	Kansas City	Q41819		39.05,-94.583333333333
+dbl_018_place_58	Kansas City	Q41819		39.05,-94.583333333333
+dbl_018_place_59	North Carolina	Q1454		35.5,-80
+dbl_018_place_60	Massachusetts	Q771		42.3,-71.8
+dbl_018_place_61	Connecticut	Q779		41.6,-72.7
+dbl_018_place_62	Missouri	Q1581		38.5,-92.5
