@@ -1,61 +1,61 @@
-id	persName
-dbl_012_person_0	Aleemah Williams
-dbl_012_person_1	Karen M. Turner
-dbl_012_person_2	Karen
-dbl_012_person_3	Gloria
-dbl_012_person_4	Arthur
-dbl_012_person_5	Karen
-dbl_012_person_6	Judy Redding
-dbl_012_person_7	Judy
-dbl_012_person_8	Judy
-dbl_012_person_9	Dean Joan Nelson
-dbl_012_person_10	Judy
-dbl_012_person_11	Eileen Cave
-dbl_012_person_12	Eileen
-dbl_012_person_13	Eileen
-dbl_012_person_14	Cave
-dbl_012_person_15	Judy Monica Hargrove
-dbl_012_person_16	Judy Eileen
-dbl_012_person_17	Monica
-dbl_012_person_18	Monica
-dbl_012_person_19	Judy
-dbl_012_person_20	Monica
-dbl_012_person_21	Viola Alan
-dbl_012_person_22	Eileen
-dbl_012_person_23	Garvey Clark
-dbl_012_person_24	Ginger Crawley
-dbl_012_person_25	Donna Summer
-dbl_012_person_26	Donna
-dbl_012_person_27	Cruz Russell
-dbl_012_person_28	Cruz
-dbl_012_person_29	Ginger
-dbl_012_person_30	Judy
-dbl_012_person_31	Judy
-dbl_012_person_32	Judy
-dbl_012_person_33	Judy
-dbl_012_person_34	Judy
-dbl_012_person_35	Judy
-dbl_012_person_36	Judy
-dbl_012_person_37	Ray Hall
-dbl_012_person_38	Judy
-dbl_012_person_39	Monica
-dbl_012_person_40	Eileen
-dbl_012_person_41	Dean Traenum
-dbl_012_person_42	Ray Hall
-dbl_012_person_43	Judy
-dbl_012_person_44	Andrew Jackson
-dbl_012_person_45	Dean Traynham
-dbl_012_person_46	Michael Carter
-dbl_012_person_47	Melanie Fisher
-dbl_012_person_48	William Hutchinson
-dbl_012_person_49	Louise Day Hicks
-dbl_012_person_50	Tucker
-dbl_012_person_51	Biden
-dbl_012_person_52	Eileen
-dbl_012_person_53	Eileen
-dbl_012_person_54	Harold Washington
-dbl_012_person_55	Harold Washington
-dbl_012_person_56	Jane Byrne
-dbl_012_person_57	Jim Hutchinson
-dbl_012_person_58	Jim Hutchinson's
-dbl_012_person_59	Harold Washington
+id	persName	QID	dbl_id
+dbl_012_person_0	Aleemah Williams	Q116786432	
+dbl_012_person_1	Karen M. Turner	Q115024973	
+dbl_012_person_2	Karen M. Turner	Q115024973	
+dbl_012_person_3	Gloria Turner	Q116786480	
+dbl_012_person_4	Arthur Turner	Q116786501	
+dbl_012_person_5	Karen M. Turner	Q115024973	
+dbl_012_person_6	Judith B. Redding	Q114648250	
+dbl_012_person_7	Judith B. Redding	Q114648250	
+dbl_012_person_8	Judith B. Redding	Q114648250	
+dbl_012_person_9	Joan Nelson	Q115045608	
+dbl_012_person_10	Judith B. Redding	Q114648250	
+dbl_012_person_11	Eileen Cave	Q114647741	
+dbl_012_person_12	Eileen Cave	Q114647741	
+dbl_012_person_13	Eileen Cave	Q114647741	
+dbl_012_person_14	Eileen Cave	Q114647741	
+dbl_012_person_15	Monica Hargrove	Q114647971	
+dbl_012_person_16	Eileen Cave	Q114647741	
+dbl_012_person_17	Monica Hargrove	Q114647971	
+dbl_012_person_18	Monica Hargrove	Q114647971	
+dbl_012_person_19	Judith B. Redding	Q114648250	
+dbl_012_person_20	Monica Hargrove	Q114647971	
+dbl_012_person_21	Viola Alan	Q116786517	
+dbl_012_person_22	Eileen Cave	Q114647741	
+dbl_012_person_23	Garvey Clarke	Q115044912	
+dbl_012_person_24	Ginger Crawley	Q116786527	
+dbl_012_person_25	Donna Summer	Q908933	
+dbl_012_person_26	Donna Summer	Q908933	
+dbl_012_person_27	Cruz Russell	Q116786538	
+dbl_012_person_28	Cruz Russell	Q116786538	
+dbl_012_person_29	Ginger Crawley	Q116786527	
+dbl_012_person_30	Judith B. Redding	Q114648250	
+dbl_012_person_31	Judith B. Redding	Q114648250	
+dbl_012_person_32	Judith B. Redding	Q114648250	
+dbl_012_person_33	Judith B. Redding	Q114648250	
+dbl_012_person_34	Judith B. Redding	Q114648250	
+dbl_012_person_35	Judith B. Redding	Q114648250	
+dbl_012_person_36	Judith B. Redding	Q114648250	
+dbl_012_person_37	Ray Hall	Q116786597	
+dbl_012_person_38	Judith B. Redding	Q114648250	
+dbl_012_person_39	Monica Hargrove	Q114647971	
+dbl_012_person_40	Eileen Cave	Q114647741	
+dbl_012_person_41	Warner Traynham	Q116786610	
+dbl_012_person_42	Ray Hall	Q116786597	
+dbl_012_person_43	Judith B. Redding	Q114648250	
+dbl_012_person_44	Andrew Young	Q959635	
+dbl_012_person_45	Warner Traynham	Q116786610	
+dbl_012_person_46	Michael Carter	Q116786639	
+dbl_012_person_47	Melanie Fisher	Q116786643	
+dbl_012_person_48	William Hutchinson	Q116786649	
+dbl_012_person_49	Louise Day Hicks	Q1497875	
+dbl_012_person_50	Tucker		
+dbl_012_person_51	Joe Biden	Q6279	
+dbl_012_person_52	Eileen Cave	Q114647741	
+dbl_012_person_53	Eileen Cave	Q114647741	
+dbl_012_person_54	Harold Washington	Q295584	
+dbl_012_person_55	Harold Washington	Q295584	
+dbl_012_person_56	Jane Byrne	Q295390	
+dbl_012_person_57	James Hutchinson	Q116786676	
+dbl_012_person_58	James Hutchinson	Q116786676	
+dbl_012_person_59	Harold Washington	Q295584	
