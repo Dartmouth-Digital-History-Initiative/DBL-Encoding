@@ -1,92 +1,92 @@
-id	persName
-dbl_019_person_0	Zhory May
-dbl_019_person_1	Wallace Ford
-dbl_019_person_2	Professor Ford
-dbl_019_person_3	Wallace Ford
-dbl_019_person_4	Carmen Ford
-dbl_019_person_5	Ford
-dbl_019_person_6	Wallace
-dbl_019_person_7	Zhory
-dbl_019_person_8	Kareem Abdul-Jabbar
-dbl_019_person_9	Teaneck
-dbl_019_person_10	Zhory
-dbl_019_person_11	Zhory
-dbl_019_person_12	Ford
-dbl_019_person_13	Dandre DeSandie
-dbl_019_person_14	Frantz Fannon
-dbl_019_person_15	James Baldwin
-dbl_019_person_16	James Baldwin
-dbl_019_person_17	Zhory
-dbl_019_person_18	Dr. King
-dbl_019_person_19	George Wallace
-dbl_019_person_20	George Wallace
-dbl_019_person_21	Wallace
-dbl_019_person_22	Martin Luther King
-dbl_019_person_23	Charles Johnson
-dbl_019_person_24	Herschel Johnson
-dbl_019_person_25	Herschel
-dbl_019_person_26	Herschel
-dbl_019_person_27	Malcolm X
-dbl_019_person_28	King
-dbl_019_person_29	Herschel
-dbl_019_person_30	King
-dbl_019_person_31	King
-dbl_019_person_32	Gandhi
-dbl_019_person_33	Sam Smith
-dbl_019_person_34	Wally Ford
-dbl_019_person_35	Wally Ford
-dbl_019_person_36	Harold Hill
-dbl_019_person_37	Robert Maguire
-dbl_019_person_38	Eddie Harris
-dbl_019_person_39	Wally Ford
-dbl_019_person_40	Cecil Rhodes
-dbl_019_person_41	Zhory
-dbl_019_person_42	Perry Mason
-dbl_019_person_43	Wallace
-dbl_019_person_44	Huey Newton
-dbl_019_person_45	Zhory
-dbl_019_person_46	Wallace
-dbl_019_person_47	Wally
-dbl_019_person_48	Zhory
-dbl_019_person_49	Herschel Johnson
-dbl_019_person_50	Wally
-dbl_019_person_51	Peter Bailey
-dbl_019_person_52	Malcolm X
-dbl_019_person_53	Malcolm X.
-dbl_019_person_54	Malcolm X
-dbl_019_person_55	Malcolm X
-dbl_019_person_56	Malcolm X
-dbl_019_person_57	James Baldwin
-dbl_019_person_58	Betty Shabazz
-dbl_019_person_59	Peter
-dbl_019_person_60	James Baldwin's
-dbl_019_person_61	Malcolm X
-dbl_019_person_62	Betty Shabazz
-dbl_019_person_63	Young Malcolm
-dbl_019_person_64	Betty Shabazz
-dbl_019_person_65	Peter
-dbl_019_person_66	Malcolm X's
-dbl_019_person_67	Amir Baraka's
-dbl_019_person_68	Betty Shabazz
-dbl_019_person_69	Wally
-dbl_019_person_70	Peter Bailey
-dbl_019_person_71	Betty Shabazz
-dbl_019_person_72	Betty Shabazz
-dbl_019_person_73	Percy Sutton
-dbl_019_person_74	Betty Shabazz
-dbl_019_person_75	Malcolm X's
-dbl_019_person_76	Betty Shabazz
-dbl_019_person_77	Malcolm X's
-dbl_019_person_78	Illyasah
-dbl_019_person_79	Judith Jamison
-dbl_019_person_80	Alvin Ailey
-dbl_019_person_81	Judith Jamison
-dbl_019_person_82	Lincoln
-dbl_019_person_83	Frederick Douglass
-dbl_019_person_84	W.E.B. Dubois
-dbl_019_person_85	Duke Ellington
-dbl_019_person_86	Walter White
-dbl_019_person_87	Barack Obama
-dbl_019_person_88	Zhory
-dbl_019_person_89	Zhory
-dbl_019_person_90	Tim Scott
+id	persName	QID	dbl_id
+dbl_019_person_0	Zhory May	Q116869384	
+dbl_019_person_1	Wallace Ford	Q116869398	
+dbl_019_person_2	Wallace Ford	Q116869398	
+dbl_019_person_3	Wallace Ford		dbl_0035
+dbl_019_person_4	Carmen Ford		dbl_0036
+dbl_019_person_5	Wallace Ford	Q116869398	
+dbl_019_person_6	George Wallace	Q313776	
+dbl_019_person_7	Zhory May	Q116869384	
+dbl_019_person_8	Kareem Abdul-Jabbar	Q179051	
+dbl_019_person_9	Teaneck		
+dbl_019_person_10	Zhory May	Q116869384	
+dbl_019_person_11	Zhory May	Q116869384	
+dbl_019_person_12	Wallace Ford	Q116869398	
+dbl_019_person_13	Dandre DeSandie		dbl_0037
+dbl_019_person_14	Frantz Fanon	Q193670	
+dbl_019_person_15	James Baldwin	Q273210	
+dbl_019_person_16	James Baldwin	Q273210	
+dbl_019_person_17	Zhory May	Q116869384	
+dbl_019_person_18	Martin Luther King Jr.	Q8027	
+dbl_019_person_19	George Wallace	Q313776	
+dbl_019_person_20	George Wallace	Q313776	
+dbl_019_person_21	George Wallace	Q313776	
+dbl_019_person_22	Martin Luther King Jr.	Q8027	
+dbl_019_person_23	Charles Johnson		dbl_0038
+dbl_019_person_24	Herschel Johnson		dbl_0039
+dbl_019_person_25	Herschel		dbl_0039
+dbl_019_person_26	Herschel		dbl_0039
+dbl_019_person_27	Malcolm X	Q43303	
+dbl_019_person_28	Martin Luther King Jr.	Q8027	
+dbl_019_person_29	Herschel		
+dbl_019_person_30	Martin Luther King Jr.	Q8027	
+dbl_019_person_31	Martin Luther King Jr.	Q8027	
+dbl_019_person_32	Mohandas Karamchand Gandhi	Q1001	
+dbl_019_person_33	Sam Smith		dbl_0040
+dbl_019_person_34	Wallace Ford	Q116869398	
+dbl_019_person_35	Wallace Ford	Q116869398	
+dbl_019_person_36	Errol Hill	Q5395585	
+dbl_019_person_37	Robert Maguire		dbl_0041
+dbl_019_person_38	Eddie Harris	Q1264273	
+dbl_019_person_39	Wallace Ford	Q116869398	
+dbl_019_person_40	Cecil John Rhodes	Q19825	
+dbl_019_person_41	Zhory May	Q116869384	
+dbl_019_person_42	Perry Mason	Q377529	
+dbl_019_person_43	George Wallace	Q313776	
+dbl_019_person_44	Huey P. Newton	Q360570	
+dbl_019_person_45	Zhory May	Q116869384	
+dbl_019_person_46	George Wallace	Q313776	
+dbl_019_person_47	Wallace Ford	Q116869398	
+dbl_019_person_48	Zhory May	Q116869384	
+dbl_019_person_49	Herschel Johnson		dbl_0039
+dbl_019_person_50	Wallace Ford	Q116869398	
+dbl_019_person_51	A. Peter Bailey	Q18097425	
+dbl_019_person_52	Malcolm X	Q43303	
+dbl_019_person_53	Malcolm X	Q43303	
+dbl_019_person_54	Malcolm X	Q43303	
+dbl_019_person_55	Malcolm X	Q43303	
+dbl_019_person_56	Malcolm X	Q43303	
+dbl_019_person_57	James Baldwin	Q273210	
+dbl_019_person_58	Betty Shabazz	Q469198	
+dbl_019_person_59	A. Peter Bailey	Q18097425	
+dbl_019_person_60	James Baldwin	Q273210	
+dbl_019_person_61	Malcolm X	Q43303	
+dbl_019_person_62	Betty Shabazz	Q469198	
+dbl_019_person_63	Malcolm X	Q43303	
+dbl_019_person_64	Betty Shabazz	Q469198	
+dbl_019_person_65	A. Peter Bailey	Q18097425	
+dbl_019_person_66	Betty Shabazz	Q469198	
+dbl_019_person_67	Amina Baraka	Q61373297	
+dbl_019_person_68	Betty Shabazz	Q469198	
+dbl_019_person_69	Wallace Ford	Q116869398	
+dbl_019_person_70	A. Peter Bailey	Q18097425	
+dbl_019_person_71	Betty Shabazz	Q469198	
+dbl_019_person_72	Betty Shabazz	Q469198	
+dbl_019_person_73	Percy Sutton	Q2666555	
+dbl_019_person_74	Betty Shabazz	Q469198	
+dbl_019_person_75	Betty Shabazz	Q469198	
+dbl_019_person_76	Betty Shabazz	Q469198	
+dbl_019_person_77	Betty Shabazz	Q469198	
+dbl_019_person_78	Ilyasah Shabazz	Q6001629	
+dbl_019_person_79	Judith Jamison	Q6303488	
+dbl_019_person_80	Alvin Ailey	Q449037	
+dbl_019_person_81	Judith Jamison	Q6303488	
+dbl_019_person_82	Mary Todd Lincoln	Q215062	
+dbl_019_person_83	Frederick Douglass	Q215562	
+dbl_019_person_84	W. E. B. Du Bois	Q158060	
+dbl_019_person_85	Duke Ellington	Q4030	
+dbl_019_person_86	Walter Francis White	Q3565918	
+dbl_019_person_87	Barack Obama	Q76	
+dbl_019_person_88	Zhory May	Q116869384	
+dbl_019_person_89	Zhory May	Q116869384	
+dbl_019_person_90	Tim Scott	Q561315	
