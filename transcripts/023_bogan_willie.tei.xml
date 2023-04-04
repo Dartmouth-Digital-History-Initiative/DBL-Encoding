@@ -3,11 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with Willie Bogan</title>
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Dartmouth Black Lives</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -15,24 +15,24 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="00:56:08">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/bogan_willie/bogan_willie.mp3" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Vachon Raye</persName>
+            <orgName>Dartmouth Black Lives</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/bogan_willie/bogan_willie_transcript_final.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>Dartmouth Black Lives</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -50,7 +50,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2021-10-28"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -58,14 +58,14 @@
   </teiHeader>
   <text>
     <body>
-      <u who="RAYE">Hi, my name is <persName>Vachon Raye</persName>,class of <date>2024</date>, <orgName>Dartmouth College</orgName> and I'm here with  </u>
-      <u who="BOGAN"><persName>Willie Bogan</persName>,Class of <date>1971</date> </u>
-      <u who="RAYE">I'm working with <orgName>the Dartmouth Black Lives Oral History Program</orgName> here at <orgName>Dartmouth College</orgName>. <date>Today</date> is <date>Thursday</date> <date>October</date>, <date>28</date>, <date>2021</date>, 8:35 pm. I am in <orgName>Topliff Hall</orgName> at <orgName>Dartmouth College</orgName> and Mr. <persName>Willie Bogan</persName> is  </u>
-      <u who="BOGAN">I'm in <placeName>Oakland</placeName>, <placeName>California</placeName>. </u>
-      <u who="RAYE">I want to initially thank you personally for being here, and also on behalf of the <orgName>Program</orgName>. </u>
-      <u who="BOGAN">My pleasure. </u>
+      <u who="RAYE">Hi, my name is <persName>Vachon Raye</persName>, class of <date>2024</date>, <orgName>Dartmouth College</orgName> and I'm here with</u>
+      <u who="BOGAN"><persName>Willie Bogan</persName>, Class of <date>1971</date></u>
+      <u who="RAYE">I'm working with the <orgName>Dartmouth Black Lives Oral History Program</orgName> here at <orgName>Dartmouth College</orgName>. <date when="2021-10-28">Today</date> is <date when="2021-10-28">Thursday October, 28, 2021</date>, 8:35 pm. I am in <placeName>Topliff Hall</placeName> at <orgName>Dartmouth College</orgName> and Mr. <persName>Willie Bogan</persName> is </u>
+      <u who="BOGAN">I'm in <placeName>Oakland, California</placeName>.</u>
+      <u who="RAYE">I want to initially thank you personally for being here, and also on behalf of the <orgName>Program</orgName>.</u>
+      <u who="BOGAN">My pleasure.</u>
       <u who="RAYE">Alright, so my first question is, where did you grow up? What was your childhood like? </u>
-      <u who="BOGAN">I was born in <placeName>Greenville</placeName>, <placeName>Alabama</placeName>. My parents were farmers in <placeName>Alabama</placeName> and when I was <date>about two years old</date>, they moved to <placeName>Michigan</placeName>, where my dad was able to find a job in the factories. This was <name type="event">post-World War Two</name> and there was a massive migration of black folks from the south to the north, and my parents and my family were part of that migration. So, we grew up in a little town in <placeName>Michigan</placeName> call Albion and I had six brothers, two sisters. As I said, my dad worked in a factory and supporting or building parts for the cars that were assembled in <placeName>Detroit</placeName>. In <placeName>Michigan</placeName> the auto industry was the biggest industry so, we were all part of that. The beneficiaries of the auto industry in <placeName>Michigan</placeName>.It was a very modest, my dad made a very modest income but thankfully, we were able to keep a roof over our heads and we had food. And from our standpoint, it was a great childhood. It was a little town, we had a lot of freedom. We essentially didn't have to come in until curfew, which was 10 o'clock at night. We played during <date>the summer</date>. We played baseball and that was our first sport and first love. And it was a very supportive town. Even when I was playing <orgName>Little League and</orgName> Albion you would get your name in the paper for doing certain accomplishments like pitching a no hitter or getting so many hits and what I found is that that was very reinforcing. That it helped to build confidence. It was a community that was very nurturing and so I felt like I was even though it is a small town, I felt like I was somebody and it also was a place which fostered dreams.And I envision myself playing sports at a higher level. I envision myself going to college. One significant thing about our hometown was that it was also a college town. So, we had a lot of professor kids that went to school with us and it elevated the level of competition in the classroom. So it was all in all, it was a very, very happy childhood.</u>
+      <u who="BOGAN">I was born in <placeName>Greenville, Alabama</placeName>. My parents were farmers in <placeName>Alabama</placeName> and when I was about two years old, they moved to <placeName>Michigan</placeName>, where my dad was able to find a job in the factories. This was post-<name type="event">World War Two</name> and there was a <name type="event">massive migration of black folks from the south to the north</name>, and my parents and my family were part of that migration. So, we grew up in a little town in <placeName>Michigan</placeName> call <placeName>Albion</placeName> and I had six brothers, two sisters. As I said, my dad worked in a factory and supporting or building parts for the cars that were assembled in <placeName>Detroit</placeName>. In <placeName>Michigan</placeName> the auto industry was the biggest industry so, we were all part of that. The beneficiaries of the auto industry in <placeName>Michigan</placeName>. It was a very modest, my dad made a very modest income but thankfully, we were able to keep a roof over our heads and we had food. And from our standpoint, it was a great childhood. It was a little town, we had a lot of freedom. We essentially didn't have to come in until curfew, which was 10 o'clock at night. We played during the summer. We played baseball and that was our first sport and first love. And it was a very supportive town. Even when I was playing <orgName>Little League</orgName> and <placeName>Albion</placeName> you would get your name in the paper for doing certain accomplishments like pitching a no hitter or getting so many hits and what I found is that that was very reinforcing. That it helped to build confidence. It was a community that was very nurturing and so I felt like I was even though it is a small town, I felt like I was somebody and it also was a place which fostered dreams. And I envision myself playing sports at a higher level. I envision myself going to college. One significant thing about our hometown was that it was also a college town. So, we had a lot of professor kids that went to school with us and it elevated the level of competition in the classroom. So it was all in all, it was a very, very happy childhood.</u>
       <u who="RAYE">You mentioned sports being a very integral part of your childhood being like a centerpiece, something of value, </u>
       <u who="BOGAN">Yeah. </u>
       <u who="RAYE">How did sports lead you to college for the ones who don’t know you? Yes, so my story is that I played football, basketball, and I ran track through high school. And football probably was my best sport in terms of team sports, although I was a very good track athlete. I ran the 400 meters as well as doing the 400 meter relay and some of the other relays, but football was in terms of team sports was the sport that was my better sport.  I was thinking about going to college, perhaps in the <placeName>Midwest</placeName> where we lived, because we were from a small town. I wasn't going to get interest from big schools like <placeName>Michigan</placeName> or <placeName>Michigan</placeName> state, so I was thinking about maybe the next level down. One day I got a call from <orgName>Dartmouth</orgName>. It was either a call or letter, I can't remember, but they were interested in meeting me at a recruiting event in <placeName>Detroit</placeName>. And the way that happened was that one of my football coaches responded to a questionnaire from <persName>Bob Blackman</persName>, who was the head coach at the time, became a legendary coach at <orgName>Dartmouth</orgName>.<persName>Bob Blackman</persName> was scouring the country going a little bit deeper than schools like <placeName>Michigan</placeName>, <placeName>Michigan State</placeName> had to go just to find student athletes that might be able to compete at <orgName>Dartmouth</orgName>. And he had sent out a questionnaire across the country to high school coaches and I didn't even know, but my coach responded to one of the questionnaires. And indicated that,: I was a person that could compete academically and athletically at a place like <orgName>Dartmouth</orgName>.And so that's how it all began. It was because one of my coaches had enough faith in me, belief in me that he was willing to put my name down and be an advocate for me. One of the lessons I learned from that is that sometimes people around you and know you can envision things for your life that you don't necessarily envision for yourself and that had a tremendous impact on my trajectory.</u>
@@ -122,7 +122,7 @@
       <u who="BOGAN">Yes.  </u>
       <u who="RAYE">Any closing remarks, you could say them now. </u>
       <u who="BOGAN">I would just say that I still believe, you know we talked about how lonely it could be, and one of the things that most of us realized at the time, is that even so, having the opportunity to go to <orgName>Dartmouth</orgName> was a price we were willing to pay for. Because we knew that it was going to make a difference in our lives. So during those difficult times some of us might have thought about whether we would want to continue that challenges, but only for a moment, because we knew that quitting was not an option. That we needed to continue this journey in order to position ourselves for success, and so we always view <orgName>Dartmouth</orgName> as a foundation for that future success. And indeed it was. </u>
-      <u who="RAYE">Well also again. I want to thank you for presenting your time and  experiences. That will conclude our interview. I'm just going to stop sharing. </u>
+      <u who="RAYE">Well also again. I want to thank you for presenting your time and experiences. That will conclude our interview. I'm just going to stop sharing.</u>
     </body>
   </text>
 </TEI>
