@@ -1,9 +1,8 @@
-id	name
-dbl_019_event_0	World War II
-dbl_019_event_1	March on Washington
-dbl_019_event_2	March on Washington
-dbl_019_event_3	March on Washington
-dbl_019_event_4	Vietnam
-dbl_019_event_5	March on Washington
-dbl_019_event_6	took over Parkhurst
-dbl_019_event_7	Black Arts Festival
+id	name	QID	dbl_id	start time	point in time	end time
+dbl_019_event_0	World War II	Q362		1939-09-01T00:00:00Z		1945-09-02T00:00:00Z
+dbl_019_event_1	March on Washington for Jobs and Freedom	Q1128871			1963-08-28T00:00:00Z	
+dbl_019_event_2	March on Washington for Jobs and Freedom	Q1128871			1963-08-28T00:00:00Z	
+dbl_019_event_3	March on Washington for Jobs and Freedom	Q1128871			1963-08-28T00:00:00Z	
+dbl_019_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z		1975-04-30T00:00:00Z
+dbl_019_event_5	March on Washington for Jobs and Freedom	Q1128871			1963-08-28T00:00:00Z	
+dbl_019_event_6	Parkhurst Hall Takeover	Q101424872			1969-05-06T00:00:00Z	
