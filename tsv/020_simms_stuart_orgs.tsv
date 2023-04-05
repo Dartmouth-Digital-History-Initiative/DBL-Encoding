@@ -1,60 +1,60 @@
-id	orgName
-dbl_020_org_0	the Dartmouth Black Lives Oral History Project
-dbl_020_org_1	Morgan State University
-dbl_020_org_2	Gilman School 
-dbl_020_org_3	Gilman
-dbl_020_org_4	the Gilman School
-dbl_020_org_5	Gilman
-dbl_020_org_6	Gilman
-dbl_020_org_7	Dartmouth
-dbl_020_org_8	the Civil Rights Movement
-dbl_020_org_9	the Gilman School
-dbl_020_org_10	Dartmouth
-dbl_020_org_11	Ivy League
-dbl_020_org_12	Brown
-dbl_020_org_13	Yale
-dbl_020_org_14	Dartmouth
-dbl_020_org_15	Dartmouth
-dbl_020_org_16	Ivy League
-dbl_020_org_17	Dartmouth
-dbl_020_org_18	the Gilman School
-dbl_020_org_19	Yale
-dbl_020_org_20	Gilman School
-dbl_020_org_21	Cornell
-dbl_020_org_22	Columbia
-dbl_020_org_23	Dartmouth
-dbl_020_org_24	Ivy League
-dbl_020_org_25	Afro-American Society
-dbl_020_org_26	the Dartmouth Black Alumni
-dbl_020_org_27	Berkeley
-dbl_020_org_28	Berkeley
-dbl_020_org_29	Dartmouth
-dbl_020_org_30	Dartmouth
-dbl_020_org_31	Dartmouth
-dbl_020_org_32	Ivy League
-dbl_020_org_33	Dartmouth
-dbl_020_org_34	Dartmouth
-dbl_020_org_35	Harvard Law School
-dbl_020_org_36	Harvard Law
-dbl_020_org_37	Harvard
-dbl_020_org_38	Harvard
-dbl_020_org_39	Dartmouth
-dbl_020_org_40	Dartmouth
-dbl_020_org_41	MasterCard
-dbl_020_org_42	the Banking Committee
-dbl_020_org_43	the Justice Department
-dbl_020_org_44	the Justice Department
-dbl_020_org_45	US Attorney's office
-dbl_020_org_46	US Attorney's office
-dbl_020_org_47	Juvenile Justice
-dbl_020_org_48	the Public Safety and Corrections
-dbl_020_org_49	the Justice Department
-dbl_020_org_50	Federal Judicial
-dbl_020_org_51	the Justice Department
-dbl_020_org_52	Super Lawyers
-dbl_020_org_53	Dartmouth
-dbl_020_org_54	Dartmouth
-dbl_020_org_55	the Alumni Council
-dbl_020_org_56	Alumni Council
-dbl_020_org_57	the Washington Club of Dartmouth
-dbl_020_org_58	Dartmouth Black Lives
+id	orgName	QID	dbl_id
+dbl_020_org_0	Dartmouth Black Lives	Q114647391	
+dbl_020_org_1	Morgan State University	Q1054905	
+dbl_020_org_2	Gilman School	Q5562478	
+dbl_020_org_3	Gilman School	Q5562478	
+dbl_020_org_4	Gilman School	Q5562478	
+dbl_020_org_5	Gilman School	Q5562478	
+dbl_020_org_6	Gilman School	Q5562478	
+dbl_020_org_7	Dartmouth College	Q49116	
+dbl_020_org_8	the Civil Rights Movement		
+dbl_020_org_9	Gilman School	Q5562478	
+dbl_020_org_10	Dartmouth College	Q49116	
+dbl_020_org_11	Ivy League	Q49113	
+dbl_020_org_12	Brown University	Q49114	
+dbl_020_org_13	Yale University	Q49112	
+dbl_020_org_14	Dartmouth College	Q49116	
+dbl_020_org_15	Dartmouth College	Q49116	
+dbl_020_org_16	Ivy League	Q49113	
+dbl_020_org_17	Dartmouth College	Q49116	
+dbl_020_org_18	Gilman School	Q5562478	
+dbl_020_org_19	Yale University	Q49112	
+dbl_020_org_20	Gilman School	Q5562478	
+dbl_020_org_21	Cornell University	Q49115	
+dbl_020_org_22	Columbia University	Q49088	
+dbl_020_org_23	Dartmouth College	Q49116	
+dbl_020_org_24	Ivy League	Q49113	
+dbl_020_org_25	El-Hajj Malik El-Shabazz Center	Q104931609	
+dbl_020_org_26	Black Alumni of Dartmouth Association	Q116551499	
+dbl_020_org_27	University of California, Berkeley	Q168756	
+dbl_020_org_28	University of California, Berkeley	Q168756	
+dbl_020_org_29	Dartmouth College	Q49116	
+dbl_020_org_30	Dartmouth College	Q49116	
+dbl_020_org_31	Dartmouth College	Q49116	
+dbl_020_org_32	Ivy League	Q49113	
+dbl_020_org_33	Dartmouth College	Q49116	
+dbl_020_org_34	Dartmouth College	Q49116	
+dbl_020_org_35	Harvard Law School	Q49122	
+dbl_020_org_36	Harvard Law School	Q49122	
+dbl_020_org_37	Harvard University	Q13371	
+dbl_020_org_38	Harvard University	Q13371	
+dbl_020_org_39	Dartmouth College	Q49116	
+dbl_020_org_40	Dartmouth College	Q49116	
+dbl_020_org_41	MasterCard		
+dbl_020_org_42	the Banking Committee		
+dbl_020_org_43	United States Department of Justice	Q1553390	
+dbl_020_org_44	United States Department of Justice	Q1553390	
+dbl_020_org_45	United States Attorney	Q2094335	
+dbl_020_org_46	United States Attorney	Q2094335	
+dbl_020_org_47	Juvenile Justice		
+dbl_020_org_48	Maryland Department of Public Safety and Correctional Services	Q6781312	
+dbl_020_org_49	United States Department of Justice	Q1553390	
+dbl_020_org_50	Federal Judicial		
+dbl_020_org_51	United States Department of Justice	Q1553390	
+dbl_020_org_52	Super Lawyers		
+dbl_020_org_53	Dartmouth College	Q49116	
+dbl_020_org_54	Dartmouth College	Q49116	
+dbl_020_org_55	Dartmouth Alumni Council	Q114879368	
+dbl_020_org_56	Dartmouth Alumni Council	Q114879368	
+dbl_020_org_57	the Washington Club of Dartmouth		
+dbl_020_org_58	Dartmouth Black Lives	Q114647391	

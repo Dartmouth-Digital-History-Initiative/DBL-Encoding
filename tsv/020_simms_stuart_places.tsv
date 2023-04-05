@@ -1,28 +1,28 @@
-id	placeName
-dbl_020_place_0	Gamma Delta Chi
-dbl_020_place_1	Hanover
-dbl_020_place_2	New Hampshire
-dbl_020_place_3	Baltimore
-dbl_020_place_4	Baltimore, Maryland,
-dbl_020_place_5	Louise Simms
-dbl_020_place_6	West Baltimore
-dbl_020_place_7	West Baltimore
-dbl_020_place_8	Baltimore
-dbl_020_place_9	Northeast Baltimore
-dbl_020_place_10	Baltimore
-dbl_020_place_11	South Africa
-dbl_020_place_12	America
-dbl_020_place_13	Baltimore
-dbl_020_place_14	Maryland
-dbl_020_place_15	Alabama
-dbl_020_place_16	New York
-dbl_020_place_17	Atlanta
-dbl_020_place_18	Maryland
-dbl_020_place_19	Washington
-dbl_020_place_20	Washington
-dbl_020_place_21	Maryland
-dbl_020_place_22	Baltimore
-dbl_020_place_23	America
-dbl_020_place_24	United States
-dbl_020_place_25	Baltimore
-dbl_020_place_26	Baltimore
+id	placeName	QID	dbl_id	coordinate location
+dbl_020_place_0	Gamma Delta Chi	Q108655616		43.706558,-72.290044
+dbl_020_place_1	Hanover	Q131908		43.7,-72.28333333333333
+dbl_020_place_2	New Hampshire	Q759		44,-71.5
+dbl_020_place_3	Baltimore	Q5092		39.286388888889,-76.615
+dbl_020_place_4	Baltimore	Q5092		39.286388888889,-76.615
+dbl_020_place_5	Louise Simms			
+dbl_020_place_6	West Baltimore	Q14205084		
+dbl_020_place_7	West Baltimore	Q14205084		
+dbl_020_place_8	Baltimore	Q5092		39.286388888889,-76.615
+dbl_020_place_9	Northeast Baltimore	Q113786245		
+dbl_020_place_10	Baltimore	Q5092		39.286388888889,-76.615
+dbl_020_place_11	South Africa	Q258		-29,24
+dbl_020_place_12	United States of America	Q30		39.828175,-98.5795
+dbl_020_place_13	Baltimore	Q5092		39.286388888889,-76.615
+dbl_020_place_14	Maryland	Q1391		39,-76.7
+dbl_020_place_15	Alabama	Q173		32.7,-86.7
+dbl_020_place_16	New York City	Q60		40.7,-74
+dbl_020_place_17	Atlanta	Q23556		33.756944444444,-84.390277777778
+dbl_020_place_18	Maryland	Q1391		39,-76.7
+dbl_020_place_19	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_020_place_20	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_020_place_21	Maryland	Q1391		39,-76.7
+dbl_020_place_22	Baltimore	Q5092		39.286388888889,-76.615
+dbl_020_place_23	United States of America	Q30		39.828175,-98.5795
+dbl_020_place_24	United States of America	Q30		39.828175,-98.5795
+dbl_020_place_25	Baltimore	Q5092		39.286388888889,-76.615
+dbl_020_place_26	Baltimore	Q5092		39.286388888889,-76.615

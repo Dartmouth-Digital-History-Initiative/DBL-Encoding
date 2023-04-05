@@ -1,23 +1,23 @@
-id	persName
-dbl_020_person_0	James McCarthy
-dbl_020_person_1	Stuart Simms
-dbl_020_person_2	Simms
-dbl_020_person_3	Simms
-dbl_020_person_4	Jackie Robinson
-dbl_020_person_5	Joe Louis
-dbl_020_person_6	Muhammad Ali
-dbl_020_person_7	Martin Luther King's
-dbl_020_person_8	[Bob] Blackman
-dbl_020_person_9	Blackman
-dbl_020_person_10	Wayne Young
-dbl_020_person_11	Jim [Wright]
-dbl_020_person_12	Wayne
-dbl_020_person_13	Wayne Young
-dbl_020_person_14	Wayne Young
-dbl_020_person_15	Ben Wilson
-dbl_020_person_16	Electronic Banking
-dbl_020_person_17	Paul S.] Sarbanes
-dbl_020_person_18	Carter
-dbl_020_person_19	Reagan
-dbl_020_person_20	Simms
-dbl_020_person_21	Simms
+id	persName	QID	dbl_id
+dbl_020_person_0	James McCarthy	Q116783487	
+dbl_020_person_1	Stuart O. Simms	Q7626916	
+dbl_020_person_2	Stuart O. Simms	Q7626916	
+dbl_020_person_3	Stuart O. Simms	Q7626916	
+dbl_020_person_4	Jackie Robinson	Q221048	
+dbl_020_person_5	Joe Louis	Q273206	
+dbl_020_person_6	Muhammad Ali	Q36107	
+dbl_020_person_7	Martin Luther King Sr.	Q2603376	
+dbl_020_person_8	Bob Blackman	Q4931848	
+dbl_020_person_9	Bob Blackman	Q4931848	
+dbl_020_person_10	Wayne R. Young	Q116783497	
+dbl_020_person_11	James Wright	Q3161056	
+dbl_020_person_12	Wayne R. Young	Q116783497	
+dbl_020_person_13	Wayne R. Young	Q116783497	
+dbl_020_person_14	Wayne R. Young	Q116783497	
+dbl_020_person_15	Ben Wilson	Q116783507	
+dbl_020_person_16	Electronic Banking		
+dbl_020_person_17	Paul Sarbanes	Q1895804	
+dbl_020_person_18	Jimmy Carter	Q23685	
+dbl_020_person_19	Ronald Reagan	Q9960	
+dbl_020_person_20	Stuart O. Simms	Q7626916	
+dbl_020_person_21	Stuart O. Simms	Q7626916	
