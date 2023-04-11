@@ -174,7 +174,7 @@
       <u who="WILLIAMS">I will do some investigative journalism of my own in the spirit of the interview. I just want to go back to when you are discussing <persName ref="#dbl_012_person_42">Ray Hall</persName> and you're saying that he was studying black people?</u>
       <u who="TURNER">Yeah blacks at <orgName ref="#dbl_012_org_84">Ivy League</orgName> schools. He was always interviewing everybody.</u>
       <u who="WILLIAMS">Did he end up interviewing you? </u>
-      <u who="TURNER">Yeah we did. Honestly I don't I think--cause I think you wrote a book about blacks in the Ivys. But the way he wrote the book, I don't think he had like chapters of people. He just kind of put everything together.</u>
+      <u who="TURNER">Yeah we did. Honestly I don't I think--cause I think you wrote a book about blacks in the <orgName ref="#dbl_012_org_149">Ivys</orgName>. But the way he wrote the book, I don't think he had like chapters of people. He just kind of put everything together.</u>
       <u who="WILLIAMS">As shared experiences. </u>
       <u who="TURNER">Yeah.</u>
       <u who="WILLIAMS">Speaking of which there's a book kind of like that but it's called Upending. The Ivory Tower and talks about civil rights at the <orgName ref="#dbl_012_org_85">Ivy Leagues</orgName>, are you familiar with that? It's a very recent publication.</u>
@@ -1201,6 +1201,9 @@
         <orgName>Columbia</orgName>
       </org>
       <org xml:id="dbl_012_org_148">
+        <orgName>Temple University</orgName>
+      </org>
+      <org xml:id="dbl_012_org_149">
         <orgName>Temple University</orgName>
       </org>
     </listOrg>
