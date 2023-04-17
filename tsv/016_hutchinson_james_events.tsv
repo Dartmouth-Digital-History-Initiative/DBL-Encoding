@@ -1,4 +1,5 @@
-id	name
-dbl_016_event_0	Green Key weekend
-dbl_016_event_1	Watergate
-dbl_016_event_2	Watergate
+id	name	QID	dbl_id	start time	end time	point in time
+dbl_016_event_0	Green Key Weekend 1967	Q117768693		"1972-05-07T00:00:00Z
+"	1972-05-10T00:00:00Z	
+dbl_016_event_1	Watergate scandal	Q42761		1972-06-17T00:00:00Z	1974-08-09T00:00:00Z	
+dbl_016_event_2	Watergate scandal	Q42761		1972-06-17T00:00:00Z	1974-08-09T00:00:00Z	
