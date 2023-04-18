@@ -1,129 +1,129 @@
-id	persName
-dbl_022_person_0	Emilie Hong
-dbl_022_person_1	Ben Wilson
-dbl_022_person_2	Emilie
-dbl_022_person_3	Ben  Wilson
-dbl_022_person_4	Wilson
-dbl_022_person_5	Harrison Benjamin Wilson, Junior.
-dbl_022_person_6	Anna Williams Wilson
-dbl_022_person_7	Emilie
-dbl_022_person_8	Emilie
-dbl_022_person_9	George Washington Lee
-dbl_022_person_10	Emmett Till
-dbl_022_person_11	Mack Charles Parker
-dbl_022_person_12	Bull Connor
-dbl_022_person_13	Medgar [W.] Evers
-dbl_022_person_14	James [E.] Chaney
-dbl_022_person_15	Andrew Goodman
-dbl_022_person_16	Michael [H.] Schwerner
-dbl_022_person_17	Sam Cooke
-dbl_022_person_18	Emilie
-dbl_022_person_19	Emilie
-dbl_022_person_20	Dr. King
-dbl_022_person_21	Davis
-dbl_022_person_22	Cab Calloway
-dbl_022_person_23	Bill Davis
-dbl_022_person_24	Alec Brown
-dbl_022_person_25	Richard Jefferson
-dbl_022_person_26	Emilie
-dbl_022_person_27	Cab Calloway
-dbl_022_person_28	Lucy [R.] Wilson
-dbl_022_person_29	Jennifer
-dbl_022_person_30	Lillian Lane
-dbl_022_person_31	Lottie Thornton
-dbl_022_person_32	Admiral Nelson
-dbl_022_person_33	Harry
-dbl_022_person_34	John
-dbl_022_person_35	Richard
-dbl_022_person_36	Emilie
-dbl_022_person_37	Emilie
-dbl_022_person_38	Shakespeare
-dbl_022_person_39	Robert Wilkinson
-dbl_022_person_40	Bernie Wilkinson
-dbl_022_person_41	Robert Shaw Wilkinson
-dbl_022_person_42	Robert Gould Shaw
-dbl_022_person_43	Robert Gould Shaw
-dbl_022_person_44	Colonel Shaw
-dbl_022_person_45	Robert Wilkinson
-dbl_022_person_46	E.E. Just
-dbl_022_person_47	E.E. Just
-dbl_022_person_48	Wilkinson
-dbl_022_person_49	E.E. Just
-dbl_022_person_50	Robert Wilkinson
-dbl_022_person_51	Tatum
-dbl_022_person_52	Emilie
-dbl_022_person_53	General [Nicholas] Herkimer
-dbl_022_person_54	General Herkimer
-dbl_022_person_55	Herkimer
-dbl_022_person_56	Malcolm Gladwell
-dbl_022_person_57	Gladwell
-dbl_022_person_58	Gladwell
-dbl_022_person_59	Gladwell
-dbl_022_person_60	Gladwell
-dbl_022_person_61	Gladwell
-dbl_022_person_62	Emilie
-dbl_022_person_63	Emilie
-dbl_022_person_64	Ben
-dbl_022_person_65	Emilie Hong
-dbl_022_person_66	Emilie
-dbl_022_person_67	Emilie Hong
-dbl_022_person_68	William McCurine
-dbl_022_person_69	Freddy Fu
-dbl_022_person_70	Freddy
-dbl_022_person_71	Freddy Fu
-dbl_022_person_72	Freddy
-dbl_022_person_73	Harry
-dbl_022_person_74	John
-dbl_022_person_75	Richard
-dbl_022_person_76	Wilson
-dbl_022_person_77	E. E. Just.
-dbl_022_person_78	George Washington Carver
-dbl_022_person_79	Jim Wright
-dbl_022_person_80	Ken Burns
-dbl_022_person_81	Shelby Foote
-dbl_022_person_82	John Bell Hood
-dbl_022_person_83	John Bell Hood
-dbl_022_person_84	Lincoln
-dbl_022_person_85	Lincoln
-dbl_022_person_86	Lincoln
-dbl_022_person_87	W.E.B. Du Bois
-dbl_022_person_88	Julia Bond
-dbl_022_person_89	Percy Julian
-dbl_022_person_90	Will McCurine
-dbl_022_person_91	Jesse Spikes
-dbl_022_person_92	Willie Bogen
-dbl_022_person_93	Jim Wright
-dbl_022_person_94	Nixon
-dbl_022_person_95	George [S.] McGovern
-dbl_022_person_96	Reagan
-dbl_022_person_97	Emilie
-dbl_022_person_98	Griffin [B.] Bell
-dbl_022_person_99	Jimmy Carter
-dbl_022_person_100	Charlie Kirbo
-dbl_022_person_101	Jimmy [E.] Carter
-dbl_022_person_102	Bobby [Robert T.] Jones
-dbl_022_person_103	Tiger [Eldrick T.] Woods
-dbl_022_person_104	Bobby Jones
-dbl_022_person_105	Bobby Jones
-dbl_022_person_106	Stephen Curry
-dbl_022_person_107	Denzel Washington
-dbl_022_person_108	Denzel
-dbl_022_person_109	Denzel Washington
-dbl_022_person_110	Denzel
-dbl_022_person_111	Denzel
-dbl_022_person_112	Denzel
-dbl_022_person_113	Emilie’s
-dbl_022_person_114	Emilie’s
-dbl_022_person_115	Emilie
-dbl_022_person_116	Emilie
-dbl_022_person_117	Wilson
-dbl_022_person_118	Emmett Till
-dbl_022_person_119	Wilson
-dbl_022_person_120	Wilson
-dbl_022_person_121	Lincoln
-dbl_022_person_122	Denzel Washington
-dbl_022_person_123	William Penn
-dbl_022_person_124	Emilie
-dbl_022_person_125	Charles [R.] Drew
-dbl_022_person_126	Alain [L.] Locke
-dbl_022_person_127	Ralph Bunche
+id	persName	QID	dbl_id
+dbl_022_person_0	Emilie Hong	Q117769282	
+dbl_022_person_1	Ben Wilson	Q117769328	
+dbl_022_person_2	Emilie Hong	Q117769282	
+dbl_022_person_3	Ben Wilson	Q117769328	
+dbl_022_person_4	Ben Wilson	Q117769328	
+dbl_022_person_5	Harrison Benjamin Wilson, Jr.	Q117769383	
+dbl_022_person_6	Anna Williams Wilson	Q117769398	
+dbl_022_person_7	Emilie Hong	Q117769282	
+dbl_022_person_8	Emilie Hong	Q117769282	
+dbl_022_person_9	George W. Lee	Q5545673	
+dbl_022_person_10	Emmett Till	Q506878	
+dbl_022_person_11	Mack Charles Parker	Q6724198	
+dbl_022_person_12	Bull Connor	Q1004137	
+dbl_022_person_13	Medgar Evers	Q717985	
+dbl_022_person_14	James E. Chaney	Q41751655	
+dbl_022_person_15	Andrew Goodman	Q331195	
+dbl_022_person_16	Michael Schwerner	Q1354034	
+dbl_022_person_17	Sam Cooke	Q295919	
+dbl_022_person_18	Emilie Hong	Q117769282	
+dbl_022_person_19	Emilie Hong	Q117769282	
+dbl_022_person_20	Martin Luther King Jr.	Q8027	
+dbl_022_person_21	Bill Davis	Q117769423	
+dbl_022_person_22	Cab Calloway	Q273079	
+dbl_022_person_23	Bill Davis	Q117769423	
+dbl_022_person_24	Alec Brown	Q117769428	
+dbl_022_person_25	Richard Jefferson	Q117769433	
+dbl_022_person_26	Emilie Hong	Q117769282	
+dbl_022_person_27	Cab Calloway	Q273079	
+dbl_022_person_28	Lucy Wilson	Q117769435	
+dbl_022_person_29	Jennifer Wilson	Q117769437	
+dbl_022_person_30	Lillian Lane	Q117769439	
+dbl_022_person_31	Lottie Thornton	Q117769441	
+dbl_022_person_32	Horatio Nelson	Q83235	
+dbl_022_person_33	Harry Wilson	Q117769443	
+dbl_022_person_34	John Wilson	Q117769452	
+dbl_022_person_35	Richard Wilson	Q117769454	
+dbl_022_person_36	Emilie Hong	Q117769282	
+dbl_022_person_37	Emilie Hong	Q117769282	
+dbl_022_person_38	William Shakespeare	Q692	
+dbl_022_person_39	Robert Shaw Wilkinson	Q117769457	
+dbl_022_person_40	Marion B. Wilkinson	Q66691296	
+dbl_022_person_41	Robert Shaw Wilkinson	Q117769457	
+dbl_022_person_42	Robert Gould Shaw	Q713931	
+dbl_022_person_43	Robert Gould Shaw	Q713931	
+dbl_022_person_44	Robert Gould Shaw	Q713931	
+dbl_022_person_45	Robert Shaw Wilkinson	Q117769457	
+dbl_022_person_46	Ernest Everett Just	Q724591	
+dbl_022_person_47	Ernest Everett Just	Q724591	
+dbl_022_person_48	Robert Shaw Wilkinson	Q117769457	
+dbl_022_person_49	Ernest Everett Just	Q724591	
+dbl_022_person_50	Robert Shaw Wilkinson	Q117769457	
+dbl_022_person_51	Tatum		
+dbl_022_person_52	Emilie Hong	Q117769282	
+dbl_022_person_53	Nicholas Herkimer	Q321668	
+dbl_022_person_54	Nicholas Herkimer	Q321668	
+dbl_022_person_55	Nicholas Herkimer	Q321668	
+dbl_022_person_56	Malcolm Gladwell	Q318429	
+dbl_022_person_57	Malcolm Gladwell	Q318429	
+dbl_022_person_58	Malcolm Gladwell	Q318429	
+dbl_022_person_59	Malcolm Gladwell	Q318429	
+dbl_022_person_60	Malcolm Gladwell	Q318429	
+dbl_022_person_61	Malcolm Gladwell	Q318429	
+dbl_022_person_62	Emilie Hong	Q117769282	
+dbl_022_person_63	Emilie Hong	Q117769282	
+dbl_022_person_64	Ben Wilson	Q117769328	
+dbl_022_person_65	Emilie Hong	Q117769282	
+dbl_022_person_66	Emilie Hong	Q117769282	
+dbl_022_person_67	Emilie Hong	Q117769282	
+dbl_022_person_68	William McCurine	Q114648071	
+dbl_022_person_69	Freddy Fu	Q117769461	
+dbl_022_person_70	Freddy Fu	Q117769461	
+dbl_022_person_71	Freddy Fu	Q117769461	
+dbl_022_person_72	Freddy Fu	Q117769461	
+dbl_022_person_73	Harry Wilson	Q117769443	
+dbl_022_person_74	John Wilson	Q117769452	
+dbl_022_person_75	Richard Wilson	Q117769454	
+dbl_022_person_76	Ben Wilson	Q117769328	
+dbl_022_person_77	Ernest Everett Just	Q724591	
+dbl_022_person_78	George Washington Carver	Q296898	
+dbl_022_person_79	James Wright	Q3161056	
+dbl_022_person_80	Ken Burns	Q616886	
+dbl_022_person_81	Shelby Foote	Q714250	
+dbl_022_person_82	John Bell Hood	Q553533	
+dbl_022_person_83	John Bell Hood	Q553533	
+dbl_022_person_84	Abraham Lincoln	Q91	
+dbl_022_person_85	Abraham Lincoln	Q91	
+dbl_022_person_86	Abraham Lincoln	Q91	
+dbl_022_person_87	W. E. B. Du Bois	Q158060	
+dbl_022_person_88	Julian Bond	Q6306998	
+dbl_022_person_89	Percy Lavon Julian	Q705852	
+dbl_022_person_90	William McCurine	Q114648071	
+dbl_022_person_91	Jesse Spikes	Q6186863	
+dbl_022_person_92	Willie Bogan	Q114647610	
+dbl_022_person_93	James Wright	Q3161056	
+dbl_022_person_94	Richard Nixon	Q9588	
+dbl_022_person_95	George McGovern	Q331742	
+dbl_022_person_96	Ronald Reagan	Q9960	
+dbl_022_person_97	Emilie Hong	Q117769282	
+dbl_022_person_98	Griffin Bell	Q1335058	
+dbl_022_person_99	Jimmy Carter	Q23685	
+dbl_022_person_100	Charles Kirbo	Q5079818	
+dbl_022_person_101	Jimmy Carter	Q23685	
+dbl_022_person_102	Bobby Jones	Q437526	
+dbl_022_person_103	Tiger Woods	Q10993	
+dbl_022_person_104	Bobby Jones	Q437526	
+dbl_022_person_105	Bobby Jones	Q437526	
+dbl_022_person_106	Stephen Curry	Q352159	
+dbl_022_person_107	Denzel Washington	Q42101	
+dbl_022_person_108	Denzel Washington	Q42101	
+dbl_022_person_109	Denzel Washington	Q42101	
+dbl_022_person_110	Denzel Washington	Q42101	
+dbl_022_person_111	Denzel Washington	Q42101	
+dbl_022_person_112	Denzel Washington	Q42101	
+dbl_022_person_113	Emilie Hong	Q117769282	
+dbl_022_person_114	Emilie Hong	Q117769282	
+dbl_022_person_115	Emilie Hong	Q117769282	
+dbl_022_person_116	Emilie Hong	Q117769282	
+dbl_022_person_117	Ben Wilson	Q117769328	
+dbl_022_person_118	Emmett Till	Q506878	
+dbl_022_person_119	Ben Wilson	Q117769328	
+dbl_022_person_120	Ben Wilson	Q117769328	
+dbl_022_person_121	Abraham Lincoln	Q91	
+dbl_022_person_122	Denzel Washington	Q42101	
+dbl_022_person_123	William Penn	Q209152	
+dbl_022_person_124	Emilie Hong	Q117769282	
+dbl_022_person_125	Charles Richard Drew	Q1065848	
+dbl_022_person_126	Alain LeRoy Locke	Q2120917	
+dbl_022_person_127	Ralph Bunche	Q213500	
