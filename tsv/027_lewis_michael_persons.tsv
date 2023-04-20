@@ -1,14 +1,14 @@
-id	persName
-dbl_027_person_0	Tamonie Brown
-dbl_027_person_1	Michael Lewis
-dbl_027_person_2	Lewis
-dbl_027_person_3	Michael Lewis
-dbl_027_person_4	Al Foley
-dbl_027_person_5	Al Foley
-dbl_027_person_6	Blythe Danner
-dbl_027_person_7	Gwyneth Paltrow
-dbl_027_person_8	Stan Roman
-dbl_027_person_9	Stan
-dbl_027_person_10	Stan
-dbl_027_person_11	Drew
-dbl_027_person_12	Martin Luther King
+id	persName	QID	dbl_id
+dbl_027_person_0	Tamonie Brown	Q115041559	
+dbl_027_person_1	Michael Lewis		
+dbl_027_person_2	Lewis		
+dbl_027_person_3	Michael Lewis		
+dbl_027_person_4	Al Foley		dbl_0044
+dbl_027_person_5	Al Foley		dbl_0044
+dbl_027_person_6	Blythe Danner	Q40064	
+dbl_027_person_7	Gwyneth Paltrow	Q34460	
+dbl_027_person_8	Stan Roman		dbl_0045
+dbl_027_person_9	Stan		dbl_0045
+dbl_027_person_10	Stan		dbl_0045
+dbl_027_person_11	Drew		
+dbl_027_person_12	Martin Luther King Jr.	Q8027	
