@@ -1,98 +1,98 @@
-id	orgName
-dbl_023_org_0	Dartmouth College
-dbl_023_org_1	Dartmouth Black Lives Oral History Program
-dbl_023_org_2	Dartmouth College
-dbl_023_org_3	Dartmouth College
-dbl_023_org_4	Program
-dbl_023_org_5	Little League
-dbl_023_org_6	Michigan
-dbl_023_org_7	Michigan state
-dbl_023_org_8	Dartmouth
-dbl_023_org_9	Dartmouth
-dbl_023_org_10	Michigan
-dbl_023_org_11	Michigan State
-dbl_023_org_12	Dartmouth
-dbl_023_org_13	Dartmouth
-dbl_023_org_14	Naval Academy
-dbl_023_org_15	Naval Academy
-dbl_023_org_16	Sports Center
-dbl_023_org_17	Navy
-dbl_023_org_18	Navy
-dbl_023_org_19	naval Academy
-dbl_023_org_20	Dartmouth
-dbl_023_org_21	Dartmouth
-dbl_023_org_22	Ivy league
-dbl_023_org_23	Ivy League
-dbl_023_org_24	Rhodes scholarship
-dbl_023_org_25	Dartmouth
-dbl_023_org_26	Dartmouth
-dbl_023_org_27	the Dartmouth newspaper
-dbl_023_org_28	Treasury
-dbl_023_org_29	Rhodes scholarship
-dbl_023_org_30	Oxford University
-dbl_023_org_31	Dartmouth
-dbl_023_org_32	Oxford
-dbl_023_org_33	Oxford
-dbl_023_org_34	Oxford
-dbl_023_org_35	NAACP
-dbl_023_org_36	Dartmouth
-dbl_023_org_37	Dartmouth
-dbl_023_org_38	College
-dbl_023_org_39	College
-dbl_023_org_40	Dartmouth
-dbl_023_org_41	Dartmouth
-dbl_023_org_42	College
-dbl_023_org_43	Judicial Advisory Committee
-dbl_023_org_44	Dartmouth
-dbl_023_org_45	Dartmouth
-dbl_023_org_46	Dartmouth
-dbl_023_org_47	Dartmouth
-dbl_023_org_48	Dartmouth
-dbl_023_org_49	Dartmouth
-dbl_023_org_50	Afro Am
-dbl_023_org_51	Black Panthers
-dbl_023_org_52	Afro American Society
-dbl_023_org_53	Afro Am
-dbl_023_org_54	Dartmouth
-dbl_023_org_55	Afro AAM
-dbl_023_org_56	black Praxis
-dbl_023_org_57	Dartmouth
-dbl_023_org_58	Afro AAM
-dbl_023_org_59	Dartmouth
-dbl_023_org_60	Princeton
-dbl_023_org_61	Princeton
-dbl_023_org_62	Princeton
-dbl_023_org_63	Princeton
-dbl_023_org_64	Princeton
-dbl_023_org_65	Princeton
-dbl_023_org_66	Princeton
-dbl_023_org_67	Yale
-dbl_023_org_68	Cornell
-dbl_023_org_69	Yale
-dbl_023_org_70	Cornell
-dbl_023_org_71	Dartmouth
-dbl_023_org_72	Penn State
-dbl_023_org_73	Ivy league
-dbl_023_org_74	Penn state
-dbl_023_org_75	Dartmouth
-dbl_023_org_76	Ivy league
-dbl_023_org_77	Penn State
-dbl_023_org_78	SEC
-dbl_023_org_79	Dartmouth
-dbl_023_org_80	Dartmouth
-dbl_023_org_81	Dartmouth
-dbl_023_org_82	Dartmouth
-dbl_023_org_83	Dartmouth
-dbl_023_org_84	Ivy league
-dbl_023_org_85	Dartmouth
-dbl_023_org_86	Dartmouth
-dbl_023_org_87	University of Salamanca
-dbl_023_org_88	Dartmouth
-dbl_023_org_89	Dartmouth
-dbl_023_org_90	Dartmouth
-dbl_023_org_91	Dartmouth
-dbl_023_org_92	Dartmouth
-dbl_023_org_93	Dartmouth
-dbl_023_org_94	Dartmouth
-dbl_023_org_95	Dartmouth
-dbl_023_org_96	Dartmouth
+id	orgName	QID	dbl_id
+dbl_023_org_0	Dartmouth College	Q49116	
+dbl_023_org_1	Dartmouth Black Lives	Q114647391	
+dbl_023_org_2	Dartmouth College	Q49116	
+dbl_023_org_3	Dartmouth College	Q49116	
+dbl_023_org_4	Dartmouth Black Lives	Q114647391	
+dbl_023_org_5	Little League Baseball	Q608201	
+dbl_023_org_6	University of Michigan	Q230492	
+dbl_023_org_7	Michigan State University	Q270222	
+dbl_023_org_8	Dartmouth College	Q49116	
+dbl_023_org_9	Dartmouth College	Q49116	
+dbl_023_org_10	University of Michigan	Q230492	
+dbl_023_org_11	Michigan State University	Q270222	
+dbl_023_org_12	Dartmouth College	Q49116	
+dbl_023_org_13	Dartmouth College	Q49116	
+dbl_023_org_14	United States Naval Academy	Q559549	
+dbl_023_org_15	United States Naval Academy	Q559549	
+dbl_023_org_16	SportsCenter	Q3131232	
+dbl_023_org_17	United States Naval Academy	Q559549	
+dbl_023_org_18	United States Naval Academy	Q559549	
+dbl_023_org_19	United States Naval Academy	Q559549	
+dbl_023_org_20	Dartmouth College	Q49116	
+dbl_023_org_21	Dartmouth College	Q49116	
+dbl_023_org_22	Ivy League	Q49113	
+dbl_023_org_23	Ivy League	Q49113	
+dbl_023_org_24	Rhodes Scholarship	Q1204346	
+dbl_023_org_25	Dartmouth College	Q49116	
+dbl_023_org_26	Dartmouth College	Q49116	
+dbl_023_org_27	The Dartmouth	Q7729068	
+dbl_023_org_28	United States Department of the Treasury	Q648666	
+dbl_023_org_29	Rhodes Scholarship	Q1204346	
+dbl_023_org_30	University of Oxford	Q34433	
+dbl_023_org_31	Dartmouth College	Q49116	
+dbl_023_org_32	University of Oxford	Q34433	
+dbl_023_org_33	University of Oxford	Q34433	
+dbl_023_org_34	University of Oxford	Q34433	
+dbl_023_org_35	NAACP	Q502044	
+dbl_023_org_36	Dartmouth College	Q49116	
+dbl_023_org_37	Dartmouth College	Q49116	
+dbl_023_org_38	Dartmouth College	Q49116	
+dbl_023_org_39	Dartmouth College	Q49116	
+dbl_023_org_40	Dartmouth College	Q49116	
+dbl_023_org_41	Dartmouth College	Q49116	
+dbl_023_org_42	Dartmouth College	Q49116	
+dbl_023_org_43	Judicial Advisory Committee for Black Students	Q117841519	
+dbl_023_org_44	Dartmouth College	Q49116	
+dbl_023_org_45	Dartmouth College	Q49116	
+dbl_023_org_46	Dartmouth College	Q49116	
+dbl_023_org_47	Dartmouth College	Q49116	
+dbl_023_org_48	Dartmouth College	Q49116	
+dbl_023_org_49	Dartmouth College	Q49116	
+dbl_023_org_50	Afro-American Society	Q114879775	
+dbl_023_org_51	Black Panther Party	Q189150	
+dbl_023_org_52	Afro-American Society	Q114879775	
+dbl_023_org_53	Afro-American Society	Q114879775	
+dbl_023_org_54	Dartmouth College	Q49116	
+dbl_023_org_55	Afro-American Society	Q114879775	
+dbl_023_org_56	Black Praxis	Q115027533	
+dbl_023_org_57	Dartmouth College	Q49116	
+dbl_023_org_58	Afro-American Society	Q114879775	
+dbl_023_org_59	Dartmouth College	Q49116	
+dbl_023_org_60	Princeton University	Q21578	
+dbl_023_org_61	Princeton University	Q21578	
+dbl_023_org_62	Princeton University	Q21578	
+dbl_023_org_63	Princeton University	Q21578	
+dbl_023_org_64	Princeton University	Q21578	
+dbl_023_org_65	Princeton University	Q21578	
+dbl_023_org_66	Princeton University	Q21578	
+dbl_023_org_67	Yale University	Q49112	
+dbl_023_org_68	Cornell University	Q49115	
+dbl_023_org_69	Yale University	Q49112	
+dbl_023_org_70	Cornell University	Q49115	
+dbl_023_org_71	Dartmouth College	Q49116	
+dbl_023_org_72	Pennsylvania State University	Q739627	
+dbl_023_org_73	Ivy League	Q49113	
+dbl_023_org_74	Pennsylvania State University	Q739627	
+dbl_023_org_75	Dartmouth College	Q49116	
+dbl_023_org_76	Ivy League	Q49113	
+dbl_023_org_77	Pennsylvania State University	Q739627	
+dbl_023_org_78	Southeastern Conference	Q963227	
+dbl_023_org_79	Dartmouth College	Q49116	
+dbl_023_org_80	Dartmouth College	Q49116	
+dbl_023_org_81	Dartmouth College	Q49116	
+dbl_023_org_82	Dartmouth College	Q49116	
+dbl_023_org_83	Dartmouth College	Q49116	
+dbl_023_org_84	Ivy League	Q49113	
+dbl_023_org_85	Dartmouth College	Q49116	
+dbl_023_org_86	Dartmouth College	Q49116	
+dbl_023_org_87	University of Salamanca	Q308963	
+dbl_023_org_88	Dartmouth College	Q49116	
+dbl_023_org_89	Dartmouth College	Q49116	
+dbl_023_org_90	Dartmouth College	Q49116	
+dbl_023_org_91	Dartmouth College	Q49116	
+dbl_023_org_92	Dartmouth College	Q49116	
+dbl_023_org_93	Dartmouth College	Q49116	
+dbl_023_org_94	Dartmouth College	Q49116	
+dbl_023_org_95	Dartmouth College	Q49116	
+dbl_023_org_96	Dartmouth College	Q49116	

@@ -1,32 +1,32 @@
-id	persName
-dbl_023_person_0	Vachon Raye
-dbl_023_person_1	Willie Bogan
-dbl_023_person_2	Willie Bogan
-dbl_023_person_3	Bob Blackman
-dbl_023_person_4	Bob Blackman
-dbl_023_person_5	Faust
-dbl_023_person_6	Mullencamp
-dbl_023_person_7	Lee Corso
-dbl_023_person_8	Vachon
-dbl_023_person_9	Henry Paulson ‘68
-dbl_023_person_10	Vachon
-dbl_023_person_11	Roy Wilkins
-dbl_023_person_12	William Shockley
-dbl_023_person_13	William Shockley
-dbl_023_person_14	George Wallace
-dbl_023_person_15	Malcom X
-dbl_023_person_16	Martin Luther King
-dbl_023_person_17	Martin Luther King
-dbl_023_person_18	Martin Luther King
-dbl_023_person_19	Malcom X
-dbl_023_person_20	Martin Luther King
-dbl_023_person_21	William Shockley
-dbl_023_person_22	George Wallace
-dbl_023_person_23	Errol Hill
-dbl_023_person_24	Errol Hill
-dbl_023_person_25	Joe Paterno
-dbl_023_person_26	Bob Blackman
-dbl_023_person_27	Blackman
-dbl_023_person_28	Paterno
-dbl_023_person_29	killer B
-dbl_023_person_30	Martin Luther King
+id	persName	QID	dbl_id
+dbl_023_person_0	Vachon Raye	Q115041453	
+dbl_023_person_1	Willie Bogan	Q114647610	
+dbl_023_person_2	Willie Bogan	Q114647610	
+dbl_023_person_3	Bob Blackman	Q4931848	
+dbl_023_person_4	Bob Blackman	Q4931848	
+dbl_023_person_5	Faust		
+dbl_023_person_6	Mullencamp		
+dbl_023_person_7	Lee Corso	Q6513335	
+dbl_023_person_8	Vachon Raye	Q115041453	
+dbl_023_person_9	Henry Paulson	Q311025	
+dbl_023_person_10	Vachon Raye	Q115041453	
+dbl_023_person_11	Roy Wilkins	Q2738344	
+dbl_023_person_12	William Shockley	Q163415	
+dbl_023_person_13	William Shockley	Q163415	
+dbl_023_person_14	George Wallace	Q313776	
+dbl_023_person_15	Malcolm X	Q43303	
+dbl_023_person_16	Martin Luther King Jr.	Q8027	
+dbl_023_person_17	Martin Luther King Jr.	Q8027	
+dbl_023_person_18	Martin Luther King Jr.	Q8027	
+dbl_023_person_19	Malcolm X	Q43303	
+dbl_023_person_20	Martin Luther King Jr.	Q8027	
+dbl_023_person_21	William Shockley	Q163415	
+dbl_023_person_22	George Wallace	Q313776	
+dbl_023_person_23	Errol Hill	Q5395585	
+dbl_023_person_24	Errol Hill	Q5395585	
+dbl_023_person_25	Joe Paterno	Q546591	
+dbl_023_person_26	Bob Blackman	Q4931848	
+dbl_023_person_27	Bob Blackman	Q4931848	
+dbl_023_person_28	Joe Paterno	Q546591	
+dbl_023_person_29	Willie Bogan	Q114647610	
+dbl_023_person_30	Martin Luther King Jr.	Q8027	
