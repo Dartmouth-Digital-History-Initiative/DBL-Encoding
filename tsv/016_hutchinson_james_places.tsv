@@ -1,134 +1,136 @@
-id	placeName
-dbl_016_place_0	Hitchcock
-dbl_016_place_1	Hanover, New Hampshire
-dbl_016_place_2	mass row
-dbl_016_place_3	Chicago
-dbl_016_place_4	Chicago Illinois
-dbl_016_place_5	Chicago
-dbl_016_place_6	Morgan Park
-dbl_016_place_7	Chicago
-dbl_016_place_8	Morgan Park
-dbl_016_place_9	Morgan Park
-dbl_016_place_10	Morgan Park
-dbl_016_place_11	Paducah Kentucky
-dbl_016_place_12	Alabama
-dbl_016_place_13	Georgia
-dbl_016_place_14	Chicago
-dbl_016_place_15	Chicago
-dbl_016_place_16	Hanover
-dbl_016_place_17	Hanover, New Hampshire
-dbl_016_place_18	Russell Sage Hall
-dbl_016_place_19	mass
-dbl_016_place_20	Thayer Hall
-dbl_016_place_21	Main Street
-dbl_016_place_22	Hitchcock
-dbl_016_place_23	Mass Row
-dbl_016_place_24	Shaker Heights
-dbl_016_place_25	Cleveland
-dbl_016_place_26	Cleveland
-dbl_016_place_27	New York City
-dbl_016_place_28	Hanover
-dbl_016_place_29	Boston
-dbl_016_place_30	New York City
-dbl_016_place_31	Hartford Smith
-dbl_016_place_32	Mt Holyoke
-dbl_016_place_33	Hanover, New Hampshire
-dbl_016_place_34	Hanover
-dbl_016_place_35	America
-dbl_016_place_36	America
-dbl_016_place_37	America
-dbl_016_place_38	America
-dbl_016_place_39	Northeast
-dbl_016_place_40	New Haven Connecticut
-dbl_016_place_41	Aquinas house
-dbl_016_place_42	Fraternity Row
-dbl_016_place_43	Aquinas house
-dbl_016_place_44	Boston
-dbl_016_place_45	New York City
-dbl_016_place_46	Northeast
-dbl_016_place_47	New Haven
-dbl_016_place_48	America
-dbl_016_place_49	New Haven
-dbl_016_place_50	Chicago, Illinois
-dbl_016_place_51	Chicago
-dbl_016_place_52	Alabama
-dbl_016_place_53	New Hampshire
-dbl_016_place_54	America
-dbl_016_place_55	Iowa
-dbl_016_place_56	New Hampshire
-dbl_016_place_57	Webster Hall
-dbl_016_place_58	America
-dbl_016_place_59	America
-dbl_016_place_60	Across America
-dbl_016_place_61	Webster Hall
-dbl_016_place_62	Webster Hall
-dbl_016_place_63	Rauner Hall
-dbl_016_place_64	Illinois
-dbl_016_place_65	Illinois
-dbl_016_place_66	Webster
-dbl_016_place_67	Webster
-dbl_016_place_68	Rauner Hall
-dbl_016_place_69	Webster Hall
-dbl_016_place_70	Mass Hall
-dbl_016_place_71	Mass Hall
-dbl_016_place_72	Webster Hall
-dbl_016_place_73	Hanover New Hampshire
-dbl_016_place_74	UK
-dbl_016_place_75	Hanover
-dbl_016_place_76	Shabazz
-dbl_016_place_77	Chicago
-dbl_016_place_78	Jersey City, New Jersey
-dbl_016_place_79	Newark New Jersey
-dbl_016_place_80	New York City
-dbl_016_place_81	Philadelphia
-dbl_016_place_82	Pittsburgh
-dbl_016_place_83	Chicago
-dbl_016_place_84	Detroit
-dbl_016_place_85	St. Louis
-dbl_016_place_86	Milwaukee
-dbl_016_place_87	Nashville
-dbl_016_place_88	Atlanta
-dbl_016_place_89	South Carolina
-dbl_016_place_90	Cincinnati
-dbl_016_place_91	Hanover Inn
-dbl_016_place_92	the Connecticut River
-dbl_016_place_93	Hanover
-dbl_016_place_94	Hanover
-dbl_016_place_95	Rauner library
-dbl_016_place_96	Hanover
-dbl_016_place_97	Chicago
-dbl_016_place_98	Washington, D.C.
-dbl_016_place_99	Hanover
-dbl_016_place_100	New York City
-dbl_016_place_101	Washington D.C
-dbl_016_place_102	Washington, D.C
-dbl_016_place_103	Watergate
-dbl_016_place_104	Watergate
-dbl_016_place_105	Chicago
-dbl_016_place_106	Chicago
-dbl_016_place_107	Joliet State Prison
-dbl_016_place_108	Joliet
-dbl_016_place_109	Norwich Vermont
-dbl_016_place_110	Chicago
-dbl_016_place_111	Chicago
-dbl_016_place_112	Chicago
-dbl_016_place_113	Chicago
-dbl_016_place_114	Gary, Indiana
-dbl_016_place_115	Indiana
-dbl_016_place_116	Gary
-dbl_016_place_117	Washington
-dbl_016_place_118	Gary Indiana
-dbl_016_place_119	America
-dbl_016_place_120	Gary
-dbl_016_place_121	Chicago
-dbl_016_place_122	New Orleans
-dbl_016_place_123	New Orleans
-dbl_016_place_124	Burlington
-dbl_016_place_125	Cleveland
-dbl_016_place_126	New Orleans
-dbl_016_place_127	Cleveland
-dbl_016_place_128	Savannah Georgia
-dbl_016_place_129	New Orleans
-dbl_016_place_130	New Orleans
-dbl_016_place_131	Houston
-dbl_016_place_132	Chicago
+id	placeName	QID	dbl_id	coordinate location
+dbl_016_place_0	Hitchcock Hall	Q100974511		43.70469,-72.29066
+dbl_016_place_1	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_2	Massachusetts Row	Q105718813		43.703794,-72.290354
+dbl_016_place_3	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_4	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_5	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_6	Morgan Park	Q3323994		41.69,-87.67
+dbl_016_place_7	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_8	Morgan Park	Q3323994		41.69,-87.67
+dbl_016_place_9	Morgan Park	Q3323994		41.69,-87.67
+dbl_016_place_10	Morgan Park	Q3323994		41.69,-87.67
+dbl_016_place_11	Paducah	Q984377		37.072222222222,-88.6275
+dbl_016_place_12	Alabama	Q173		32.7,-86.7
+dbl_016_place_13	Georgia	Q1428		33,-83.5
+dbl_016_place_14	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_15	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_16	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_17	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_18	Russell Sage Hall	Q100707799		43.7054,-72.29063
+dbl_016_place_19	Massachusetts Row	Q105718813		43.703794,-72.290354
+dbl_016_place_20	Class of 1953 Commons	Q98636574		43.70309,-72.29092
+dbl_016_place_21	Main Street			43.701978, -72.289348
+dbl_016_place_22	Hitchcock Hall	Q100974511		43.70469,-72.29066
+dbl_016_place_23	Massachusetts Row	Q105718813		43.703794,-72.290354
+dbl_016_place_24	Shaker Heights	Q1065497		41.476388888889,-81.551666666667
+dbl_016_place_25	Cleveland	Q37320		41.482222222222,-81.669722222222
+dbl_016_place_26	Cleveland	Q37320		41.482222222222,-81.669722222222
+dbl_016_place_27	New York City	Q60		40.7,-74
+dbl_016_place_28	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_29	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_016_place_30	New York City	Q60		40.7,-74
+dbl_016_place_31	Smith College	Q49204		42.3175,-72.6375
+dbl_016_place_32	Mount Holyoke	Q3321866		42.300833333333,-72.586944444444
+dbl_016_place_33	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_34	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_35	United States of America	Q30		39.828175,-98.5795
+dbl_016_place_36	United States of America	Q30		39.828175,-98.5795
+dbl_016_place_37	United States of America	Q30		39.828175,-98.5795
+dbl_016_place_38	United States of America	Q30		39.828175,-98.5795
+dbl_016_place_39	Northeastern United States	Q24460		42,-73
+dbl_016_place_40	New Haven	Q49145		41.308333333333,-72.925
+dbl_016_place_41	Aquinas House	Q104889608		43.7075792,-72.2939045
+dbl_016_place_42	Fraternity Row			"43.706376, -72.291621
+
+"
+dbl_016_place_43	Aquinas House	Q104889608		43.7075792,-72.2939045
+dbl_016_place_44	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_016_place_45	New York City	Q60		40.7,-74
+dbl_016_place_46	Northeastern United States	Q24460		42,-73
+dbl_016_place_47	New Haven	Q49145		41.308333333333,-72.925
+dbl_016_place_48	United States of America	Q30		39.828175,-98.5795
+dbl_016_place_49	New Haven	Q49145		41.308333333333,-72.925
+dbl_016_place_50	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_51	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_52	Alabama	Q173		32.7,-86.7
+dbl_016_place_53	New Hampshire	Q759		44,-71.5
+dbl_016_place_54	United States of America	Q30		39.828175,-98.5795
+dbl_016_place_55	Iowa	Q1546		42,-93
+dbl_016_place_56	New Hampshire	Q759		44,-71.5
+dbl_016_place_57	Webster Hall	Q105045865		43.704469,72.288169
+dbl_016_place_58	United States of America	Q30		39.828175,-98.5795
+dbl_016_place_59	United States of America	Q30		39.828175,-98.5795
+dbl_016_place_60	Across America			
+dbl_016_place_61	Webster Hall	Q105045865		43.704469,72.288169
+dbl_016_place_62	Webster Hall	Q105045865		43.704469,72.288169
+dbl_016_place_63	Webster Hall	Q105045865		43.704469,72.288169
+dbl_016_place_64	Illinois	Q1204		40.000277777777775,-89.25027777777778
+dbl_016_place_65	Illinois	Q1204		40.000277777777775,-89.25027777777778
+dbl_016_place_66	Webster Hall	Q105045865		43.704469,72.288169
+dbl_016_place_67	Webster Hall	Q105045865		43.704469,72.288169
+dbl_016_place_68	Webster Hall	Q105045865		43.704469,72.288169
+dbl_016_place_69	Webster Hall	Q105045865		43.704469,72.288169
+dbl_016_place_70	North Massachusetts Hall	Q100952541		43.7041,-72.2906
+dbl_016_place_71	North Massachusetts Hall	Q100952541		43.7041,-72.2906
+dbl_016_place_72	Webster Hall	Q105045865		43.704469,72.288169
+dbl_016_place_73	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_74	United Kingdom	Q145		54.6,-2
+dbl_016_place_75	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_76	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_016_place_77	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_78	Jersey City	Q26339		40.71,-74.06
+dbl_016_place_79	Newark	Q25395		40.735277777778,-74.185
+dbl_016_place_80	New York City	Q60		40.7,-74
+dbl_016_place_81	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dbl_016_place_82	Pittsburgh	Q1342		40.44166666666667,-80
+dbl_016_place_83	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_84	Detroit	Q12439		42.331666666667,-83.0475
+dbl_016_place_85	St. Louis	Q38022		38.62638888888889,-90.19944444444444
+dbl_016_place_86	Milwaukee	Q37836		43.05,-87.95
+dbl_016_place_87	Nashville	Q23197		36.16222222222222,-86.77444444444444
+dbl_016_place_88	Atlanta	Q23556		33.756944444444,-84.390277777778
+dbl_016_place_89	South Carolina	Q1456		34,-81
+dbl_016_place_90	Cincinnati	Q43196		39.1,-84.5125
+dbl_016_place_91	The Hanover Public House	Q26483062		51.945524,1.288893
+dbl_016_place_92	Connecticut River	Q379648		45.2375,-71.2
+dbl_016_place_93	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_94	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_95	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dbl_016_place_96	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_97	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_98	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_016_place_99	Hanover	Q131908		43.7,-72.28333333333333
+dbl_016_place_100	New York City	Q60		40.7,-74
+dbl_016_place_101	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_016_place_102	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_016_place_103	Watergate complex	Q1419538		38.89888888888889,-77.05416666666666
+dbl_016_place_104	Watergate complex	Q1419538		38.89888888888889,-77.05416666666666
+dbl_016_place_105	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_106	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_107	Joliet Correctional Center	Q1702652		41.546944444444,-88.074166666667
+dbl_016_place_108	Joliet Correctional Center	Q1702652		41.546944444444,-88.074166666667
+dbl_016_place_109	Norwich	Q1510465		43.730277777778,-72.303055555556
+dbl_016_place_110	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_111	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_112	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_113	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_114	Gary	Q184116		41.580833333333,-87.345555555556
+dbl_016_place_115	Indiana	Q1415		39.933333333333,-86.216666666667
+dbl_016_place_116	Gary	Q184116		41.580833333333,-87.345555555556
+dbl_016_place_117	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_016_place_118	Gary	Q184116		41.580833333333,-87.345555555556
+dbl_016_place_119	United States of America	Q30		39.828175,-98.5795
+dbl_016_place_120	Gary	Q184116		41.580833333333,-87.345555555556
+dbl_016_place_121	Chicago	Q1297		41.85003,-87.65005
+dbl_016_place_122	New Orleans	Q34404		29.95465,-90.07507
+dbl_016_place_123	New Orleans	Q34404		29.95465,-90.07507
+dbl_016_place_124	Burlington	Q31058		44.4876246,-73.2314828
+dbl_016_place_125	Cleveland	Q37320		41.482222222222,-81.669722222222
+dbl_016_place_126	New Orleans	Q34404		29.95465,-90.07507
+dbl_016_place_127	Cleveland	Q37320		41.482222222222,-81.669722222222
+dbl_016_place_128	Savannah	Q83813		32.050833333333,-81.103888888889
+dbl_016_place_129	New Orleans	Q34404		29.95465,-90.07507
+dbl_016_place_130	New Orleans	Q34404		29.95465,-90.07507
+dbl_016_place_131	Houston	Q16555		29.762777777778,-95.383055555556
+dbl_016_place_132	Chicago	Q1297		41.85003,-87.65005
