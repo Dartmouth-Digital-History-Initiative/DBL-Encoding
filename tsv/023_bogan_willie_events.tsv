@@ -1,4 +1,4 @@
-id	name
-dbl_023_event_0	World War Two
-dbl_023_event_1	massive migration of black folks from the south to the north
-dbl_023_event_2	Vietnam War
+id	name	QID	dbl_id	start time	end time	point in time
+dbl_023_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dbl_023_event_1	Great Migration	Q1506365		1916-01-01T00:00:00Z	1970-01-01T00:00:00Z	
+dbl_023_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
