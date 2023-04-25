@@ -1,28 +1,28 @@
-id	placeName
-dbl_023_place_0	Topliff Hall
-dbl_023_place_1	Oakland, California
-dbl_023_place_2	Greenville, Alabama
-dbl_023_place_3	Alabama
-dbl_023_place_4	Michigan
-dbl_023_place_5	Michigan
-dbl_023_place_6	Albion
-dbl_023_place_7	Detroit
-dbl_023_place_8	Michigan
-dbl_023_place_9	Michigan
-dbl_023_place_10	Albion
-dbl_023_place_11	Detroit
-dbl_023_place_12	Vietnam
-dbl_023_place_13	Michigan
-dbl_023_place_14	United States
-dbl_023_place_15	United States
-dbl_023_place_16	New York
-dbl_023_place_17	Green
-dbl_023_place_18	Mississippi
-dbl_023_place_19	Hanover
-dbl_023_place_20	United States
-dbl_023_place_21	Michigan
-dbl_023_place_22	New Hampshire
-dbl_023_place_23	San Jose Costa Rica
-dbl_023_place_24	Salamanca Spain
-dbl_023_place_25	Clarksdale, Mississippi
-dbl_023_place_26	Hanover
+id	placeName	QID	dbl_id	coordinate location
+dbl_023_place_0	Topliff Hall	Q105076922		43.702657,-72.286084
+dbl_023_place_1	Oakland	Q17042		37.8,-122.25
+dbl_023_place_2	Greenville	Q79362		31.831273,-86.627567
+dbl_023_place_3	Alabama	Q173		32.7,-86.7
+dbl_023_place_4	Michigan	Q1166		44.34,-85.58
+dbl_023_place_5	Michigan	Q1166		44.34,-85.58
+dbl_023_place_6	Albion	Q2327553		42.2467,-84.7533
+dbl_023_place_7	Detroit	Q12439		42.331666666667,-83.0475
+dbl_023_place_8	Michigan	Q1166		44.34,-85.58
+dbl_023_place_9	Michigan	Q1166		44.34,-85.58
+dbl_023_place_10	Albion	Q2327553		42.2467,-84.7533
+dbl_023_place_11	Detroit	Q12439		42.331666666667,-83.0475
+dbl_023_place_12	Vietnam	Q881		16,108
+dbl_023_place_13	Michigan	Q1166		44.34,-85.58
+dbl_023_place_14	United States of America	Q30		39.828175,-98.5795
+dbl_023_place_15	United States of America	Q30		39.828175,-98.5795
+dbl_023_place_16	New York City	Q60		40.7,-74
+dbl_023_place_17	The Green	Q7738117		43.7033,-72.2886
+dbl_023_place_18	Mississippi	Q1494		33,-90
+dbl_023_place_19	Hanover	Q131908		43.7,-72.28333333333333
+dbl_023_place_20	United States of America	Q30		39.828175,-98.5795
+dbl_023_place_21	Michigan	Q1166		44.34,-85.58
+dbl_023_place_22	New Hampshire	Q759		44,-71.5
+dbl_023_place_23	San José	Q3070		9.932511111111111,-84.07958055555555
+dbl_023_place_24	Salamanca	Q1773521		40.43,-3.677778
+dbl_023_place_25	Clarksdale	Q990145		34.20063888888889,-90.57022222222223
+dbl_023_place_26	Hanover	Q131908		43.7,-72.28333333333333
