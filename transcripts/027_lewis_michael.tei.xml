@@ -100,7 +100,7 @@
       <u who="BROWN">And why did you decide to go to law school?</u>
       <u who="LEWIS">Oh, I think in the end, I decided to go to law school because I decided that a BA in government didn't equip me to do very much. And if I wanted to make my way in the world, I'd better figure out how I was going to do it, and law degrees, at least then, were viewed as, you could do lots of things with a law degree, you didn't just have to practice law. You could be a policy advisor for someone, or you could do all sorts of things. So, it seemed flexible, and it wasn't, at that time, it wasn't as expensive as it is now. So, you know, I didn't end up with a hundred thousand dollars in debt or two hundred thousand dollars in debt. I had some debt, but it was much more manageable than the debt is for kids now, for students now.</u>
       <u who="BROWN">Right. And I saw that you went to <orgName ref="#dbl_027_org_70">Georgetown</orgName> for law school. Why did you choose <orgName ref="#dbl_027_org_71">Georgetown</orgName> specifically?</u>
-      <u who="LEWIS">Because I was back in <placeName ref="#dbl_027_place_20">Washington</placeName>, <placeName ref="#dbl_027_place_21">Georgetown</placeName> then, I think still is, the best law school in town, and I wasn't particularly eager to uproot myself and go to <placeName ref="#dbl_027_place_22">New York</placeName> or <placeName ref="#dbl_027_place_23">Boston</placeName> or <placeName ref="#dbl_027_place_24">LA</placeName>. I was sort of enjoying being back in <placeName ref="#dbl_027_place_25">Washington</placeName>.</u>
+      <u who="LEWIS">Because I was back in <placeName ref="#dbl_027_place_20">Washington</placeName>, <orgName ref="#dbl_027_org_93">Georgetown</orgName> then, I think still is, the best law school in town, and I wasn't particularly eager to uproot myself and go to <placeName ref="#dbl_027_place_22">New York</placeName> or <placeName ref="#dbl_027_place_23">Boston</placeName> or <placeName ref="#dbl_027_place_24">LA</placeName>. I was sort of enjoying being back in <placeName ref="#dbl_027_place_25">Washington</placeName>.</u>
       <u who="BROWN">Yeah. So, with your career within the law field in general, not just as a lawyer, what would you say is your biggest accomplishment in your opinion?</u>
       <u who="LEWIS">Although I'm a lawyer, I have spent most of my time as a lawyer acting as a neutral, as a mediator and as an arbitrator. And so, two things about that. The first is, it turns out that when I first started getting interested in mediation and arbitration, I did it while I was working at a nonprofit organization that was interested in those two things. And I was sort of at the forefront of changing the legal world, being part of a smallish group of people who were saying, “Well, gee, we shouldn't rely on courts for everything, and we should try this new stuff and see whether it has any legs.” And so, I'm proud of being at the forefront of that. And then there are particular cases that I'm proud of having been involved with and probably the one that has the greatest significance was a big case involving Black Farmers suing the <orgName ref="#dbl_027_org_72">Department of Agriculture</orgName>. I was the mediator in that case and that was pretty important. The federal government actually paid out about 2 billion dollars to Black Farmers for past acts of discrimination, so that's a big deal.</u>
       <u who="BROWN">Yeah, that's very impressive. Thank you for sharing that. So, my next question, you mentioned that you got involved with a non-profit when doing the mediation. Was that <orgName ref="#dbl_027_org_73">JAMS</orgName> (organization originally called <orgName ref="#dbl_027_org_74">Judicial Arbitration and Mediation Services</orgName> founded in <date when="1979">1979</date>) or a different organization?</u>
@@ -186,9 +186,6 @@
       </place>
       <place xml:id="dbl_027_place_20">
         <placeName>Washington</placeName>
-      </place>
-      <place xml:id="dbl_027_place_21">
-        <placeName>Georgetown</placeName>
       </place>
       <place xml:id="dbl_027_place_22">
         <placeName>New York</placeName>
@@ -532,6 +529,9 @@
       </org>
       <org xml:id="dbl_027_org_92">
         <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_027_org_93">
+        <orgName>Georgetown</orgName>
       </org>
     </listOrg>
   </standOff>
