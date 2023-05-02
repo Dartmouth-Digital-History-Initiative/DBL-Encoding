@@ -1,51 +1,51 @@
-id	persName
-dbl_008_person_0	Hosaena Tilahun
-dbl_008_person_1	Judy Redding
-dbl_008_person_2	JB
-dbl_008_person_3	J.B.
-dbl_008_person_4	Judy
-dbl_008_person_5	J.B.
-dbl_008_person_6	Louis Redding — Louis L. Redding
-dbl_008_person_7	Ruth Cook Redding
-dbl_008_person_8	Louis
-dbl_008_person_9	Louis Redding
-dbl_008_person_10	[Kwame] Nkrumah
-dbl_008_person_11	Dr. Redding
-dbl_008_person_12	Mrs. Redding
-dbl_008_person_13	Ms. [Monica] Hargrove ['76]
-dbl_008_person_14	Eileen Cave ['76]
-dbl_008_person_15	Monica
-dbl_008_person_16	Eileen
-dbl_008_person_17	Karen Turner ['76]
-dbl_008_person_18	Karen
-dbl_008_person_19	Eileen
-dbl_008_person_20	Monica Hargrove
-dbl_008_person_21	Eileen Cave
-dbl_008_person_22	Joan Smith
-dbl_008_person_23	Joan Smith
-dbl_008_person_24	Judy
-dbl_008_person_25	Joan Smith
-dbl_008_person_26	Kwame Ofori Kwage
-dbl_008_person_27	Bimmas Paul
-dbl_008_person_28	Joan Smith
-dbl_008_person_29	Joan Smith's
-dbl_008_person_30	Tawana Brawley
-dbl_008_person_31	Monica
-dbl_008_person_32	Monica
-dbl_008_person_33	Monica
-dbl_008_person_34	J.B.
-dbl_008_person_35	Monica
-dbl_008_person_36	Cave
-dbl_008_person_37	Cave
-dbl_008_person_38	Eileen Cave
-dbl_008_person_39	Cave
-dbl_008_person_40	Karen [M.] Turner, ['76]
-dbl_008_person_41	Karen Marie Turner
-dbl_008_person_42	Karen
-dbl_008_person_43	Cave, Eileen Cave
-dbl_008_person_44	Lloyd
-dbl_008_person_45	Monica
-dbl_008_person_46	Kate
-dbl_008_person_47	Holmes
-dbl_008_person_48	Holmes
-dbl_008_person_49	J.B.
+id	persName	QID	dbl_id
+dbl_008_person_0	Hosaena Tilahun	Q115027024	
+dbl_008_person_1	Judith B. Redding	Q114648250	
+dbl_008_person_2	Judith B. Redding	Q114648250	
+dbl_008_person_3	Judith B. Redding	Q114648250	
+dbl_008_person_4	Judy	Q40747396	
+dbl_008_person_5	Judith B. Redding	Q114648250	
+dbl_008_person_6	Louis L. Redding	Q16014164	
+dbl_008_person_7	Ruth Cook Redding		
+dbl_008_person_8	Louis L. Redding	Q16014164	
+dbl_008_person_9	Louis L. Redding	Q16014164	
+dbl_008_person_10	Kwame Nkrumah	Q8620	
+dbl_008_person_11	Louis L. Redding	Q16014164	
+dbl_008_person_12	Mrs. Redding		
+dbl_008_person_13	Monica Hargrove	Q114647971	
+dbl_008_person_14	Eileen Cave	Q114647741	
+dbl_008_person_15	Monica Hargrove	Q114647971	
+dbl_008_person_16	Eileen Cave	Q114647741	
+dbl_008_person_17	Karen M. Turner	Q115024973	
+dbl_008_person_18	Karen M. Turner	Q115024973	
+dbl_008_person_19	Eileen Cave	Q114647741	
+dbl_008_person_20	Monica Hargrove	Q114647971	
+dbl_008_person_21	Eileen Cave	Q114647741	
+dbl_008_person_22	Joan Smith	Q115026162	
+dbl_008_person_23	Joan Smith	Q115026162	
+dbl_008_person_24	Judy	Q40747396	
+dbl_008_person_25	Joan Smith	Q115026162	
+dbl_008_person_26	Kwame Ofori Kwage		
+dbl_008_person_27	Bimmas Paul		
+dbl_008_person_28	Joan Smith	Q115026162	
+dbl_008_person_29	Joan Smith	Q115026162	
+dbl_008_person_30	Tawana Brawley	Q65658806	
+dbl_008_person_31	Monica Hargrove	Q114647971	
+dbl_008_person_32	Monica Hargrove	Q114647971	
+dbl_008_person_33	Monica Hargrove	Q114647971	
+dbl_008_person_34	Judith B. Redding	Q114648250	
+dbl_008_person_35	Monica Hargrove	Q114647971	
+dbl_008_person_36	Eileen Cave	Q114647741	
+dbl_008_person_37	Eileen Cave	Q114647741	
+dbl_008_person_38	Eileen Cave	Q114647741	
+dbl_008_person_39	Eileen Cave	Q114647741	
+dbl_008_person_40	Karen M. Turner	Q115024973	
+dbl_008_person_41	Karen M. Turner	Q115024973	
+dbl_008_person_42	Karen M. Turner	Q115024973	
+dbl_008_person_43	Eileen Cave	Q114647741	
+dbl_008_person_44	Lloyd		
+dbl_008_person_45	Monica Hargrove	Q114647971	
+dbl_008_person_46	Kate		
+dbl_008_person_47	Holmes		
+dbl_008_person_48	Holmes		
+dbl_008_person_49	Judith B. Redding	Q114648250	
