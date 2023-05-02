@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Ricki Fairley</title>
+        <title>Transcript of an Interview with Ricki Fairley</title>
       </titleStmt>
       <publicationStmt>
         <authority>
@@ -26,7 +26,7 @@
             <persName>Sabrina Eager</persName>
             <orgName>Dartmouth Black Lives</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
-          </respStmt>
+          </respStmt>A
           <ref target="path_to_file">Primary transcription</ref>
         </bibl>
       </sourceDesc>
@@ -78,7 +78,7 @@
       <u who="BOBB">Yes!</u>
       <u who="FAIRLEY">Being the third class of girls where the senior class was still all males...Again, I had come from this environment where I was with all girls so just to have any men around me was a thing. I don't I know what the ratio was. We go back and forth about [it].  Some people say 15 to 1, 10 to 1, 8 to 1, but there were a lot more men than women. And so just getting used to, just being around men in general was a thing for me because I had been in an all girls school. But I don't think it ever really phased me. I think that, maybe freshmen year the senior class was still all male so they would kind of look at you still like "Who are you?"... and then Friday you were a girl!I learned pretty quickly that I didn't really think I could go into a frat house. It was [the] Animal House [movie]... I never set foot into a frat until <persName ref="#dbl_013_person_9">Amanda</persName> [<orgName ref="#dbl_013_org_26">‘07</orgName>] went to <orgName ref="#dbl_013_org_27">Dartmouth</orgName>.</u>
       <u who="BOBB">Okay. <persName ref="#dbl_013_person_10">Amanda</persName> is your daughter, right?</u>
-      <u who="FAIRLEY"><orgName ref="#dbl_013_org_28">Amanda</orgName>, my <orgName ref="#dbl_013_org_29">'07</orgName>... my daughter that's an <orgName ref="#dbl_013_org_30">'07</orgName>. Then I was hanging out in the frats with her, you know [laughter]! But... I never really went to frats.I had such a great time. We had an all-Black cheerleading squad for the Basketball team and we were hot.</u>
+      <u who="FAIRLEY"><persName ref="dbl_013_person_67">Amanda</persName>, my <orgName ref="#dbl_013_org_29">'07</orgName>... my daughter that's an <orgName ref="#dbl_013_org_30">'07</orgName>. Then I was hanging out in the frats with her, you know [laughter]! But... I never really went to frats.I had such a great time. We had an all-Black cheerleading squad for the Basketball team and we were hot.</u>
       <u who="BOBB">You said you were really hot?</u>
       <u who="FAIRLEY">We were totally hot. We were totally hot and, and I danced in <orgName ref="#dbl_013_org_31">BUTA</orgName> [Black Underground Theatre and Arts] and, I don't know... I had a very Black experience at <orgName ref="#dbl_013_org_32">Dartmouth</orgName> with my <orgName ref="#dbl_013_org_33">Dartmouth</orgName> friends. My two roommates are still my besties.</u>
       <u who="BOBB">And their names are?</u>
@@ -523,6 +523,9 @@
       <person xml:id="dbl_013_person_66">
         <persName>Ricki Fairley</persName>
       </person>
+      <person xml:id="dbl_013_person_67">
+        <persName>Amanda</persName>
+      </person>
     </listPerson>
     <listOrg>
       <org xml:id="dbl_013_org_0">
@@ -608,9 +611,6 @@
       </org>
       <org xml:id="dbl_013_org_27">
         <orgName>Dartmouth</orgName>
-      </org>
-      <org xml:id="dbl_013_org_28">
-        <orgName>Amanda</orgName>
       </org>
       <org xml:id="dbl_013_org_29">
         <orgName>'07</orgName>
