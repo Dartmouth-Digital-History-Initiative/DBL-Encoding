@@ -1,15 +1,15 @@
-id	name
-dbl_022_event_0	Brown versus Board of Education
-dbl_022_event_1	second World War
-dbl_022_event_2	Brown versus Board of Education
-dbl_022_event_3	Little Rock cases
-dbl_022_event_4	Trafalgar
-dbl_022_event_5	Civil War
-dbl_022_event_6	 Civil War
-dbl_022_event_7	Civil War
-dbl_022_event_8	American Revolution
-dbl_022_event_9	the Civil War
-dbl_022_event_10	Civil War
-dbl_022_event_11	Watergate
-dbl_022_event_12	Katrina
-dbl_022_event_13	Katrina
+id	name	QID	dbl_id	start time	end time	point in time
+dbl_022_event_0	Brown v. Board of Education	Q875738				1954-05-17T00:00:00Z
+dbl_022_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dbl_022_event_2	Brown v. Board of Education	Q875738				1954-05-17T00:00:00Z
+dbl_022_event_3	Little Rock Nine	Q1190828				
+dbl_022_event_4	Battle of Trafalgar	Q171416				1805-10-21T00:00:00Z
+dbl_022_event_5	American Civil War	Q8676		1861-04-12T00:00:00Z	1865-05-09T00:00:00Z	
+dbl_022_event_6	American Civil War	Q8676		1861-04-12T00:00:00Z	1865-05-09T00:00:00Z	
+dbl_022_event_7	American Civil War	Q8676		1861-04-12T00:00:00Z	1865-05-09T00:00:00Z	
+dbl_022_event_8	American Revolutionary War	Q40949		1775-04-19T00:00:00Z	1783-09-03T00:00:00Z	
+dbl_022_event_9	American Civil War	Q8676		1861-04-12T00:00:00Z	1865-05-09T00:00:00Z	
+dbl_022_event_10	American Civil War	Q8676		1861-04-12T00:00:00Z	1865-05-09T00:00:00Z	
+dbl_022_event_11	Watergate scandal	Q42761		1972-06-17T00:00:00Z	1974-08-09T00:00:00Z	
+dbl_022_event_12	Hurricane Katrina	Q16422		2005-08-23T00:00:00Z	2005-08-31T00:00:00Z	
+dbl_022_event_13	Hurricane Katrina	Q16422		2005-08-23T00:00:00Z	2005-08-31T00:00:00Z	
