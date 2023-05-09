@@ -1,7 +1,7 @@
-id	name
-dbl_006_event_0	William Shockley [1969] visit to campus
-dbl_006_event_1	the Yale Bowl
-dbl_006_event_2	Kent State happened [Ohio National Guard killing of Kent State University college students amid anti-war protests on May 4, 1970]
-dbl_006_event_3	the Vietnam War
-dbl_006_event_4	Kent State
-dbl_006_event_5	the war in Vietnam
+id	name	QID	dbl_id	start time	end time	point in time
+dbl_006_event_0	Shockley Incident	Q115024875				1969-10-15T00:00:00Z
+dbl_006_event_1	the Yale Bowl					
+dbl_006_event_2	Kent State shootings	Q482635				1970-05-04T00:00:00Z
+dbl_006_event_3	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dbl_006_event_4	Kent State shootings	Q482635				1970-05-04T00:00:00Z
+dbl_006_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
