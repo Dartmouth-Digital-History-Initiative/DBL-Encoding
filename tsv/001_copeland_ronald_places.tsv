@@ -1,4 +1,4 @@
-id	placeName	QID	dbl_id	coordinate location
+﻿id	placeName	QID	dbl_id	coordinate location
 dbl_001_place_0	River Cluster	Q108887715		43.704013,-72.296405
 dbl_001_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dbl_001_place_2	Hanover	Q131908		43.7,-72.28333333333333
@@ -63,3 +63,4 @@ dbl_001_place_60	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-
 dbl_001_place_61	Orange	Q1087121		40.768,-74.2357
 dbl_001_place_62	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
 dbl_001_place_63	Chicago	Q1297		41.85003,-87.65005
+dbl_001_place_64	Edison Technology School	Q16966773		43.17811934955426, -77.67110828465523
