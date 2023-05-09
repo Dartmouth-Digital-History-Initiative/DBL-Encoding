@@ -1,121 +1,121 @@
 id	placeName	QID	dbl_id	coordinate location
-dbl_019_place_0	Gile Hall	Q100977444		"43.70468,-72.29118"
-dbl_019_place_1	Hanover	Q131908		"43.7,-72.28333333333333"
-dbl_019_place_2	Harlem	Q189074		"40.809033333333,-73.948372222222"
-dbl_019_place_3	Harlem	Q189074		"40.809033333333,-73.948372222222"
-dbl_019_place_4	Harlem	Q189074		"40.809033333333,-73.948372222222"
-dbl_019_place_5	Puerto Rico	Q2076337		"18.2,-66.4"
-dbl_019_place_6	Staten Island	Q18432		"40.576280555556,-74.144838888889"
-dbl_019_place_7	Harlem	Q189074		"40.809033333333,-73.948372222222"
-dbl_019_place_8	New York City	Q60		"40.7,-74"
-dbl_019_place_9	New York City	Q60		"40.7,-74"
-dbl_019_place_10	Honshu	Q13989		"36,138"
-dbl_019_place_11	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_12	Honshu	Q13989		"36,138"
-dbl_019_place_13	Honshu	Q13989		"36,138"
-dbl_019_place_14	Honshu	Q13989		"36,138"
-dbl_019_place_15	Hokkaido	Q35581		"43.46055555555556,142.79222222222222"
-dbl_019_place_16	Alaska	Q797		"64,-150"
-dbl_019_place_17	Honshu	Q13989		"36,138"
-dbl_019_place_18	Seattle	Q5083		"47.60621,-122.33207"
-dbl_019_place_19	Seattle	Q5083		"47.60621,-122.33207"
-dbl_019_place_20	Fukuoka	Q26600		"33.59013888888889,130.40172222222222"
-dbl_019_place_21	Honshu	Q13989		"36,138"
-dbl_019_place_22	Jersey City	Q26339		"40.71,-74.06"
-dbl_019_place_23	Honshu	Q13989		"36,138"
-dbl_019_place_24	Usu Island	Q15133347		"-10.523611,123.407778"
-dbl_019_place_25	Honshu	Q13989		"36,138"
-dbl_019_place_26	New York City	Q60		"40.7,-74"
-dbl_019_place_27	New York City	Q60		"40.7,-74"
-dbl_019_place_28	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_29	Honshu	Q13989		"36,138"
-dbl_019_place_30	Puerto Rico	Q2076337		"18.2,-66.4"
-dbl_019_place_31	Puerto Rico	Q2076337		"18.2,-66.4"
-dbl_019_place_32	Honshu	Q13989		"36,138"
-dbl_019_place_33	New York City	Q60		"40.7,-74"
-dbl_019_place_34	New York City	Q60		"40.7,-74"
-dbl_019_place_35	Honshu	Q13989		"36,138"
-dbl_019_place_36	Tokyo	Q1490		"35.68955555555556,139.6917222222222"
-dbl_019_place_37	Tokyo	Q1490		"35.68955555555556,139.6917222222222"
-dbl_019_place_38	Honshu	Q13989		"36,138"
-dbl_019_place_39	Tokyo	Q1490		"35.68955555555556,139.6917222222222"
-dbl_019_place_40	Puerto Rico	Q2076337		"18.2,-66.4"
-dbl_019_place_41	Puerto Rico	Q2076337		"18.2,-66.4"
-dbl_019_place_42	New York City	Q60		"40.7,-74"
-dbl_019_place_43	New Rochelle	Q744948		"40.908611111111,-73.781944444444"
-dbl_019_place_44	Teaneck	Q991387		"40.8975,-74.016111111111"
-dbl_019_place_45	Teaneck	Q991387		"40.8975,-74.016111111111"
-dbl_019_place_46	Teaneck	Q991387		"40.8975,-74.016111111111"
-dbl_019_place_47	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_48	Teaneck	Q991387		"40.8975,-74.016111111111"
-dbl_019_place_49	New York City	Q60		"40.7,-74"
-dbl_019_place_50	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_51	Teaneck	Q991387		"40.8975,-74.016111111111"
-dbl_019_place_52	Baltimore	Q5092		"39.286388888889,-76.615"
-dbl_019_place_53	Hanover	Q131908		"43.7,-72.28333333333333"
-dbl_019_place_54	Englewood	Q986210		"40.893343,-73.975801"
-dbl_019_place_55	"Washington, D.C."	Q61		"38.895,-77.036666666667"
-dbl_019_place_56	New Hampshire	Q759		"44,-71.5"
-dbl_019_place_57	Birmingham	Q79867		"33.5175,-86.80944444444444"
-dbl_019_place_58	Webster Hall	Q105045865		"43.704469,72.288169"
-dbl_019_place_59	Webster Hall	Q105045865		"43.704469,72.288169"
-dbl_019_place_60	New Hampshire	Q759		"44,-71.5"
+dbl_019_place_0	Gile Hall	Q100977444		43.70468,-72.29118
+dbl_019_place_1	Hanover	Q131908		43.7,-72.28333333333333
+dbl_019_place_2	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_019_place_3	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_019_place_4	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_019_place_5	Puerto Rico	Q2076337		18.2,-66.4
+dbl_019_place_6	Staten Island	Q18432		40.576280555556,-74.144838888889
+dbl_019_place_7	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_019_place_8	New York City	Q60		40.7,-74
+dbl_019_place_9	New York City	Q60		40.7,-74
+dbl_019_place_10	Honshu	Q13989		36,138
+dbl_019_place_11	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_12	Honshu	Q13989		36,138
+dbl_019_place_13	Honshu	Q13989		36,138
+dbl_019_place_14	Honshu	Q13989		36,138
+dbl_019_place_15	Hokkaido	Q35581		43.46055555555556,142.79222222222222
+dbl_019_place_16	Alaska	Q797		64,-150
+dbl_019_place_17	Honshu	Q13989		36,138
+dbl_019_place_18	Seattle	Q5083		47.60621,-122.33207
+dbl_019_place_19	Seattle	Q5083		47.60621,-122.33207
+dbl_019_place_20	Fukuoka	Q26600		33.59013888888889,130.40172222222222
+dbl_019_place_21	Honshu	Q13989		36,138
+dbl_019_place_22	Jersey City	Q26339		40.71,-74.06
+dbl_019_place_23	Honshu	Q13989		36,138
+dbl_019_place_24	Usu Island	Q15133347		-10.523611,123.407778
+dbl_019_place_25	Honshu	Q13989		36,138
+dbl_019_place_26	New York City	Q60		40.7,-74
+dbl_019_place_27	New York City	Q60		40.7,-74
+dbl_019_place_28	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_29	Honshu	Q13989		36,138
+dbl_019_place_30	Puerto Rico	Q2076337		18.2,-66.4
+dbl_019_place_31	Puerto Rico	Q2076337		18.2,-66.4
+dbl_019_place_32	Honshu	Q13989		36,138
+dbl_019_place_33	New York City	Q60		40.7,-74
+dbl_019_place_34	New York City	Q60		40.7,-74
+dbl_019_place_35	Honshu	Q13989		36,138
+dbl_019_place_36	Tokyo	Q1490		35.68955555555556,139.6917222222222
+dbl_019_place_37	Tokyo	Q1490		35.68955555555556,139.6917222222222
+dbl_019_place_38	Honshu	Q13989		36,138
+dbl_019_place_39	Tokyo	Q1490		35.68955555555556,139.6917222222222
+dbl_019_place_40	Puerto Rico	Q2076337		18.2,-66.4
+dbl_019_place_41	Puerto Rico	Q2076337		18.2,-66.4
+dbl_019_place_42	New York City	Q60		40.7,-74
+dbl_019_place_43	New Rochelle	Q744948		40.908611111111,-73.781944444444
+dbl_019_place_44	Teaneck	Q991387		40.8975,-74.016111111111
+dbl_019_place_45	Teaneck	Q991387		40.8975,-74.016111111111
+dbl_019_place_46	Teaneck	Q991387		40.8975,-74.016111111111
+dbl_019_place_47	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_48	Teaneck	Q991387		40.8975,-74.016111111111
+dbl_019_place_49	New York City	Q60		40.7,-74
+dbl_019_place_50	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_51	Teaneck	Q991387		40.8975,-74.016111111111
+dbl_019_place_52	Baltimore	Q5092		39.286388888889,-76.615
+dbl_019_place_53	Hanover	Q131908		43.7,-72.28333333333333
+dbl_019_place_54	Englewood	Q986210		40.893343,-73.975801
+dbl_019_place_55	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_019_place_56	New Hampshire	Q759		44,-71.5
+dbl_019_place_57	Birmingham	Q79867		33.5175,-86.80944444444444
+dbl_019_place_58	Webster Hall	Q105045865		43.704469,72.288169
+dbl_019_place_59	Webster Hall	Q105045865		43.704469,72.288169
+dbl_019_place_60	New Hampshire	Q759		44,-71.5
 dbl_019_place_61	Herschel			
-dbl_019_place_62	Rollins Chapel	Q105718771		"43.7044879,-72.2895365"
-dbl_019_place_63	Sierra Leone	Q1044		"8.5,-12.1"
-dbl_019_place_64	Jersey City	Q26339		"40.71,-74.06"
-dbl_019_place_65	Mississippi	Q1494		"33,-90"
-dbl_019_place_66	Jersey City	Q26339		"40.71,-74.06"
-dbl_019_place_67	Chicago	Q1297		"41.85003,-87.65005"
-dbl_019_place_68	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_69	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_70	Jersey City	Q26339		"40.71,-74.06"
-dbl_019_place_71	New Hampshire	Q759		"44,-71.5"
-dbl_019_place_72	New Hampshire	Q759		"44,-71.5"
-dbl_019_place_73	Columbia University	Q49088		"40.8075,-73.961944444444"
-dbl_019_place_74	Parkhurst Hall	Q100952777		"43.70404,-72.28995"
-dbl_019_place_75	Parkhurst Hall	Q100952777		"43.70404,-72.28995"
-dbl_019_place_76	Vermont	Q16551		"44,-72.7"
-dbl_019_place_77	New York City	Q60		"40.7,-74"
-dbl_019_place_78	Jersey City	Q26339		"40.71,-74.06"
-dbl_019_place_79	Harlem	Q189074		"40.809033333333,-73.948372222222"
-dbl_019_place_80	Harlem	Q189074		"40.809033333333,-73.948372222222"
-dbl_019_place_81	New York City	Q60		"40.7,-74"
-dbl_019_place_82	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_83	Columbia University	Q49088		"40.8075,-73.961944444444"
-dbl_019_place_84	New York City	Q60		"40.7,-74"
-dbl_019_place_85	Wake Island	Q43296		"19.3,166.63333333333"
-dbl_019_place_86	New York City	Q60		"40.7,-74"
-dbl_019_place_87	Teaneck	Q991387		"40.8975,-74.016111111111"
-dbl_019_place_88	Boston	Q100		"42.360277777777775,-71.05777777777777"
-dbl_019_place_89	Teaneck	Q991387		"40.8975,-74.016111111111"
-dbl_019_place_90	St. Louis	Q38022		"38.62638888888889,-90.19944444444444"
-dbl_019_place_91	St. Louis	Q38022		"38.62638888888889,-90.19944444444444"
-dbl_019_place_92	New York City	Q60		"40.7,-74"
-dbl_019_place_93	Honshu	Q13989		"36,138"
-dbl_019_place_94	Hanover	Q131908		"43.7,-72.28333333333333"
-dbl_019_place_95	Ghana	Q117		"8,-0.5"
-dbl_019_place_96	New York City	Q60		"40.7,-74"
-dbl_019_place_97	Harlem	Q189074		"40.809033333333,-73.948372222222"
+dbl_019_place_62	Rollins Chapel	Q105718771		43.7044879,-72.2895365
+dbl_019_place_63	Sierra Leone	Q1044		8.5,-12.1
+dbl_019_place_64	Jersey City	Q26339		40.71,-74.06
+dbl_019_place_65	Mississippi	Q1494		33,-90
+dbl_019_place_66	Jersey City	Q26339		40.71,-74.06
+dbl_019_place_67	Chicago	Q1297		41.85003,-87.65005
+dbl_019_place_68	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_69	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_70	Jersey City	Q26339		40.71,-74.06
+dbl_019_place_71	New Hampshire	Q759		44,-71.5
+dbl_019_place_72	New Hampshire	Q759		44,-71.5
+dbl_019_place_73	Columbia University	Q49088		40.8075,-73.961944444444
+dbl_019_place_74	Parkhurst Hall	Q100952777		43.70404,-72.28995
+dbl_019_place_75	Parkhurst Hall	Q100952777		43.70404,-72.28995
+dbl_019_place_76	Vermont	Q16551		44,-72.7
+dbl_019_place_77	New York City	Q60		40.7,-74
+dbl_019_place_78	Jersey City	Q26339		40.71,-74.06
+dbl_019_place_79	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_019_place_80	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_019_place_81	New York City	Q60		40.7,-74
+dbl_019_place_82	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_83	Columbia University	Q49088		40.8075,-73.961944444444
+dbl_019_place_84	New York City	Q60		40.7,-74
+dbl_019_place_85	Wake Island	Q43296		19.3,166.63333333333
+dbl_019_place_86	New York City	Q60		40.7,-74
+dbl_019_place_87	Teaneck	Q991387		40.8975,-74.016111111111
+dbl_019_place_88	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_019_place_89	Teaneck	Q991387		40.8975,-74.016111111111
+dbl_019_place_90	St. Louis	Q38022		38.62638888888889,-90.19944444444444
+dbl_019_place_91	St. Louis	Q38022		38.62638888888889,-90.19944444444444
+dbl_019_place_92	New York City	Q60		40.7,-74
+dbl_019_place_93	Honshu	Q13989		36,138
+dbl_019_place_94	Hanover	Q131908		43.7,-72.28333333333333
+dbl_019_place_95	Ghana	Q117		8,-0.5
+dbl_019_place_96	New York City	Q60		40.7,-74
+dbl_019_place_97	Harlem	Q189074		40.809033333333,-73.948372222222
 dbl_019_place_98	the Red Rooster		dbl_0030	
-dbl_019_place_99	Jersey City	Q26339		"40.71,-74.06"
-dbl_019_place_100	Ghana	Q117		"8,-0.5"
-dbl_019_place_101	New York City	Q60		"40.7,-74"
-dbl_019_place_102	Los Angeles	Q65		"34.05223,-118.24368"
-dbl_019_place_103	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_104	South Africa	Q55155433		"25.21288,55.183437"
-dbl_019_place_105	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_106	Boston	Q100		"42.360277777777775,-71.05777777777777"
-dbl_019_place_107	New York City	Q60		"40.7,-74"
-dbl_019_place_108	Hanover	Q131908		"43.7,-72.28333333333333"
-dbl_019_place_109	Hanover	Q131908		"43.7,-72.28333333333333"
-dbl_019_place_110	Jersey City	Q26339		"40.71,-74.06"
-dbl_019_place_111	Spain	Q29		"40.2,-3.5"
-dbl_019_place_112	Spain	Q29		"40.2,-3.5"
-dbl_019_place_113	Spain	Q29		"40.2,-3.5"
-dbl_019_place_114	Spain	Q29		"40.2,-3.5"
-dbl_019_place_115	Spain	Q29		"40.2,-3.5"
-dbl_019_place_116	Tulsa	Q44989		"36.131388888889,-95.937222222222"
-dbl_019_place_117	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_118	United States of America	Q30		"39.828175,-98.5795"
-dbl_019_place_119	Teaneck			
+dbl_019_place_99	Jersey City	Q26339		40.71,-74.06
+dbl_019_place_100	Ghana	Q117		8,-0.5
+dbl_019_place_101	New York City	Q60		40.7,-74
+dbl_019_place_102	Los Angeles	Q65		34.05223,-118.24368
+dbl_019_place_103	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_104	South Africa	Q55155433		25.21288,55.183437
+dbl_019_place_105	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_106	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_019_place_107	New York City	Q60		40.7,-74
+dbl_019_place_108	Hanover	Q131908		43.7,-72.28333333333333
+dbl_019_place_109	Hanover	Q131908		43.7,-72.28333333333333
+dbl_019_place_110	Jersey City	Q26339		40.71,-74.06
+dbl_019_place_111	Spain	Q29		40.2,-3.5
+dbl_019_place_112	Spain	Q29		40.2,-3.5
+dbl_019_place_113	Spain	Q29		40.2,-3.5
+dbl_019_place_114	Spain	Q29		40.2,-3.5
+dbl_019_place_115	Spain	Q29		40.2,-3.5
+dbl_019_place_116	Tulsa	Q44989		36.131388888889,-95.937222222222
+dbl_019_place_117	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_118	United States of America	Q30		39.828175,-98.5795
+dbl_019_place_119	Teaneck	Q991387		40.8975,-74.016111111111
