@@ -38,9 +38,6 @@ dbl_005_place_35	Magnificent Mile	Q285218		41.89535,-87.624319444444
 dbl_005_place_36	Chicago	Q1297		41.85003,-87.65005
 dbl_005_place_37	Chicago	Q1297		41.85003,-87.65005
 dbl_005_place_38	New England	Q18389		44.205555555556,-70.306425
-dbl_005_place_39	Midwestern United States	Q186545		41,-90
-dbl_005_place_40	Midwestern United States	Q186545		41,-90
-dbl_005_place_41	Midwestern United States	Q186545		41,-90
 dbl_005_place_42	Chicago	Q1297		41.85003,-87.65005
 dbl_005_place_43	Hanover	Q131908		43.7,-72.28333333333333
 dbl_005_place_44	Chicago	Q1297		41.85003,-87.65005
@@ -61,7 +58,7 @@ dbl_005_place_58	El-Hajj Malik El-Shabazz Center	Q114879775		43.70678140394604,-
 dbl_005_place_59	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
 dbl_005_place_60	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
 dbl_005_place_61	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
-dbl_005_place_62	Hanover ABC house			41.9039, 87.6315
+dbl_005_place_62	Hanover ABC house	Q61747277		23.8610762,90.363965
 dbl_005_place_63	Philadelphia	Q1345		39.952777777778,-75.163611111111
 dbl_005_place_64	ABC House	Q61747277		23.8610762,90.363965
 dbl_005_place_65	Manchester	Q48370		42.990833333333,-71.463611111111
@@ -94,4 +91,3 @@ dbl_005_place_91	University of Oxford	Q34433		51.755,-1.255
 dbl_005_place_92	Chicago	Q1297		41.85003,-87.65005
 dbl_005_place_93	University of Cambridge	Q35794		52.205355979757925,0.11315726963968827
 dbl_005_place_94	Boston	Q100		42.360277777777775,-71.05777777777777
-dbl_005_place_95	Agnes			41.9039, 87.6315
