@@ -1,4 +1,4 @@
-id	orgName	QID	dbl_id
+﻿id	orgName	QID	dbl_id
 dbl_027_org_0	Dartmouth College	Q49116	
 dbl_027_org_1	Dartmouth College	Q49116	
 dbl_027_org_2	United States Foreign Service	Q3480437	
@@ -37,7 +37,6 @@ dbl_027_org_34	Dartmouth College	Q49116
 dbl_027_org_35	Delta Upsilon	Q5254771	
 dbl_027_org_36	Foley House Cooperative	Q101064569	
 dbl_027_org_37	Delta Upsilon	Q5254771	
-dbl_027_org_38	International Convention		
 dbl_027_org_39	Foley House Cooperative	Q101064569	
 dbl_027_org_40	Delta Upsilon	Q5254771	
 dbl_027_org_41	Dartmouth College	Q49116	
@@ -92,3 +91,4 @@ dbl_027_org_89	Dartmouth College	Q49116
 dbl_027_org_90	Casque and Gauntlet	Q5049130	
 dbl_027_org_91	Dartmouth Black Lives	Q114647391	
 dbl_027_org_92	Dartmouth College	Q49116	
+dbl_027_org_93	Georgetown	Q846101	
