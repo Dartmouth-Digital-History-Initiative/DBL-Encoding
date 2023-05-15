@@ -1,52 +1,52 @@
 id	placeName	QID	coordinate location
-dbl_006_place_0	Dartmouth College	Q49116	"43.703333333333,-72.288333333333"
-dbl_006_place_1	Hanover	Q131908	"43.7,-72.28333333333333"
-dbl_006_place_2	New Rochelle	Q744948	"40.908611111111,-73.781944444444"
-dbl_006_place_3	Clifton Forge	Q1373469	"37.819801,-79.823584"
-dbl_006_place_4	South Point	Q280269	"38.4192,-82.5806"
-dbl_006_place_5	Burlington	Q2000682	"38.41,-82.5281"
-dbl_006_place_6	New York City	Q60	"40.7,-74"
-dbl_006_place_7	Boston	Q100	"42.360277777777775,-71.05777777777777"
-dbl_006_place_8	Hanover	Q131908	"43.7,-72.28333333333333"
-dbl_006_place_9	Boston	Q100	"42.360277777777775,-71.05777777777777"
-dbl_006_place_10	Ohio	Q1397	"40.5,-82.5"
-dbl_006_place_11	Brooklyn	Q18419	"40.692777777778,-73.990277777778"
-dbl_006_place_12	Ohio	Q1397	"40.5,-82.5"
-dbl_006_place_13	Baker-Berry Library	Q4849183	"43.70545,-72.2887"
-dbl_006_place_14	Cincinnati	Q43196	"39.1,-84.5125"
-dbl_006_place_15	Class of 1953 Commons	Q98636574	"43.70309,-72.29092"
-dbl_006_place_16	Boston	Q100	"42.360277777777775,-71.05777777777777"
-dbl_006_place_17	United States of America	Q30	"39.828175,-98.5795"
-dbl_006_place_18	Gilman Hall	Q118237180	"43.70866760785431,-72.28496966931046"
-dbl_006_place_19	Baltimore	Q5092	"39.286388888889,-76.615"
-dbl_006_place_20	Baltimore	Q5092	"39.286388888889,-76.615"
-dbl_006_place_21	Baltimore	Q5092	"39.286388888889,-76.615"
-dbl_006_place_23	Baltimore	Q5092	"39.286388888889,-76.615"
-dbl_006_place_24	Baltimore	Q5092	"39.286388888889,-76.615"
-dbl_006_place_25	New Hampshire	Q759	"44,-71.5"
-dbl_006_place_26	New Hampshire	Q759	"44,-71.5"
-dbl_006_place_27	New Hampshire	Q759	"44,-71.5"
-dbl_006_place_28	New Hampshire	Q759	"44,-71.5"
-dbl_006_place_29	Penn State Milton S. Hershey Medical Center	Q7163263	"40.2647,-76.6763"
-dbl_006_place_30	Harvard Stadium	Q1587879	"42.366389,-71.127222"
-dbl_006_place_31	Hanover	Q131908	"43.7,-72.28333333333333"
-dbl_006_place_32	Ohio	Q1397	"40.5,-82.5"
-dbl_006_place_33	Chicago	Q1297	"41.85003,-87.65005"
-dbl_006_place_34	France	Q142	"47,2"
-dbl_006_place_35	Boston	Q100	"42.360277777777775,-71.05777777777777"
-dbl_006_place_36	Vermont	Q16551	"44,-72.7"
-dbl_006_place_37	Massachusetts	Q771	"42.3,-71.8"
-dbl_006_place_38	Hanover	Q131908	"43.7,-72.28333333333333"
-dbl_006_place_39	Boston	Q100	"42.360277777777775,-71.05777777777777"
-dbl_006_place_40	Boston	Q100	"42.360277777777775,-71.05777777777777"
-dbl_006_place_41	Class of 1953 Commons	Q98636574	"43.70309,-72.29092"
-dbl_006_place_42	Class of 1953 Commons	Q98636574	"43.70309,-72.29092"
-dbl_006_place_43	Class of 1953 Commons	Q98636574	"43.70309,-72.29092"
-dbl_006_place_44	Class of 1953 Commons	Q98636574	"43.70309,-72.29092"
-dbl_006_place_45	Class of 1953 Commons	Q98636574	"43.70309,-72.29092"
-dbl_006_place_46	Class of 1953 Commons	Q98636574	"43.70309,-72.29092"
-dbl_006_place_47	Dartmouth College	Q49116	"43.703333333333,-72.288333333333"
-dbl_006_place_48	Hanover	Q131908	"43.7,-72.28333333333333"
-dbl_006_place_49	Hanover	Q131908	"43.7,-72.28333333333333"
-dbl_006_place_50	Hanover	Q131908	"43.7,-72.28333333333333"
-dbl_006_place_51	the Yale Bowl	Q1535796	"41.3132¡ N, 72.9605¡ W"
+dbl_006_place_0	Dartmouth College	Q49116	43.703333333333,-72.288333333333
+dbl_006_place_1	Hanover	Q131908	43.7,-72.28333333333333
+dbl_006_place_2	New Rochelle	Q744948	40.908611111111,-73.781944444444
+dbl_006_place_3	Clifton Forge	Q1373469	37.819801,-79.823584
+dbl_006_place_4	South Point	Q280269	38.4192,-82.5806
+dbl_006_place_5	Burlington	Q2000682	38.41,-82.5281
+dbl_006_place_6	New York City	Q60	40.7,-74
+dbl_006_place_7	Boston	Q100	42.360277777777775,-71.05777777777777
+dbl_006_place_8	Hanover	Q131908	43.7,-72.28333333333333
+dbl_006_place_9	Boston	Q100	42.360277777777775,-71.05777777777777
+dbl_006_place_10	Ohio	Q1397	40.5,-82.5
+dbl_006_place_11	Brooklyn	Q18419	40.692777777778,-73.990277777778
+dbl_006_place_12	Ohio	Q1397	40.5,-82.5
+dbl_006_place_13	Baker-Berry Library	Q4849183	43.70545,-72.2887
+dbl_006_place_14	Cincinnati	Q43196	39.1,-84.5125
+dbl_006_place_15	Class of 1953 Commons	Q98636574	43.70309,-72.29092
+dbl_006_place_16	Boston	Q100	42.360277777777775,-71.05777777777777
+dbl_006_place_17	United States of America	Q30	39.828175,-98.5795
+dbl_006_place_18	Gilman Hall	Q118237180	43.70866760785431,-72.28496966931046
+dbl_006_place_19	Baltimore	Q5092	39.286388888889,-76.615
+dbl_006_place_20	Baltimore	Q5092	39.286388888889,-76.615
+dbl_006_place_21	Baltimore	Q5092	39.286388888889,-76.615
+dbl_006_place_23	Baltimore	Q5092	39.286388888889,-76.615
+dbl_006_place_24	Baltimore	Q5092	39.286388888889,-76.615
+dbl_006_place_25	New Hampshire	Q759	44,-71.5
+dbl_006_place_26	New Hampshire	Q759	44,-71.5
+dbl_006_place_27	New Hampshire	Q759	44,-71.5
+dbl_006_place_28	New Hampshire	Q759	44,-71.5
+dbl_006_place_29	Penn State Milton S. Hershey Medical Center	Q7163263	40.2647,-76.6763
+dbl_006_place_30	Harvard Stadium	Q1587879	42.366389,-71.127222
+dbl_006_place_31	Hanover	Q131908	43.7,-72.28333333333333
+dbl_006_place_32	Ohio	Q1397	40.5,-82.5
+dbl_006_place_33	Chicago	Q1297	41.85003,-87.65005
+dbl_006_place_34	France	Q142	47,2
+dbl_006_place_35	Boston	Q100	42.360277777777775,-71.05777777777777
+dbl_006_place_36	Vermont	Q16551	44,-72.7
+dbl_006_place_37	Massachusetts	Q771	42.3,-71.8
+dbl_006_place_38	Hanover	Q131908	43.7,-72.28333333333333
+dbl_006_place_39	Boston	Q100	42.360277777777775,-71.05777777777777
+dbl_006_place_40	Boston	Q100	42.360277777777775,-71.05777777777777
+dbl_006_place_41	Class of 1953 Commons	Q98636574	43.70309,-72.29092
+dbl_006_place_42	Class of 1953 Commons	Q98636574	43.70309,-72.29092
+dbl_006_place_43	Class of 1953 Commons	Q98636574	43.70309,-72.29092
+dbl_006_place_44	Class of 1953 Commons	Q98636574	43.70309,-72.29092
+dbl_006_place_45	Class of 1953 Commons	Q98636574	43.70309,-72.29092
+dbl_006_place_46	Class of 1953 Commons	Q98636574	43.70309,-72.29092
+dbl_006_place_47	Dartmouth College	Q49116	43.703333333333,-72.288333333333
+dbl_006_place_48	Hanover	Q131908	43.7,-72.28333333333333
+dbl_006_place_49	Hanover	Q131908	43.7,-72.28333333333333
+dbl_006_place_50	Hanover	Q131908	43.7,-72.28333333333333
+dbl_006_place_51	the Yale Bowl	Q1535796	41.3132,-72.9605 
