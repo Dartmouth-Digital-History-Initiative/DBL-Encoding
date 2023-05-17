@@ -60,7 +60,7 @@
   <text>
     <body>
       <u who="JOHNAKIN">Okay, my name is <persName ref="#dbl_010_person_0">Anne Johnakin</persName> and I’m at <placeName ref="#dbl_010_place_0">Topliff Hall</placeName> in <placeName ref="#dbl_010_place_1">Hanover, New Hampshire</placeName>. I'm doing a zoom interview with <persName ref="#dbl_010_person_1">Ronald Talley</persName>, <orgName ref="#dbl_010_org_0">class of ’69</orgName>, who is in <placeName ref="#dbl_010_place_2">Anderson, South Carolina</placeName>. <date when="2021-10-24">Today</date> is <date when="2021-10-23">October 23, 2021</date>, oh it’s <date when="2021-10-24">October 24, 2021</date>, and this is an interview for the <orgName ref="#dbl_010_org_1">Dartmouth Black Lives oral history project</orgName>.So, hi <persName ref="#dbl_010_person_2">Ron</persName>. Thanks for joining me <date when="2021-10-24">today</date>. First, I just want to talk about your childhood, so if you could just tell me when and where you were born.</u>
-      <u who="TALLEY">I was born in <placeName ref="#dbl_010_place_3">New York City</placeName> in <date when="1948">1948</date>. And spent my—I went to public school there in <placeName ref="#dbl_010_place_4">New York City</placeName>. I was born of parents who were from <placeName ref="#dbl_010_place_5">Anderson, South Carolina</placeName>. So as a consequence of that, I spent much of my holiday time and outside of school time in <placeName ref="#dbl_010_place_6">South Carolina</placeName>. And we were back in <placeName ref="#dbl_010_place_7">South Carolina</placeName> for the summers all of the years that I was growing up. I often describe myself, and still think of myself really, as being a <placeName ref="#dbl_010_place_8">South Carolinian</placeName>, as opposed to a <placeName ref="#dbl_010_place_9">New Yorker</placeName> because of the fact that the <placeName ref="#dbl_010_place_10">South Carolina</placeName> culture was so strong in our family. All of my siblings, cousins, my mother's people are all here in this community that we live in,. My goal throughout the time that I was up there going to school was that I would return here after I graduated.</u>
+      <u who="TALLEY">I was born in <placeName ref="#dbl_010_place_3">New York City</placeName> in <date when="1948">1948</date>. And spent my—I went to public school there in <placeName ref="#dbl_010_place_4">New York City</placeName>. I was born of parents who were from <placeName ref="#dbl_010_place_5">Anderson, South Carolina</placeName>. So as a consequence of that, I spent much of my holiday time and outside of school time in <placeName ref="#dbl_010_place_6">South Carolina</placeName>. And we were back in <placeName ref="#dbl_010_place_7">South Carolina</placeName> for the summers all of the years that I was growing up. I often describe myself, and still think of myself really, as being a South Carolinian, as opposed to a New Yorker because of the fact that the <placeName ref="#dbl_010_place_10">South Carolina</placeName> culture was so strong in our family. All of my siblings, cousins, my mother's people are all here in this community that we live in,. My goal throughout the time that I was up there going to school was that I would return here after I graduated.</u>
       <u who="JOHNAKIN">Can you tell me the names of your parents?</u>
       <u who="TALLEY"><persName ref="#dbl_010_person_3">Mamie Talley</persName> and <persName ref="#dbl_010_person_4">Robert Talley</persName>.</u>
       <u who="JOHNAKIN">And how many siblings do you have?</u>
@@ -233,12 +233,6 @@
       </place>
       <place xml:id="dbl_010_place_7">
         <placeName>South Carolina</placeName>
-      </place>
-      <place xml:id="dbl_010_place_8">
-        <placeName>South Carolinian</placeName>
-      </place>
-      <place xml:id="dbl_010_place_9">
-        <placeName>New Yorker</placeName>
       </place>
       <place xml:id="dbl_010_place_10">
         <placeName>South Carolina</placeName>
