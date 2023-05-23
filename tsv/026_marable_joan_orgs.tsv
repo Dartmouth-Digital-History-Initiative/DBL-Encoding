@@ -1,99 +1,99 @@
-id	orgName
-dbl_026_org_0	Dartmouth College
-dbl_026_org_1	Dartmouth College
-dbl_026_org_2	class of ’76
-dbl_026_org_3	Dartmouth
-dbl_026_org_4	Dartmouth
-dbl_026_org_5	Dartmouth
-dbl_026_org_6	Beaver Country Day School
-dbl_026_org_7	Dartmouth
-dbl_026_org_8	Dartmouth
-dbl_026_org_9	Bowdoin
-dbl_026_org_10	Dartmouth
-dbl_026_org_11	Dartmouth
-dbl_026_org_12	Bowdoin
-dbl_026_org_13	Ivy League
-dbl_026_org_14	Ivy
-dbl_026_org_15	Dartmouth
-dbl_026_org_16	Bowdoin
-dbl_026_org_17	Dartmouth
-dbl_026_org_18	Bowdoin
-dbl_026_org_19	Bowdoin
-dbl_026_org_20	Dartmouth
-dbl_026_org_21	Dartmouth
-dbl_026_org_22	Dartmouth
-dbl_026_org_23	Dartmouth
-dbl_026_org_24	Dartmouth
-dbl_026_org_25	AAM [Afro-American Society]
-dbl_026_org_26	class of ’74
-dbl_026_org_27	Dartmouth
-dbl_026_org_28	Dartmouth
-dbl_026_org_29	the Dartmouth Players
-dbl_026_org_30	AAM
-dbl_026_org_31	class of ’74
-dbl_026_org_32	Dartmouth
-dbl_026_org_33	McDonald’s
-dbl_026_org_34	McDonald’s
-dbl_026_org_35	class of ’73
-dbl_026_org_36	’75
-dbl_026_org_37	Dartmouth
-dbl_026_org_38	Dartmouth
-dbl_026_org_39	Dartmouth
-dbl_026_org_40	Dartmouth
-dbl_026_org_41	the College
-dbl_026_org_42	BADA [Black Alumni of Dartmouth Association]
-dbl_026_org_43	Dartmouth
-dbl_026_org_44	Afro-Am
-dbl_026_org_45	AAM
-dbl_026_org_46	AAM
-dbl_026_org_47	AAM
-dbl_026_org_48	Dartmouth
-dbl_026_org_49	Dartmouth
-dbl_026_org_50	Dartmouth
-dbl_026_org_51	AAM
-dbl_026_org_52	Alpha Phi Alpha Fraternity [historically African American fraternity founded in 1906]
-dbl_026_org_53	Alpha Phi Alpha
-dbl_026_org_54	Dartmouth
-dbl_026_org_55	AAM
-dbl_026_org_56	Dartmouth
-dbl_026_org_57	Dartmouth
-dbl_026_org_58	Dartmouth
-dbl_026_org_59	the Diversity Awareness Initiative for Students [DAIS for short]
-dbl_026_org_60	Dartmouth
-dbl_026_org_61	Zoom
-dbl_026_org_62	Zoom
-dbl_026_org_63	Zoom
-dbl_026_org_64	BADA
-dbl_026_org_65	BADA
-dbl_026_org_66	BADA
-dbl_026_org_67	class of ’05
-dbl_026_org_68	’08
-dbl_026_org_69	Dartmouth
-dbl_026_org_70	Dartmouth
-dbl_026_org_71	Dartmouth
-dbl_026_org_72	class of ’75
-dbl_026_org_73	Dartmouth
-dbl_026_org_74	class of ’01
-dbl_026_org_75	class of ’79
-dbl_026_org_76	Dartmouth
-dbl_026_org_77	Dartmouth
-dbl_026_org_78	Dartmouth
-dbl_026_org_79	Dartmouth
-dbl_026_org_80	Dartmouth
-dbl_026_org_81	BADA
-dbl_026_org_82	the College
-dbl_026_org_83	the College
-dbl_026_org_84	the College
-dbl_026_org_85	Dartmouth
-dbl_026_org_86	Dartmouth
-dbl_026_org_87	Dartmouth
-dbl_026_org_88	Dartmouth
-dbl_026_org_89	Dartmouth
-dbl_026_org_90	Dartmouth
-dbl_026_org_91	Spelman
-dbl_026_org_92	Dartmouth
-dbl_026_org_93	Dartmouth
-dbl_026_org_94	DAIS
-dbl_026_org_95	Dartmouth
-dbl_026_org_96	Dartmouth
-dbl_026_org_97	Dartmouth
+id	orgName	QID	dbl_id
+dbl_026_org_0	Dartmouth College	Q49116	
+dbl_026_org_1	Dartmouth College	Q49116	
+dbl_026_org_2	Class of '76	Q3284567	
+dbl_026_org_3	Dartmouth College	Q49116	
+dbl_026_org_4	Dartmouth College	Q49116	
+dbl_026_org_5	Dartmouth College	Q49116	
+dbl_026_org_6	Beaver Country Day School	Q4878004	
+dbl_026_org_7	Dartmouth College	Q49116	
+dbl_026_org_8	Dartmouth College	Q49116	
+dbl_026_org_9	Bowdoin College	Q895401	
+dbl_026_org_10	Dartmouth College	Q49116	
+dbl_026_org_11	Dartmouth College	Q49116	
+dbl_026_org_12	Bowdoin College	Q895401	
+dbl_026_org_13	Ivy League	Q49113	
+dbl_026_org_14	Ivy League	Q49113	
+dbl_026_org_15	Dartmouth College	Q49116	
+dbl_026_org_16	Bowdoin College	Q895401	
+dbl_026_org_17	Dartmouth College	Q49116	
+dbl_026_org_18	Bowdoin College	Q895401	
+dbl_026_org_19	Bowdoin College	Q895401	
+dbl_026_org_20	Dartmouth College	Q49116	
+dbl_026_org_21	Dartmouth College	Q49116	
+dbl_026_org_22	Dartmouth College	Q49116	
+dbl_026_org_23	Dartmouth College	Q49116	
+dbl_026_org_24	Dartmouth College	Q49116	
+dbl_026_org_25	Afro-American Society	Q114879775	
+dbl_026_org_26	Class of 74	Q5128028	
+dbl_026_org_27	Dartmouth College	Q49116	
+dbl_026_org_28	Dartmouth College	Q49116	
+dbl_026_org_29	The Dartmouth Players	Q118127394	
+dbl_026_org_30	Afro-American Society	Q114879775	
+dbl_026_org_31	Class of 74	Q5128028	
+dbl_026_org_32	Dartmouth College	Q49116	
+dbl_026_org_33	McDonald’s	Q38076	
+dbl_026_org_34	McDonald’s	Q38076	
+dbl_026_org_35	Dartmouth College Class of 1973	Q116860983	
+dbl_026_org_36	Dartmouth College Class of 1975	Q118127432	
+dbl_026_org_37	Dartmouth College	Q49116	
+dbl_026_org_38	Dartmouth College	Q49116	
+dbl_026_org_39	Dartmouth College	Q49116	
+dbl_026_org_40	Dartmouth College	Q49116	
+dbl_026_org_41	Dartmouth College	Q49116	
+dbl_026_org_42	Black Alumni of Dartmouth Association	Q117514486	
+dbl_026_org_43	Dartmouth College	Q49116	
+dbl_026_org_44	Afro-American Society	Q114879775	
+dbl_026_org_45	Afro-American Society	Q114879775	
+dbl_026_org_46	Afro-American Society	Q114879775	
+dbl_026_org_47	Afro-American Society	Q114879775	
+dbl_026_org_48	Dartmouth College	Q49116	
+dbl_026_org_49	Dartmouth College	Q49116	
+dbl_026_org_50	Dartmouth College	Q49116	
+dbl_026_org_51	Afro-American Society	Q114879775	
+dbl_026_org_52	Alpha Phi Alpha	Q2839513	
+dbl_026_org_53	Alpha Phi Alpha	Q2839513	
+dbl_026_org_54	Dartmouth College	Q49116	
+dbl_026_org_55	Afro-American Society	Q114879775	
+dbl_026_org_56	Dartmouth College	Q49116	
+dbl_026_org_57	Dartmouth College	Q49116	
+dbl_026_org_58	Dartmouth College	Q49116	
+dbl_026_org_59	Diversity Awareness Initiative for Students	Q118127425	
+dbl_026_org_60	Dartmouth College	Q49116	
+dbl_026_org_61	Zoom	Q94979732	
+dbl_026_org_62	Zoom	Q94979732	
+dbl_026_org_63	Zoom	Q94979732	
+dbl_026_org_64	Black Alumni of Dartmouth Association	Q117514486	
+dbl_026_org_65	Black Alumni of Dartmouth Association	Q117514486	
+dbl_026_org_66	Black Alumni of Dartmouth Association	Q117514486	
+dbl_026_org_67	Dartmouth College Class of 2005	Q118127418	
+dbl_026_org_68	Dartmouth College Class of 2008	Q118127441	
+dbl_026_org_69	Dartmouth College	Q49116	
+dbl_026_org_70	Dartmouth College	Q49116	
+dbl_026_org_71	Dartmouth College	Q49116	
+dbl_026_org_72	Dartmouth College Class of 1975	Q118127432	
+dbl_026_org_73	Dartmouth College	Q49116	
+dbl_026_org_74	Dartmouth College Class of 2001	Q118127447	
+dbl_026_org_75	Dartmouth College Class of 1979	Q118127445	
+dbl_026_org_76	Dartmouth College	Q49116	
+dbl_026_org_77	Dartmouth College	Q49116	
+dbl_026_org_78	Dartmouth College	Q49116	
+dbl_026_org_79	Dartmouth College	Q49116	
+dbl_026_org_80	Dartmouth College	Q49116	
+dbl_026_org_81	Black Alumni of Dartmouth Association	Q117514486	
+dbl_026_org_82	Dartmouth College	Q49116	
+dbl_026_org_83	Dartmouth College	Q49116	
+dbl_026_org_84	Dartmouth College	Q49116	
+dbl_026_org_85	Dartmouth College	Q49116	
+dbl_026_org_86	Dartmouth College	Q49116	
+dbl_026_org_87	Dartmouth College	Q49116	
+dbl_026_org_88	Dartmouth College	Q49116	
+dbl_026_org_89	Dartmouth College	Q49116	
+dbl_026_org_90	Dartmouth College	Q49116	
+dbl_026_org_91	Spelman College	Q7575916	
+dbl_026_org_92	Dartmouth College	Q49116	
+dbl_026_org_93	Dartmouth College	Q49116	
+dbl_026_org_94	Diversity Awareness Initiative for Students	Q118127425	
+dbl_026_org_95	Dartmouth College	Q49116	
+dbl_026_org_96	Dartmouth College	Q49116	
+dbl_026_org_97	Dartmouth College	Q49116	
