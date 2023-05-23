@@ -62,7 +62,7 @@
       <u who="BENITEZ">My name is <persName ref="#dbl_017_person_0">Jackelinne Benitez</persName>, and I'm at the <orgName ref="#dbl_017_org_0">Latin American, Latino, and Caribbean House</orgName> within <orgName ref="#dbl_017_org_1">Dartmouth College</orgName>, in <placeName ref="#dbl_017_place_0">Hanover New Hampshire</placeName>. I'm doing a virtual interview with <persName ref="#dbl_017_person_1">Wendy Kendrick</persName>, who is in <placeName ref="#dbl_017_place_1">Gahanna, Ohio</placeName>. Today is <date when="2022-10-30">October 30th 2022</date> and this is an interview for the <orgName ref="#dbl_017_org_2">Dartmouth Black Lives</orgName> oral history project. Hi <persName ref="#dbl_017_person_2">Wendy</persName>. Thank you so much for joining me today. We appreciate it.</u>
       <u who="KENDRICK">Thanks for having me.</u>
       <u who="BENITEZ">First, I'd like to learn a little about your childhood. Can you please state when and where you were born?</u>
-      <u who="KENDRICK">I was born on <date when="1995-01-15">January 15th, 1955</date> in <placeName ref="#dbl_017_place_2">Georgetown</placeName>, <placeName ref="#dbl_017_place_3">Kentucky</placeName>. I am one of five children and I am the second oldest in my family.</u>
+      <u who="KENDRICK">I was born on <date when="1995-01-15">January 15th, 1955</date> in <placeName ref="#dbl_017_place_2">Georgetown, Kentucky</placeName>. I am one of five children and I am the second oldest in my family.</u>
       <u who="BENITEZ">Thank you. Can you tell me the names of your parents, please?</u>
       <u who="KENDRICK">Yes. My dad was <persName ref="#dbl_017_person_3">Theodore Thompson</persName> and my mom was <persName ref="#dbl_017_person_4">Catherine Thompson</persName>. </u>
       <u who="BENITEZ">Oh, got it. What was it like growing up in <placeName ref="#dbl_017_place_4">Gahanna, Ohio</placeName> and your other hometown, <placeName ref="#dbl_017_place_5">Georgetown, Kentucky</placeName>?</u>
@@ -214,10 +214,7 @@
         <placeName>Gahanna, Ohio</placeName>
       </place>
       <place xml:id="dbl_017_place_2">
-        <placeName>Georgetown</placeName>
-      </place>
-      <place xml:id="dbl_017_place_3">
-        <placeName>Kentucky</placeName>
+        <placeName>Georgetown, Kentucky</placeName>
       </place>
       <place xml:id="dbl_017_place_4">
         <placeName>Gahanna, Ohio</placeName>
