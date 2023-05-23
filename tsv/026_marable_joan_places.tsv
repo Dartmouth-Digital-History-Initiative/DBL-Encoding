@@ -1,44 +1,44 @@
-id	placeName
-dbl_026_place_0	Hanover, New Hampshire
-dbl_026_place_1	Brooklyn, New York
-dbl_026_place_2	Brooklyn
-dbl_026_place_3	Boston, Massachusetts
-dbl_026_place_4	Dorchester
-dbl_026_place_5	Roxbury
-dbl_026_place_6	Boston
-dbl_026_place_7	Boston
-dbl_026_place_8	Dorchester
-dbl_026_place_9	Boston
-dbl_026_place_10	Dorchester
-dbl_026_place_11	Roxbury
-dbl_026_place_12	Roxbury
-dbl_026_place_13	Roxbury
-dbl_026_place_14	Chestnut Hill
-dbl_026_place_15	Massachusetts
-dbl_026_place_16	Roxbury
-dbl_026_place_17	Dorchester
-dbl_026_place_18	Maine
-dbl_026_place_19	Hanover
-dbl_026_place_20	Maine
-dbl_026_place_21	Maine
-dbl_026_place_22	Maine
-dbl_026_place_23	New England
-dbl_026_place_24	New England
-dbl_026_place_25	dining hall
-dbl_026_place_26	Thayer dining hall
-dbl_026_place_27	’53 Commons
-dbl_026_place_28	Hanover
-dbl_026_place_29	Hanover
-dbl_026_place_30	Butterfield
-dbl_026_place_31	Bajan
-dbl_026_place_32	Hop
-dbl_026_place_33	New York
-dbl_026_place_34	the Green
-dbl_026_place_35	New York City
-dbl_026_place_36	Connecticut
-dbl_026_place_37	New Jersey
-dbl_026_place_38	New York
-dbl_026_place_39	New Jersey
-dbl_026_place_40	Connecticut
-dbl_026_place_41	New York City
-dbl_026_place_42	Hollywood
+id	placeName	QID	dbl_id	coordinate location
+dbl_026_place_0	Hanover	Q131908		43.7,-72.28333333333333
+dbl_026_place_1	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_026_place_2	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_026_place_3	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_026_place_4	Dorchester	Q1024037		42.316666666667,-71.05
+dbl_026_place_5	Roxbury	Q20138		42.325,-71.095277777778
+dbl_026_place_6	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_026_place_7	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_026_place_8	Dorchester	Q1024037		42.316666666667,-71.05
+dbl_026_place_9	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_026_place_10	Dorchester	Q1024037		42.316666666667,-71.05
+dbl_026_place_11	Roxbury	Q20138		42.325,-71.095277777778
+dbl_026_place_12	Roxbury	Q20138		42.325,-71.095277777778
+dbl_026_place_13	Roxbury	Q20138		42.325,-71.095277777778
+dbl_026_place_14	Chestnut Hill	Q990957		42.330555555556,-71.166111111111
+dbl_026_place_15	Massachusetts	Q771		42.3,-71.8
+dbl_026_place_16	Roxbury	Q20138		42.325,-71.095277777778
+dbl_026_place_17	Dorchester	Q1024037		42.316666666667,-71.05
+dbl_026_place_18	Maine	Q724		45.5,-69
+dbl_026_place_19	Hanover	Q131908		43.7,-72.28333333333333
+dbl_026_place_20	Maine	Q724		45.5,-69
+dbl_026_place_21	Maine	Q724		45.5,-69
+dbl_026_place_22	Maine	Q724		45.5,-69
+dbl_026_place_23	New England	Q18389		44.205555555556,-70.306425
+dbl_026_place_24	New England	Q18389		44.205555555556,-70.306425
+dbl_026_place_25	Class of 1953 Commons	Q98636574		43.70309,-72.29092
+dbl_026_place_26	Class of 1953 Commons	Q98636574		43.70309,-72.29092
+dbl_026_place_27	Class of 1953 Commons	Q98636574		43.70309,-72.29092
+dbl_026_place_28	Hanover	Q131908		43.7,-72.28333333333333
+dbl_026_place_29	Hanover	Q131908		43.7,-72.28333333333333
+dbl_026_place_30	Butterfield Hall at Dartmouth College	Q118127518		43.7056495,-72.2911834
+dbl_026_place_31	Barbados	Q244		13.17,-59.5525
+dbl_026_place_32	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
+dbl_026_place_33	New York City	Q60		40.7,-74
+dbl_026_place_34	The Green	Q7738117		43.7033,-72.2886
+dbl_026_place_35	New York City	Q60		40.7,-74
+dbl_026_place_36	Connecticut	Q779		41.6,-72.7
+dbl_026_place_37	New Jersey	Q1408		40,-74.5
+dbl_026_place_38	New York City	Q60		40.7,-74
+dbl_026_place_39	New Jersey	Q1408		40,-74.5
+dbl_026_place_40	Connecticut	Q779		41.6,-72.7
+dbl_026_place_41	New York City	Q60		40.7,-74
+dbl_026_place_42	Hollywood	Q34006		34.098333333333336,-118.32666666666667

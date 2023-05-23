@@ -1,29 +1,29 @@
-id	persName
-dbl_026_person_0	Tamonie Brown
-dbl_026_person_1	Joan Marable
-dbl_026_person_2	Joan Marable
-dbl_026_person_3	Dorchester
-dbl_026_person_4	Joan Nelson
-dbl_026_person_5	dean Nelson
-dbl_026_person_6	Ken Marable
-dbl_026_person_7	Mrs. Hill
-dbl_026_person_8	Professor Hill
-dbl_026_person_9	Ken
-dbl_026_person_10	President Kemeny
-dbl_026_person_11	Ken
-dbl_026_person_12	Joan
-dbl_026_person_13	Ken
-dbl_026_person_14	Ken
-dbl_026_person_15	Professor Errol Hill
-dbl_026_person_16	Joan Nelson
-dbl_026_person_17	dean Joan Nelson
-dbl_026_person_18	Berky Nelson
-dbl_026_person_19	Professor Cook
-dbl_026_person_20	Ken
-dbl_026_person_21	Kimberly
-dbl_026_person_22	Ken
-dbl_026_person_23	Mrs. Marable
-dbl_026_person_24	Ken
-dbl_026_person_25	Kimberly
-dbl_026_person_26	Vice President [Mrs. Marable was referring to Shontay Delalue]
-dbl_026_person_27	Kimberly
+id	persName	QID	dbl_id
+dbl_026_person_0	Tamonie Brown	Q115041559	
+dbl_026_person_1	Joan Marable	Q118127462	
+dbl_026_person_2	Joan Marable	Q118127462	
+dbl_026_person_3	Dorchester		
+dbl_026_person_4	Joan Nelson	Q118127470	
+dbl_026_person_5	Nelson Dean	Q6990471	
+dbl_026_person_6	Ken Marable	Q118127474	
+dbl_026_person_7	Grace Hill	Q118228407	
+dbl_026_person_8	Errol Hill	Q5395585	
+dbl_026_person_9	Ken Marable	Q118127474	
+dbl_026_person_10	John George Kemeny	Q28900	
+dbl_026_person_11	Ken Marable	Q118127474	
+dbl_026_person_12	Joan Marable	Q118127462	
+dbl_026_person_13	Ken Marable	Q118127474	
+dbl_026_person_14	Ken Marable	Q118127474	
+dbl_026_person_15	Errol Hill	Q5395585	
+dbl_026_person_16	Joan Nelson	Q118127470	
+dbl_026_person_17	Joan Nelson	Q118127470	
+dbl_026_person_18	Berky Nelson	Q118127505	
+dbl_026_person_19	Professor William Cook	Q118127490	
+dbl_026_person_20	Ken Marable	Q118127474	
+dbl_026_person_21	Kimberly Marable	Q118127403	
+dbl_026_person_22	Ken Marable	Q118127474	
+dbl_026_person_23	Joan Marable	Q118127462	
+dbl_026_person_24	Ken Marable	Q118127474	
+dbl_026_person_25	Kimberly Marable	Q118127403	
+dbl_026_person_26	Shontay Delalue	Q118593980	
+dbl_026_person_27	Kimberly Marable	Q118127403	
