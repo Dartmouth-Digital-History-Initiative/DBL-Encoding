@@ -1,54 +1,53 @@
-id	placeName
-dbl_024_place_0	Blunt, Alumni Hall
-dbl_024_place_1	Sanborn Hall
-dbl_024_place_2	New York City
-dbl_024_place_3	Hanover, New Hampshire
-dbl_024_place_4	New York
-dbl_024_place_5	Brooklyn, New York
-dbl_024_place_6	Bronxville Hospital
-dbl_024_place_7	Westchester County [New York]
-dbl_024_place_8	Tuckahoe
-dbl_024_place_9	Tuckahoe
-dbl_024_place_10	Bronxville
-dbl_024_place_11	Scarsdale
-dbl_024_place_12	Tuckahoe
-dbl_024_place_13	Tuckahoe
-dbl_024_place_14	Tuckahoe High School
-dbl_024_place_15	Tuckahoe
-dbl_024_place_16	Westchester County
-dbl_024_place_17	Tuckahoe
-dbl_024_place_18	Tuckahoe
-dbl_024_place_19	Bronxville
-dbl_024_place_20	Scarsdale
-dbl_024_place_21	North Massachusetts Hall
-dbl_024_place_22	Tuckahoe
-dbl_024_place_23	Westchester County
-dbl_024_place_24	New York
-dbl_024_place_25	Hanover
-dbl_024_place_26	New Jersey
-dbl_024_place_27	New Jersey
-dbl_024_place_28	Alphas
-dbl_024_place_29	Wheeler
-dbl_024_place_30	Mexico
-dbl_024_place_31	Mexico
-dbl_024_place_32	Veracruz
-dbl_024_place_33	Veracruz
-dbl_024_place_34	Mexico
-dbl_024_place_35	Vietnam
-dbl_024_place_36	Vietnam
-dbl_024_place_37	Hanover
-dbl_024_place_38	New York
-dbl_024_place_39	Brooklyn
-dbl_024_place_40	New York
-dbl_024_place_41	New Jersey
-dbl_024_place_42	Connecticut
-dbl_024_place_43	Mount Vernon
-dbl_024_place_44	Westchester County
-dbl_024_place_45	Brooklyn
-dbl_024_place_46	Brooklyn
-dbl_024_place_47	Brooklyn
-dbl_024_place_48	Georgia
-dbl_024_place_49	Central Brooklyn
-dbl_024_place_50	Crown Heights
-dbl_024_place_51	Queens
-dbl_024_place_52	Hanover
+id	placeName	QID	dbl_id	coordinate location
+dbl_024_place_0	Crosby Hall	Q108862878		43.70489259048609,-72.29011169061454
+dbl_024_place_1	Sanborn Library	Q102113385		43.7053,-72.2898
+dbl_024_place_2	New York City	Q60		40.7,-74
+dbl_024_place_3	Hanover	Q131908		43.7,-72.28333333333333
+dbl_024_place_4	New York City	Q60		40.7,-74
+dbl_024_place_5	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_024_place_6	NewYork-Presbyterian Westchester	Q20657166		40.942222222222,-73.836666666667
+dbl_024_place_7	Westchester County	Q54066		41.15,-73.775
+dbl_024_place_8	Tuckahoe	Q555680		39.29,-74.7539
+dbl_024_place_9	Tuckahoe	Q555680		39.29,-74.7539
+dbl_024_place_10	Bronxville	Q928168		40.94,-73.826111111111
+dbl_024_place_11	Scarsdale	Q2300959		40.992222222222,-73.786944444444
+dbl_024_place_12	Tuckahoe	Q555680		39.29,-74.7539
+dbl_024_place_13	Tuckahoe	Q555680		39.29,-74.7539
+dbl_024_place_14	Tuckahoe High School	Q7851026		40.942777777778,-73.8125
+dbl_024_place_15	Tuckahoe	Q555680		39.29,-74.7539
+dbl_024_place_16	Westchester County	Q54066		41.15,-73.775
+dbl_024_place_17	Tuckahoe	Q555680		39.29,-74.7539
+dbl_024_place_18	Tuckahoe	Q555680		39.29,-74.7539
+dbl_024_place_19	Bronxville	Q928168		40.94,-73.826111111111
+dbl_024_place_20	Scarsdale	Q2300959		40.992222222222,-73.786944444444
+dbl_024_place_21	North Massachusetts Hall	Q100952541		43.7041,-72.2906
+dbl_024_place_22	Tuckahoe	Q555680		39.29,-74.7539
+dbl_024_place_23	Westchester County	Q54066		41.15,-73.775
+dbl_024_place_24	New York City	Q60		40.7,-74
+dbl_024_place_25	Hanover	Q131908		43.7,-72.28333333333333
+dbl_024_place_26	New Jersey	Q1408		40,-74.5
+dbl_024_place_27	New Jersey	Q1408		40,-74.5
+dbl_024_place_29	Wheeler Hall	Q108906424		43.70510610389001,-72.28755939395518
+dbl_024_place_30	Mexico	Q96		23,-102
+dbl_024_place_31	Mexico	Q96		23,-102
+dbl_024_place_32	Veracruz	Q60130		19.434722222222,-96.383055555556
+dbl_024_place_33	Veracruz	Q60130		19.434722222222,-96.383055555556
+dbl_024_place_34	Mexico	Q96		23,-102
+dbl_024_place_35	Vietnam	Q881		16,108
+dbl_024_place_36	Vietnam	Q881		16,108
+dbl_024_place_37	Hanover	Q131908		43.7,-72.28333333333333
+dbl_024_place_38	New York City	Q60		40.7,-74
+dbl_024_place_39	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_024_place_40	New York City	Q60		40.7,-74
+dbl_024_place_41	New Jersey	Q1408		40,-74.5
+dbl_024_place_42	Connecticut	Q779		41.6,-72.7
+dbl_024_place_43	Mount Vernon	Q1375384		38.735159,-77.095367
+dbl_024_place_44	Westchester County	Q54066		41.15,-73.775
+dbl_024_place_45	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_024_place_46	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_024_place_47	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_024_place_48	Georgia	Q1428		33,-83.5
+dbl_024_place_49	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_024_place_50	Crown Heights	Q2354222		40.663055555556,-73.944722222222
+dbl_024_place_51	Queens	Q18424		40.704166666667,-73.917777777778
+dbl_024_place_52	Hanover	Q131908		43.7,-72.28333333333333
