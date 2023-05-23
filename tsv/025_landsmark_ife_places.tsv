@@ -1,99 +1,100 @@
-id	placeName
-dbl_025_place_0	Hanover, New Hampshire
-dbl_025_place_1	Brooklyn, New York.
-dbl_025_place_2	Harlem
-dbl_025_place_3	Bed-Stuy
-dbl_025_place_4	Bed-Stuy
-dbl_025_place_5	Brooklyn
-dbl_025_place_6	Rose
-dbl_025_place_7	Bed-Stuy
-dbl_025_place_8	Manhattan
-dbl_025_place_9	Bedford-Stuyvesant
-dbl_025_place_10	Cumberland Street
-dbl_025_place_11	Brooklyn
-dbl_025_place_12	Nostrand Avenue
-dbl_025_place_13	Washington
-dbl_025_place_14	Southwest
-dbl_025_place_15	Brooklyn
-dbl_025_place_16	the West Indies
-dbl_025_place_17	Harlem
-dbl_025_place_18	Bed-Stuy
-dbl_025_place_19	Harlem
-dbl_025_place_20	Brooklyn
-dbl_025_place_21	Manhattan
-dbl_025_place_22	Village
-dbl_025_place_23	Bronx
-dbl_025_place_24	Brooklyn
-dbl_025_place_25	Harlem
-dbl_025_place_26	Harlem
-dbl_025_place_27	Harlem
-dbl_025_place_28	Bed-Stuy
-dbl_025_place_29	Brooklyn
-dbl_025_place_30	the Hudson River
-dbl_025_place_31	Queens
-dbl_025_place_32	Canada
-dbl_025_place_33	East India
-dbl_025_place_34	Dartmouth Hall
-dbl_025_place_35	New Hampshire Hall
-dbl_025_place_36	Bushwick
-dbl_025_place_37	Sudan
-dbl_025_place_38	New England
-dbl_025_place_39	South
-dbl_025_place_40	St. John's
-dbl_025_place_41	New Hamp Hall
-dbl_025_place_42	Topliff
-dbl_025_place_43	New Hamp
-dbl_025_place_44	New Hamp
-dbl_025_place_45	New Hamp
-dbl_025_place_46	New Hamp
-dbl_025_place_47	New Hamp
-dbl_025_place_48	New York
-dbl_025_place_49	Africa
-dbl_025_place_50	Europe
-dbl_025_place_51	Africa
-dbl_025_place_52	Europe
-dbl_025_place_53	Africa
-dbl_025_place_54	Dick's House
-dbl_025_place_55	Dick's House.
-dbl_025_place_56	Africa
-dbl_025_place_57	Europe
-dbl_025_place_58	Maine
-dbl_025_place_59	Hinman
-dbl_025_place_60	Hinman
-dbl_025_place_61	Dick's House
-dbl_025_place_62	Afro-Am.
-dbl_025_place_63	Philadelphia
-dbl_025_place_64	Seattle
-dbl_025_place_65	White River Junction
-dbl_025_place_66	Boston
-dbl_025_place_67	Holyoke
-dbl_025_place_68	New York
-dbl_025_place_69	Manhattan
-dbl_025_place_70	library
-dbl_025_place_71	tower
-dbl_025_place_72	Orozco
-dbl_025_place_73	medical center
-dbl_025_place_74	Africa
-dbl_025_place_75	Sudan
-dbl_025_place_76	Africa
-dbl_025_place_77	Boston
-dbl_025_place_78	Vietnam
-dbl_025_place_79	New York
-dbl_025_place_80	Africa
-dbl_025_place_81	South America
-dbl_025_place_82	New York
-dbl_025_place_83	Rikers
-dbl_025_place_84	Suffolk County
-dbl_025_place_85	Nassau County
-dbl_025_place_86	Crown Heights
-dbl_025_place_87	New York
-dbl_025_place_88	New England
-dbl_025_place_89	Baker
-dbl_025_place_90	New Hampshire
-dbl_025_place_91	New Hampshire
-dbl_025_place_92	New Hampshire
-dbl_025_place_93	White River Junction, Vermont
-dbl_025_place_94	Hanover
-dbl_025_place_95	 the Life Science Center 
-dbl_025_place_96	Choates
-dbl_025_place_97	Choates
+id	placeName	QID	dbl_id	Coordinate Location
+dbl_025_place_0	Hanover	Q131908		43.7,-72.28333333333333
+dbl_025_place_1	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_025_place_2	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_025_place_3	Bedford–Stuyvesant	Q1156982		40.683333333333,-73.941111111111
+dbl_025_place_4	Bedford–Stuyvesant	Q1156982		40.683333333333,-73.941111111111
+dbl_025_place_5	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_025_place_6	Rose			
+dbl_025_place_7	Bedford–Stuyvesant	Q1156982		40.683333333333,-73.941111111111
+dbl_025_place_8	Manhattan	Q11299		40.728333333333,-73.994166666667
+dbl_025_place_9	Bedford–Stuyvesant	Q1156982		40.683333333333,-73.941111111111
+dbl_025_place_10	Cumberland Avenue	Q5193836		40.685456,-73.972282
+dbl_025_place_11	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_025_place_12	Nostrand Avenue	Q7061983		40.6412,-73.9485
+dbl_025_place_13	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_025_place_14	Southwest			
+dbl_025_place_15	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_025_place_16	West Indies	Q669037		21.98333333,-79.03333333
+dbl_025_place_17	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_025_place_18	Bedford–Stuyvesant	Q1156982		40.683333333333,-73.941111111111
+dbl_025_place_19	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_025_place_20	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_025_place_21	Manhattan	Q11299		40.728333333333,-73.994166666667
+dbl_025_place_22	West Village	Q1191048		40.7358,-74.0036
+dbl_025_place_23	The Bronx	Q18426		40.84676,-73.873207
+dbl_025_place_24	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_025_place_25	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_025_place_26	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_025_place_27	Harlem	Q189074		40.809033333333,-73.948372222222
+dbl_025_place_28	Bedford–Stuyvesant	Q1156982		40.683333333333,-73.941111111111
+dbl_025_place_29	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_025_place_30	Hudson River	Q3140		44.1067,-73.9358
+				40.6001,-74.042
+dbl_025_place_31	Queens	Q18424		40.704166666667,-73.917777777778
+dbl_025_place_32	Canada	Q16		56,-109
+dbl_025_place_33	East India	Q1151572		23.25,86
+dbl_025_place_34	Dartmouth Hall	Q105669850		43.70376,-72.28706
+dbl_025_place_35	New Hampshire Hall	Q101537382		43.70252,-72.28664
+dbl_025_place_36	Bushwick	Q2288728		40.694166666667,-73.918611111111
+dbl_025_place_37	Sudan	Q1049		15,32
+dbl_025_place_38	New England	Q18389		44.205555555556,-70.306425
+dbl_025_place_39	South			
+dbl_025_place_40	St. John's University	Q1138374		40.721944,-73.795556
+dbl_025_place_41	New Hampshire Hall	Q101537382		43.70252,-72.28664
+dbl_025_place_42	Topliff Hall	Q105076922		43.702657,-72.286084
+dbl_025_place_43	New Hampshire Hall	Q101537382		43.70252,-72.28664
+dbl_025_place_44	New Hampshire Hall	Q101537382		43.70252,-72.28664
+dbl_025_place_45	New Hampshire Hall	Q101537382		43.70252,-72.28664
+dbl_025_place_46	New Hampshire Hall	Q101537382		43.70252,-72.28664
+dbl_025_place_47	New Hampshire Hall	Q101537382		43.70252,-72.28664
+dbl_025_place_48	New York City	Q60		40.7,-74
+dbl_025_place_49	Africa	Q15		21.09375,7.1881
+dbl_025_place_50	Europe	Q46		48.690959,9.14062
+dbl_025_place_51	Africa	Q15		21.09375,7.1881
+dbl_025_place_52	Europe	Q46		48.690959,9.14062
+dbl_025_place_53	Africa	Q15		21.09375,7.1881
+dbl_025_place_54	Dartmouth College Dick's House	Q104906179		43.70877,-72.28693
+dbl_025_place_55	Dartmouth College Dick's House	Q104906179		43.70877,-72.28693
+dbl_025_place_56	Africa	Q15		21.09375,7.1881
+dbl_025_place_57	Europe	Q46		48.690959,9.14062
+dbl_025_place_58	Maine	Q724		45.5,-69
+dbl_025_place_59	Hinman Mail Center	Q117840943		43.70166666666667,-72.28861111111111
+dbl_025_place_60	Hinman Mail Center	Q117840943		43.70166666666667,-72.28861111111111
+dbl_025_place_61	Dartmouth College Dick's House	Q104906179		43.70877,-72.28693
+dbl_025_place_62	Afro-Am.			
+dbl_025_place_63	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dbl_025_place_64	Seattle	Q5083		47.60621,-122.33207
+dbl_025_place_65	White River Junction	Q1898562		43.6503,-72.3214
+dbl_025_place_66	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_025_place_67	Mount Holyoke College	Q1140542		42.255586,-72.574503
+dbl_025_place_68	New York City	Q60		40.7,-74
+dbl_025_place_69	Manhattan	Q11299		40.728333333333,-73.994166666667
+dbl_025_place_70	Baker-Berry Library	Q4849183		43.70545,-72.2887
+dbl_025_place_71	Baker-Berry Library	Q4849183		43.70545,-72.2887
+dbl_025_place_72	Orozco Mural Room	Q98615173		43.7051989,-72.2889742
+dbl_025_place_73	Dartmouth–Hitchcock Medical Center	Q14705324		43.6761,-72.2733
+dbl_025_place_74	Africa	Q15		21.09375,7.1881
+dbl_025_place_75	Sudan	Q1049		15,32
+dbl_025_place_76	Africa	Q15		21.09375,7.1881
+dbl_025_place_77	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_025_place_78	Vietnam	Q881		16,108
+dbl_025_place_79	New York City	Q60		40.7,-74
+dbl_025_place_80	Africa	Q15		21.09375,7.1881
+dbl_025_place_81	South America	Q18		-21,-59
+dbl_025_place_82	New York City	Q60		40.7,-74
+dbl_025_place_83	Rikers Island	Q120119		40.791666666667,-73.883333333333
+dbl_025_place_84	Suffolk County	Q54065		40.94,-72.68
+dbl_025_place_85	Nassau County	Q54064		40.747222222222,-73.638055555556
+dbl_025_place_86	Crown Heights	Q1001474		41.64,-73.9319
+dbl_025_place_87	New York City	Q60		40.7,-74
+dbl_025_place_88	New England	Q18389		44.205555555556,-70.306425
+dbl_025_place_89	Baker-Berry Library	Q4849183		43.70545,-72.2887
+dbl_025_place_90	New Hampshire	Q759		44,-71.5
+dbl_025_place_91	New Hampshire	Q759		44,-71.5
+dbl_025_place_92	New Hampshire	Q759		44,-71.5
+dbl_025_place_93	White River Junction	Q1898562		43.6503,-72.3214
+dbl_025_place_94	Hanover	Q131908		43.7,-72.28333333333333
+dbl_025_place_95	Class of 1978 Life Sciences Center	Q100723592		43.70902,-72.2838
+dbl_025_place_96	Choate Cluster	Q101445656		43.707306,-72.291034
+dbl_025_place_97	Choate Cluster	Q101445656		43.707306,-72.291034
