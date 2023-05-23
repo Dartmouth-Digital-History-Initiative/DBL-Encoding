@@ -1,6 +1,6 @@
 id	placeName
-dbl_025_place_0	Hanover, New Hampshire
-dbl_025_place_1	Brooklyn, New York.
+dbl_025_place_0	"Hanover, New Hampshire"
+dbl_025_place_1	"Brooklyn, New York."
 dbl_025_place_2	Harlem
 dbl_025_place_3	Bed-Stuy
 dbl_025_place_4	Bed-Stuy
@@ -92,8 +92,14 @@ dbl_025_place_89	Baker
 dbl_025_place_90	New Hampshire
 dbl_025_place_91	New Hampshire
 dbl_025_place_92	New Hampshire
-dbl_025_place_93	White River Junction, Vermont
+dbl_025_place_93	"White River Junction, Vermont"
 dbl_025_place_94	Hanover
 dbl_025_place_95	 the Life Science Center 
 dbl_025_place_96	Choates
 dbl_025_place_97	Choates
+dbl_025_place_98	Nostrand Avenue
+dbl_025_place_99	Nostrand Avenue
+dbl_025_place_100	Ebbets Field
+dbl_025_place_101	harlem
+dbl_025_place_102	harlem
+dbl_025_place_103	Baker [Library]
