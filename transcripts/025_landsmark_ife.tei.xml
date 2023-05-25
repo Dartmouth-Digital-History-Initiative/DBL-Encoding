@@ -16,9 +16,9 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="60:00">
+          <recording xml:id="primary_recording" type="audio" dur-iso="1:56:42">
             <!-- https://course-exhibits.library.dartmouth.edu/s/HIST10_04_21F/page/rudman1 -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="rcweb.dartmouth.edu/DartmouthBlackLives/histories/landsmark_ife/landsmark_ife.mp3" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
@@ -27,7 +27,7 @@
             <orgName>Wordcraft</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="rcweb.dartmouth.edu/DartmouthBlackLives/histories/landsmark_ife/landsmark_ife_transcript_final.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
