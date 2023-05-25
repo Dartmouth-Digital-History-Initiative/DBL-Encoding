@@ -18,7 +18,7 @@
         <recordingStmt>
           <recording xml:id="primary_recording" type="audio" dur-iso="2:25:18">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="https://journeys.dartmouth.edu/dartmouthblacklivesoralhistory/the-interviews/" mimeType="video/mp4"/>
+            <media url="//rcweb.dartmouth.edu/DartmouthBlackLives/histories/bennett_robert/bennett_robert.mp3/" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
@@ -27,7 +27,7 @@
             <orgName>Dartmouth Black Lives</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/bennett_robert/bennett_robert_transcript_final.pdf">Primary transcription</ref>
+          <ref target="rcweb.dartmouth.edu/DartmouthBlackLives/histories/bennett_robert/bennett_robert_transcript_final.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
