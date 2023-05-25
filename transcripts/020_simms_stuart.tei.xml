@@ -18,7 +18,7 @@
         <recordingStmt>
           <recording xml:id="primary_recording" type="audio" dur-iso="00:53:06">
             <!-- https://course-exhibits.library.dartmouth.edu/s/HIST10_04_21F/page/mccarthy1 -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="rcweb.dartmouth.edu/DartmouthBlackLives/histories/simms_stuart/simms_stuart.mp3" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
@@ -27,7 +27,7 @@
             <orgName>Dartmouth Black Lives</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="rcweb.dartmouth.edu/DartmouthBlackLives/histories/simms_stuart/simms_stuart_transcript_final.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
