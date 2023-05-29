@@ -1,0 +1,845 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dbl_023">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Willie Bogan</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Black Lives</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dbl_023</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="00:56:08">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/bogan_willie/bogan_willie.mp3" mimeType="video/mp4"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Vachon Raye</persName>
+            <orgName>Dartmouth Black Lives</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/bogan_willie/bogan_willie_transcript_final.pdf">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Dartmouth Black Lives</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="RAYE"/>
+        <person xml:id="BOGAN"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2021-10-28"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="RAYE">Hi, my name is <persName ref="#dbl_023_person_0">Vachon Raye</persName>, class of <date when="2024">2024</date>, <orgName ref="#dbl_023_org_0">Dartmouth College</orgName> and I'm here with</u>
+      <u who="BOGAN"><persName ref="#dbl_023_person_1">Willie Bogan</persName>, Class of <date when="1971">1971</date></u>
+      <u who="RAYE">I'm working with the <orgName ref="#dbl_023_org_1">Dartmouth Black Lives Oral History Program</orgName> here at <orgName ref="#dbl_023_org_2">Dartmouth College</orgName>. <date when="2021-10-28">Today</date> is <date when="2021-10-28">Thursday October, 28, 2021</date>, 8:35 pm. I am in <placeName ref="#dbl_023_place_0">Topliff Hall</placeName> at <orgName ref="#dbl_023_org_3">Dartmouth College</orgName> and Mr. <persName ref="#dbl_023_person_2">Willie Bogan</persName> is </u>
+      <u who="BOGAN">I'm in <placeName ref="#dbl_023_place_1">Oakland, California</placeName>.</u>
+      <u who="RAYE">I want to initially thank you personally for being here, and also on behalf of the <orgName ref="#dbl_023_org_4">Program</orgName>.</u>
+      <u who="BOGAN">My pleasure.</u>
+      <u who="RAYE">Alright, so my first question is, where did you grow up? What was your childhood like? </u>
+      <u who="BOGAN">I was born in <placeName ref="#dbl_023_place_2">Greenville, Alabama</placeName>. My parents were farmers in <placeName ref="#dbl_023_place_3">Alabama</placeName> and when I was about two years old, they moved to <placeName ref="#dbl_023_place_4">Michigan</placeName>, where my dad was able to find a job in the factories. This was post-<name type="event" ref="#dbl_023_event_0">World War Two</name> and there was a <name type="event" ref="#dbl_023_event_1">massive migration of black folks from the south to the north</name>, and my parents and my family were part of that migration. So, we grew up in a little town in <placeName ref="#dbl_023_place_5">Michigan</placeName> call <placeName ref="#dbl_023_place_6">Albion</placeName> and I had six brothers, two sisters. As I said, my dad worked in a factory and supporting or building parts for the cars that were assembled in <placeName ref="#dbl_023_place_7">Detroit</placeName>. In <placeName ref="#dbl_023_place_8">Michigan</placeName> the auto industry was the biggest industry so, we were all part of that. The beneficiaries of the auto industry in <placeName ref="#dbl_023_place_9">Michigan</placeName>. It was a very modest, my dad made a very modest income but thankfully, we were able to keep a roof over our heads and we had food. And from our standpoint, it was a great childhood. It was a little town, we had a lot of freedom. We essentially didn't have to come in until curfew, which was 10 o'clock at night. We played during the summer. We played baseball and that was our first sport and first love. And it was a very supportive town. Even when I was playing <orgName ref="#dbl_023_org_5">Little League</orgName> and <placeName ref="#dbl_023_place_10">Albion</placeName> you would get your name in the paper for doing certain accomplishments like pitching a no hitter or getting so many hits and what I found is that that was very reinforcing. That it helped to build confidence. It was a community that was very nurturing and so I felt like I was even though it is a small town, I felt like I was somebody and it also was a place which fostered dreams. And I envision myself playing sports at a higher level. I envision myself going to college. One significant thing about our hometown was that it was also a college town. So, we had a lot of professor kids that went to school with us and it elevated the level of competition in the classroom. So it was all in all, it was a very, very happy childhood.</u>
+      <u who="RAYE">You mentioned sports being a very integral part of your childhood being like a centerpiece, something of value, </u>
+      <u who="BOGAN">Yeah.</u>
+      <u who="RAYE">How did sports lead you to college for the ones who don’t know you?</u>
+      <u who="BOGAN">Yes, so my story is that I played football, basketball, and I ran track through high school. And football probably was my best sport in terms of team sports, although I was a very good track athlete. I ran the 400 meters as well as doing the 400 meter relay and some of the other relays, but football was in terms of team sports was the sport that was my better sport. I was thinking about going to college, perhaps in the Midwest where we lived, because we were from a small town. I wasn't going to get interest from big schools like <orgName ref="#dbl_023_org_6">Michigan</orgName> or <orgName ref="#dbl_023_org_7">Michigan state</orgName>, so I was thinking about maybe the next level down. One day I got a call from <orgName ref="#dbl_023_org_8">Dartmouth</orgName>. It was either a call or letter, I can't remember, but they were interested in meeting me at a recruiting event in <placeName ref="#dbl_023_place_11">Detroit</placeName>. And the way that happened was that one of my football coaches responded to a questionnaire from <persName ref="#dbl_023_person_3">Bob Blackman</persName>, who was the head coach at the time, became a legendary coach at <orgName ref="#dbl_023_org_9">Dartmouth</orgName>. <persName ref="#dbl_023_person_4">Bob Blackman</persName> was scouring the country going a little bit deeper than schools like <orgName ref="#dbl_023_org_10">Michigan</orgName>, <orgName ref="#dbl_023_org_11">Michigan State</orgName> had to go just to find student athletes that might be able to compete at <orgName ref="#dbl_023_org_12">Dartmouth</orgName>. And he had sent out a questionnaire across the country to high school coaches and I didn't even know, but my coach responded to one of the questionnaires. And indicated that,: I was a person that could compete academically and athletically at a place like <orgName ref="#dbl_023_org_13">Dartmouth</orgName>. And so that's how it all began. It was because one of my coaches had enough faith in me, belief in me that he was willing to put my name down and be an advocate for me. One of the lessons I learned from that is that sometimes people around you and know you can envision things for your life that you don't necessarily envision for yourself and that had a tremendous impact on my trajectory.</u>
+      <u who="RAYE">Could you mention that coach by name, do you remember his name? </u>
+      <u who="BOGAN">I can't remember which one it would have been, but it would have either been. Coach Faust [F-a-u-s-t] or coach Mullencamp. I believe one of those two and I did get some you know some attention from other small schools and also from the <orgName ref="#dbl_023_org_14">Naval Academy</orgName>. I was recruited by the <orgName ref="#dbl_023_org_15">Naval Academy</orgName>, and I was admitted. I went through the whole process of getting a Congressional appointment and all of that, and it was very, very alluring. My parents could envision me in that naval uniform. You may even know <persName ref="#dbl_023_person_7">Lee Corso</persName>. He's still on <orgName ref="#dbl_023_org_16">Sports Center</orgName> on Game Day on Saturdays. He actually came to my house, he was with <orgName ref="#dbl_023_org_17">Navy</orgName> at the time. He was a young coach with <orgName ref="#dbl_023_org_18">Navy</orgName>. This was a recruiting trip and he met me and my parents at our House and he really did a good selling job with them, and it really was a very tempting opportunity. But the bottom line was that this was a period of <name type="event" ref="#dbl_023_event_2">Vietnam War</name>, and it was very likely that if I had gone to the <orgName ref="#dbl_023_org_19">naval Academy</orgName>, I was going  to have to go over to <placeName ref="#dbl_023_place_12">Vietnam</placeName> and I really admired all the people who did that. But I did not. I couldn't see myself there because I didn't really know what that war was all about. Anyway, that was one of the other options I had but I took a recruiting trip to <orgName ref="#dbl_023_org_20">Dartmouth</orgName>. It was one of those beautiful weekends at <orgName ref="#dbl_023_org_21">Dartmouth</orgName>, where they had invited sister schools in for the weekend. At the time <persName ref="#dbl_023_person_8">Vachon</persName>, it was all male so that was a really big, big thing, and you know I just had a really good time and decided that I couldn't pass up the opportunity to go to an <orgName ref="#dbl_023_org_22">Ivy league</orgName> institution, because I knew, I knew how prestigious it was and what a difference it can make in my life.</u>
+      <u who="RAYE">So I'm pretty sure your parents were pretty proud of you with you getting <orgName ref="#dbl_023_org_23">Ivy League</orgName> attention. From my knowledge, I also know about the <orgName ref="#dbl_023_org_24">Rhodes scholarship</orgName> you received. Could you briefly tell me about that?</u>
+      <u who="BOGAN">Yes! So one of the things that <orgName ref="#dbl_023_org_25">Dartmouth</orgName> did for me was it broadened my horizons. It made me feel that I could accomplish a lot more, and that many doors would open for me, because of the foundation I was getting at <orgName ref="#dbl_023_org_26">Dartmouth</orgName>. In my senior year. No I’m sorry I think it was my sophomore year. I read in <orgName ref="#dbl_023_org_27">the Dartmouth newspaper</orgName> that, what is his name? He was this <orgName ref="#dbl_023_org_28">Treasury</orgName> Secretary. [<persName ref="#dbl_023_person_9">Henry Paulson ‘68</persName>]. Anyway, he had received a <orgName ref="#dbl_023_org_29">Rhodes scholarship</orgName> and I didn't know necessarily at the time what that was all about. I did a little research and I found that it would give the winner opportunity to go to study at <orgName ref="#dbl_023_org_30">Oxford University</orgName>. And that the qualifications were; being a great student excelling in academics, of course, having sports experience, and being a Community leader, and those are all things that was part of my experience at <orgName ref="#dbl_023_org_31">Dartmouth</orgName>, and so I began to think of that, as a possibility for myself. And so I applied in my senior year. You can either apply in the state where you go to school, the state where you reside, where your residence is, and so I went back to <placeName ref="#dbl_023_place_13">Michigan</placeName> and went through the process and was selected and ended up being one of thirty-two Rhodes scholars selected from the <placeName ref="#dbl_023_place_14">United States</placeName> that year. Interestingly, again this was a time when people were becoming aware of some of the inequities in education and in other areas of our lives in the <placeName ref="#dbl_023_place_15">United States</placeName>. I think there was a special attention being given to trying to identify minority students who could qualify. In my year there were five black Rhodes scholars and I'm not sure we've ever had that many since then. We may have, but that was really an extraordinary number. Five out of thirty-two. So that allowed me to study in <orgName ref="#dbl_023_org_32">Oxford</orgName> for two years. And <persName ref="#dbl_023_person_10">Vachon</persName>, I just like to mention one thing, because this is a story that I like to tell because it puts it in context again in terms of what was going on in our lives at that time. And so part of the experience as a Rhodes scholar at that time was that you would [Pause] All right, so I just wanted to emphasize, you know there were five out of thirty-two blacks who were Rhodes scholars, an extraordinary number, and part of the Rhodes tradition, was that we would all meet in <placeName ref="#dbl_023_place_16">New York</placeName> before our first year at <orgName ref="#dbl_023_org_33">Oxford</orgName>. And we would get on this big boat at that time was the Queen Elizabeth the second, or they called it the QE2, and we would have a sailing party we would sail together over to <orgName ref="#dbl_023_org_34">Oxford</orgName>. When it was just kind of coincidental that when we were sailing, we gather with some other folks on the ship. We met <persName ref="#dbl_023_person_11">Roy Wilkins</persName>, who was the president of the <orgName ref="#dbl_023_org_35">NAACP</orgName> at that time, and when he learned that there were five black Rhodes scholars on that ship, he was overjoyed because he knew in his heart that it was the work that he and others had done which had laid the groundwork for that opportunity for us. So that's something that's always stuck in my head. How happy, how pleased and that he was to see that accomplishment.</u>
+      <u who="RAYE">You spoke about one of the requirements for being a Rhodes scholar being a community leader. So could you talk about how you were a community leader at <orgName ref="#dbl_023_org_36">Dartmouth</orgName> campus.</u>
+      <u who="BOGAN">I wasn't into necessarily the political scene and all of that, but I think it was more of leadership by example. By being a committed student and a committed athlete and achieving at that level and that as a result, there were other people that in our community that look up to me. In fact, they will tell me now I didn't necessarily realize it so much, then, but what a role model I was for them, some of the underclassmen especially. But you know I did get into a situation where we, as a group of black students at <orgName ref="#dbl_023_org_37">Dartmouth</orgName>, we had a confrontation as a result of the <orgName ref="#dbl_023_org_38">College</orgName> inviting <persName ref="#dbl_023_person_12">William Shockley</persName> to the <orgName ref="#dbl_023_org_39">College</orgName>. <persName ref="#dbl_023_person_13">William Shockley</persName> believed in white superiority and he believed that blacks were inherently inferior and so we as a group, and I was part of that leadership group for that particular event, decided that we had to do something to make it clear that it was not acceptable for him to come on our campus, our home and talk about our inferiority. So, we basically clapped him down so that he couldn't speak. My only sort of mark on my record at <orgName ref="#dbl_023_org_40">Dartmouth</orgName> was that I was put on probation, I think, as a result of that. In retrospect, if it had been a different time, I don't think that punishment would have been meted out because <orgName ref="#dbl_023_org_41">Dartmouth</orgName> was allowing somebody to come into our home and to make us feel inferior. In some ways, I think, not only was that punishment inappropriate but that really the <orgName ref="#dbl_023_org_42">College</orgName> owed us an apology for doing what they did.</u>
+      <u who="RAYE">Yeah. I think I read up on that. </u>
+      <u who="BOGAN">Yeah. </u>
+      <u who="RAYE">And it was talking about the <orgName ref="#dbl_023_org_43">Judicial Advisory Committee</orgName>.</u>
+      <u who="BOGAN">Yeah, right. That must have been a committee that put us on probation. The ones that they could identify and I was identifiable because I was at that time, a well-recognized football player. </u>
+      <u who="RAYE">So you were involved in the protest that was on <orgName ref="#dbl_023_org_44">Dartmouth</orgName> campus. Are you familiar with <persName ref="#dbl_023_person_14">George Wallace</persName> coming to campus?  </u>
+      <u who="BOGAN">I am. Although, I think that happened the year before I arrived at <orgName ref="#dbl_023_org_45">Dartmouth</orgName>. I think it may have been the spring before I arrived at <orgName ref="#dbl_023_org_46">Dartmouth</orgName>. But you know of course I've heard a lot about that as well.</u>
+      <u who="RAYE">I understand that on the flip side there has been two people who are pro-black like <persName ref="#dbl_023_person_15">Malcom X</persName> and <persName ref="#dbl_023_person_16">Martin Luther King</persName>. Was there any like word around them? Or, things being said about them? Not even just things — feelings or like experiences involving them.</u>
+      <u who="BOGAN">Well you know I know that at the time, <persName ref="#dbl_023_person_17">Martin Luther King</persName> had a broad following, even among people who were perhaps more militant than <persName ref="#dbl_023_person_18">Martin Luther King</persName> advocated. There was a great respect for him. I know that that was the case at <orgName ref="#dbl_023_org_47">Dartmouth</orgName> and across the country, and probably other colleges as well. I mean, he was such a powerful figure. I mean in terms of his ability as an orator. His ability to arouse people and to go to the heart of what is right and decent and convince people about what is right and decent. And he was just a brilliant man, so there was a lot of respect for him. But I also know that there was a more militant component among the black folks at <orgName ref="#dbl_023_org_48">Dartmouth</orgName>, and <persName ref="#dbl_023_person_19">Malcom X</persName> certainly had a lot of respect. Yeah, a lot of respect from those people, because I think a lot of folks believed that we needed to do more than march. It might be necessary to do more than just march in order to bring about equality.</u>
+      <u who="RAYE">Oh well, thank you.</u>
+      <u who="BOGAN">All and I would, I would say too. I remember vividly it was in <date when="1968">1968</date> I was just a sophomore. No, it was the winter of <date when="1968">68</date>, so I think I was just a freshman, my freshman year. And he was assassinated, <persName ref="#dbl_023_person_20">Martin Luther King</persName> was just assassinated. I remember how walking around the campus around the <placeName ref="#dbl_023_place_17">Green</placeName> and I just heard the news. I felt alone. I felt like they had taken away hope from us, and it was a very somber moment for me, and I remember just feeling that, while I was at <orgName ref="#dbl_023_org_49">Dartmouth</orgName>, it was a great sense of loss.</u>
+      <u who="RAYE">Thank you for speaking on that. I also wanted to ask about some organizations like black organizations that, not if you were involved in like any of them, that you can name. </u>
+      <u who="BOGAN">You know, other than the <orgName ref="#dbl_023_org_50">Afro Am</orgName> [Afro-American Society] when I was on campus that was the only one that I was involved in. Then, obviously there were other organizations that were around at that time, like the <orgName ref="#dbl_023_org_51">Black Panthers</orgName>. But I was not involved in any of those. And in part of it was there's only so much you can do as a student and I realized, my primary job was to be a good student and to prepare myself for the future. So I did not, I did not get distracted by some of those other organizations.</u>
+      <u who="RAYE">Ok, could you tell me about your involvement and your experience with the <orgName ref="#dbl_023_org_52">Afro American Society</orgName>?  </u>
+      <u who="BOGAN">Yeah so, from my vantage point the <orgName ref="#dbl_023_org_53">Afro Am</orgName> [Afro-American Society]  was also the organization that organized the protest against <persName ref="#dbl_023_person_21">William Shockley</persName>, it would have probably been the group that organized a protest against <persName ref="#dbl_023_person_22">George Wallace</persName>. So, it was very politically aware. And it also was the organization that would organize, I guess, there was a protest against <orgName ref="#dbl_023_org_54">Dartmouth</orgName> administration itself. And I think I was away from campus doing one of my terms abroad or I had a term in <placeName ref="#dbl_023_place_18">Mississippi</placeName> where I taught. So I don't think I was there for that, but the <orgName ref="#dbl_023_org_55">Afro AAM</orgName>was very politically minded and was at the core of those protests. But, more fundamentally, it was a social group. It was where we would go and we would hang out. We would just have a good time with one another. It was a support group for the blacks on campus: It was, sometimes we felt isolated, as a group and, and so it was a way of dealing with that isolation.</u>
+      <u who="RAYE">So I know you guys protested and were involved in political things. Based on our research I seen that you guys made things such as the Black Arts festival, or like the <orgName ref="#dbl_023_org_56">black Praxis</orgName>. Do you have any knowledge on that? Could you speak on that?</u>
+      <u who="BOGAN">You know, again, I think, for me, other than you know what I've already spoken about. My involvement was pretty much limited to that. I know that we did some artsy things and: probably were involved in bringing certain people onto campus. Personally, I  think I've benefited from that in terms of some of the people that came onto campus. But I wasn't personally involved in bringing that about.</u>
+      <u who="RAYE">Can you tell me about any black professors that you guys have on campus or any classes that you took? I know in <date when="1969">1969</date> you guys have like a revision you guys wanted for black major, black studies. Could you tell me about how you guys started influencing teachers and also your classes? </u>
+      <u who="BOGAN">At that particular time my recollection is the only black Professor, was a professor named <persName ref="#dbl_023_person_23">Errol Hill</persName> [E-r-r-o-l] I think it was. <persName ref="#dbl_023_person_24">Errol Hill</persName>, and fortunately for us, he was very much interested in our having a good experience at <orgName ref="#dbl_023_org_57">Dartmouth</orgName>. And so I remember him and inviting us over to his home in <placeName ref="#dbl_023_place_19">Hanover</placeName> and just being a, you know, again being a support to us: But quite frankly I can't remember anyone else at the time that we had. I think certainly there was a lot of buzz about the need for black professors. And the <orgName ref="#dbl_023_org_58">Afro AAM</orgName> would have been, again, at the center of that effort to make the administration aware, the importance of bringing black professors onto campus. But we didn't get to experience much of that. Again, I can only remember the one.</u>
+      <u who="RAYE">Were you able to partake in any black-based courses? Like African American courses? </u>
+      <u who="BOGAN">I didn't. But I remember some courses that allowed you to take a bent towards the African American perspective. One of them was just a history course and it was at <orgName ref="#dbl_023_org_59">Dartmouth</orgName>, during those history courses that I became immersed in the study of slavery. And what a vicious institution it was in the <placeName ref="#dbl_023_place_20">United States</placeName>. I remember one author describing it as the most, and I forget the exact term, but essentially the most vicious form of slavery in the world. It was through that that I began to understand our history and how that history continued to impact our lives. I remember having a debate in one of the history courses. This one African American student was taking the position that we had overcome that slavery and that we were not essentially tied down by the institution going forward, as the institution of slavery. I remember, my point of my point of view was, it was so destructive as an institution that it was impossible for us to overcome it in such a short period of time. And indeed, I think it's one of those things that has manifestations in our history, I mean throughout our history, through this present day, you can trace back.</u>
+      <u who="RAYE">Oh.</u>
+      <u who="BOGAN">Let me see, I just lost here. [Pause]</u>
+      <u who="BOGAN">Okay, I mean, I think you can trace back a lot of things. Some educational any qualities and prejudices that black people experience, you trace a lot of that back to slavery. And I remember another course, I think it was the literature course of some sort and again we were asked to write a play as part of our work and my play again it just focused on the black experience. It was about a young man, much like myself and his father, much like my dad, and how angry the young man was because his father, who is a great individual, but he wasn't angry about the things that he had. I should say he wasn't overtly angry. He never expressed anger about the things he had to experience in the south and as a boy, as a young man, where they still call him boy. Even in <placeName ref="#dbl_023_place_21">Michigan</placeName> where we grew up the things that he might have had to experience in the factory, where he worked, being relegated to certain jobs. And he never expressed anger about that. One of the things I remember about the play I wrote was that the young man said that he was angry, not just for himself, but he was angry for his father as well.</u>
+      <u who="RAYE">For this play did you have to present or?</u>
+      <u who="BOGAN">No, we didn’t, it was just a written play.</u>
+      <u who="RAYE">So you take this like your freshman year?</u>
+      <u who="BOGAN">It would have been later on the freshmen courses were pretty mapped out so would have been you know, perhaps my junior year something like that.</u>
+      <u who="RAYE">Okay.</u>
+      <u who="BOGAN">Maybe, maybe even senior year but, but it was later on.</u>
+      <u who="RAYE">What year was it that you and your football team went undefeated? Could you tell me about the year your team went undefeated?</u>
+      <u who="BOGAN">Yeah so that was the <date when="1970">1970</date> football season. It followed the <date when="1969">1969</date> season, of course, but in the <date when="1969">‘69</date> season we had gone undefeated until the last game, which was against <orgName ref="#dbl_023_org_60">Princeton</orgName>. And <orgName ref="#dbl_023_org_61">Princeton</orgName> I must confess, they handled us pretty well and it left a very bitter taste in our mouths, when we realized how difficult it is to run the table, but we also realize when you get that close you don't want to lose the opportunity. so we committed ourselves during the offseason. Our rally cry was ‘Beat <orgName ref="#dbl_023_org_62">Princeton</orgName>’, ‘Remember <orgName ref="#dbl_023_org_63">Princeton</orgName>’, that sort of thing. I know personally as I trained in the summer that was on my mind. We got a second chance my senior year to try to run the table. <orgName ref="#dbl_023_org_64">Princeton</orgName> was one of our earlier games, maybe let's see.</u>
+      <u who="RAYE">And if you could, you can put in the camera.</u>
+      <u who="BOGAN">So yeah so.</u>
+      <u who="RAYE">Could you tell me what you have?</u>
+      <u who="BOGAN">This is the trophy for the <date when="1970">1970</date> team, which was undefeated.</u>
+      <u who="RAYE">Could you hold it up one more time, please.</u>
+      <u who="BOGAN">Yeah, this is the trophy for our undefeated <date when="1970">1970</date> team and we beat <orgName ref="#dbl_023_org_65">Princeton</orgName> the third game. We beat them 38 to nothing, let me see if I got that right. [Pause] Right, we beat <orgName ref="#dbl_023_org_66">Princeton</orgName> 38 to nothing. We were such a dominant team that year, we scored 311 points against our opponents and we allowed 42 points. We had six shutouts that year, the last four games we played were shutouts. Including <orgName ref="#dbl_023_org_67">Yale</orgName> and <orgName ref="#dbl_023_org_68">Cornell</orgName>. <orgName ref="#dbl_023_org_69">Yale</orgName> was, until we beat them, they were one of the highly touted teams, not only in the East, but in the country. And we beat <orgName ref="#dbl_023_org_70">Cornell</orgName>, which had the runner up to the Heisman trophy. I believe it was his senior year, but he had built quite a legacy already by his junior year, the year we played him. He was running you know, he was rushing, for you know, a couple hundred yards sometimes a game and we held him to 60 yards. So it was a very dominant defense. We were committed, we were focused, and we had enough talent to pull it off.  Not only were we undefeated, but we won the Lambert trophy which at the time was for the team with the best record in the East, which was essentially, regarded as the best team in the East. One of the stories in the <orgName ref="#dbl_023_org_71">Dartmouth</orgName> lore is that <persName ref="#dbl_023_person_25">Joe Paterno</persName>, the coach at <orgName ref="#dbl_023_org_72">Penn State</orgName>, challenged our coach <persName ref="#dbl_023_person_26">Bob Blackman</persName> to an offseason game, because he just couldn't believe that an <orgName ref="#dbl_023_org_73">Ivy league</orgName> school could compete with the likes of a <orgName ref="#dbl_023_org_74">Penn state</orgName>. Even though we  had a superior record and what our Coach <persName ref="#dbl_023_person_27">Blackman</persName> replied, and this is kind of legendary now, is that Coach <persName ref="#dbl_023_person_28">Paterno</persName> knows that <orgName ref="#dbl_023_org_75">Dartmouth</orgName> teams, <orgName ref="#dbl_023_org_76">Ivy league</orgName> teams could not play postseason games as a team. But if we could we'd want to play a team with a better record than <orgName ref="#dbl_023_org_77">Penn State</orgName>. We've all often recited that story, because it was so, so clever and it was such a great way to respond to a challenge, but we were also ranked 14th in the country that year, and that was ahead of big time schools like <orgName ref="#dbl_023_org_78">SEC</orgName>.</u>
+      <u who="RAYE">So could you tell me about the atmosphere of the team? I’m familiar with your nickname <persName ref="#dbl_023_person_29">killer B</persName>. The defense you could specify them but could you tell me about the atmosphere of the whole team?</u>
+      <u who="BOGAN">Yeah, I can say that we were truly a team and when I look back now, those are the guys, offense and defense, that were the closest to me at <orgName ref="#dbl_023_org_79">Dartmouth</orgName>. I didn't realize it at the time, but we spent so much time together, you know, being in the trenches together that we did form a real bond. And we were united by that singularly purpose of not letting the undefeated season get away from us again. so we were friends, as well as teammates. If you listen to some of the guys on the team. They will tell you that it was a group that liked to have fun. It was sometimes an irreverent group, they did things that weren't just — c  let me put this way, that might have been a little mischievous. And so we yeah we had a lot of fun together. Being on the defensive side, I can say that I had a great respect for the guys on the offensive side. I never had a doubt that they were going to do their job. And just having that confidence that everybody was pulling the oar together. It was really an extraordinary experience, to the point where we’ve just had our 50th reunion. Although I didn't attend personally, but we had a lot of zoom meetings and email exchanges and so on, about those years. You can tell from those emails and and remembrances, how close knit the team was and that it was one of the most significant experiences in each of our lives.</u>
+      <u who="RAYE">Well, thank you for touching on your experience at <orgName ref="#dbl_023_org_80">Dartmouth</orgName>, if you have anything else that you would like to tell me about your favorite experience at <orgName ref="#dbl_023_org_81">Dartmouth</orgName> and one your worst experiences also.</u>
+      <u who="BOGAN">So, certainly, you know the football experience I would have to count as the favorite experience, especially that <date when="1970">1970</date> team. You have to remember too, <orgName ref="#dbl_023_org_82">Dartmouth</orgName> at that time. You know <orgName ref="#dbl_023_org_83">Dartmouth</orgName>, I mean it's isolated right? I mean, you're in the middle of <placeName ref="#dbl_023_place_22">New Hampshire</placeName> and it's a small town and there's not a lot going on around there. Having something like football to hold on to you know, to allow me to get out and visit the other <orgName ref="#dbl_023_org_84">Ivy league</orgName> schools and other schools that was really huge. I mean it added a whole new dimension to my experience at <orgName ref="#dbl_023_org_85">Dartmouth</orgName>. But one of the other great things about <orgName ref="#dbl_023_org_86">Dartmouth</orgName> and I alluded to this earlier was that it had a wonderful study abroad program and I studied, as a Spanish major, I studied in <placeName ref="#dbl_023_place_23">San Jose Costa Rica</placeName> at the university there for three months. And I studied at the <orgName ref="#dbl_023_org_87">University of Salamanca</orgName> in <placeName ref="#dbl_023_place_24">Salamanca Spain</placeName> for three months. So each of those was a term and then, as part of another program that <orgName ref="#dbl_023_org_88">Dartmouth</orgName> had, I spent three months teaching at a school in <placeName ref="#dbl_023_place_25">Clarksdale, Mississippi</placeName>. And it was those experiences that really increased my worldview. And made me a person that was more aware of the world around me. So that those three terms, those three terms were some of the greatest times and most significant times that I had at <orgName ref="#dbl_023_org_89">Dartmouth</orgName>. In terms of the low points, and you know <orgName ref="#dbl_023_org_90">Dartmouth</orgName> was all male at the time and we were, you know as blacks we were not well represented there. And it just was a lonely place many, many times. I think that's why when <persName ref="#dbl_023_person_30">Martin Luther King</persName> was assassinated, we took it very, and I took it very personally. And it was amplified being in a place where you already felt so alone. And so that was the biggest challenge about <orgName ref="#dbl_023_org_91">Dartmouth</orgName>, the long winters, being in <placeName ref="#dbl_023_place_26">Hanover</placeName>, and without a real social structure around you. Other than our brotherhood that we developed.</u>
+      <u who="RAYE">And also wondering: I know you were there before Co-Ed [coeducation] but did you get a chance to experience the incoming of the first women on <orgName ref="#dbl_023_org_92">Dartmouth</orgName> campus? </u>
+      <u who="BOGAN">When my senior year they had started bringing in some women on sort of like an exchange program. So they may have finished their senior year at <orgName ref="#dbl_023_org_93">Dartmouth</orgName>. I don't think they got <orgName ref="#dbl_023_org_94">Dartmouth</orgName> degrees at that time, but there were women who were on campus my senior year. I can't remember how many it was. But let's say there were 100 among 800 guys, which was the typical class size at the time, 800 per class. That was a very small percentage, and so it even that didn't seem real. I must confess I don't think I, I may have interacted with a couple, but I really didn't know them, so it didn't affect my experience.</u>
+      <u who="RAYE">Oh, if you have any closing remarks, anything. You have presented me a great interview. You talked a lot about a lot about things that you’ve experienced and kind of touched on some of the black outlook, or the look of black students, especially [being] a student athlete during your time, also an emphasis on being a student because I know you spent a lot of time studying in the library.</u>
+      <u who="BOGAN">Yes.</u>
+      <u who="RAYE">Any closing remarks, you could say them now.</u>
+      <u who="BOGAN">I would just say that I still believe, you know we talked about how lonely it could be, and one of the things that most of us realized at the time, is that even so, having the opportunity to go to <orgName ref="#dbl_023_org_95">Dartmouth</orgName> was a price we were willing to pay for. Because we knew that it was going to make a difference in our lives. So during those difficult times some of us might have thought about whether we would want to continue that challenges, but only for a moment, because we knew that quitting was not an option. That we needed to continue this journey in order to position ourselves for success, and so we always view <orgName ref="#dbl_023_org_96">Dartmouth</orgName> as a foundation for that future success. And indeed it was.</u>
+      <u who="RAYE">Well also again. I want to thank you for presenting your time and experiences. That will conclude our interview. I'm just going to stop sharing.</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dbl_023_place_0">
+        <placeName>Topliff Hall</placeName>
+        <location>
+          <geo>43.702657 -72.286084</geo>
+        </location>
+        <idno type="WD">Q105076922</idno>
+      </place>
+      <place xml:id="dbl_023_place_1">
+        <placeName>Oakland</placeName>
+        <location>
+          <geo>37.8 -122.25</geo>
+        </location>
+        <idno type="WD">Q17042</idno>
+      </place>
+      <place xml:id="dbl_023_place_2">
+        <placeName>Greenville</placeName>
+        <location>
+          <geo>31.831273 -86.627567</geo>
+        </location>
+        <idno type="WD">Q79362</idno>
+      </place>
+      <place xml:id="dbl_023_place_3">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dbl_023_place_4">
+        <placeName>Michigan</placeName>
+        <location>
+          <geo>44.34 -85.58</geo>
+        </location>
+        <idno type="WD">Q1166</idno>
+      </place>
+      <place xml:id="dbl_023_place_5">
+        <placeName>Michigan</placeName>
+        <location>
+          <geo>44.34 -85.58</geo>
+        </location>
+        <idno type="WD">Q1166</idno>
+      </place>
+      <place xml:id="dbl_023_place_6">
+        <placeName>Albion</placeName>
+        <location>
+          <geo>42.2467 -84.7533</geo>
+        </location>
+        <idno type="WD">Q2327553</idno>
+      </place>
+      <place xml:id="dbl_023_place_7">
+        <placeName>Detroit</placeName>
+        <location>
+          <geo>42.331666666667 -83.0475</geo>
+        </location>
+        <idno type="WD">Q12439</idno>
+      </place>
+      <place xml:id="dbl_023_place_8">
+        <placeName>Michigan</placeName>
+        <location>
+          <geo>44.34 -85.58</geo>
+        </location>
+        <idno type="WD">Q1166</idno>
+      </place>
+      <place xml:id="dbl_023_place_9">
+        <placeName>Michigan</placeName>
+        <location>
+          <geo>44.34 -85.58</geo>
+        </location>
+        <idno type="WD">Q1166</idno>
+      </place>
+      <place xml:id="dbl_023_place_10">
+        <placeName>Albion</placeName>
+        <location>
+          <geo>42.2467 -84.7533</geo>
+        </location>
+        <idno type="WD">Q2327553</idno>
+      </place>
+      <place xml:id="dbl_023_place_11">
+        <placeName>Detroit</placeName>
+        <location>
+          <geo>42.331666666667 -83.0475</geo>
+        </location>
+        <idno type="WD">Q12439</idno>
+      </place>
+      <place xml:id="dbl_023_place_12">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dbl_023_place_13">
+        <placeName>Michigan</placeName>
+        <location>
+          <geo>44.34 -85.58</geo>
+        </location>
+        <idno type="WD">Q1166</idno>
+      </place>
+      <place xml:id="dbl_023_place_14">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_023_place_15">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_023_place_16">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.7 -74</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dbl_023_place_17">
+        <placeName>The Green</placeName>
+        <location>
+          <geo>43.7033 -72.2886</geo>
+        </location>
+        <idno type="WD">Q7738117</idno>
+      </place>
+      <place xml:id="dbl_023_place_18">
+        <placeName>Mississippi</placeName>
+        <location>
+          <geo>33 -90</geo>
+        </location>
+        <idno type="WD">Q1494</idno>
+      </place>
+      <place xml:id="dbl_023_place_19">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_023_place_20">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_023_place_21">
+        <placeName>Michigan</placeName>
+        <location>
+          <geo>44.34 -85.58</geo>
+        </location>
+        <idno type="WD">Q1166</idno>
+      </place>
+      <place xml:id="dbl_023_place_22">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dbl_023_place_23">
+        <placeName>San José</placeName>
+        <location>
+          <geo>9.932511111111111 -84.07958055555555</geo>
+        </location>
+        <idno type="WD">Q3070</idno>
+      </place>
+      <place xml:id="dbl_023_place_24">
+        <placeName>Salamanca</placeName>
+        <location>
+          <geo>40.43 -3.677778</geo>
+        </location>
+        <idno type="WD">Q1773521</idno>
+      </place>
+      <place xml:id="dbl_023_place_25">
+        <placeName>Clarksdale</placeName>
+        <location>
+          <geo>34.20063888888889 -90.57022222222223</geo>
+        </location>
+        <idno type="WD">Q990145</idno>
+      </place>
+      <place xml:id="dbl_023_place_26">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dbl_023_event_0" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="dbl_023_event_1" from-iso="1916-01-01T00:00:00Z" to-iso="1970-01-01T00:00:00Z">
+        <desc>Great Migration</desc>
+        <idno type="WD">Q1506365</idno>
+      </event>
+      <event xml:id="dbl_023_event_2" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dbl_023_person_0">
+        <persName>Vachon Raye</persName>
+        <idno type="WD">Q115041453</idno>
+      </person>
+      <person xml:id="dbl_023_person_1">
+        <persName>Willie Bogan</persName>
+        <idno type="WD">Q114647610</idno>
+      </person>
+      <person xml:id="dbl_023_person_2">
+        <persName>Willie Bogan</persName>
+        <idno type="WD">Q114647610</idno>
+      </person>
+      <person xml:id="dbl_023_person_3">
+        <persName>Bob Blackman</persName>
+        <idno type="WD">Q4931848</idno>
+      </person>
+      <person xml:id="dbl_023_person_4">
+        <persName>Bob Blackman</persName>
+        <idno type="WD">Q4931848</idno>
+      </person>
+      <person xml:id="dbl_023_person_7">
+        <persName>Lee Corso</persName>
+        <idno type="WD">Q6513335</idno>
+      </person>
+      <person xml:id="dbl_023_person_8">
+        <persName>Vachon Raye</persName>
+        <idno type="WD">Q115041453</idno>
+      </person>
+      <person xml:id="dbl_023_person_9">
+        <persName>Henry Paulson</persName>
+        <idno type="WD">Q311025</idno>
+      </person>
+      <person xml:id="dbl_023_person_10">
+        <persName>Vachon Raye</persName>
+        <idno type="WD">Q115041453</idno>
+      </person>
+      <person xml:id="dbl_023_person_11">
+        <persName>Roy Wilkins</persName>
+        <idno type="WD">Q2738344</idno>
+      </person>
+      <person xml:id="dbl_023_person_12">
+        <persName>William Shockley</persName>
+        <idno type="WD">Q163415</idno>
+      </person>
+      <person xml:id="dbl_023_person_13">
+        <persName>William Shockley</persName>
+        <idno type="WD">Q163415</idno>
+      </person>
+      <person xml:id="dbl_023_person_14">
+        <persName>George Wallace</persName>
+        <idno type="WD">Q313776</idno>
+      </person>
+      <person xml:id="dbl_023_person_15">
+        <persName>Malcolm X</persName>
+        <idno type="WD">Q43303</idno>
+      </person>
+      <person xml:id="dbl_023_person_16">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_023_person_17">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_023_person_18">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_023_person_19">
+        <persName>Malcolm X</persName>
+        <idno type="WD">Q43303</idno>
+      </person>
+      <person xml:id="dbl_023_person_20">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_023_person_21">
+        <persName>William Shockley</persName>
+        <idno type="WD">Q163415</idno>
+      </person>
+      <person xml:id="dbl_023_person_22">
+        <persName>George Wallace</persName>
+        <idno type="WD">Q313776</idno>
+      </person>
+      <person xml:id="dbl_023_person_23">
+        <persName>Errol Hill</persName>
+        <idno type="WD">Q5395585</idno>
+      </person>
+      <person xml:id="dbl_023_person_24">
+        <persName>Errol Hill</persName>
+        <idno type="WD">Q5395585</idno>
+      </person>
+      <person xml:id="dbl_023_person_25">
+        <persName>Joe Paterno</persName>
+        <idno type="WD">Q546591</idno>
+      </person>
+      <person xml:id="dbl_023_person_26">
+        <persName>Bob Blackman</persName>
+        <idno type="WD">Q4931848</idno>
+      </person>
+      <person xml:id="dbl_023_person_27">
+        <persName>Bob Blackman</persName>
+        <idno type="WD">Q4931848</idno>
+      </person>
+      <person xml:id="dbl_023_person_28">
+        <persName>Joe Paterno</persName>
+        <idno type="WD">Q546591</idno>
+      </person>
+      <person xml:id="dbl_023_person_29">
+        <persName>Willie Bogan</persName>
+        <idno type="WD">Q114647610</idno>
+      </person>
+      <person xml:id="dbl_023_person_30">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dbl_023_org_0">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_1">
+        <orgName>Dartmouth Black Lives</orgName>
+        <idno type="WD">Q114647391</idno>
+      </org>
+      <org xml:id="dbl_023_org_2">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_3">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_4">
+        <orgName>Dartmouth Black Lives</orgName>
+        <idno type="WD">Q114647391</idno>
+      </org>
+      <org xml:id="dbl_023_org_5">
+        <orgName>Little League Baseball</orgName>
+        <idno type="WD">Q608201</idno>
+      </org>
+      <org xml:id="dbl_023_org_6">
+        <orgName>University of Michigan</orgName>
+        <idno type="WD">Q230492</idno>
+      </org>
+      <org xml:id="dbl_023_org_7">
+        <orgName>Michigan State University</orgName>
+        <idno type="WD">Q270222</idno>
+      </org>
+      <org xml:id="dbl_023_org_8">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_9">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_10">
+        <orgName>University of Michigan</orgName>
+        <idno type="WD">Q230492</idno>
+      </org>
+      <org xml:id="dbl_023_org_11">
+        <orgName>Michigan State University</orgName>
+        <idno type="WD">Q270222</idno>
+      </org>
+      <org xml:id="dbl_023_org_12">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_13">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_14">
+        <orgName>United States Naval Academy</orgName>
+        <idno type="WD">Q559549</idno>
+      </org>
+      <org xml:id="dbl_023_org_15">
+        <orgName>United States Naval Academy</orgName>
+        <idno type="WD">Q559549</idno>
+      </org>
+      <org xml:id="dbl_023_org_16">
+        <orgName>SportsCenter</orgName>
+        <idno type="WD">Q3131232</idno>
+      </org>
+      <org xml:id="dbl_023_org_17">
+        <orgName>United States Naval Academy</orgName>
+        <idno type="WD">Q559549</idno>
+      </org>
+      <org xml:id="dbl_023_org_18">
+        <orgName>United States Naval Academy</orgName>
+        <idno type="WD">Q559549</idno>
+      </org>
+      <org xml:id="dbl_023_org_19">
+        <orgName>United States Naval Academy</orgName>
+        <idno type="WD">Q559549</idno>
+      </org>
+      <org xml:id="dbl_023_org_20">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_21">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_22">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dbl_023_org_23">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dbl_023_org_24">
+        <orgName>Rhodes Scholarship</orgName>
+        <idno type="WD">Q1204346</idno>
+      </org>
+      <org xml:id="dbl_023_org_25">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_26">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_27">
+        <orgName>The Dartmouth</orgName>
+        <idno type="WD">Q7729068</idno>
+      </org>
+      <org xml:id="dbl_023_org_28">
+        <orgName>United States Department of the Treasury</orgName>
+        <idno type="WD">Q648666</idno>
+      </org>
+      <org xml:id="dbl_023_org_29">
+        <orgName>Rhodes Scholarship</orgName>
+        <idno type="WD">Q1204346</idno>
+      </org>
+      <org xml:id="dbl_023_org_30">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dbl_023_org_31">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_32">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dbl_023_org_33">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dbl_023_org_34">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dbl_023_org_35">
+        <orgName>NAACP</orgName>
+        <idno type="WD">Q502044</idno>
+      </org>
+      <org xml:id="dbl_023_org_36">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_37">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_38">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_39">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_40">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_41">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_42">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_43">
+        <orgName>Judicial Advisory Committee for Black Students</orgName>
+        <idno type="WD">Q117841519</idno>
+      </org>
+      <org xml:id="dbl_023_org_44">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_45">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_46">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_47">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_48">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_49">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_50">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_023_org_51">
+        <orgName>Black Panther Party</orgName>
+        <idno type="WD">Q189150</idno>
+      </org>
+      <org xml:id="dbl_023_org_52">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_023_org_53">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_023_org_54">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_55">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_023_org_56">
+        <orgName>Black Praxis</orgName>
+        <idno type="WD">Q115027533</idno>
+      </org>
+      <org xml:id="dbl_023_org_57">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_58">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_023_org_59">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_60">
+        <orgName>Princeton University</orgName>
+        <idno type="WD">Q21578</idno>
+      </org>
+      <org xml:id="dbl_023_org_61">
+        <orgName>Princeton University</orgName>
+        <idno type="WD">Q21578</idno>
+      </org>
+      <org xml:id="dbl_023_org_62">
+        <orgName>Princeton University</orgName>
+        <idno type="WD">Q21578</idno>
+      </org>
+      <org xml:id="dbl_023_org_63">
+        <orgName>Princeton University</orgName>
+        <idno type="WD">Q21578</idno>
+      </org>
+      <org xml:id="dbl_023_org_64">
+        <orgName>Princeton University</orgName>
+        <idno type="WD">Q21578</idno>
+      </org>
+      <org xml:id="dbl_023_org_65">
+        <orgName>Princeton University</orgName>
+        <idno type="WD">Q21578</idno>
+      </org>
+      <org xml:id="dbl_023_org_66">
+        <orgName>Princeton University</orgName>
+        <idno type="WD">Q21578</idno>
+      </org>
+      <org xml:id="dbl_023_org_67">
+        <orgName>Yale University</orgName>
+        <idno type="WD">Q49112</idno>
+      </org>
+      <org xml:id="dbl_023_org_68">
+        <orgName>Cornell University</orgName>
+        <idno type="WD">Q49115</idno>
+      </org>
+      <org xml:id="dbl_023_org_69">
+        <orgName>Yale University</orgName>
+        <idno type="WD">Q49112</idno>
+      </org>
+      <org xml:id="dbl_023_org_70">
+        <orgName>Cornell University</orgName>
+        <idno type="WD">Q49115</idno>
+      </org>
+      <org xml:id="dbl_023_org_71">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_72">
+        <orgName>Pennsylvania State University</orgName>
+        <idno type="WD">Q739627</idno>
+      </org>
+      <org xml:id="dbl_023_org_73">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dbl_023_org_74">
+        <orgName>Pennsylvania State University</orgName>
+        <idno type="WD">Q739627</idno>
+      </org>
+      <org xml:id="dbl_023_org_75">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_76">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dbl_023_org_77">
+        <orgName>Pennsylvania State University</orgName>
+        <idno type="WD">Q739627</idno>
+      </org>
+      <org xml:id="dbl_023_org_78">
+        <orgName>Southeastern Conference</orgName>
+        <idno type="WD">Q963227</idno>
+      </org>
+      <org xml:id="dbl_023_org_79">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_80">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_81">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_82">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_83">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_84">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dbl_023_org_85">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_86">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_87">
+        <orgName>University of Salamanca</orgName>
+        <idno type="WD">Q308963</idno>
+      </org>
+      <org xml:id="dbl_023_org_88">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_89">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_90">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_91">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_92">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_93">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_94">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_95">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_023_org_96">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
