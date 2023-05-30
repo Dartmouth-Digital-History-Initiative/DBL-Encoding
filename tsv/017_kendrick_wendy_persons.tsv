@@ -1,22 +1,22 @@
-id	persName
-dbl_017_person_0	Jackelinne Benitez
-dbl_017_person_1	Wendy Kendrick
-dbl_017_person_2	Wendy
-dbl_017_person_3	Theodore Thompson
-dbl_017_person_4	Catherine Thompson
-dbl_017_person_5	Jackie
-dbl_017_person_6	Jackie
-dbl_017_person_7	Wendy
-dbl_017_person_8	Bing Davis
-dbl_017_person_9	Donna Wood
-dbl_017_person_10	Flo Kennedy
-dbl_017_person_11	Jackie
-dbl_017_person_12	Ashley Bryan
-dbl_017_person_13	Jackie
-dbl_017_person_14	Jackie
-dbl_017_person_15	Aileen Cave [‘76]
-dbl_017_person_16	[Forrester] “Woody” [Ashe] Lee [‘68]
-dbl_017_person_17	Jackie
-dbl_017_person_18	Jackie
-dbl_017_person_19	Eileen Cave
-dbl_017_person_20	Jackie
+id	persName	QID	dbl_id
+dbl_017_person_0	Jackelinne Benitez	Q116594593	
+dbl_017_person_1	Wendy Kendrick	Q116594223	
+dbl_017_person_2	Wendy Kendrick	Q116594223	
+dbl_017_person_3	Harold Theodore Thompson	Q26458194	
+dbl_017_person_4	Catherine Thompson	Q118869228	
+dbl_017_person_5	Jackelinne Benitez	Q116594593	
+dbl_017_person_6	Jackelinne Benitez	Q116594593	
+dbl_017_person_7	Wendy Kendrick	Q116594223	
+dbl_017_person_8	Bing Davis	Q4914125	
+dbl_017_person_9	Donna Maria Wood	Q110590775	
+dbl_017_person_10	Florynce Kennedy	Q8564015	
+dbl_017_person_11	Jackelinne Benitez	Q116594593	
+dbl_017_person_12	Ashley Bryan	Q4805375	
+dbl_017_person_13	Jackelinne Benitez	Q116594593	
+dbl_017_person_14	Jackelinne Benitez	Q116594593	
+dbl_017_person_15	Aileen Cave	Q118869225	
+dbl_017_person_16	"Forrester ""Woody"" Ashe Lee"	Q116419637	
+dbl_017_person_17	Jackelinne Benitez	Q116594593	
+dbl_017_person_18	Jackelinne Benitez	Q116594593	
+dbl_017_person_19	Eileen Cave	Q114647741	
+dbl_017_person_20	Jackelinne Benitez	Q116594593	
