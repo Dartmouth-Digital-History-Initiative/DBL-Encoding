@@ -1,0 +1,2109 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dbl_005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with William McCurine</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Black Lives</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dbl_005</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="01:49:08">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/mccurine_william/mccurine_william.mp3" mimeType="video/mp4"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Agnes Ugoji</persName>
+            <orgName>Dartmouth Black Lives</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/mccurine_william/mccurine_william_transcript_final.pdf">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Dartmouth Black Lives</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="MCCURINE"/>
+        <person xml:id="D_MCCURINE"/>
+        <person xml:id="UGOJI"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2021-10-29"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="UGOJI">Okay, my name is <persName ref="#dbl_005_person_0">Agnes C. Ugoji</persName> and I am currently in my home in <placeName ref="#dbl_005_place_0">Boston, Massachusetts</placeName> and I'm doing a zoom interview with <persName ref="#dbl_005_person_1">William "Bill" McCurine</persName>, who is currently in <placeName ref="#dbl_005_place_1">San Diego, California</placeName>. Today is <date when="2021-10-29">October 29th, 2021</date>, and the time is 4:21pm EST. This interview is for the <orgName ref="#dbl_005_org_0">Dartmouth Black Lives</orgName> Oral History Project. Hello, <persName ref="#dbl_005_person_2">Bill</persName>. Can I call you, <persName ref="#dbl_005_person_3">Bill</persName>?</u>
+      <u who="MCCURINE">Absolutely. Hello, <persName ref="#dbl_005_person_4">Agnes</persName>.</u>
+      <u who="UGOJI">Thank you for joining me <date when="2021-10-29">today</date>. First, I'd like to learn a little bit about your background. Can you tell me a bit about your childhood? When and where were you born?</u>
+      <u who="MCCURINE">I was born in <date when="1947">1947</date> in <placeName ref="#dbl_005_place_2">Chicago, Illinois</placeName>, to <persName ref="#dbl_005_person_5">William McCurine Jr.</persName>, my senior, and my mother, <persName ref="#dbl_005_person_6">Dorothy Marie Jones</persName> and then of course, when she got married, her surname changed. And I had just about an idyllic childhood. I mean, every childhood has problems. My mother and father were divorced when I was three years old, but I was surrounded by a loving extended family. So, I just had a wonderful childhood.</u>
+      <u who="UGOJI">It's wonderful to hear.  What did your parents do for a living?</u>
+      <u who="MCCURINE">My dad was an executive with what was then called the <orgName ref="#dbl_005_org_1">Chicago Housing Authority</orgName> and my mother was the [clears throat] head of the key punch unit for the <orgName ref="#dbl_005_org_2">Railroad Retirement Board</orgName>. Did you by any chance, see the movie [clears throat] Hidden Figures?</u>
+      <u who="UGOJI">Yes!</u>
+      <u who="MCCURINE">Okay. Those women were key punch operators.</u>
+      <u who="UGOJI">Oh!</u>
+      <u who="MCCURINE">And my mother was the head of the entire key punch unit for the entire Railroad Retirement System. And she was the first Black to ever take that position. She was extremely good with numbers. She loved math. And she excelled in her position.</u>
+      <u who="UGOJI">Oh, that's wonderful. Did you have any siblings growing up?</u>
+      <u who="MCCURINE">Well, I am. My father was married to a beautiful woman before he met my mother and he had two daughters from that marriage. My mother was his second marriage, and I was the only child from that union. And then my father married a third time. And there was a son from that union.</u>
+      <u who="UGOJI">Hmm, so did you all grow up in the same house?</u>
+      <u who="MCCURINE">Oh, no, no.</u>
+      <u who="UGOJI">No?</u>
+      <u who="MCCURINE">I knew my older half sisters, but not well and I knew my half-brother fairly well until I went away to college. But we never lived in the same house together.</u>
+      <u who="UGOJI">So essentially, you lived as an only child for most of your childhood.</u>
+      <u who="MCCURINE">Correct.</u>
+      <u who="UGOJI">And what was that like?</u>
+      <u who="MCCURINE">Well, I loved it but although I was an only child, my extended family was very close. So, my maternal grandmother, whom we all called <persName ref="#dbl_005_person_7">“Big Mama” [Anna L. Jones]</persName>. <persName ref="#dbl_005_person_8">Big Mama</persName> was maybe 4'11 and she may have weighed 110 pounds maybe and she was quiet. But I think it was just the force of her character that people called her “<persName ref="#dbl_005_person_9">Big Mama</persName>”. So, <persName ref="#dbl_005_person_10">Big Mama</persName> owned a large tenement building on the <placeName ref="#dbl_005_place_3">West side of Chicago</placeName> and it had one, two, three, four, five, six apartments. And of those six apartments, five were her children or relatives. So, I was surrounded by cousins as I grew up. So, I was an only child, but I was immersed in a family culture with children my own age, so I never had the — sometimes people say only children get lonely. I've never felt that, and it does probably explain the fact that my wife calls me a gregarious loner. I love being alone and I love being with people. So, I can go to a movie by myself, I can go to dinner by myself have a wonderful time. And I can go to movies with people and go to dinner with people and have a wonderful time.</u>
+      <u who="UGOJI">That's great to hear. Oh, that's very interesting. So, did your family always reside in <placeName ref="#dbl_005_place_4">Chicago</placeName>?</u>
+      <u who="MCCURINE">Yeah, the core of the family. They came from <placeName ref="#dbl_005_place_5">Stanton, Tennessee</placeName>, which when they immigrated from <placeName ref="#dbl_005_place_6">Stanton</placeName>, it had a population of 4000. I think <date when="2021-10">today</date>, <orgName ref="#dbl_005_org_3">Stanton</orgName> still has a population of 4000. And I traveled to <placeName ref="#dbl_005_place_7">Tennessee</placeName> once. But all my time growing up, I was basically in <placeName ref="#dbl_005_place_8">Chicago</placeName> and all the family that I knew well was in <placeName ref="#dbl_005_place_9">Chicago</placeName>.</u>
+      <u who="UGOJI">Okay, and what was it like? Did you grow up in the <placeName ref="#dbl_005_place_10">West-side of Chicago</placeName>?</u>
+      <u who="MCCURINE">Well, for the first eight years, it was the <placeName ref="#dbl_005_place_11">West-side</placeName>. And then after that, my mother married <persName ref="#dbl_005_person_11">Robert Patterson</persName>, and they moved to the <placeName ref="#dbl_005_place_12">South Side of Chicago</placeName> near <placeName ref="#dbl_005_place_13">35th and Cottage Grove</placeName>. </u>
+      <u who="UGOJI">Okay. And quick, going back one question, what was <persName ref="#dbl_005_person_12">Big Mama</persName>'s name?</u>
+      <u who="MCCURINE"><persName ref="#dbl_005_person_13">Anna Jones</persName>; <persName ref="#dbl_005_person_14">Anna Lou Jones</persName>. </u>
+      <u who="UGOJI"><persName ref="#dbl_005_person_15">Anna Lou Jones</persName>. Thank you. So where did you go to high school?</u>
+      <u who="MCCURINE">Well, for the first year, I went to <placeName ref="#dbl_005_place_14">Wendell Phillips</placeName> on the <placeName ref="#dbl_005_place_15">South Side of Chicago</placeName>. And then for my sophomore through senior grades, I went to the <orgName ref="#dbl_005_org_4">Francis Parker School</orgName> on the <placeName ref="#dbl_005_place_16">North Side of Chicago</placeName>.</u>
+      <u who="UGOJI">So, what are — I'm not from <placeName ref="#dbl_005_place_17">Chicago</placeName>. So, do you? Could you like help me know the difference between the <placeName ref="#dbl_005_place_18">West Side</placeName> and <placeName ref="#dbl_005_place_19">North Side</placeName>?</u>
+      <u who="MCCURINE">Well, at that time, <placeName ref="#dbl_005_place_20">Chicago</placeName> was very racially divided, and Blacks lived <placeName ref="#dbl_005_place_21">South</placeName> or <placeName ref="#dbl_005_place_22">West</placeName> and near West, not far West. Far West, far <placeName ref="#dbl_005_place_23">South</placeName>, and <placeName ref="#dbl_005_place_24">North</placeName> were Whites. The <placeName ref="#dbl_005_place_25">North-side</placeName> was affluent, but the far West and the far South would be Eastern European groups. Western European groups like Italians and the Black people pretty much congregated on the <placeName ref="#dbl_005_place_26">South Side</placeName>, Near South Side, in the near West Side.</u>
+      <u who="UGOJI">Okay, thank you. So, you went to two different high schools during your time what led you to moving from <orgName ref="#dbl_005_org_5">Wendell Phillips</orgName> to the other one?</u>
+      <u who="MCCURINE">Parental sabotage. My family's always stressed education, I'd always done very well in school. And my freshman year, I went to <orgName ref="#dbl_005_org_6">Wendell Phillips</orgName> and I made the honor roll on the first marking period. And my friends warned me that people would think I was a sissy if I made the honor roll, and I would be fighting all the time. And I said, “Oh, well, I don't want to do that.” So, I purposely set out to fail all my classes or just barely get by, except for one. The English class was headed by Dr. <persName ref="#dbl_005_person_16">Donald H. Smith</persName>, who was a very progressive black educator with a Ph.D. in education, who devoted himself to improving educational opportunities for young black people. He had worked out a plan with the principle of <orgName ref="#dbl_005_org_7">Wendell Phillips</orgName> that would allow him to handpick forty to fifty students, and they would all be in his English class. And he pushed us to excel and made it very clear to us that we must excel everywhere, but particularly in his class. And he was remarkable. He was both inspired and inspiring. I don't know how he did it, but he was able to get prominent black people to come to our class to speak. So, for example, you had <persName ref="#dbl_005_person_17">Jackie Robinson</persName> come. He had <persName ref="#dbl_005_person_18">Gwendolyn Brooks</persName>, who was a famous Black poet, she read her poetry. And those sessions opened my eyes to the possibilities. Because at that time, a good career for a Black person was to be a postal worker, to get a city government job if he could and really that was pretty much it. That idea of being a doctor and lawyer, that was just not part of our thought. But, with <persName ref="#dbl_005_person_19">Dr. Smith</persName>, he provoked us to imagine greater things and when he found out halfway through my first year that I was flunking my other classes he was shocked. And he secretly had my mother come to school. My mother had been asking for my report card, and I had been repeatedly lying, telling her that there was something wrong with the system and they hadn't published the grades yet. So, I was called to the principal's office one day, and there were the principal, <persName ref="#dbl_005_person_20">Dr. Smith</persName> and my mother, and her eyes were flaming red. She was so angry with me, and rightly so. Well, unbeknownst to me, they guided me. They arranged for me to take an entrance exam at the <orgName ref="#dbl_005_org_8">Francis Parker School</orgName> on the <placeName ref="#dbl_005_place_27">North Side of Chicago</placeName>. And they did it surreptitiously. So, one morning, I woke up and my mom said, “Your dad is coming to pick you up at seven o'clock. You better get dressed.” I said, “Why is Pop's coming to pick me up?” She said, “Oh, no, you have to ask him.” They were being secretive because I had told them that if they ever tried to put me in a white school, I would run away. So, they didn't tell me. So, I got in the car with my father, and I said, “Pops, where are we going?” He didn't speak a word. He didn't say a single he didn't say “Hello.” He didn't say “Wait and see.” He was silent. So, I thought he didn't hear me. I repeated the question again, cold silence. So, I got quiet. We started driving North and at that time, there was a clear dividing line between <placeName ref="#dbl_005_place_28">North</placeName> and <placeName ref="#dbl_005_place_29">South Chicago</placeName>, and it was downtown at <placeName ref="#dbl_005_place_30">Randolph</placeName>. And we crossed <placeName ref="#dbl_005_place_31">Randolph Street</placeName>. That means we're going into the wealthy White neighborhood. I said, “Dad, where are we going?” He didn't say anything. And then he eventually pulled over to a curb. He looked at me and he said, “Get out.” I said, “What?” He said, “Get out.” So I got out of the car and he drove away. I had no idea what was going on. And I wondered, what are they going to leave me on the streets? What's going on? And this young White girl named <persName ref="#dbl_005_person_21">Laurie McGranada</persName> [spelling unconfirmed] was skipping down the sidewalk. And she said, “Hi, are you <persName ref="#dbl_005_person_22">Billy McCurine</persName>.” I said, “Well, yeah.” I'm wondering, how does she know me? I said, “Who are you?” She said, “I'm <persName ref="#dbl_005_person_23">Laurie McGranada</persName>. Your hostess.” I said, “Where am I?” She said, “You don't know where you are?” I said, “No.” She said, You're at the <orgName ref="#dbl_005_org_9">Francis Parker School</orgName>.” I said, “Well, why am I here?” She said, “You don't know why you're here?” I said, “No.” She said, “You're here to take the entrance exam.” So for the next five hours, I took entrance exams and three weeks later, I was at the school. The school started. So when I went there, it was like early August and the football coach, Coach McBride, heard I was coming and he recruited me for the football team. And that integrated me into the school. It was the best decision my parents ever could have made for my education. And I did well at <orgName ref="#dbl_005_org_11">Francis Parker</orgName> and loved it. It was difficult and on a variety of levels. But it was an amazing experience.</u>
+      <u who="UGOJI">Oh, wow. And what year did you get admitted into <orgName ref="#dbl_005_org_12">Francis Parker</orgName>?</u>
+      <u who="UGOJI">What year did you get admittance into <orgName ref="#dbl_005_org_13">Francis Parker</orgName>?</u>
+      <u who="MCCURINE">I think it’s <date when="1962">1962</date>.</u>
+      <u who="UGOJI">And then what year did you graduate?</u>
+      <u who="MCCURINE">
+        <date when="1962">1965</date>
+      </u>
+      <u who="UGOJI">Thank you. That is so interesting. So apart from football, did you do anything else at in high school?</u>
+      <u who="MCCURINE">Well, I played basketball, football. I was head of the social events committee. And it was a small school, the high school. But <orgName ref="#dbl_005_org_14">Francis Parker</orgName> was based on the educational principles of an educator named <persName ref="#dbl_005_person_24">Francis [Wayland] Parker</persName>. And he was a progressive educator. And so, he believed that all the grades should be integrated. So, the school went from junior kindergarten all the way up to the twelfth grade. And everybody who was grades five to eight, had a younger person in the lower grades for whom they served as a big brother, or big sister. And everybody in the high school had somebody in the fifth, sixth, seventh grade and lower, you always had at least two people one in the, in the real elementary school and one in what might be called the junior high school. So, the school deliberately created a family atmosphere. And I thrived there.</u>
+      <u who="UGOJI">Was it a boarding school? Or did you commute?</u>
+      <u who="MCCURINE">Oh, I commuted. I commuted, which meant that my school day was very long. So, in order to get there: my mother and I did not own a car, so she worked out that a guy would give us a ride to the near <placeName ref="#dbl_005_place_32">North Side</placeName>. Right, right near the <placeName ref="#dbl_005_place_33">Miracle Mile</placeName> in <placeName ref="#dbl_005_place_34">Chicago</placeName>, my mother worked very close to what is called the <placeName ref="#dbl_005_place_35">Miracle Mile</placeName>. And then I would take an elevated train, and then a bus to get to school. And then, after school, I would take bus, train, bus to get home. </u>
+      <u who="UGOJI">By yourself?</u>
+      <u who="MCCURINE">Oh, yeah. My mother believed in making me independent. And so she taught me how to take the L train [Chicago Rapid Transit System]. It's called the L, which is an abbreviation for elevated train. So, it was generally thirty feet above ground. And that was part of it. When it went through downtown, it was a subway, but it would come up out of the subway and just go to the elevated tracks. Well, when I was maybe eight years old. She said, Okay, we're gonna, you're gonna learn how to go downtown on your own. So, we would take the bus, you said this, the bus you take, what's the number, write it down. And then okay, we're going to take the elevated train. And you're always going to go north, to get downtown, and you got to go south to get home. So, all the trains that stopped at that particular station, with downtown, all the Northbound trains and all stop at the same stops downtown. So, she would go down. But we're going to walk around, do a little shopping, and then we'll go back. And then next week, go ahead, do it on your on. And when <persName ref="#dbl_005_person_25">Big Mama</persName> found out that I was taking a bus and the L to go downtown by myself, she was furious with my mother that she had been mom and my mother were as close as a mother and daughter can be. They just love each other. But she was furious that that until she saw that I could do it. She said “<persName ref="#dbl_005_person_26">Billy</persName>, weren't you scared?” I said well, no, I know how to do it. So, I from eight years old, if I wanted to go downtown, I just would just get on the bus, take it to the L and reverse that process to come home. </u>
+      <u who="UGOJI">So it wasn't scary to you know, do the long commute from high school [inaudible]</u>
+      <u who="MCCURINE">I was so used to it. Well, we didn't own the car. So, if we wanted to get around. You had to take public transportation. And the public transportation system in <placeName ref="#dbl_005_place_36">Chicago</placeName> is excellent. You can go anywhere in <placeName ref="#dbl_005_place_37">Chicago</placeName> on public transportation. And it wasn't expensive. When my mother married <persName ref="#dbl_005_person_27">Clark Patterson</persName>, he had a car. But I think I drove it once. If I wanted to go somewhere, it was the bus or the L. So, it was just a way of life. But that was true for almost all Black people,  almost all people in general. Yeah.</u>
+      <u who="UGOJI">I have a question on your previous high school is it <orgName ref="#dbl_005_org_15">Wendell Phillips</orgName> or Window Phillips?</u>
+      <u who="MCCURINE">W E N D E LL. </u>
+      <u who="UGOJI">Okay, Thank you. So, with the stress of education that came from your family, and also from the school that you went to, did you have any idea of what you want to do after high school? And, also what made you pursue higher education?</u>
+      <u who="MCCURINE">Well, from the moment I was little, my mother and father told me I was going to college. Now, I didn't know how that was going to happen. But that was — it was not a decision to make. It was a decision that had been made. My decision was which college to go to. And then once I got to <orgName ref="#dbl_005_org_16">Francis Parker</orgName>, which is a college preparatory school, everybody, you know, going to college was the natural, indeed the inevitable next step. So, they just fit right in with my family culture. And I just always thought that once I got to <orgName ref="#dbl_005_org_17">Francis Parker</orgName>, I'm going to I'm going to college.</u>
+      <u who="UGOJI">And did your parents go to college?</u>
+      <u who="MCCURINE">My mother only went to, she finished high school. She actually graduated as valedictorian of her high school. It was integrated at that time, believe it or not, but because she was black, and a woman, they wouldn't give it to her. They gave it to the number two, who was a friend of my mother and Italian man. But that's just the way it was in those days. My dad, I think he had a couple of years at <orgName ref="#dbl_005_org_18">Morehouse College</orgName>. He may have even graduated from <orgName ref="#dbl_005_org_19">Morehouse College</orgName>. I know very little about his actual background. I know he did go to <orgName ref="#dbl_005_org_20">Morehouse College</orgName>. But I don't know if he graduated.</u>
+      <u who="UGOJI">So, did you say Morris or <orgName ref="#dbl_005_org_21">Morehouse</orgName>?</u>
+      <u who="MCCURINE">I meant <orgName ref="#dbl_005_org_22">Morehouse</orgName>. Okay.</u>
+      <u who="UGOJI">Okay, thank you, okay, so I did some research on you. And I found out that you were a part of the <orgName ref="#dbl_005_org_23">ABC</orgName> program or the <orgName ref="#dbl_005_org_24">A Better Chance</orgName> program. Can you tell me a little bit about how you got involved in that?</u>
+      <u who="MCCURINE">Well, so my, my freshman year was <date when="1965">1965</date>. And the <orgName ref="#dbl_005_org_25">ABC</orgName> program already existed as what we call private schools. So, <orgName ref="#dbl_005_org_26">ABC</orgName>, which means <orgName ref="#dbl_005_org_27">A Better Chance</orgName>, would recruit second tier black students, they wouldn't pick the very best because the theory was they would be able to go into college and they pick that next group that would be able to go to college or they get an extra push. And so the private arm of <orgName ref="#dbl_005_org_28">ABC</orgName> would recruit students to go to prestigious private schools in <placeName ref="#dbl_005_place_38">New England</placeName>. So, <orgName ref="#dbl_005_org_29">Phillips Academy at Exeter</orgName> [New Hampshire], <orgName ref="#dbl_005_org_30">Phillips Academy at Andover</orgName> [Massachusetts], <orgName ref="#dbl_005_org_31">Choate</orgName> [Rosemary Hall, Connecticut], you name it, but it's very expensive because they had to pay the regular tuition. And then <persName ref="#dbl_005_person_28">Thomas [M.] Mikula</persName> and <persName ref="#dbl_005_person_29">Dean Dey [Charles F Dey '52]</persName> ,D E Y, came up with the idea of running an <orgName ref="#dbl_005_org_32">ABC</orgName> program in communities that had a very good public school, because then you don't have to face tuition and housing the students in one house, provide providing tutors, and then they would go to the local high school. So, I was active in African American Affairs on the campus and over the summer <persName ref="#dbl_005_person_30">Dean Dey</persName> was dean of what it's called the <orgName ref="#dbl_005_org_34">Tucker Foundation</orgName>. And it was just he was, he was a marvelous human being. And <persName ref="#dbl_005_person_31">Thomas Mikula</persName> was like a surrogate father, became like a surrogate father, for me and my wife, but I got a call from, I can't remember whether it was <persName ref="#dbl_005_person_32">Dean Dey</persName> or <persName ref="#dbl_005_person_33">Thomas Mikula</persName>. I can't remember whether it was a letter or phone call. Because those of course days when there was no such thing as cell phones. But anyway, they told me I knew about <orgName ref="#dbl_005_org_35">ABC</orgName> about the private school part. Because I was a scholarship student. I worked every semester, I was at <orgName ref="#dbl_005_org_36">Dartmouth</orgName>, and I took whatever job they told me to do, I did. So, I worked in the kitchen. And then <persName ref="#dbl_005_person_34">Dean Dey</persName> recruited me to work in the private school arm of <orgName ref="#dbl_005_org_37">ABC</orgName>, travel around to different private schools where <orgName ref="#dbl_005_org_38">ABC</orgName> minority students were, and encourage them. So that was part of my job on campus, so they knew me. And when they decided to have the very first experimental public school program of <orgName ref="#dbl_005_org_39">ABC</orgName>, they wanted me to be the first resident tutor, <persName ref="#dbl_005_person_35">Thomas</persName> and <persName ref="#dbl_005_person_36">Elva [Waltrip] Mikula</persName> would be the resident family. They and they had a young daughter and a young son. And so, I became the first resident tutor that is I would live in the <orgName ref="#dbl_005_org_40">ABC</orgName> house. And I would tutor the young man and help recruit tutors from the college campus. And I did that for my sophomore and junior years.</u>
+      <u who="UGOJI">I was just going to ask what years. Okay. And when you did the <orgName ref="#dbl_005_org_41">ABC</orgName>, you were also a student for the <orgName ref="#dbl_005_org_42">ABC</orgName> program, correct? </u>
+      <u who="MCCURINE">No.</u>
+      <u who="UGOJI">No, you weren't?</u>
+      <u who="MCCURINE">I did not go through the <orgName ref="#dbl_005_org_43">ABC</orgName> program. </u>
+      <u who="UGOJI">Oh, oh, okay. Fascinating. Thank you. So, then my next question would be What the what was the college application process, like for you? And how did you learn about <orgName ref="#dbl_005_org_44">Dartmouth</orgName>?</u>
+      <u who="MCCURINE">Well, the college application process was for me, like all students at <orgName ref="#dbl_005_org_45">Francis Parker</orgName>, it was a busy, hectic time, because you had to fill out the application, you had to fill out the application for loans, or scholarships, I should say. You had to write an essay. And there were no computers. When you wrote essays, you had to either handwrite or if you were really hip, you would type your essay. Well, I had planned to go to a college in the Midwest. I can't even remember the name of it now. But my father had begun working with a group of men and that group included several <orgName ref="#dbl_005_org_46">Dartmouth</orgName> graduates. When they found out he had a son at <orgName ref="#dbl_005_org_47">Francis Parker</orgName>. They said, “you need to you need to look at <orgName ref="#dbl_005_org_48">Dartmouth</orgName> have and have him go to <orgName ref="#dbl_005_org_49">Dartmouth</orgName>.” I had never heard of <orgName ref="#dbl_005_org_50">Dartmouth</orgName> at all. And my dad said “I want you to apply to <orgName ref="#dbl_005_org_51">Dartmouth</orgName>.” And because I wanted to please my father, I did. But I did it without any intention of actually going to <orgName ref="#dbl_005_org_52">Dartmouth</orgName>. I wanted to go to <orgName ref="#dbl_005_org_53">Grinnell [College in Grinell, Iowa]</orgName> or <orgName ref="#dbl_005_org_54">Carleton [College in Northfield, Minnesota]</orgName>, which were in the Midwest. So, I applied to <orgName ref="#dbl_005_org_55">Grinnell</orgName> <orgName ref="#dbl_005_org_56">Carleton</orgName>, another Midwest school and I applied to <orgName ref="#dbl_005_org_57">Dartmouth</orgName>. And I got into <orgName ref="#dbl_005_org_58">Dartmouth</orgName>. But I still hadn't planned to go. But my friends, all my classmates, [said] “how can I not? How can you turn down <orgName ref="#dbl_005_org_59">Dartmouth College</orgName>?” I didn't know what a big deal it was okay. And they made the friends were very good to me. But they made me feel like I would be an idiot passing up this opportunity. And so I chose <orgName ref="#dbl_005_org_60">Dartmouth</orgName>. </u>
+      <u who="UGOJI">And when you chose <orgName ref="#dbl_005_org_61">Dartmouth</orgName>, did you have any idea of what the campus look like? Where it was? And what you were getting into?</u>
+      <u who="MCCURINE">I knew where it was. I knew that it was all male. That's pretty much all I knew.</u>
+      <u who="UGOJI">And you came to <orgName ref="#dbl_005_org_62">Dartmouth</orgName> in <date when="1965">1965</date>? Correct? </u>
+      <u who="MCCURINE">Correct. </u>
+      <u who="UGOJI">So how did you get to <orgName ref="#dbl_005_org_63">Dartmouth</orgName> during like your freshman year? Did you drive up?</u>
+      <u who="MCCURINE">By this time my mother had married <persName ref="#dbl_005_person_37">Bob [Robert] Patterson</persName>. They married, I think somewhere between eight and 10 years old. So, we go from <placeName ref="#dbl_005_place_42">Chicago</placeName> to <placeName ref="#dbl_005_place_43">Hanover, New Hampshire</placeName>. And I remember being so excited when we got to the campus. It was about midnight. Somewhere between 11 and midnight. I said I got to walk around. They said it's – and they think its <placeName ref="#dbl_005_place_44">Chicago</placeName>, you don't just walk around at midnight to <placeName ref="#dbl_005_place_45">Chicago</placeName>. But at that time, <placeName ref="#dbl_005_place_46">Hanover</placeName> had one traffic light. And it was that right where the green was located. Right at that intersection. <orgName ref="#dbl_005_org_64">Casque and Gauntlet [Senior Society]</orgName> was on one corner, and he had to light one traffic, like I said, I said, Mom, as far as I could tell, they only had one traffic light this whole town, then, and the streets were all wrapped up. It was pitch black. And I walked around for about an hour. I was so excited. And I came back and went to bed, got up the next morning and there it began [laughter].</u>
+      <u who="UGOJI">Did you have any expectations? As a Freshman? </u>
+      <u who="MCCURINE">No. I mean, I had no real reference point. Yeah, I had no real reference. I just, I knew it was going to be hard. I knew they weren't going to be any good-looking young women like you there. But that you know that. For some reason that didn't bother me so much. I'm surprised it didn't bother me. But it didn't bother me that much. And [pause]</u>
+      <u who="UGOJI">And so you had never met anyone who had went to <orgName ref="#dbl_005_org_65">Dartmouth</orgName> before? Right? No, <orgName ref="#dbl_005_org_66">Dartmouth</orgName> alums?</u>
+      <u who="MCCURINE">Well, I met <orgName ref="#dbl_005_org_67">Dartmouth</orgName> alums. The <orgName ref="#dbl_005_org_68">Dartmouth</orgName> alumni community is very active in recruiting and in the interview process. And so, <orgName ref="#dbl_005_org_69">Dartmouth</orgName> would always have a I don't know what they call them. I call it a, an interview committee. And once your application was accepted, well, once you pass the first stage, the next stage was they would send you a packet of information to the interview committee in your area, and then they would call you to come for an interview. And I remember going into this big downtown <placeName ref="#dbl_005_place_47">Chicago</placeName> law firm, I mean, just right, right out of the movies with, you know, leather seats, and long, beautiful tables and walls lined with volumes of casebooks. There was really something. So I was called down and I was interviewed by about four, four or five people. And it was very easy. Well, it was it was kind of conversational. I'm surprised at how relaxed that felt. But that's probably because I didn't have any expectations. And it's I just went in, and I remember one of the men said, that is his  brother had just had twins. I've always been fascinated by twins. And I blurted out, I was so excited. I said “Are they monozygotic?” and his eyes got that big. Because that's the medical term for twins, mono, meaning one, zygote [inaudible] Well, I had just [pause] that year or the year before taken biology. And Professor Gupta [spelling unconfirmed] was the biology teacher and he was — no Professor Meyers [spelling unconfirmed]! Professor Meyers. He was German. And his wife was a French teacher, Madame. She was French, and Dr. Meyers, he was a character. And I remember a class on the zygote and reproduction. And I remember the term monozygotic and I think that one word is what got me into <orgName ref="#dbl_005_org_70">Dartmouth</orgName>. They were blown away that I could say, and I knew what it meant, monozygotic, and use it in the right context. And I wasn't, I wasn't trying to impress them. It just came out as an Oh, are they monozygotic, which means identical twins, as opposed to fraternal twins. Yeah, I think that one word is what got me into <orgName ref="#dbl_005_org_71">Dartmouth</orgName> [laughter].</u>
+      <u who="UGOJI">And it's so funny to think about. So, moving into your time at <orgName ref="#dbl_005_org_72">Dartmouth</orgName>, what was your major?</u>
+      <u who="MCCURINE">Political science. I started out as a Romance language major. Oh, I love languages. And on the SATs, for French, and for Spanish, I had gotten the equivalent of a perfect score. And in English I've got the equivalent of a close to a perfect score. And I could speak and read English and Spanish users. So, I started off in romance languages. But it's <date when="1965">1965</date> the <name type="event" ref="#dbl_005_event_0">Watts riots</name> had occurred, <name type="event" ref="#dbl_005_event_1">the Harlem Riot</name> had occurred. And Romance languages seemed increasingly irrelevant to what was going on in our society. I was wrong, but at the time, that's what I thought. And so, I changed my major my sophomore year to political science. That's the major in which I graduated.</u>
+      <u who="UGOJI">Oh, I was going to ask if you had any other academic interests, but that's where the Romance languages comes into play. Were there any classes or professors that you really enjoyed?</u>
+      <u who="MCCURINE">There was a professor <persName ref="#dbl_005_person_41">Peter Lewis</persName>. [<persName ref="#dbl_005_person_42">Dana McCurine</persName> walks in]   Hey, come on in.</u>
+      <u who="D_MCCURINE">Who are you talking to?</u>
+      <u who="MCCURINE">So, Agnes, this is my sweetheart [<persName ref="#dbl_005_person_43">Dana McCurine]</persName>. Agnes is a student at <orgName ref="#dbl_005_org_73">Dartmouth</orgName> that she's interviewing me for that black Dartmouth Student Project. This is, this is the woman I met when I was a senior in college.</u>
+      <u who="D_MCCURINE"> A long time ago [laughter]. Hi, <persName ref="#dbl_005_person_44">Agnes</persName>. If I knew I was going to meet you out dressed up little bit. [laughter]. I'll let you all go.</u>
+      <u who="UGOJI"> Nice to meet you.</u>
+      <u who="D_MCCURINE"> Nice to meet you too! [<persName ref="#dbl_005_person_45">Dana McCurine</persName> leaves]</u>
+      <u who="MCCURINE">[Pause] There goes an absolutely wonderful woman.</u>
+      <u who="UGOJI">I love that. You said, Professor <persName ref="#dbl_005_person_46">Peter Lewis</persName>?</u>
+      <u who="MCCURINE">Yes. He taught some literature classes, and I took one. And it was just fascinating. And I remember reading, "Things Fall Apart" by <persName ref="#dbl_005_person_47">Chinua Achebe</persName>. I was blown away by the book. And in that same class, we had books are like, kind of in, philosophically that mindset. We read No Exit by <persName ref="#dbl_005_person_48">Jean Paul-Sartre</persName>. And I read it in French. But it wasn't that class, but that's because I could, and I read The Stranger by <persName ref="#dbl_005_person_49">Albert Camus</persName>. I read that in French, but it was that whole intellectual fervor of those writers. Well, <persName ref="#dbl_005_person_50">Peter Lewis</persName> is the one who told me that I should apply for a Rhodes scholarship. And I didn't, I had no idea what it was I'd never heard, but he was instrumental in getting me to apply. Years later, when I was a trial lawyer, and I was picking a jury, <persName ref="#dbl_005_person_51">Peter Lewis</persName> was one of the potential jurors. I hadn't seen him in at least eight years. I looked at him. And he looked. I couldn't, of course he couldn't be on the jury because we had this personal relationship. </u>
+      <u who="UGOJI">Oh, that is so fascinating. Oh, it’s like a full circle moment. On the topic of studying, do you remember what your favorite place to study was?</u>
+      <u who="MCCURINE">Yes. And let me remember the name of it now. [pause] It was, it was the library, but it was a special part of the library. I don't know what it was. What did you say?</u>
+      <u who="UGOJI"><placeName ref="#dbl_005_place_48">Tower Room</placeName>?</u>
+      <u who="MCCURINE">No, no. No. So it was on the opposite end, so on this end of the <placeName ref="#dbl_005_place_49">Green</placeName> was a <placeName ref="#dbl_005_place_50">Casque and Gautlet</placeName> and <placeName ref="#dbl_005_place_51">Hanover Inn</placeName> and the <placeName ref="#dbl_005_place_52">student center</placeName>. Yeah. What do they call the <placeName ref="#dbl_005_place_53">students center</placeName> now?</u>
+      <u who="UGOJI">Oh, it's still the like, student center. </u>
+      <u who="MCCURINE">I have a name that was dedicated to someone. Well, on the other end of that was the building that I love to study. I can't remember the name of it now.</u>
+      <u who="UGOJI"><placeName ref="#dbl_005_place_54">Carson</placeName>?  I'll find it. </u>
+      <u who="MCCURINE">Okay. That's what I would typically go to study. </u>
+      <u who="UGOJI">So, moving on. Can you tell me a little bit about your social life at <orgName ref="#dbl_005_org_74">Dartmouth</orgName>?</u>
+      <u who="MCCURINE">Well [pause, laughter] my social life at <orgName ref="#dbl_005_org_75">Dartmouth</orgName> was constrained by the fact that I'm a full-time student and I'm a resident tutor in the <orgName ref="#dbl_005_org_76">ABC</orgName> program and another part of my job was to visit young minority students in the private, secondary schools in <placeName ref="#dbl_005_place_55">New England</placeName>. So, I traveled a lot. At least one weekend a month, I'm going to visit some black students in some place. And I'd be I'd leave Friday afternoon, get there, spend Friday night, spend all day Saturday on the campus. Get Sunday breakfast, and then I drive back sometimes. So, between that there wasn't a lot of extra time, but I did was very active and what we then called the <orgName ref="#dbl_005_org_77">Afro-Am [&gt;Afro-American] Society</orgName>. I was one of the founders of that. And we so we started to <orgName ref="#dbl_005_org_78">Afro-Am society</orgName>. And we would have road trips. This is before the college went coed. And we would go on road trips to <orgName ref="#dbl_005_org_79">Mount Holyoke</orgName>, <orgName ref="#dbl_005_org_80">Smith</orgName>. And there was another place that was only like, 16 miles away. </u>
+      <u who="UGOJI"><orgName ref="#dbl_005_org_81">Wellesley</orgName> [possibly Colby Sawyer]? </u>
+      <u who="MCCURINE">No, no, all female school, but it was close to <orgName ref="#dbl_005_org_82">Dartmouth</orgName>. I mean, it's only like, an hour, an hour, fifteen minutes away, as opposed to <orgName ref="#dbl_005_org_83">Wellesley</orgName>, <placeName ref="#dbl_005_place_56">Smith</placeName>, <placeName ref="#dbl_005_place_57">Mount Holyoke</placeName>, that was a two-and-a-half-hour drive to get to those places. I don't remember. So, we would do road trips, but I didn't do that. I didn't do a lot of that. I was really caught up in working with the <orgName ref="#dbl_005_org_84">ABC</orgName> program, and I love working with the students in the public-school program of <orgName ref="#dbl_005_org_85">ABC</orgName>. </u>
+      <u who="UGOJI">You mentioned the <orgName ref="#dbl_005_org_86">Afro-Am</orgName> or the <orgName ref="#dbl_005_org_87">Afro American society</orgName> or the <orgName ref="#dbl_005_org_88">AAm</orgName>. Do you remember what year that was founded?</u>
+      <u who="MCCURINE">I want to say it was <date when="1966">1966</date>, beginning of my sophomore year. </u>
+      <u who="UGOJI">When I look up articles on the <orgName ref="#dbl_005_org_89">AAm</orgName>, they keep referring to it being founded in <date when="1969">1969</date>. So, I know it was much earlier and I wanted to double check.</u>
+      <u who="MCCURINE">We actually got a building in &gt;my juior year, maybe the senior year. And maybe that's what they're talking about. Or maybe that's when they officially incorporated. But we formed in my sophomore year. </u>
+      <u who="UGOJI">It's almost like you're reading my script. So what was the building called? </u>
+      <u who="MCCURINE">We just call it there for <placeName ref="#dbl_005_place_58">Afro-Am building</placeName>.</u>
+      <u who="UGOJI">Oh, so where was it on campus?</u>
+      <u who="MCCURINE">I don't remember the name of the streets now. But it was, again, if you're one end of the green where you have cast and gauntlet and on the other end, there was a street that went to the right of the library. Yeah. So, what was it? It went to the left of the library and up that street about a good long block was the <placeName ref="#dbl_005_place_59">Afro-Am building [Referring to 41 College Street, currently the Building for La Casa]</placeName></u>
+      <u who="UGOJI">And it wasn't where <placeName ref="#dbl_005_place_60">Cutter</placeName> is?</u>
+      <u who="MCCURINE">No. Remind me—is <placeName ref="#dbl_005_place_61">Cutter</placeName> one of those buildings that was on the far end of the campus? No, it wasn't that far.</u>
+      <u who="UGOJI">Interesting. Thank you. And so we are we like know about <orgName ref="#dbl_005_org_90">Dartmouth</orgName> and be Greek scene and the Greek culture. Did you ever go out to the fraternities?</u>
+      <u who="MCCURINE">Oh, no. Well, oh, one we didn't relate to the fraternity culture and a lot of the fraternities were racially segregated. They didn't want blacks and we were young, proud black men, they didn't want us and we didn't want them. The attitudes of both were wrong. But we had we had a fraternity so to say, which was after when,- cause there were only so when I matriculated at <orgName ref="#dbl_005_org_91">Dartmouth</orgName>. In our class at 17, entering black freshmen, which doubled the size of the black population at <orgName ref="#dbl_005_org_92">Dartmouth</orgName>. So there were more black students in my entering class than in the entire three classes ahead of us. So, it was it was- remember the civil rights movement is really steaming up. And the fraternity culture with, you know, beers, and white girls and listening to The Beatles. That was just- even if you wanted to do that you would never admit it. You see, never admitted. There was there was one maybe two black students, one of whom belong to <orgName ref="#dbl_005_org_94">SAE [Sigma Alpha Epsilon]</orgName>, which was considered the premier fraternity on the campus at the time. But he had nothing to do with the black students. And the black students had nothing to do with him. I don't remember his name. I really don't know anything about him. I mean, I would see him. But we just wrote him off, he was not relevant to us. And the fraternity same was not relevant to us.</u>
+      <u who="UGOJI">So you'd say that, like you mostly surrounded yourself, when it comes to friends to other black men who are in the <orgName ref="#dbl_005_org_95">Afro American Society</orgName>? And did you also have friends have different like racial or socio-economic backgrounds?</u>
+      <u who="MCCURINE">Sure. But one of one of my closest friends at <orgName ref="#dbl_005_org_96">Dartmouth</orgName> was <persName ref="#dbl_005_person_52">George [Bayrad] Merrill ['68]</persName> was white. And he was also a resident tutor with me, at the Hanover ABC house. And they had a house for guys and a house for women. So we lived in the house for guys. <persName ref="#dbl_005_person_53">George Merrill</persName>, and I were great friends through college. I had other white friends. There wasn't a big Hispanic population, there wasn't a big Asian population. It was basically black and white. </u>
+      <u who="UGOJI">Was it <persName ref="#dbl_005_person_54">George Merrill</persName>? How do you spell it?</u>
+      <u who="MCCURINE">M E R R I L L </u>
+      <u who="UGOJI">Okay, thank you. I know, you've already talked a little like, you talked about the <orgName ref="#dbl_005_org_97">Afro American Society</orgName>. But are there any other clubs or activities that you were involved in on campus? I mean, other than the <orgName ref="#dbl_005_org_98">ABC</orgName> and traveling, so those took up a good amount of your time at <orgName ref="#dbl_005_org_99">Dartmouth</orgName>. </u>
+      <u who="MCCURINE">That's it.</u>
+      <u who="UGOJI">So what role did the <orgName ref="#dbl_005_org_100">AAm</orgName> play to black students at <orgName ref="#dbl_005_org_101">Dartmouth</orgName>, what was its role?</u>
+      <u who="MCCURINE">It was really the center of our social and political lives. We would host parties and have black women from other schools come up, or we would travel together to road trips, where other black student groups are having social gatherings. It was as important as fraternities are to its members. The <orgName ref="#dbl_005_org_102">Afro Am</orgName> was to us, it was the center of our social life.</u>
+      <u who="UGOJI">What role did you play in the <orgName ref="#dbl_005_org_103">AAm</orgName>, other than its founder?</u>
+      <u who="MCCURINE">I was the founder. I may have been the first head. But I was just a member.</u>
+      <u who="UGOJI">There is, I don't know if you remember, Blackout, which is a magazine that was published, maybe your junior year in the fall of <date when="1967">1967</date>. And it had a photo of you. And also some poems that you wrote, and it has a photo of you. And it stated that you were the Vice President, and I think you're in this room and you're talking to other students. It's a very powerful photo.</u>
+      <u who="MCCURINE">I found that magazine. We [Bill and Dana McCurine] were cleaning out the garage two years ago, we found Blackout. And we stopped what we were doing. And we sat down and we started reading it again. And I said, Oh, my goodness, I wrote that [pause, laughter] We were so we had a lot of chutzpah, hubris, arrogance, whatever you want to call it. But that magazine was really important to us. I mean, we really, we wanted to say things. And Blackout allowed us to do it. Yeah.</u>
+      <u who="UGOJI">And that’s what it was like to put that together?</u>
+      <u who="MCCURINE">Oh, well, at that time, there were three groups in the black community that were very powerful. One was preachers like <persName ref="#dbl_005_person_55">Martin Luther King [Jr.]</persName>. One was social movement groups like the <orgName ref="#dbl_005_org_107">Black Panthers</orgName>, the <orgName ref="#dbl_005_org_108">US group</orgName> led by <persName ref="#dbl_005_person_56">Ron Karenga</persName>. <orgName ref="#dbl_005_org_109">SNCC</orgName>. And the other group, were literary, like, they were writers. Poets, like <persName ref="#dbl_005_person_57">James Baldwin</persName>, for example. I'm trying to remember, <persName ref="#dbl_005_person_58">LeRoi Jones</persName>, who changed his name to <persName ref="#dbl_005_person_59">Amiri Baraka [Imamu Amear Baraka]</persName> or something like that. And the Autobiography of <persName ref="#dbl_005_person_60">Malcolm X [el-Hajj Malik el-Shabazz]</persName>, I mean, writing was a huge thing for us. And poetry. Oh, man, the books. Oh, my goodness. It was, a very exhilarating time.</u>
+      <u who="UGOJI">Yeah, and it's also important to note that you did go to <orgName ref="#dbl_005_org_110">Dartmouth</orgName> in such a dynamic period of social and political change. You mentioned some of the books that you read, but what was the art and music scene like? And do you remember some of your favorite songs or books that you read that inspired you?</u>
+      <u who="MCCURINE">Oh, yeah, I mean, we read so many books in the Black genre, but I was blown away by the Autobiography of <persName ref="#dbl_005_person_61">Malcolm X. I</persName> was blown away by <persName ref="#dbl_005_person_62">Ralph Ellison's</persName> The Invisible Man. And, and Motown had come into its own. And so, all of Motown. There was the Motown sound and there was the <placeName ref="#dbl_005_place_63">Philadelphia</placeName> sound. <persName ref="#dbl_005_person_63">Holland Dozier-Holland</persName>. So, the music scene was incredible. And there were so many incredible black artists that came out during that time. And like the, the Temptations, the Four Tops, the Imperials, and Martha and the Vandellas. I mean, you just, Smokey Robinson and the Miracles, <persName ref="#dbl_005_person_64">Stevie Wonder</persName>. I mean, on and all. The music was intoxicating. And it was all pervasive. It was everywhere.</u>
+      <u who="UGOJI">Thank you. And going back to Blackout. So you wrote a poem, titled “They Asked Me”, which I believe is about the draft for the <name type="event" ref="#dbl_005_event_2">Vietnam War</name>, or your thoughts on it. And I just wanted to know where you drafted for the war and how that drafting affect - like how did that environment of drafting expect affect your experience at <orgName ref="#dbl_005_org_117">Dartmouth</orgName>, and how's the community taking it? </u>
+      <u who="MCCURINE">Well, the <name type="event" ref="#dbl_005_event_3">Vietnam War</name> was a matter of irony for me. So when I was a junior, the draft was instituted and I was draft age. I mean, I was 20 years old. My junior year. Now at the time I worked out, that was my other sort of hobby. I worked out all the time. I just loved physical exercise, and it was a balance to all the intellectual exercise. It was a way to blow off steam because there was so much pressure being a black man, a black woman at the time. So, I would let off steam by running and I would go to the football stadium, and I would just run the steps like 10 times go up, run down, run up, run down 10 times. And there was right at the <orgName ref="#dbl_005_org_118">ABC</orgName> house or road that went up a long hill, the hill was a mile long. And I would start running that hill. And this is before jogging had become a thing. Jogging was sort of inspired by <persName ref="#dbl_005_person_65">Jim Fixx [James Fuller Fixx]</persName>. F I X X, who created to help foster this subculture of running. And this, he was just coming out, but nobody would say, “let's go jogging.” That was not a concept. I would just go running because I could blow off steam and I would go up that hill a mile up and then I'd run. They just built a development at the top of that hill. And it went up the road went out and looped around this new development and came back to the <placeName ref="#dbl_005_place_64">ABC house</placeName> and it was a little over seven miles. And I would do that a couple of times a week. If not three times. And if I didn't do that, I did the stadium steps. I just needed to blow up steam when I love physical exercise. So junior year comes around and all of us had to line up and we were bused to <placeName ref="#dbl_005_place_65">Manchester, New Hampshire</placeName>, to the draft headquarters where we would undergo a physical. So, I remember the guy in front of me was also a junior, he was white. And he was missing the tops of two fingers. And he had a special boot because one leg was about three inches shorter than the other. And he was classified 1A that is good draft material. I get up, my turn, I was right behind him. And the doctor checked my heart and did a double take.  Check my heart again and said, “Well, young man, you're not fit for the army.” He thought I had a bad heart because it beats so slowly. So, medical science hadn't caught up with running. Right? So, my heart rate was so low because I was so fit. But the doctor did know that, so I got a medical exemption. Yes. It's just ironic. Well, by the time I was a senior, the medical science had caught up with the significance of a slow heartbeat. They knew now that it wasn't a sign of a heart problem. It was a sign of great fitness. By now they had just instituted the lottery system. So, I was now my first year in.</u>
+      <u who="UGOJI">Lottery system?</u>
+      <u who="MCCURINE">Yes. To handle protests that the army was drafting black people, young black men to fight in <placeName ref="#dbl_005_place_66">Vietnam</placeName>. It was inequitable, they instituted a lottery system. All the days of the year were given. So, every day had a number. So, like January one was one. January two was two, and they put all they put 365 balls into a rotating drum. And they will pull them out one at a time. And that would determine the order in which the draft occurred. So, if your birthday came up, number one, let's say your birthday is August 5. Then all the young men who were born in <date when="1947-08-05">1947 on August five</date>, they're the first drafted. They're going to <placeName ref="#dbl_005_place_67">Vietnam</placeName>. And they only went up to how many? For the first time, first year they did it, they went all 365 days. When I was an Oxford my birthday came up in like, number 295 or something. And they never got past 150 in the draft. And then they would go through that. And it will take about five to seven years to get back to the starting point. So, by the time they got back to the starting point, they stopped the lottery and I was married. I was a lawyer and I was married and had a beginning family. So isn't that ironic? So, I was extremely fit, and it disqualified me for military service.</u>
+      <u who="UGOJI">And by the time it was your turn, the lottery system had ended. That is so fascinating. So, did you have any friends that were drafted?</u>
+      <u who="MCCURINE">Most of the guys from <orgName ref="#dbl_005_org_119">Dartmouth</orgName> who wanted to go into military service would volunteer because being from <orgName ref="#dbl_005_org_120">Dartmouth</orgName>, they could get in some kind of Officer Corps. But I don't I don't remember any of my friends being drafted. I just don't remember.</u>
+      <u who="UGOJI">Thank you. And one more thing, the <placeName ref="#dbl_005_place_68">ABC house</placeName>. Do you remember where that was located?</u>
+      <u who="MCCURINE">I know it was two blocks down the street from the football stadium. Okay. I want to say it was on School Street, but I don't remember the name of the street. It was right on the corner. I know it was right on the corner.</u>
+      <u who="UGOJI">Thank you. What did the <name type="event" ref="#dbl_005_event_4">Civil Rights Movement</name> look like at <orgName ref="#dbl_005_org_121">Dartmouth</orgName>?</u>
+      <u who="MCCURINE">[Pause] Oh, man. So many different images come to mind. A real commitment to being black, obviously. In other words, no passing. I think one of the things was <persName ref="#dbl_005_person_66">James Brown's</persName> anthem, “Say it loud, I'm Black and I'm Proud.” That that was one part of it. Another part of it was the need to be relevant to the needs of the black community. And another element of it was the need to build strong black families, black men marrying black women and treating them well. That was a big deal. It was really looked down on to have an interracial relationship. And you had, there was a great push for cultural relevance. I mean, writers needed to write, and you needed to write about black life if you're a painter you needed to paint about black life. Interestingly, that has been a running debate in the black community ever since slaves were freed. There was a very famous black baritone and my mind just — his name is left me. I can see his face clearly. But he popularized black spirituals. Yes, vernacular. And that was a big section of the black community who hated that because black spirituals didn't have proper English. “Been down so long look like up to me.” Or “Go down Moses way down to <placeName ref="#dbl_005_place_69">Egypt</placeName> land.” But they were the way we spoke as a people and so he would sing these spirituals and people loved it. But like the <orgName ref="#dbl_005_org_122">NAACP</orgName> and a whole segment of the black community were offended that he would sing the songs in vernacular because it played to the stereotypes that white people had about blacks. And he ignored his critics and he continued to sing. There is a black woman writer, I apologize to you that she is absolutely one of the best writers I've ever come across. And her name too has escaped me but I hope you've heard of her. I had what couple of her books on audible. So, I might be able to go through. Yeah, okay. <persName ref="#dbl_005_person_67">Zora Neale Hurston</persName>, she is fabulous. I don't know if you've ever read her. But you must read. She has a collection of short stories. And they are so representative of people, the same segment of the black community. Well, I won't say it's the same segment. <persName ref="#dbl_005_person_68">Zora Neale Hurston</persName> wrote about black people as though white people didn't exist. So, she wrote in vernacular and as black people talking to black. Whites don't figure into her, if they do, they're on the periphery they're just not involved. And people wanted her to write books that educated white people about black people and condemn the mistreatment of blacks by whites that she wrote about black people she wrote about the way we lived. In Their Eyes Were Watching God for example one of the greatest American novels ever written in my opinion but her short stories to me is really where she shines. Their Eyes Were Watching God, just marvelous. But her short stories are nothing short of — well all of her writing is just brilliant, she is just, she's in a league by herself. But the short stories let me see if I can read it [pause]. I'm trying to remember the name of — Oh, but I think it’s called “Every Tongue Got to Confess”,  “Every Tongue Got to Confess: Collection of Short Stories", I mean, if you are a modern black or if you are person from another place and you want to know what black life was like back in the 20s and 30s You got to read <persName ref="#dbl_005_person_69">Neale Hurston</persName>. Anyway, there was this great cultural upheaval in the black community to, to write, to express who we are. And there was one segment is, we got to put white people in their place. And there was another segment, like <persName ref="#dbl_005_person_70">Zora Neale Hurston</persName>, we were writing for ourselves. And then if we are true to ourselves and writing about ourselves, it'll have universal meaning. Yeah.</u>
+      <u who="UGOJI">And on this topic of civil rights, do you remember the assassination of <persName ref="#dbl_005_person_71">Martin Luther King</persName>?</u>
+      <u who="MCCURINE">Oh yes, I can remember. So, I’m from <placeName ref="#dbl_005_place_70">Chicago</placeName>. <placeName ref="#dbl_005_place_71">Chicago</placeName> has two gangs, two black gangs: the <orgName ref="#dbl_005_org_123">Blackstone Rangers</orgName> and the <orgName ref="#dbl_005_org_124">Vice Lords</orgName>. At the top of those gangs, in the hierarchy, the leaders were on probably on a first name basis with the mayor. I mean, they were criminal enterprises of real sophistication. When <persName ref="#dbl_005_person_72">Martin Luther King</persName> was shot, the mayor called in the gang leaders and said, “Please, please help us keep the peace.” The gang members send out a word to the Black community, “Don't riot, stay home, we're warning you.” So, you didn't find what happened in Whites or in <placeName ref="#dbl_005_place_72">Harlem</placeName> in <placeName ref="#dbl_005_place_73">Chicago</placeName>. But the impact on the campus was profound. Like, some of us were ambivalent about <persName ref="#dbl_005_person_73">Martin Luther King</persName>. Some of us thought he was way too lenient on White people. Nobody said he was an “Uncle Tom”, we couldn't say that. But he wasn't like <orgName ref="#dbl_005_org_125">SNCC</orgName>, <orgName ref="#dbl_005_org_126">Student Nonviolent Coordinating Committee</orgName>. Or <orgName ref="#dbl_005_org_127">the Black Panthers</orgName>, which were militaristic, and aggressive. They armed themselves against Whites and we were probably leaning more toward that group. <persName ref="#dbl_005_person_74">Martin Luther King</persName> was deeply loved and respected because he gave his life to the Black community, no doubt about that. So, it was a mixture of rage and heartbreak when he was assassinated.</u>
+      <u who="UGOJI">Could you also describe the feelings towards the assassination of <persName ref="#dbl_005_person_75">Malcolm X</persName>?</u>
+      <u who="MCCURINE">Of who?</u>
+      <u who="UGOJI"><persName ref="#dbl_005_person_76">Malcolm X</persName>? </u>
+      <u who="MCCURINE">Oh, well, for the Black community that raised the issue of deep ambivalence, because most of us thought that assassination — I don't, it might be wrong to say most of us, many of us thought that the Black Muslims in league with the <orgName ref="#dbl_005_org_128">FBI</orgName> engineered the assassination of <persName ref="#dbl_005_person_77">Malcolm X.</persName> I still believe that to be true. It didn't make any sense that these Black men would rise up and shoot him and there would be no police around to stop. And <persName ref="#dbl_005_person_78">J. [John] Edgar Hoover</persName>, considered <persName ref="#dbl_005_person_79">Malcolm X</persName> a cancer that he had to be eliminated. That showed how the divisions in the Black community can become violent.</u>
+      <u who="UGOJI">Thank you. Could you describe what activism looked like on campus? Although, you say that some members of the community did align with the militarism of the <orgName ref="#dbl_005_org_129">Black Panther Party</orgName>. There wasn't as much militarism at <orgName ref="#dbl_005_org_130">Dartmouth</orgName>. Unlike other campuses, like <orgName ref="#dbl_005_org_131">Columbia</orgName>. Could you describe? </u>
+      <u who="MCCURINE">Yeah, well, <orgName ref="#dbl_005_org_132">Columbia</orgName> was an urban campus and the Black students armed themselves and took over the administration building. None of us felt like that was the way to do it. Here we are stuck up in <placeName ref="#dbl_005_place_74">Hanover, New Hampshire</placeName>. What are you going to do? I mean, the Black students if they needed to, they could melt into the surrounding Black community. We can't do that [Laughter]. I think philosophically, I was opposed to violent upheaval. Generally speaking, the irony of Black upheaval, is we tear down our own community. The riots didn't touch any white community. We destroyed our own businesses, our own homes. It's just, it was lunacy. When I grew up in <placeName ref="#dbl_005_place_75">Chicago</placeName> when it was racially segregated the Black community was thriving with businesses because you couldn't go anywhere. So, we had our own dry cleaners, butcher, grocery store, dry cleaners, carpenters, painters, you name it. They were they were all in the Black community. When integrations happened, all those stores eventually dried up. Because people could go outside the community shop. Then I went down to the corner grocery store for <persName ref="#dbl_005_person_80">Big Mama</persName>, and it's all Black owned. Walk another block and go downstairs and that's what the cleaners was. All were black owned. So, I kind of missed that part. </u>
+      <u who="UGOJI">Yeah. So, were you involved in any activism on campus?</u>
+      <u who="MCCURINE">There was not — I can't think of a Black person on campus who wasn't involved in activism. You did, it was a way of life. <orgName ref="#dbl_005_org_133">ABC</orgName> was an activist arm for me. There was a way I expressed my activism, and everybody was active. I'm being too broad by saying “everybody”, but I'm trying to say it was so pervasive that the issue was who wasn't involved. Everybody was involved in some way. White and Black.</u>
+      <u who="UGOJI">Yeah, so what were some of those issues that people were fighting for? And what are some of the ways that they were fighting for those issues?</u>
+      <u who="MCCURINE"><name type="event" ref="#dbl_005_event_5">Vietnam War</name>. Big issue. And white students would get really wrapped up in that, and they would stage sit-ins and sing-ins and rallies on the Green. The Black students were concerned about racism, and that a disproportionate number of people who are soldiers in <placeName ref="#dbl_005_place_76">Vietnam</placeName> were Black. That's why <persName ref="#dbl_005_person_81">Muhammad Ali's</persName> statement, in protest tothe  <name type="event" ref="#dbl_005_event_6">Vietnam War</name> was so powerful when he refused to go because as a Black Muslim, he didn't believe in war, but also, he famously said, “No <orgName ref="#dbl_005_org_134">Viet Cong</orgName> ever called me 'nigger'.” People were furi — not Black people but White people — were furious that he said, “I'm not going to <placeName ref="#dbl_005_place_77">Vietnam</placeName>. No <orgName ref="#dbl_005_org_135">Viet Cong</orgName> has ever called me 'nigger'.” They stripped him of his belt for political speech. For three years, he couldn't fight because of political speech. It was terrible. But of course, he died as a beloved athletic figure in the world.</u>
+      <u who="UGOJI">You went into some of the ways that White students were protesting. What were some of the ways that Black students protested?</u>
+      <u who="MCCURINE">Well, we would protest by getting involved in actual things like there was a project down in <placeName ref="#dbl_005_place_78">Jersey City</placeName>, which we would go down there and live in a house that the campus, we persuaded to campus and buy a house if we go down to <placeName ref="#dbl_005_place_79">Jersey City</placeName>, which is a very poor black area, and we would tutor the students. So, we had to export our activism because there was no Black community around <orgName ref="#dbl_005_org_136">Dartmouth</orgName> to help. So, people would always go down to <placeName ref="#dbl_005_place_80">Roxbury</placeName> and then go into <placeName ref="#dbl_005_place_81">Jersey City</placeName>, or they would get involved in <orgName ref="#dbl_005_org_137">ABC</orgName> program. </u>
+      <u who="UGOJI">Yeah. Did you like notice any mixing of people and activism? Were there Black students who are advocating with the White students on <name type="event" ref="#dbl_005_event_7">Vietnam</name> and White students were advocating so there was that. </u>
+      <u who="MCCURINE">Yeah.</u>
+      <u who="UGOJI">So, it wasn't completely segregated on the social issues?</u>
+      <u who="MCCURINE">Yeah.</u>
+      <u who="UGOJI">Did the <orgName ref="#dbl_005_org_138">Afro American</orgName> side have any demands to the college?</u>
+      <u who="MCCURINE">Oh, yeah. We wanted an African American studies program. We wanted African American instructors. We wanted African Americans in the administration. We wanted a heavier recruitment of African American students. We lobbied and met with the administration numerous times about that.</u>
+      <u who="UGOJI">How did the administration respond?</u>
+      <u who="MCCURINE">It was first coldness but then eventually warmed up. Mildly cooperative.</u>
+      <u who="UGOJI">Mildly, so not fully cooperative?</u>
+      <u who="MCCURINE">Well, they would say that they that everybody said, “Well, we want Black professors, there just aren't any qualified. We want more students, but there's so few are qualified.” There's some truth to that. Because everybody, in all the, quote “<orgName ref="#dbl_005_org_139">Ivy League</orgName> schools” realized they had to diversify their population and the pool of qualified Blacks was only so large. And to become a professor at <orgName ref="#dbl_005_org_140">Dartmouth</orgName> is a rigorous road. So, they had some justification to what they were saying. But it was a big deal if you're a Black professor in <date when="1969">1969</date> to <date when="1975">1975</date>, and you've got, you know, got to have PhD if you're going to teach at <orgName ref="#dbl_005_org_141">Dartmouth</orgName>. How many Blacks choose to move away from an urban center to be in <placeName ref="#dbl_005_place_82">Hanover, New Hampshire</placeName>? That's a hard place to recruit to. I acknowledged that.</u>
+      <u who="UGOJI"> So, do you think that <orgName ref="#dbl_005_org_142">Dartmouth</orgName> was prepared for Black students, the activism, and their demands? And all that happened in the 60s? Do you think that they were prepared?</u>
+      <u who="MCCURINE">I don't think any <orgName ref="#dbl_005_org_143">Ivy League</orgName> school was prepared. Even though as you know, almost all the Ivy League schools began with reliance on some form of slavery. You know, most of them, many of them, like <orgName ref="#dbl_005_org_144">Harvard</orgName> would fund their grants through slave labor, they owned slaves. I don't know if I can say that about <orgName ref="#dbl_005_org_145">Dartmouth</orgName> because of where we're located. But <orgName ref="#dbl_005_org_146">Harvard</orgName>, <orgName ref="#dbl_005_org_147">MIT</orgName>, they owned slaves, or they got money from places that owned slaves, it was a very obvious commercial relationship.</u>
+      <u who="UGOJI">This is a question for myself. Do you think that they, in some form or way, owe Black students or to the Black community, something for that?</u>
+      <u who="MCCURINE">Well.</u>
+      <u who="UGOJI">Like reparations.</u>
+      <u who="MCCURINE">I personally don't believe in reparations because the people who were harmed and who were entitled to reparations are all dead. Look at me, I wound up going to a private school and then <orgName ref="#dbl_005_org_148">Dartmouth</orgName> and then <orgName ref="#dbl_005_org_149">Harvard</orgName>. I should put my hand over my mouth if I say I'm owed reparations. My maternal grandmother, Big Mama might have been owed reparation, but not me. I think as long as we as a people fight for entitlement, we won't work. We won't create for ourselves, we won't become self-reliant. We're always looking for somebody else to make our way for us. We must make our own way. Now, you do that in concert with other people. My son, my oldest son strongly disagrees with me. This is a point of loving contention. Whereas I asked why do you think you're entitled to reparations? Then he starts giving me reasons. I said, "Well, you know, you can't spot any of those. They don't qualify for you. You don't qualify for that. None of those apply to you. They apply to Big Mama, but they don't apply to you." He kind of rolls his eyes. We as a people were always industrious, self-reliant and entrepreneurial. That's how we made our biggest strides, socially and economically. Waiting for white people to give us something is a sure way to deaden our entrepreneurial spirit, our resilience, and our independence. That's my lesson.</u>
+      <u who="UGOJI">Thank you. Thank you for sharing that. Here you mentioned the <orgName ref="#dbl_005_org_150">Dartmouth Foundation project [Foundation Years Program]</orgName>, from <date when="1967">1967</date>. to <date when="1969">1969</date> So, could you explain a little bit of what that project was?</u>
+      <u who="MCCURINE">Okay, I know it as the <orgName ref="#dbl_005_org_151">Foundation Years Program</orgName>. Again, <persName ref="#dbl_005_person_82">Dean Dey</persName>, very fertile mind as a social activist who's always looking for ways to help. He was a remarkable human being. He said, “Well, why can't I mean you guys all went to high school? What about those who are smart like you but didn't have a chance to go to high school?” So, we had some connections with <placeName ref="#dbl_005_place_83">Chicago</placeName>, but he had some connections with <placeName ref="#dbl_005_place_84">Chicago</placeName>. And so they said, “If somebody is at the top of a gang. It means that they have leadership, and they have smarts. Let's get them to come to <orgName ref="#dbl_005_org_152">Dartmouth</orgName> and then provide them all the resources they need to make it.” And that's how the <orgName ref="#dbl_005_org_153">Foundation Years Program</orgName> started. And it started with three guys, <persName ref="#dbl_005_person_83">Alan Evans</persName> ['71] called "Tiny", <persName ref="#dbl_005_person_84">Henry Jordan</persName> ['71], and <persName ref="#dbl_005_person_85">Henry Crumpton</persName> ['73] called "Crump". The first two to arrive were <persName ref="#dbl_005_person_86">Henry Crumpton</persName>, Crump, and —</u>
+      <u who="UGOJI"><persName ref="#dbl_005_person_87">Alan</persName> or <persName ref="#dbl_005_person_88">Michael</persName>?</u>
+      <u who="MCCURINE"><persName ref="#dbl_005_person_89">Michael</persName>. The reason I paused because it sounds like the basketball player. But it's not that <persName ref="#dbl_005_person_90">Michael Jordan</persName> and I remember going to meet them at the <placeName ref="#dbl_005_place_85">Lebanon airport</placeName>. We were expecting these were really tough [inaudible] gang leaders get off the plane, and no, it wasn’t <persName ref="#dbl_005_person_91">Michael Jordan</persName>, it was <persName ref="#dbl_005_person_92">Henry Jordan</persName>. Everybody called him <persName ref="#dbl_005_person_93">Henry</persName> not Hank, <persName ref="#dbl_005_person_94">Henry</persName>. When he got off the plane had on a beautiful pair gray slacks, he looked just like an Ivy League-er, gray slacks, navy blue sport coat, striped tie, white shirt buttoned down, beautiful shoes. <persName ref="#dbl_005_person_95">Henry Crumpton</persName> was the same way and I mean they were you know. I'm trying to remember whether it was <persName ref="#dbl_005_person_96">Henry Crumpton</persName>. Maybe was three. Maybe it was <persName ref="#dbl_005_person_97">Alan Evans</persName>. Well, they were all dressed to the nines. They just blew us away because this is not what we thought they would look like. They were all at least four years older than the rest of us.</u>
+      <u who="UGOJI">Do you remember what year you met them?</u>
+      <u who="MCCURINE">I want to say it was <date when="1960">1960</date> — it was the beginning of my junior year. </u>
+      <u who="UGOJI"><date when="1967">1967</date>? </u>
+      <u who="MCCURINE"><date when="1967">1967</date>. Because they started that fall semester with us. I got very close to <persName ref="#dbl_005_person_98">Crump</persName> and <persName ref="#dbl_005_person_99">Tiny</persName>, <persName ref="#dbl_005_person_100">Alan Evans</persName>. They were really such interesting people. All of them finished <orgName ref="#dbl_005_org_154">Dartmouth</orgName>. All of them went on to have some kind of a career. I'm still in touch with <persName ref="#dbl_005_person_101">Crump</persName>. Still in touch with <persName ref="#dbl_005_person_102">Alan</persName>. I don't call him <persName ref="#dbl_005_person_103">Tiny</persName> anymore, I call him <persName ref="#dbl_005_person_104">Alan</persName>. <persName ref="#dbl_005_person_105">Henry Jordan</persName> died about four years ago. Two to four years ago.</u>
+      <u who="UGOJI">Do you remember what gang they were a part of?</u>
+      <u who="MCCURINE">No.</u>
+      <u who="UGOJI">Thank you. I was interested in what</u>
+      <u who="MCCURINE"> Yeah, I don't. It was one of the known gangs, but I just don't remember whether it was the <orgName ref="#dbl_005_org_155">Vice Lords</orgName> or the other one.</u>
+      <u who="UGOJI"> So, it's good to know that you were able to become friends with them.</u>
+      <u who="MCCURINE">Oh, they were they were amazing people. </u>
+      <u who="UGOJI">Yeah.</u>
+      <u who="MCCURINE">They were leaders.</u>
+      <u who="UGOJI">You graduated <orgName ref="#dbl_005_org_156">Dartmouth</orgName> in <date when="1969">1969</date>. How would you compare your first day of <orgName ref="#dbl_005_org_157">Dartmouth</orgName> and <date when="1965">1965</date> to the last day in <date when="1969">1969</date>?</u>
+      <u who="MCCURINE">I entered with hope, excitement and optimism and left with anger and alienation. I actually didn't graduate from <orgName ref="#dbl_005_org_158">Dartmouth</orgName>. I was a very good student and I had so many credits that I earned my diploma, but I wouldn't walk across the stage, I walked away from the campus. They mailed my diploma to me. By the end of my senior year, I was I was so angry, filled with so much anger that I didn't see any way for Black people and White people to coexist. I wrote the <orgName ref="#dbl_005_org_159">Rhodes Scholarship Committee</orgName> and said, I've decided not to accept my Rhodes scholarship. I went home disillusioned and angry. Then I started working on a street corner in <placeName ref="#dbl_005_place_86">Chicago</placeName>, <placeName ref="#dbl_005_place_87">35th and State</placeName>, which is one of the roughest street quarters in <placeName ref="#dbl_005_place_88">Chicago</placeName>. It's where <placeName ref="#dbl_005_place_89">Stateway gardens</placeName>, a public housing project, all Black began and stretch for at least two miles. It was an urban jungle. The L stop was right at 35th and State. So, when I went home, I worked at my stepdad’s service station, he and my mom were divorced, but he was always in our lives. I worked at his service station, just pumping gas. I would see all this misery walk by, I mean misery. Gone with notions of the noble illiterate. They might have been good people, there were definitely good people there, but they were people who were just pressed, they were pressed and oppressed. We eat our young. Like, sometimes some wild animals, we the victims victimize others who are just like us. One day, pumping gas, I had a revelation that God exists, and that he’s love. That was a startling thought that he truly does exist, and that he truly is love. That put me on a spiritual journey, which eventually resulted in me giving my life to Christ when I had been practicing law for four years. So for the next next six years, I was what you might call a seeker. Then Christ grabbed a hold of me and changed my perspective on life. The anger, he just dealt with the anger and the sense of alienation. Years later, years later, my mother must have been, I think 80 years old. I apologized to her for not graduating because she worked all her life to get me through college, she worked two jobs. Even though I earned my own room and board and expenses, she still had to pay part of the tuition. She worked two jobs to do that. I learned how to cook and be independent because I would cook my own meal and do study by the time I got home. I never gave her the satisfaction of seeing me, coming to the <placeName ref="#dbl_005_place_90">Dartmouth campus</placeName> seeing we walk across the stage and get a diploma. I asked her to forgive me, she said, “That really did hurt my heart but of course I forgive you.” That was just one of the selfish acts that comes from being angry and self-righteous. I thought only of myself. I didn't think of my parents. I wrote the <orgName ref="#dbl_005_org_161">Rhodes Scholarship Committee</orgName> after I had the revelation and said, “Hey, if it's available, I'd like to accept the Rhodes Scholarship.” They said, “Well, yeah, it's available.” A month and a half later, I was on the QE two, Queen Elizabeth II [MS Queen Elizabeth cruise ship] to <placeName ref="#dbl_005_place_91">Oxford</placeName></u>
+      <u who="UGOJI">Wow. You began the application for the Rhodes Scholarship during your senior year?</u>
+      <u who="MCCURINE">Yeah.</u>
+      <u who="UGOJI">Well, after you got your diploma and you were pumping gas back home in <placeName ref="#dbl_005_place_92">Chicago</placeName>, did you have any idea of where you want to go next post-<orgName ref="#dbl_005_org_162">Dartmouth</orgName>?</u>
+      <u who="MCCURINE">I just knew that I needed to get out of the country for a while, get out of all this foment and ferment. <orgName ref="#dbl_005_org_163">Oxford</orgName> was the best place to go because they paid all my expenses. I had time to just decompress. </u>
+      <u who="UGOJI">So, what was <orgName ref="#dbl_005_org_164">Oxford</orgName> like and what you study there?</u>
+      <u who="MCCURINE">They have a course that's called Philosophy, Politics, and Economics. PP&amp;E. It's a set course. So, that's what I studied for two years. Their educational system is quite different from ours. It’s as challenging, if not more so, but it's very different. It was a chrysalis period for me and enabled me to gain more perspective.</u>
+      <u who="UGOJI">What kind of perspective?</u>
+      <u who="MCCURINE">Anger produces violence, and division and alienation. Forgiveness is necessary. Somehow God is involved in all of that.</u>
+      <u who="UGOJI">Did you always know that you wanted a career in law? Or is that something after in <orgName ref="#dbl_005_org_165">Oxford</orgName>?</u>
+      <u who="MCCURINE">No. Law had never entered my mind at any point until I had already entered the PhD program in political science at <orgName ref="#dbl_005_org_166">Harvard</orgName>. My second month into the program, I woke up one morning, where all of a sudden a nascent desire to apply to law school. I'd never thought about it. It wasn't like in the back of my mind and now it had primacy. I never thought about. I woke up one morning, and I believe that's God planting that desire. By the time acceptances came out in March that nascent desire became a flaming desire. I finished my first year of the doctoral program, then dropped it and entered law school in the fall.</u>
+      <u who="UGOJI">When did you enter <orgName ref="#dbl_005_org_167">Oxford</orgName>? And when did you leave?</u>
+      <u who="MCCURINE">I started there in <date when="1969-10">October 1969</date> and left it <date when="1971-05">May 1971</date>.</u>
+      <u who="UGOJI">Then you entered and left <orgName ref="#dbl_005_org_168">Harvard Law School</orgName> when?</u>
+      <u who="MCCURINE">I entered <orgName ref="#dbl_005_org_169">Harvard Law School</orgName> in <date when="1972">1972</date> and graduated <date when="1975">1975</date>.</u>
+      <u who="UGOJI">Why <orgName ref="#dbl_005_org_170">Harvard</orgName>?</u>
+      <u who="MCCURINE">Well, I really didn't want to go to <orgName ref="#dbl_005_org_171">Harvard</orgName>, but <persName ref="#dbl_005_person_106">the John F. Kennedy School</persName> was on one side of the parking lot and the law school was on the other side of the parking lot. So I mean, I'm right there, I'm in <placeName ref="#dbl_005_place_93">Cambridge</placeName> might not apply? My first choice was <orgName ref="#dbl_005_org_172">Georgetown</orgName>, because they had a political activist program in law. But I didn't get in. I got into <orgName ref="#dbl_005_org_173">Harvard</orgName>. So that's why I went.</u>
+      <u who="UGOJI">Do you think that your experience at <orgName ref="#dbl_005_org_174">Dartmouth</orgName> in any way shaped your interest in law even in the slightest amount?</u>
+      <u who="MCCURINE">No. I mean, it must have because all the experiences in our lives tend to funnel us in some direction. So, <orgName ref="#dbl_005_org_175">Dartmouth</orgName> definitely sharpened my mind. It definitely taught me how to study even more than I had studied in high school, and I studied a lot in high school. It taught me to think big. I never thought about law at <orgName ref="#dbl_005_org_176">Dartmouth</orgName>. I never thought about law at <orgName ref="#dbl_005_org_177">Oxford</orgName>.</u>
+      <u who="UGOJI">Going back a little bit, I know you mentioned that anger and alienation that you felt in your senior year. Is there a particular turning point or event where you really felt that?</u>
+      <u who="MCCURINE">Felt what?</u>
+      <u who="UGOJI">Anger of the alienation or is it just, how did — .</u>
+      <u who="MCCURINE">It had just been building. Then my senior year, about a month before the school term ended, I just said I've had enough, and I just walked away from the campus. I didn't withdraw, just walked away, never went back. When I grew up <persName ref="#dbl_005_person_107">Big Mama</persName> used to say, “God protects fools and little children.” Well, I'm an example of least the former. Notwithstanding the foolishness of my decision, I still got a degree and I went to <orgName ref="#dbl_005_org_178">Oxford</orgName>, and I've had a satisfying career.</u>
+      <u who="UGOJI">So you mentioned your career. What was your time like as a magistrate judge?</u>
+      <u who="MCCURINE">Oh, I loved it. Best job ever here. All I had to do. All I had to do every day was asking, “What's the right thing to do?” That was the key question. I mean, within the confines of the law, what's the right thing to do? I had an outstanding staff. I'd been used to working six days a week for 25 years. Now as a judge actually get weekends. I mean, it was —. I get holidays. So astounding. I didn't have to worry about keeping clients happy. All I had to do was worry about is doing the right thing. It was a wonderful feeling.</u>
+      <u who="UGOJI">So to build the timeline, after you graduated from <orgName ref="#dbl_005_org_179">Harvard</orgName>, with your JD, you then became a lawyer. What is the timeline to becoming a judge?</u>
+      <u who="MCCURINE">I started practicing law in <date when="1975-06">June of 1975</date>. I was admitted to the <orgName ref="#dbl_005_org_180">California Bar</orgName> in <date when="1975-12">early December 1975</date>. I became a magistrate judge, I was sworn in as a judge, like <date when="2004-01-04">January 4</date> or 5 of 2004. I did that until <date when="2013">2013</date>.</u>
+      <u who="UGOJI">What do you do now?</u>
+      <u who="MCCURINE">I'm a private mediator. I kind of do the same things I did as a judge, I just get paid better for it.</u>
+      <u who="UGOJI">And what is a mediator? </u>
+      <u who="MCCURINE">So if people are in a lawsuit, or about to start a lawsuit, they say we need to sit down with somebody who's skilled who might bring us to agreement. I'm that person. That person is called a mediator. That's what I do.</u>
+      <u who="UGOJI">What types of cases have you overseen in your career?</u>
+      <u who="MCCURINE">As a mediator? </u>
+      <u who="UGOJI">Or as a judge; as a lawyer.</u>
+      <u who="MCCURINE">Well, as a lawyer, my practice was entirely civil. I did no criminal law. I handled product liability, negligence, and business cases. As a federal judge, you handle everything. So, I had to learn criminal law. Part of my calendar, this is true for every judge in the federal system. You have to handle the criminal and you'd have to handle the civil. So, I had a I had a courtroom deputy, he kept my criminal calendar going and I had two lawyers working for me, to keep my civil side going.</u>
+      <u who="UGOJI">Thank you. What is your current impression of <orgName ref="#dbl_005_org_181">Dartmouth</orgName> <date>today</date>? Had your relationship changed with the college?</u>
+      <u who="MCCURINE">Well, I really appreciate what <orgName ref="#dbl_005_org_182">Dartmouth</orgName> did for me. I've been back only twice. And really both times were more in connection with the <orgName ref="#dbl_005_org_183">ABC</orgName> program. <orgName ref="#dbl_005_org_184">Dartmouth</orgName> was actually very good to me. I mean, I don't have —, all my feelings about <orgName ref="#dbl_005_org_185">Dartmouth</orgName> are very positive. It was an absolutely gorgeous campus. It gave me a first-rate education, really challenged my mind and taught me better how to think. I had outstanding professors who were very impactful in my life. So, when I think back on <orgName ref="#dbl_005_org_186">Dartmouth</orgName>, all I see are basically beautiful colors. I don't have any —  I don't carry any anger. I don't carry any grudge. People ask me how did I like it? I said I had a wonderful time.</u>
+      <u who="UGOJI">Yeah. A question I wanted to ask earlier was did you have any relationships with black alums that came before you?</u>
+      <u who="MCCURINE">There weren't that many. You know. What <persName ref="#dbl_005_person_108">Rick Joseph [ Richard Anthony Joseph ‘65]</persName> was one who would periodically — <persName ref="#dbl_005_person_109">Rick Joseph</persName> graduated probably five years before we got there. He's an academic. He's a PhD in I think political science. He is a very respected academic. He would come back to encourage us periodically. He was he was the first black Rhodes Scholar from <placeName ref="#dbl_005_place_94">Boston</placeName>. Really can't think of any others.</u>
+      <u who="UGOJI">On that note, do you have any advice as a Black alumni that you would give to current Black students at <orgName ref="#dbl_005_org_187">Dartmouth</orgName> today?</u>
+      <u who="MCCURINE">Yeah, study hard. Value the relationships you form there and appreciate the experience. Don’t act too cool and spurn it. Enjoy the experience, it’s unique. Study well because it’s going to shape potentially shape the rest of your career. Value the relationships you form.</u>
+      <u who="UGOJI">Thank you so much. Thank you so much, <persName ref="#dbl_005_person_110">Bill</persName>, for taking the time to talk with me on this <orgName ref="#dbl_005_org_188">Dartmouth Black Lives</orgName> project. I really appreciate it. I know that generations down the line Black students are going to listen back and also really appreciate your story. </u>
+      <u who="MCCURINE">Well, thank you <persName ref="#dbl_005_person_112">Agnes</persName>. God bless you. You mind if I say a quick prayer for you? </u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dbl_005_place_0">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.360277777777775 -71.05777777777777</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dbl_005_place_1">
+        <placeName>San Diego</placeName>
+        <location>
+          <geo>32.715 -117.1625</geo>
+        </location>
+        <idno type="WD">Q16552</idno>
+      </place>
+      <place xml:id="dbl_005_place_2">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_3">
+        <placeName>West Side, Chicago</placeName>
+        <location>
+          <geo>41.8671 -87.6216</geo>
+        </location>
+        <idno type="WD">Q3567445</idno>
+      </place>
+      <place xml:id="dbl_005_place_4">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_5">
+        <placeName>Stanton</placeName>
+        <location>
+          <geo>35.4625 -89.401388888889</geo>
+        </location>
+        <idno type="WD">Q2190486</idno>
+      </place>
+      <place xml:id="dbl_005_place_6">
+        <placeName>Stanton</placeName>
+        <location>
+          <geo>35.4625 -89.401388888889</geo>
+        </location>
+        <idno type="WD">Q2190486</idno>
+      </place>
+      <place xml:id="dbl_005_place_7">
+        <placeName>Tennessee</placeName>
+        <location>
+          <geo>36 -86</geo>
+        </location>
+        <idno type="WD">Q1509</idno>
+      </place>
+      <place xml:id="dbl_005_place_8">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_9">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_10">
+        <placeName>West Side, Chicago</placeName>
+        <location>
+          <geo>41.8671 -87.6216</geo>
+        </location>
+        <idno type="WD">Q3567445</idno>
+      </place>
+      <place xml:id="dbl_005_place_11">
+        <placeName>West Side, Chicago</placeName>
+        <location>
+          <geo>41.8671 -87.6216</geo>
+        </location>
+        <idno type="WD">Q3567445</idno>
+      </place>
+      <place xml:id="dbl_005_place_12">
+        <placeName>South Side</placeName>
+        <location>
+          <geo>41.8671 -87.6216</geo>
+        </location>
+        <idno type="WD">Q3492277</idno>
+      </place>
+      <place xml:id="dbl_005_place_13">
+        <placeName>Cottage Grove</placeName>
+        <location>
+          <geo>41.780309 -87.605857</geo>
+        </location>
+        <idno type="WD">Q2998600</idno>
+      </place>
+      <place xml:id="dbl_005_place_14">
+        <placeName>Wendell Phillips Academy High School</placeName>
+        <location>
+          <geo>41.8244779 -87.6197727</geo>
+        </location>
+        <idno type="WD">Q7982462</idno>
+      </place>
+      <place xml:id="dbl_005_place_15">
+        <placeName>South Side</placeName>
+        <location>
+          <geo>41.8671 -87.6216</geo>
+        </location>
+        <idno type="WD">Q3492277</idno>
+      </place>
+      <place xml:id="dbl_005_place_16">
+        <placeName>North Side</placeName>
+        <location>
+          <geo>41.9039  87.6315</geo>
+        </location>
+        <idno type="WD">Q3344167</idno>
+      </place>
+      <place xml:id="dbl_005_place_17">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_18">
+        <placeName>West Side, Chicago</placeName>
+        <location>
+          <geo>41.8671 -87.6216</geo>
+        </location>
+        <idno type="WD">Q3567445</idno>
+      </place>
+      <place xml:id="dbl_005_place_19">
+        <placeName>North Side</placeName>
+        <location>
+          <geo>41.9039  87.6315</geo>
+        </location>
+        <idno type="WD">Q3344167</idno>
+      </place>
+      <place xml:id="dbl_005_place_20">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_21">
+        <placeName>South Side</placeName>
+        <location>
+          <geo>41.8671 -87.6216</geo>
+        </location>
+        <idno type="WD">Q3492277</idno>
+      </place>
+      <place xml:id="dbl_005_place_22">
+        <placeName>West Side, Chicago</placeName>
+        <location>
+          <geo>41.8671 -87.6216</geo>
+        </location>
+        <idno type="WD">Q3567445</idno>
+      </place>
+      <place xml:id="dbl_005_place_23">
+        <placeName>South Side</placeName>
+        <location>
+          <geo>41.8671 -87.6216</geo>
+        </location>
+        <idno type="WD">Q3492277</idno>
+      </place>
+      <place xml:id="dbl_005_place_24">
+        <placeName>North Side</placeName>
+        <location>
+          <geo>41.9039  87.6315</geo>
+        </location>
+        <idno type="WD">Q3344167</idno>
+      </place>
+      <place xml:id="dbl_005_place_25">
+        <placeName>North Side</placeName>
+        <location>
+          <geo>41.9039  87.6315</geo>
+        </location>
+        <idno type="WD">Q3344167</idno>
+      </place>
+      <place xml:id="dbl_005_place_26">
+        <placeName>South Side</placeName>
+        <location>
+          <geo>41.8671 -87.6216</geo>
+        </location>
+        <idno type="WD">Q3492277</idno>
+      </place>
+      <place xml:id="dbl_005_place_27">
+        <placeName>North Side</placeName>
+        <location>
+          <geo>41.9039  87.6315</geo>
+        </location>
+        <idno type="WD">Q3344167</idno>
+      </place>
+      <place xml:id="dbl_005_place_28">
+        <placeName>North Side</placeName>
+        <location>
+          <geo>41.9039  87.6315</geo>
+        </location>
+        <idno type="WD">Q3344167</idno>
+      </place>
+      <place xml:id="dbl_005_place_29">
+        <placeName>South Chicago</placeName>
+        <location>
+          <geo>41.74 -87.55</geo>
+        </location>
+        <idno type="WD">Q3492237</idno>
+      </place>
+      <place xml:id="dbl_005_place_30">
+        <placeName>Randolph Street</placeName>
+        <location>
+          <geo>41.88441666666667 -87.64502777777778</geo>
+        </location>
+        <idno type="WD">Q7291867</idno>
+      </place>
+      <place xml:id="dbl_005_place_31">
+        <placeName>Randolph Street</placeName>
+        <location>
+          <geo>41.88441666666667 -87.64502777777778</geo>
+        </location>
+        <idno type="WD">Q7291867</idno>
+      </place>
+      <place xml:id="dbl_005_place_32">
+        <placeName>North Side</placeName>
+        <location>
+          <geo>41.9039  87.6315</geo>
+        </location>
+        <idno type="WD">Q3344167</idno>
+      </place>
+      <place xml:id="dbl_005_place_33">
+        <placeName>Magnificent Mile</placeName>
+        <location>
+          <geo>41.89535 -87.624319444444</geo>
+        </location>
+        <idno type="WD">Q285218</idno>
+      </place>
+      <place xml:id="dbl_005_place_34">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_35">
+        <placeName>Magnificent Mile</placeName>
+        <location>
+          <geo>41.89535 -87.624319444444</geo>
+        </location>
+        <idno type="WD">Q285218</idno>
+      </place>
+      <place xml:id="dbl_005_place_36">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_37">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_38">
+        <placeName>New England</placeName>
+        <location>
+          <geo>44.205555555556 -70.306425</geo>
+        </location>
+        <idno type="WD">Q18389</idno>
+      </place>
+      <place xml:id="dbl_005_place_42">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_43">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_005_place_44">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_45">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_46">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_005_place_47">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_48">
+        <placeName>Baker Library</placeName>
+        <location>
+          <geo>43.70514 -72.28867</geo>
+        </location>
+        <idno type="WD">Q115184517</idno>
+      </place>
+      <place xml:id="dbl_005_place_49">
+        <placeName>The Green</placeName>
+        <location>
+          <geo>43.7033 -72.2886</geo>
+        </location>
+        <idno type="WD">Q7738117</idno>
+      </place>
+      <place xml:id="dbl_005_place_50">
+        <placeName>Casque and Gauntlet</placeName>
+        <location>
+          <geo>43.70226 -72.2898</geo>
+        </location>
+        <idno type="WD">Q5049130</idno>
+      </place>
+      <place xml:id="dbl_005_place_51">
+        <placeName>The Hanover Public House</placeName>
+        <location>
+          <geo>51.945524 1.288893</geo>
+        </location>
+        <idno type="WD">Q26483062</idno>
+      </place>
+      <place xml:id="dbl_005_place_52">
+        <placeName>Collis Center for Student Involvement</placeName>
+        <location>
+          <geo>43.70277 -72.28991</geo>
+        </location>
+        <idno type="WD">Q100725367</idno>
+      </place>
+      <place xml:id="dbl_005_place_53">
+        <placeName>Collis Center for Student Involvement</placeName>
+        <location>
+          <geo>43.70277 -72.28991</geo>
+        </location>
+        <idno type="WD">Q100725367</idno>
+      </place>
+      <place xml:id="dbl_005_place_54">
+        <placeName>Carson Hall</placeName>
+        <location>
+          <geo>43.70578 -72.28905</geo>
+        </location>
+        <idno type="WD">Q98605873</idno>
+      </place>
+      <place xml:id="dbl_005_place_55">
+        <placeName>New England</placeName>
+        <location>
+          <geo>44.205555555556 -70.306425</geo>
+        </location>
+        <idno type="WD">Q18389</idno>
+      </place>
+      <place xml:id="dbl_005_place_56">
+        <placeName>Smith College</placeName>
+        <location>
+          <geo>42.3175 -72.6375</geo>
+        </location>
+        <idno type="WD">Q49204</idno>
+      </place>
+      <place xml:id="dbl_005_place_57">
+        <placeName>Mount Holyoke</placeName>
+        <location>
+          <geo>42.300833333333 -72.586944444444</geo>
+        </location>
+        <idno type="WD">Q3321866</idno>
+      </place>
+      <place xml:id="dbl_005_place_58">
+        <placeName>El-Hajj Malik El-Shabazz Center</placeName>
+        <location>
+          <geo>43.70678140394604 -72.2898819546128</geo>
+        </location>
+        <idno type="WD">Q114879775</idno>
+      </place>
+      <place xml:id="dbl_005_place_59">
+        <placeName>El-Hajj Malik El-Shabazz Center</placeName>
+        <location>
+          <geo>43.70678140394604 -72.2898819546128</geo>
+        </location>
+        <idno type="WD">Q104931609</idno>
+      </place>
+      <place xml:id="dbl_005_place_60">
+        <placeName>El-Hajj Malik El-Shabazz Center</placeName>
+        <location>
+          <geo>43.70678140394604 -72.2898819546128</geo>
+        </location>
+        <idno type="WD">Q104931609</idno>
+      </place>
+      <place xml:id="dbl_005_place_61">
+        <placeName>El-Hajj Malik El-Shabazz Center</placeName>
+        <location>
+          <geo>43.70678140394604 -72.2898819546128</geo>
+        </location>
+        <idno type="WD">Q104931609</idno>
+      </place>
+      <place xml:id="dbl_005_place_63">
+        <placeName>Philadelphia</placeName>
+        <location>
+          <geo>39.952777777778 -75.163611111111</geo>
+        </location>
+        <idno type="WD">Q1345</idno>
+      </place>
+      <place xml:id="dbl_005_place_64">
+        <placeName>ABC House</placeName>
+        <location>
+          <geo>23.8610762 90.363965</geo>
+        </location>
+        <idno type="WD">Q61747277</idno>
+      </place>
+      <place xml:id="dbl_005_place_65">
+        <placeName>Manchester</placeName>
+        <location>
+          <geo>42.990833333333 -71.463611111111</geo>
+        </location>
+        <idno type="WD">Q48370</idno>
+      </place>
+      <place xml:id="dbl_005_place_66">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dbl_005_place_67">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dbl_005_place_68">
+        <placeName>ABC House</placeName>
+        <location>
+          <geo>23.8610762 90.363965</geo>
+        </location>
+        <idno type="WD">Q61747277</idno>
+      </place>
+      <place xml:id="dbl_005_place_69">
+        <placeName>Egypt</placeName>
+        <location>
+          <geo>27 29</geo>
+        </location>
+        <idno type="WD">Q79</idno>
+      </place>
+      <place xml:id="dbl_005_place_70">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_71">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_72">
+        <placeName>Harlem</placeName>
+        <location>
+          <geo>40.809033333333 -73.948372222222</geo>
+        </location>
+        <idno type="WD">Q189074</idno>
+      </place>
+      <place xml:id="dbl_005_place_73">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_74">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_005_place_75">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_76">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dbl_005_place_77">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dbl_005_place_78">
+        <placeName>Jersey City</placeName>
+        <location>
+          <geo>40.71 -74.06</geo>
+        </location>
+        <idno type="WD">Q26339</idno>
+      </place>
+      <place xml:id="dbl_005_place_79">
+        <placeName>Jersey City</placeName>
+        <location>
+          <geo>40.71 -74.06</geo>
+        </location>
+        <idno type="WD">Q26339</idno>
+      </place>
+      <place xml:id="dbl_005_place_80">
+        <placeName>Roxbury</placeName>
+        <location>
+          <geo>42.325 -71.095277777778</geo>
+        </location>
+        <idno type="WD">Q20138</idno>
+      </place>
+      <place xml:id="dbl_005_place_81">
+        <placeName>Jersey City</placeName>
+        <location>
+          <geo>40.71 -74.06</geo>
+        </location>
+        <idno type="WD">Q26339</idno>
+      </place>
+      <place xml:id="dbl_005_place_82">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_005_place_83">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_84">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_85">
+        <placeName>Lebanon Airport</placeName>
+        <location>
+          <geo>33.99204 -96.91584</geo>
+        </location>
+        <idno type="WD">Q35274097</idno>
+      </place>
+      <place xml:id="dbl_005_place_86">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_87">
+        <placeName>State Street</placeName>
+        <location>
+          <geo>41.8821 -87.6278</geo>
+        </location>
+        <idno type="WD">Q986343</idno>
+      </place>
+      <place xml:id="dbl_005_place_88">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_89">
+        <placeName>Stateway Gardens</placeName>
+        <location>
+          <geo>41.82722222 -87.62777778</geo>
+        </location>
+        <idno type="WD">Q7604064</idno>
+      </place>
+      <place xml:id="dbl_005_place_90">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q5028697</idno>
+      </place>
+      <place xml:id="dbl_005_place_91">
+        <placeName>University of Oxford</placeName>
+        <location>
+          <geo>51.755 -1.255</geo>
+        </location>
+        <idno type="WD">Q34433</idno>
+      </place>
+      <place xml:id="dbl_005_place_92">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_005_place_93">
+        <placeName>University of Cambridge</placeName>
+        <location>
+          <geo>52.205355979757925 0.11315726963968827</geo>
+        </location>
+        <idno type="WD">Q35794</idno>
+      </place>
+      <place xml:id="dbl_005_place_94">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.360277777777775 -71.05777777777777</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dbl_005_event_0" from-iso="1965-08-11T00:00:00Z" to-iso="1965-08-16T00:00:00Z">
+        <desc>Watts riots</desc>
+        <idno type="WD">Q377682</idno>
+      </event>
+      <event xml:id="dbl_005_event_1" when-iso="1964-07-01T00:00:00Z">
+        <desc>Harlem Riot of 1964</desc>
+        <idno type="WD">Q5658577</idno>
+      </event>
+      <event xml:id="dbl_005_event_2" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dbl_005_event_3" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dbl_005_event_4" from-iso="1954-01-01T00:00:00Z" to-iso="1968-01-01T00:00:00Z">
+        <desc>civil rights movement</desc>
+        <idno type="WD">Q48537</idno>
+      </event>
+      <event xml:id="dbl_005_event_5" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dbl_005_event_6" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dbl_005_event_7" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dbl_005_person_0">
+        <persName>Agnes C. Ugoji</persName>
+        <idno type="WD">Q115042050</idno>
+      </person>
+      <person xml:id="dbl_005_person_1">
+        <persName>William McCurine</persName>
+        <idno type="WD">Q114648071</idno>
+      </person>
+      <person xml:id="dbl_005_person_2">
+        <persName>William McCurine</persName>
+        <idno type="WD">Q114648071</idno>
+      </person>
+      <person xml:id="dbl_005_person_3">
+        <persName>William McCurine</persName>
+        <idno type="WD">Q114648071</idno>
+      </person>
+      <person xml:id="dbl_005_person_4">
+        <persName>Agnes C. Ugoji</persName>
+        <idno type="WD">Q115042050</idno>
+      </person>
+      <person xml:id="dbl_005_person_5">
+        <persName>William McCurine</persName>
+        <idno type="WD">Q114648071</idno>
+      </person>
+      <person xml:id="dbl_005_person_6">
+        <persName>Dorothy Marie Jones</persName>
+        <idno type="WD">Q116431096</idno>
+      </person>
+      <person xml:id="dbl_005_person_7">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_8">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_9">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_10">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_11">
+        <persName>Robert Patterson</persName>
+        <idno type="WD">Q116419558</idno>
+      </person>
+      <person xml:id="dbl_005_person_12">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_13">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_14">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_15">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_16">
+        <persName>Dr. Donald H. Smith</persName>
+        <idno type="WD">Q116412955</idno>
+      </person>
+      <person xml:id="dbl_005_person_17">
+        <persName>Jackie Robinson</persName>
+        <idno type="WD">Q221048</idno>
+      </person>
+      <person xml:id="dbl_005_person_18">
+        <persName>Gwendolyn Brooks</persName>
+        <idno type="WD">Q270715</idno>
+      </person>
+      <person xml:id="dbl_005_person_19">
+        <persName>Dr. Donald H. Smith</persName>
+        <idno type="WD">Q116412955</idno>
+      </person>
+      <person xml:id="dbl_005_person_20">
+        <persName>Dr. Donald H. Smith</persName>
+        <idno type="WD">Q116412955</idno>
+      </person>
+      <person xml:id="dbl_005_person_21">
+        <persName>Laurie McGranada</persName>
+        <idno type="WD">Q116419603</idno>
+      </person>
+      <person xml:id="dbl_005_person_22">
+        <persName>William McCurine</persName>
+        <idno type="WD">Q114648071</idno>
+      </person>
+      <person xml:id="dbl_005_person_23">
+        <persName>Laurie McGranada</persName>
+        <idno type="WD">Q116419603</idno>
+      </person>
+      <person xml:id="dbl_005_person_24">
+        <persName>Francis Wayland Parker</persName>
+        <idno type="WD">Q1233437</idno>
+      </person>
+      <person xml:id="dbl_005_person_25">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_26">
+        <persName>William McCurine</persName>
+        <idno type="WD">Q114648071</idno>
+      </person>
+      <person xml:id="dbl_005_person_27">
+        <persName>Robert Patterson</persName>
+        <idno type="WD">Q116419558</idno>
+      </person>
+      <person xml:id="dbl_005_person_28">
+        <persName>Thomas Mikula</persName>
+        <idno type="WD">Q116419756</idno>
+      </person>
+      <person xml:id="dbl_005_person_29">
+        <persName>Charles Dey</persName>
+        <idno type="WD">Q116419642</idno>
+      </person>
+      <person xml:id="dbl_005_person_30">
+        <persName>Charles Dey</persName>
+        <idno type="WD">Q116419642</idno>
+      </person>
+      <person xml:id="dbl_005_person_31">
+        <persName>Thomas Mikula</persName>
+        <idno type="WD">Q116419756</idno>
+      </person>
+      <person xml:id="dbl_005_person_32">
+        <persName>Charles Dey</persName>
+        <idno type="WD">Q116419642</idno>
+      </person>
+      <person xml:id="dbl_005_person_33">
+        <persName>Thomas Mikula</persName>
+        <idno type="WD">Q116419756</idno>
+      </person>
+      <person xml:id="dbl_005_person_34">
+        <persName>Charles Dey</persName>
+        <idno type="WD">Q116419642</idno>
+      </person>
+      <person xml:id="dbl_005_person_35">
+        <persName>Thomas Mikula</persName>
+        <idno type="WD">Q116419756</idno>
+      </person>
+      <person xml:id="dbl_005_person_36">
+        <persName>Elva Mikula</persName>
+        <idno type="WD">Q116419838</idno>
+      </person>
+      <person xml:id="dbl_005_person_37">
+        <persName>Robert Patterson</persName>
+        <idno type="WD">Q116419558</idno>
+      </person>
+      <person xml:id="dbl_005_person_41">
+        <persName>Peter Lewis</persName>
+        <idno type="WD">Q116420158</idno>
+      </person>
+      <person xml:id="dbl_005_person_42">
+        <persName>Dana McCurine</persName>
+        <idno type="WD">Q116420188</idno>
+      </person>
+      <person xml:id="dbl_005_person_43">
+        <persName>Dana McCurine</persName>
+        <idno type="WD">Q116420188</idno>
+      </person>
+      <person xml:id="dbl_005_person_44">
+        <persName>Agnes C. Ugoji</persName>
+        <idno type="WD">Q115042050</idno>
+      </person>
+      <person xml:id="dbl_005_person_45">
+        <persName>Dana McCurine</persName>
+        <idno type="WD">Q116420188</idno>
+      </person>
+      <person xml:id="dbl_005_person_46">
+        <persName>Peter Lewis</persName>
+        <idno type="WD">Q116420158</idno>
+      </person>
+      <person xml:id="dbl_005_person_47">
+        <persName>Chinua Achebe</persName>
+        <idno type="WD">Q155845</idno>
+      </person>
+      <person xml:id="dbl_005_person_48">
+        <persName>Jean-Paul Sartre</persName>
+        <idno type="WD">Q9364</idno>
+      </person>
+      <person xml:id="dbl_005_person_49">
+        <persName>Albert Camus</persName>
+        <idno type="WD">Q34670</idno>
+      </person>
+      <person xml:id="dbl_005_person_50">
+        <persName>Peter Lewis</persName>
+        <idno type="WD">Q116420158</idno>
+      </person>
+      <person xml:id="dbl_005_person_51">
+        <persName>Peter Lewis</persName>
+        <idno type="WD">Q116420158</idno>
+      </person>
+      <person xml:id="dbl_005_person_52">
+        <persName>George Merrill</persName>
+        <idno type="WD">Q116420278</idno>
+      </person>
+      <person xml:id="dbl_005_person_53">
+        <persName>George Merrill</persName>
+        <idno type="WD">Q116420278</idno>
+      </person>
+      <person xml:id="dbl_005_person_54">
+        <persName>George Merrill</persName>
+        <idno type="WD">Q116420278</idno>
+      </person>
+      <person xml:id="dbl_005_person_55">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_005_person_56">
+        <persName>Maulana Karenga</persName>
+        <idno type="WD">Q3056728</idno>
+      </person>
+      <person xml:id="dbl_005_person_57">
+        <persName>James Baldwin</persName>
+        <idno type="WD">Q273210</idno>
+      </person>
+      <person xml:id="dbl_005_person_58">
+        <persName>Amiri Baraka</persName>
+        <idno type="WD">Q354783</idno>
+      </person>
+      <person xml:id="dbl_005_person_59">
+        <persName>Amiri Baraka</persName>
+        <idno type="WD">Q354783</idno>
+      </person>
+      <person xml:id="dbl_005_person_60">
+        <persName>Malcolm X</persName>
+        <idno type="WD">Q43303</idno>
+      </person>
+      <person xml:id="dbl_005_person_61">
+        <persName>Malcolm X</persName>
+        <idno type="WD">Q43303</idno>
+      </person>
+      <person xml:id="dbl_005_person_62">
+        <persName>Ralph Ellison</persName>
+        <idno type="WD">Q299965</idno>
+      </person>
+      <person xml:id="dbl_005_person_63">
+        <persName>Holland–Dozier–Holland</persName>
+        <idno type="WD">Q1262419</idno>
+      </person>
+      <person xml:id="dbl_005_person_64">
+        <persName>Stevie Wonder</persName>
+        <idno type="WD">Q714</idno>
+      </person>
+      <person xml:id="dbl_005_person_65">
+        <persName>Jim Fixx</persName>
+        <idno type="WD">Q973958</idno>
+      </person>
+      <person xml:id="dbl_005_person_66">
+        <persName>James Brown</persName>
+        <idno type="WD">Q5950</idno>
+      </person>
+      <person xml:id="dbl_005_person_67">
+        <persName>Zora Neale Hurston</persName>
+        <idno type="WD">Q220480</idno>
+      </person>
+      <person xml:id="dbl_005_person_68">
+        <persName>Zora Neale Hurston</persName>
+        <idno type="WD">Q220480</idno>
+      </person>
+      <person xml:id="dbl_005_person_69">
+        <persName>Zora Neale Hurston</persName>
+        <idno type="WD">Q220480</idno>
+      </person>
+      <person xml:id="dbl_005_person_70">
+        <persName>Zora Neale Hurston</persName>
+        <idno type="WD">Q220480</idno>
+      </person>
+      <person xml:id="dbl_005_person_71">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_005_person_72">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_005_person_73">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_005_person_74">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_005_person_75">
+        <persName>Malcolm X</persName>
+        <idno type="WD">Q43303</idno>
+      </person>
+      <person xml:id="dbl_005_person_76">
+        <persName>Malcolm X</persName>
+        <idno type="WD">Q43303</idno>
+      </person>
+      <person xml:id="dbl_005_person_77">
+        <persName>Malcolm X</persName>
+        <idno type="WD">Q43303</idno>
+      </person>
+      <person xml:id="dbl_005_person_78">
+        <persName>J. Edgar Hoover</persName>
+        <idno type="WD">Q210435</idno>
+      </person>
+      <person xml:id="dbl_005_person_79">
+        <persName>Malcolm X</persName>
+        <idno type="WD">Q43303</idno>
+      </person>
+      <person xml:id="dbl_005_person_80">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_81">
+        <persName>Muhammad Ali</persName>
+        <idno type="WD">Q36107</idno>
+      </person>
+      <person xml:id="dbl_005_person_82">
+        <persName>Charles Dey</persName>
+        <idno type="WD">Q116419642</idno>
+      </person>
+      <person xml:id="dbl_005_person_83">
+        <persName>Alan Evans</persName>
+        <idno type="WD">Q116430958</idno>
+      </person>
+      <person xml:id="dbl_005_person_84">
+        <persName>Henry Jordan</persName>
+        <idno type="WD">Q116430986</idno>
+      </person>
+      <person xml:id="dbl_005_person_85">
+        <persName>Henry Crumpton</persName>
+        <idno type="WD">Q116431052</idno>
+      </person>
+      <person xml:id="dbl_005_person_86">
+        <persName>Henry Crumpton</persName>
+        <idno type="WD">Q116431052</idno>
+      </person>
+      <person xml:id="dbl_005_person_87">
+        <persName>Alan Evans</persName>
+        <idno type="WD">Q116430958</idno>
+      </person>
+      <person xml:id="dbl_005_person_88">
+        <persName>Henry Jordan</persName>
+        <idno type="WD">Q116430986</idno>
+      </person>
+      <person xml:id="dbl_005_person_89">
+        <persName>Henry Jordan</persName>
+        <idno type="WD">Q116430986</idno>
+      </person>
+      <person xml:id="dbl_005_person_90">
+        <persName>Henry Jordan</persName>
+        <idno type="WD">Q116430986</idno>
+      </person>
+      <person xml:id="dbl_005_person_91">
+        <persName>Henry Jordan</persName>
+        <idno type="WD">Q116430986</idno>
+      </person>
+      <person xml:id="dbl_005_person_92">
+        <persName>Henry Jordan</persName>
+        <idno type="WD">Q116430986</idno>
+      </person>
+      <person xml:id="dbl_005_person_93">
+        <persName>Henry Jordan</persName>
+        <idno type="WD">Q116430986</idno>
+      </person>
+      <person xml:id="dbl_005_person_94">
+        <persName>Henry Jordan</persName>
+        <idno type="WD">Q116430986</idno>
+      </person>
+      <person xml:id="dbl_005_person_95">
+        <persName>Henry Crumpton</persName>
+        <idno type="WD">Q116431052</idno>
+      </person>
+      <person xml:id="dbl_005_person_96">
+        <persName>Henry Crumpton</persName>
+        <idno type="WD">Q116431052</idno>
+      </person>
+      <person xml:id="dbl_005_person_97">
+        <persName>Alan Evans</persName>
+        <idno type="WD">Q116430958</idno>
+      </person>
+      <person xml:id="dbl_005_person_98">
+        <persName>Henry Crumpton</persName>
+        <idno type="WD">Q116419810</idno>
+      </person>
+      <person xml:id="dbl_005_person_99">
+        <persName>Alan Evans</persName>
+        <idno type="WD">Q116430958</idno>
+      </person>
+      <person xml:id="dbl_005_person_100">
+        <persName>Alan Evans</persName>
+        <idno type="WD">Q116430958</idno>
+      </person>
+      <person xml:id="dbl_005_person_101">
+        <persName>Henry Crumpton</persName>
+        <idno type="WD">Q116419810</idno>
+      </person>
+      <person xml:id="dbl_005_person_102">
+        <persName>Alan Evans</persName>
+        <idno type="WD">Q116430958</idno>
+      </person>
+      <person xml:id="dbl_005_person_103">
+        <persName>Alan Evans</persName>
+        <idno type="WD">Q116430958</idno>
+      </person>
+      <person xml:id="dbl_005_person_104">
+        <persName>Alan Evans</persName>
+        <idno type="WD">Q116430958</idno>
+      </person>
+      <person xml:id="dbl_005_person_105">
+        <persName>Henry Jordan</persName>
+        <idno type="WD">Q116430986</idno>
+      </person>
+      <person xml:id="dbl_005_person_106">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dbl_005_person_107">
+        <persName>Anna Jones</persName>
+        <idno type="WD">Q116419480</idno>
+      </person>
+      <person xml:id="dbl_005_person_108">
+        <persName>Richard A. Joseph</persName>
+        <idno type="WD">Q106145269</idno>
+      </person>
+      <person xml:id="dbl_005_person_109">
+        <persName>Richard A. Joseph</persName>
+        <idno type="WD">Q106145269</idno>
+      </person>
+      <person xml:id="dbl_005_person_110">
+        <persName>William McCurine</persName>
+        <idno type="WD">Q114648071</idno>
+      </person>
+      <person xml:id="dbl_005_person_112">
+        <persName>Agnes</persName>
+        <idno type="WD">Q115042050</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dbl_005_org_0">
+        <orgName>Dartmouth Black Lives</orgName>
+        <idno type="WD">Q114647391</idno>
+      </org>
+      <org xml:id="dbl_005_org_1">
+        <orgName>Chicago Housing Authority</orgName>
+        <idno type="WD">Q5095647</idno>
+      </org>
+      <org xml:id="dbl_005_org_2">
+        <orgName>Railroad Retirement Board</orgName>
+        <idno type="WD">Q7284074</idno>
+      </org>
+      <org xml:id="dbl_005_org_3">
+        <orgName>Stanton</orgName>
+        <idno type="WD">Q2190486</idno>
+      </org>
+      <org xml:id="dbl_005_org_4">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_5">
+        <orgName>Wendell Phillips Academy High School</orgName>
+        <idno type="WD">Q7982462</idno>
+      </org>
+      <org xml:id="dbl_005_org_6">
+        <orgName>Wendell Phillips Academy High School</orgName>
+        <idno type="WD">Q7982462</idno>
+      </org>
+      <org xml:id="dbl_005_org_7">
+        <orgName>Wendell Phillips Academy High School</orgName>
+        <idno type="WD">Q7982462</idno>
+      </org>
+      <org xml:id="dbl_005_org_8">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_9">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_11">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_12">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_13">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_14">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_15">
+        <orgName>Wendell Phillips Academy High School</orgName>
+        <idno type="WD">Q7982462</idno>
+      </org>
+      <org xml:id="dbl_005_org_16">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_17">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_18">
+        <orgName>Morehouse College</orgName>
+        <idno type="WD">Q1524124</idno>
+      </org>
+      <org xml:id="dbl_005_org_19">
+        <orgName>Morehouse College</orgName>
+        <idno type="WD">Q1524124</idno>
+      </org>
+      <org xml:id="dbl_005_org_20">
+        <orgName>Morehouse College</orgName>
+        <idno type="WD">Q1524124</idno>
+      </org>
+      <org xml:id="dbl_005_org_21">
+        <orgName>Morehouse College</orgName>
+        <idno type="WD">Q1524124</idno>
+      </org>
+      <org xml:id="dbl_005_org_22">
+        <orgName>Morehouse College</orgName>
+        <idno type="WD">Q1524124</idno>
+      </org>
+      <org xml:id="dbl_005_org_23">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_24">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_25">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_26">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_27">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_28">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_29">
+        <orgName>Phillips Exeter Academy</orgName>
+        <idno type="WD">Q1426464</idno>
+      </org>
+      <org xml:id="dbl_005_org_30">
+        <orgName>Phillips Academy</orgName>
+        <idno type="WD">Q1432645</idno>
+      </org>
+      <org xml:id="dbl_005_org_31">
+        <orgName>Choate Rosemary Hall</orgName>
+        <idno type="WD">Q5103452</idno>
+      </org>
+      <org xml:id="dbl_005_org_32">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_34">
+        <orgName>William Jewett Tucker Foundation</orgName>
+        <idno type="WD">Q105660312</idno>
+      </org>
+      <org xml:id="dbl_005_org_35">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_36">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_37">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_38">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_39">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_40">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_41">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_42">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_43">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_44">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_45">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_46">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_47">
+        <orgName>Francis W. Parker School</orgName>
+        <idno type="WD">Q5482672</idno>
+      </org>
+      <org xml:id="dbl_005_org_48">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_49">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_50">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_51">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_52">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_53">
+        <orgName>Grinnell College</orgName>
+        <idno type="WD">Q2982991</idno>
+      </org>
+      <org xml:id="dbl_005_org_54">
+        <orgName>Carleton College</orgName>
+        <idno type="WD">Q1041671</idno>
+      </org>
+      <org xml:id="dbl_005_org_55">
+        <orgName>Grinnell College</orgName>
+        <idno type="WD">Q2982991</idno>
+      </org>
+      <org xml:id="dbl_005_org_56">
+        <orgName>Carleton College</orgName>
+        <idno type="WD">Q1041671</idno>
+      </org>
+      <org xml:id="dbl_005_org_57">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_58">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_59">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_60">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_61">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_62">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_63">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_64">
+        <orgName>Casque and Gauntlet</orgName>
+        <idno type="WD">Q5049130</idno>
+      </org>
+      <org xml:id="dbl_005_org_65">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_66">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_67">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_68">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_69">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_70">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_71">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_72">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_73">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_74">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_75">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_76">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_77">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_78">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_79">
+        <orgName>Mount Holyoke</orgName>
+        <idno type="WD">Q3321866</idno>
+      </org>
+      <org xml:id="dbl_005_org_80">
+        <orgName>Smith College</orgName>
+        <idno type="WD">Q49204</idno>
+      </org>
+      <org xml:id="dbl_005_org_81">
+        <orgName>Wellesley College</orgName>
+        <idno type="WD">Q49205</idno>
+      </org>
+      <org xml:id="dbl_005_org_82">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_83">
+        <orgName>Wellesley College</orgName>
+        <idno type="WD">Q49205</idno>
+      </org>
+      <org xml:id="dbl_005_org_84">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_85">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_86">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_87">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_88">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_89">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_90">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_91">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_92">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_94">
+        <orgName>Sigma Alpha Epsilon</orgName>
+        <idno type="WD">Q7512272</idno>
+      </org>
+      <org xml:id="dbl_005_org_95">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_96">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_97">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_98">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_99">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_100">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_101">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_102">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_103">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_107">
+        <orgName>Black Panther Party</orgName>
+        <idno type="WD">Q189150</idno>
+      </org>
+      <org xml:id="dbl_005_org_108">
+        <orgName>US Organization</orgName>
+        <idno type="WD">Q7875913</idno>
+      </org>
+      <org xml:id="dbl_005_org_109">
+        <orgName>Student Nonviolent Coordinating Committee</orgName>
+        <idno type="WD">Q127723</idno>
+      </org>
+      <org xml:id="dbl_005_org_110">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_117">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_118">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_119">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_120">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_121">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_122">
+        <orgName>NAACP</orgName>
+        <idno type="WD">Q502044</idno>
+      </org>
+      <org xml:id="dbl_005_org_123">
+        <orgName>Almighty Black P. Stone Nation</orgName>
+        <idno type="WD">Q880460</idno>
+      </org>
+      <org xml:id="dbl_005_org_124">
+        <orgName>Almighty Vice Lord Nation</orgName>
+        <idno type="WD">Q4347055</idno>
+      </org>
+      <org xml:id="dbl_005_org_125">
+        <orgName>Student Nonviolent Coordinating Committee</orgName>
+        <idno type="WD">Q127723</idno>
+      </org>
+      <org xml:id="dbl_005_org_126">
+        <orgName>Student Nonviolent Coordinating Committee</orgName>
+        <idno type="WD">Q127723</idno>
+      </org>
+      <org xml:id="dbl_005_org_127">
+        <orgName>Black Panther Party</orgName>
+        <idno type="WD">Q115247499</idno>
+      </org>
+      <org xml:id="dbl_005_org_128">
+        <orgName>Federal Bureau of Investigation</orgName>
+        <idno type="WD">Q8333</idno>
+      </org>
+      <org xml:id="dbl_005_org_129">
+        <orgName>Black Panther Party</orgName>
+        <idno type="WD">Q189150</idno>
+      </org>
+      <org xml:id="dbl_005_org_130">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_131">
+        <orgName>Columbia University</orgName>
+        <idno type="WD">Q49088</idno>
+      </org>
+      <org xml:id="dbl_005_org_132">
+        <orgName>Columbia University</orgName>
+        <idno type="WD">Q49088</idno>
+      </org>
+      <org xml:id="dbl_005_org_133">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_134">
+        <orgName>Category:Viet Cong</orgName>
+        <idno type="WD">Q10241974</idno>
+      </org>
+      <org xml:id="dbl_005_org_135">
+        <orgName>Category:Viet Cong</orgName>
+        <idno type="WD">Q10241974</idno>
+      </org>
+      <org xml:id="dbl_005_org_136">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_137">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_138">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_005_org_139">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dbl_005_org_140">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_141">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_142">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_143">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dbl_005_org_144">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dbl_005_org_145">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_146">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dbl_005_org_147">
+        <orgName>Massachusetts Institute of Technology</orgName>
+        <idno type="WD">Q49108</idno>
+      </org>
+      <org xml:id="dbl_005_org_148">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_149">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dbl_005_org_150">
+        <orgName>Dartmouth Foundation Years Program</orgName>
+        <idno type="WD">Q116410469</idno>
+      </org>
+      <org xml:id="dbl_005_org_151">
+        <orgName>Dartmouth Foundation Years Program</orgName>
+        <idno type="WD">Q116410469</idno>
+      </org>
+      <org xml:id="dbl_005_org_152">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_153">
+        <orgName>Dartmouth Foundation Years Program</orgName>
+        <idno type="WD">Q116410469</idno>
+      </org>
+      <org xml:id="dbl_005_org_154">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_155">
+        <orgName>Almighty Vice Lord Nation</orgName>
+        <idno type="WD">Q4347055</idno>
+      </org>
+      <org xml:id="dbl_005_org_156">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_157">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_158">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_159">
+        <orgName>Rhodes Scholarship</orgName>
+        <idno type="WD">Q1204346</idno>
+      </org>
+      <org xml:id="dbl_005_org_161">
+        <orgName>Rhodes Scholarship</orgName>
+        <idno type="WD">Q1204346</idno>
+      </org>
+      <org xml:id="dbl_005_org_162">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_163">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dbl_005_org_164">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dbl_005_org_165">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dbl_005_org_166">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dbl_005_org_167">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dbl_005_org_168">
+        <orgName>Harvard Law School</orgName>
+        <idno type="WD">Q49122</idno>
+      </org>
+      <org xml:id="dbl_005_org_169">
+        <orgName>Harvard Law School</orgName>
+        <idno type="WD">Q49122</idno>
+      </org>
+      <org xml:id="dbl_005_org_170">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dbl_005_org_171">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dbl_005_org_172">
+        <orgName>Georgetown University</orgName>
+        <idno type="WD">Q333886</idno>
+      </org>
+      <org xml:id="dbl_005_org_173">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dbl_005_org_174">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_175">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_176">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_177">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dbl_005_org_178">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dbl_005_org_179">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dbl_005_org_180">
+        <orgName>California Bar</orgName>
+        <idno type="WD">Q31528205</idno>
+      </org>
+      <org xml:id="dbl_005_org_181">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_182">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_183">
+        <orgName>A Better Chance</orgName>
+        <idno type="WD">Q25469497</idno>
+      </org>
+      <org xml:id="dbl_005_org_184">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_185">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_186">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_187">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_005_org_188">
+        <orgName>Dartmouth Black Lives</orgName>
+        <idno type="WD">Q114647391</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
