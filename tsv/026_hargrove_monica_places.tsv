@@ -1,174 +1,175 @@
 id	placeName	QID	dbl_id	coordinate location
-dbl_026_place_0	Berry Library	Q115184487		43.70564,-72.28871
-dbl_026_place_1	Hanover	Q131908		43.7,-72.28333333333333
-dbl_026_place_2	Washington, D.C.	Q61		38.895,-77.036666666667
-dbl_026_place_3	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_4	Chattanooga	Q186702		35.045555555556,-85.267222222222
-dbl_026_place_5	Georgia	Q1428		33,-83.5
-dbl_026_place_6	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_7	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_8	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_9	Chattanooga	Q186702		35.045555555556,-85.267222222222
-dbl_026_place_10	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_11	Georgia	Q1428		33,-83.5
-dbl_026_place_12	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_13	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_14	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_15	Chattanooga	Q186702		35.045555555556,-85.267222222222
-dbl_026_place_16	Chattanooga	Q186702		35.045555555556,-85.267222222222
-dbl_026_place_17	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_18	Philadelphia	Q1345		39.952777777778,-75.163611111111
-dbl_026_place_19	Connecticut	Q779		41.6,-72.7
-dbl_026_place_20	Tennessee State University	Q1782948		36.165874,-86.830337
-dbl_026_place_21	Washington, D.C.	Q61		38.895,-77.036666666667
-dbl_026_place_22	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_23	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_24	Hanover	Q131908		43.7,-72.28333333333333
-dbl_026_place_25	New Hampshire	Q759		44,-71.5
-dbl_026_place_26	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_27	Chattanooga	Q186702		35.045555555556,-85.267222222222
-dbl_026_place_28	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_29	North Carolina	Q1454		35.5,-80
-dbl_026_place_30	Georgia	Q1428		33,-83.5
-dbl_026_place_31	North Carolina	Q1454		35.5,-80
-dbl_026_place_32	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_33	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_34	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_35	Georgia	Q1428		33,-83.5
-dbl_026_place_36	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_37	Mississippi	Q1494		33,-90
-dbl_026_place_38	Mississippi	Q1494		33,-90
-dbl_026_place_39	Nicholson	Q732521		34.1147,-83.4294
-dbl_026_place_40	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_41	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_42	Clayton County	Q486150		33.54,-84.36
-dbl_026_place_43	Clayton County	Q486150		33.54,-84.36
-dbl_026_place_44	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_45	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_46	Jonesborough	Q1703404		36.294166666667,-82.4725
-dbl_026_place_47	Jonesboro	Q1703398		33.5244,-84.3542
-dbl_026_place_48	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_49	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_50	Collier Heights	Q5147163		33.771944,-84.483889
-dbl_026_place_51	Collier Heights	Q5147163		33.771944,-84.483889
-dbl_026_place_52	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_53	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_54	Georgia	Q1428		33,-83.5
-dbl_026_place_55	Georgia	Q1428		33,-83.5
-dbl_026_place_56	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_57	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_58	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_59	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_60	Clayton County	Q486150		33.54,-84.36
-dbl_026_place_61	Jonesborough	Q1703404		36.294166666667,-82.4725
-dbl_026_place_62	Jonesboro	Q1703398		33.5244,-84.3542
-dbl_026_place_63	Clayton County	Q486150		33.54,-84.36
-dbl_026_place_64	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_65	Clayton County	Q486150		33.54,-84.36
-dbl_026_place_66	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_67	Ann Arbor	Q485172		42.28138889,-83.74833333
-dbl_026_place_68	Washington, D.C.	Q61		38.895,-77.036666666667
-dbl_026_place_69	Michigan	Q1166		44.34,-85.58
-dbl_026_place_70	Georgia	Q1428		33,-83.5
-dbl_026_place_71	Alabama	Q173		32.7,-86.7
-dbl_026_place_72	Tennessee	Q1509		36,-86
-dbl_026_place_73	South Carolina	Q1456		34,-81
-dbl_026_place_74	North Carolina	Q1454		35.5,-80
-dbl_026_place_75	Texas	Q1439		31,-100
-dbl_026_place_76	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_77	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_78	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_79	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_80	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_81	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_82	Hanover	Q131908		43.7,-72.28333333333333
-dbl_026_place_83	Georgia	Q1428		33,-83.5
-dbl_026_place_84	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_85	New Hampshire	Q759		44,-71.5
-dbl_026_place_86	Class of 1982 Engineering and Computer Science Center	Q117516777		43.7037946,-72.2946593
-dbl_026_place_87	Connecticut	Q779		41.6,-72.7
-dbl_026_place_88	Connecticut	Q779		41.6,-72.7
-dbl_026_place_89	Class of 1982 Engineering and Computer Science Center	Q117516777		43.7037946,-72.2946593
-dbl_026_place_90	Georgia	Q1428		33,-83.5
-dbl_026_place_91	Georgia	Q1428		33,-83.5
-dbl_026_place_92	Georgia	Q1428		33,-83.5
-dbl_026_place_93	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_94	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_95	Georgia	Q1428		33,-83.5
-dbl_026_place_96	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_97	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_98	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_99	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_100	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_101	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_102	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_103	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_104	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_105	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_106	Georgia	Q1428		33,-83.5
-dbl_026_place_107	East Atlanta	Q5327753		33.74,-84.3455
-dbl_026_place_108	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_109	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_110	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_111	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_112	California	Q99		37,-120
-dbl_026_place_113	California	Q99		37,-120
-dbl_026_place_114	Oakland	Q17042		37.8,-122.25
-dbl_026_place_115	California	Q99		37,-120
-dbl_026_place_116	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_117	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_118	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_119	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_120	Commerce	Q2689380		34.2064,-83.4611
-dbl_026_place_121	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_122	Clayton County	Q486150		33.54,-84.36
-dbl_026_place_123	Hanover	Q131908		43.7,-72.28333333333333
-dbl_026_place_124	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_125	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_126	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
-dbl_026_place_127	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
-dbl_026_place_128	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
-dbl_026_place_129	Washington, D.C.	Q61		38.895,-77.036666666667
-dbl_026_place_130	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
-dbl_026_place_131	Upper Valley	Q105076900		43.6574776,-72.2814202
-dbl_026_place_132	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_133	Boston	Q100		42.360277777777775,-71.05777777777777
-dbl_026_place_134	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_135	Georgia	Q1428		33,-83.5
-dbl_026_place_136	John Cotton Dana Library	Q18749583		40.741811,-74.174963
-dbl_026_place_137	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_138	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_139	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_140	Georgia	Q1428		33,-83.5
-dbl_026_place_141	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_142	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_143	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_144	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_145	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_146	Choate Cluster	Q101445656		43.707306,-72.291034
-dbl_026_place_147	Chicago	Q1297		41.85003,-87.65005
-dbl_026_place_148	Brooklyn	Q18419		40.692777777778,-73.990277777778
-dbl_026_place_149	New York City	Q60		40.7,-74
-dbl_026_place_150	Pennsylvania	Q1400		41,-77.5
-dbl_026_place_151	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_152	Baker Library	Q115184517		43.70514,-72.28867
-dbl_026_place_153	Baker Library	Q115184517		43.70514,-72.28867
-dbl_026_place_154	Baker Library	Q115184517		43.70514,-72.28867
-dbl_026_place_155	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_156	Boston	Q100		42.360277777777775,-71.05777777777777
-dbl_026_place_157	Boston	Q100		42.360277777777775,-71.05777777777777
-dbl_026_place_158	Baker Library	Q115184517		43.70514,-72.28867
-dbl_026_place_159	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_160	France	Q142		47,2
-dbl_026_place_161	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_162	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_163	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_164	United States of America	Q30		39.828175,-98.5795
-dbl_026_place_165	South			
-dbl_026_place_166	Hanover	Q131908		43.7,-72.28333333333333
-dbl_026_place_167	Class of 1982 Engineering and Computer Science Center	Q117516777		43.7037946,-72.2946593
-dbl_026_place_168	Arlington County	Q107126		38.880277777778,-77.108333333333
+dbl_026_place_0	Berry Library	Q115184487		"43.70564,-72.28871"
+dbl_026_place_1	Hanover	Q131908		"43.7,-72.28333333333333"
+dbl_026_place_2	"Washington, D.C."	Q61		"38.895,-77.036666666667"
+dbl_026_place_3	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_4	Chattanooga	Q186702		"35.045555555556,-85.267222222222"
+dbl_026_place_5	Georgia	Q1428		"33,-83.5"
+dbl_026_place_6	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_7	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_8	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_9	Chattanooga	Q186702		"35.045555555556,-85.267222222222"
+dbl_026_place_10	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_11	Georgia	Q1428		"33,-83.5"
+dbl_026_place_12	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_13	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_14	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_15	Chattanooga	Q186702		"35.045555555556,-85.267222222222"
+dbl_026_place_16	Chattanooga	Q186702		"35.045555555556,-85.267222222222"
+dbl_026_place_17	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_18	Philadelphia	Q1345		"39.952777777778,-75.163611111111"
+dbl_026_place_19	Connecticut	Q779		"41.6,-72.7"
+dbl_026_place_20	Tennessee State University	Q1782948		"36.165874,-86.830337"
+dbl_026_place_21	"Washington, D.C."	Q61		"38.895,-77.036666666667"
+dbl_026_place_22	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_23	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_24	Hanover	Q131908		"43.7,-72.28333333333333"
+dbl_026_place_25	New Hampshire	Q759		"44,-71.5"
+dbl_026_place_26	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_27	Chattanooga	Q186702		"35.045555555556,-85.267222222222"
+dbl_026_place_28	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_29	North Carolina	Q1454		"35.5,-80"
+dbl_026_place_30	Georgia	Q1428		"33,-83.5"
+dbl_026_place_31	North Carolina	Q1454		"35.5,-80"
+dbl_026_place_32	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_33	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_34	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_35	Georgia	Q1428		"33,-83.5"
+dbl_026_place_36	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_37	Mississippi	Q1494		"33,-90"
+dbl_026_place_38	Mississippi	Q1494		"33,-90"
+dbl_026_place_39	Nicholson	Q732521		"34.1147,-83.4294"
+dbl_026_place_40	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_41	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_42	Clayton County	Q486150		"33.54,-84.36"
+dbl_026_place_43	Clayton County	Q486150		"33.54,-84.36"
+dbl_026_place_44	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_45	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_46	Jonesborough	Q1703404		"36.294166666667,-82.4725"
+dbl_026_place_47	Jonesboro	Q1703398		"33.5244,-84.3542"
+dbl_026_place_48	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_49	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_50	Collier Heights	Q5147163		"33.771944,-84.483889"
+dbl_026_place_51	Collier Heights	Q5147163		"33.771944,-84.483889"
+dbl_026_place_52	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_53	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_54	Georgia	Q1428		"33,-83.5"
+dbl_026_place_55	Georgia	Q1428		"33,-83.5"
+dbl_026_place_56	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_57	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_58	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_59	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_60	Clayton County	Q486150		"33.54,-84.36"
+dbl_026_place_61	Jonesborough	Q1703404		"36.294166666667,-82.4725"
+dbl_026_place_62	Jonesboro	Q1703398		"33.5244,-84.3542"
+dbl_026_place_63	Clayton County	Q486150		"33.54,-84.36"
+dbl_026_place_64	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_65	Clayton County	Q486150		"33.54,-84.36"
+dbl_026_place_66	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_67	Ann Arbor	Q485172		"42.28138889,-83.74833333"
+dbl_026_place_68	"Washington, D.C."	Q61		"38.895,-77.036666666667"
+dbl_026_place_69	Michigan	Q1166		"44.34,-85.58"
+dbl_026_place_70	Georgia	Q1428		"33,-83.5"
+dbl_026_place_71	Alabama	Q173		"32.7,-86.7"
+dbl_026_place_72	Tennessee	Q1509		"36,-86"
+dbl_026_place_73	South Carolina	Q1456		"34,-81"
+dbl_026_place_74	North Carolina	Q1454		"35.5,-80"
+dbl_026_place_75	Texas	Q1439		"31,-100"
+dbl_026_place_76	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_77	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_78	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_79	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_80	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_81	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_82	Hanover	Q131908		"43.7,-72.28333333333333"
+dbl_026_place_83	Georgia	Q1428		"33,-83.5"
+dbl_026_place_84	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_85	New Hampshire	Q759		"44,-71.5"
+dbl_026_place_86	Class of 1982 Engineering and Computer Science Center	Q117516777		"43.7037946,-72.2946593"
+dbl_026_place_87	Connecticut	Q779		"41.6,-72.7"
+dbl_026_place_88	Connecticut	Q779		"41.6,-72.7"
+dbl_026_place_89	Class of 1982 Engineering and Computer Science Center	Q117516777		"43.7037946,-72.2946593"
+dbl_026_place_90	Georgia	Q1428		"33,-83.5"
+dbl_026_place_91	Georgia	Q1428		"33,-83.5"
+dbl_026_place_92	Georgia	Q1428		"33,-83.5"
+dbl_026_place_93	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_94	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_95	Georgia	Q1428		"33,-83.5"
+dbl_026_place_96	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_97	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_98	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_99	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_100	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_101	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_102	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_103	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_104	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_105	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_106	Georgia	Q1428		"33,-83.5"
+dbl_026_place_107	East Atlanta	Q5327753		"33.74,-84.3455"
+dbl_026_place_108	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_109	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_110	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_111	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_112	California	Q99		"37,-120"
+dbl_026_place_113	California	Q99		"37,-120"
+dbl_026_place_114	Oakland	Q17042		"37.8,-122.25"
+dbl_026_place_115	California	Q99		"37,-120"
+dbl_026_place_116	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_117	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_118	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_119	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_120	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_121	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_122	Clayton County	Q486150		"33.54,-84.36"
+dbl_026_place_123	Hanover	Q131908		"43.7,-72.28333333333333"
+dbl_026_place_124	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_125	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_126	Hopkins Center for the Arts	Q3140375		"43.701666666667,-72.288611111111"
+dbl_026_place_127	Hopkins Center for the Arts	Q3140375		"43.701666666667,-72.288611111111"
+dbl_026_place_128	Hopkins Center for the Arts	Q3140375		"43.701666666667,-72.288611111111"
+dbl_026_place_129	"Washington, D.C."	Q61		"38.895,-77.036666666667"
+dbl_026_place_130	Hopkins Center for the Arts	Q3140375		"43.701666666667,-72.288611111111"
+dbl_026_place_131	Upper Valley	Q105076900		"43.6574776,-72.2814202"
+dbl_026_place_132	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_133	Boston	Q100		"42.360277777777775,-71.05777777777777"
+dbl_026_place_134	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_135	Georgia	Q1428		"33,-83.5"
+dbl_026_place_136	John Cotton Dana Library	Q18749583		"40.741811,-74.174963"
+dbl_026_place_137	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_138	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_139	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_140	Georgia	Q1428		"33,-83.5"
+dbl_026_place_141	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_142	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_143	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_144	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_145	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_146	Choate Cluster	Q101445656		"43.707306,-72.291034"
+dbl_026_place_147	Chicago	Q1297		"41.85003,-87.65005"
+dbl_026_place_148	Brooklyn	Q18419		"40.692777777778,-73.990277777778"
+dbl_026_place_149	New York City	Q60		"40.7,-74"
+dbl_026_place_150	Pennsylvania	Q1400		"41,-77.5"
+dbl_026_place_151	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_152	Baker Library	Q115184517		"43.70514,-72.28867"
+dbl_026_place_153	Baker Library	Q115184517		"43.70514,-72.28867"
+dbl_026_place_154	Baker Library	Q115184517		"43.70514,-72.28867"
+dbl_026_place_155	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_156	Boston	Q100		"42.360277777777775,-71.05777777777777"
+dbl_026_place_157	Boston	Q100		"42.360277777777775,-71.05777777777777"
+dbl_026_place_158	Baker Library	Q115184517		"43.70514,-72.28867"
+dbl_026_place_159	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_160	France	Q142		"47,2"
+dbl_026_place_161	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_162	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_163	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_164	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_place_166	Hanover	Q131908		"43.7,-72.28333333333333"
+dbl_026_place_167	Class of 1982 Engineering and Computer Science Center	Q117516777		"43.7037946,-72.2946593"
+dbl_026_place_168	Arlington County	Q107126		"38.880277777778,-77.108333333333"
 dbl_026_place_169	Zoom	Q94979732		
-dbl_026_place_170	Atlanta	Q23556		33.756944444444,-84.390277777778
-dbl_026_place_171	Hanover	Q131908		43.7,-72.28333333333333
-dbl_026_place_172	United States of America	Q30		39.828175,-98.5795
+dbl_026_place_170	Atlanta	Q23556		"33.756944444444,-84.390277777778"
+dbl_026_place_171	Hanover	Q131908		"43.7,-72.28333333333333"
+dbl_026_place_172	United States of America	Q30		"39.828175,-98.5795"
+dbl_026_plae_173	Commerce	Q2689380		"34.2064,-83.4611"
+dbl_026_place_174	Commerce	Q2689380		"34.2064,-83.4611"
