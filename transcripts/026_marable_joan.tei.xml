@@ -64,7 +64,7 @@
       <u who="BROWN">Yeah.</u>
       <u who="MARABLE">I’m <persName ref="#dbl_026_person_2">Joan Marable</persName>, I am <orgName ref="#dbl_026_org_2">class of ’76</orgName> at <orgName ref="#dbl_026_org_3">Dartmouth</orgName>—well, from <orgName ref="#dbl_026_org_4">Dartmouth</orgName>, and I’m speaking from <placeName ref="#dbl_026_place_1">Brooklyn, New York</placeName>, my home in <placeName ref="#dbl_026_place_2">Brooklyn</placeName>. </u>
       <u who="BROWN">Got it. So, we’re gonna start a little bit with your life before <orgName ref="#dbl_026_org_5">Dartmouth</orgName>, so can you tell me a little bit about where you grew up? </u>
-      <u who="MARABLE">Okay, I was born and raised in <placeName ref="#dbl_026_place_3">Boston, Massachusetts</placeName>. Where I grew up—so I lived in <persName ref="#dbl_026_person_3">Dorchester</persName>, which is, back then—<placeName ref="#dbl_026_place_4">Dorchester</placeName> and <placeName ref="#dbl_026_place_5">Roxbury</placeName> were the Black communities in <placeName ref="#dbl_026_place_6">Boston</placeName>, so that’s where I grew up. </u>
+      <u who="MARABLE">Okay, I was born and raised in <placeName ref="#dbl_026_place_3">Boston, Massachusetts</placeName>. Where I grew up—so I lived in <placeName ref="#dbl_026_place_43">Dorchester</placeName>, which is, back then—<placeName ref="#dbl_026_place_4">Dorchester</placeName> and <placeName ref="#dbl_026_place_5">Roxbury</placeName> were the Black communities in <placeName ref="#dbl_026_place_6">Boston</placeName>, so that’s where I grew up. </u>
       <u who="BROWN">So, I’m not very familiar with <placeName ref="#dbl_026_place_7">Boston</placeName>, but you said that <placeName ref="#dbl_026_place_8">Dorchester</placeName> was one of the Black communities. Outside of <placeName ref="#dbl_026_place_9">Boston</placeName> was there not a lot of—were there not a lot of other Black people around? </u>
       <u who="MARABLE">There were, it was just a major concentration, when you said you lived in <placeName ref="#dbl_026_place_10">Dorchester</placeName> or <placeName ref="#dbl_026_place_11">Roxbury</placeName>, especially <placeName ref="#dbl_026_place_12">Roxbury</placeName>, which is right next—well the boundaries were blurred, the assumption was that you were Black [laughter].</u>
       <u who="BROWN">Got it. </u>
@@ -282,6 +282,10 @@
       <place xml:id="dbl_026_place_42">
         <placeName>Hollywood</placeName>
       </place>
+      <place xml:id="dbl_026_place_43">
+        <placeName>Dorchester</placeName>
+      </place>
+      
     </listPlace>
     <listPerson>
       <person xml:id="dbl_026_person_0">
@@ -292,9 +296,6 @@
       </person>
       <person xml:id="dbl_026_person_2">
         <persName>Joan Marable</persName>
-      </person>
-      <person xml:id="dbl_026_person_3">
-        <persName>Dorchester</persName>
       </person>
       <person xml:id="dbl_026_person_4">
         <persName>Joan Nelson</persName>
