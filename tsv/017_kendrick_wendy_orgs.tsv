@@ -1,58 +1,55 @@
-id	orgName
-dbl_017_org_0	Latin American, Latino, and Caribbean House
-dbl_017_org_1	Dartmouth College
-dbl_017_org_2	the Dartmouth Black Lives
-dbl_017_org_3	Rockdale Temple
-dbl_017_org_4	Jet Magazine
-dbl_017_org_5	PBS
-dbl_017_org_6	The Living Arts Center
-dbl_017_org_7	Jefferson Township High School
-dbl_017_org_8	Alvin Ailey
-dbl_017_org_9	Kentucky State
-dbl_017_org_10	Kentucky State
-dbl_017_org_11	Kentucky State
-dbl_017_org_12	Dartmouth
-dbl_017_org_13	Dartmouth
-dbl_017_org_14	Wellesley
-dbl_017_org_15	Smith
-dbl_017_org_16	Radcliffe [Institute for Advanced Study]
-dbl_017_org_17	Dartmouth
-dbl_017_org_18	Dartmouth
-dbl_017_org_19	Dartmouth
-dbl_017_org_20	Dartmouth
-dbl_017_org_21	Dartmouth
-dbl_017_org_22	Dartmouth
-dbl_017_org_23	Bridge
-dbl_017_org_24	Bridge
-dbl_017_org_25	Bridge
-dbl_017_org_26	Bridge
-dbl_017_org_27	FYSEP
-dbl_017_org_28	First Year Summer Enrichment Program
-dbl_017_org_29	Dartmouth
-dbl_017_org_30	Dartmouth
-dbl_017_org_31	Lydia
-dbl_017_org_32	Viola
-dbl_017_org_33	Viola
-dbl_017_org_34	Bridge
-dbl_017_org_35	the Supreme Court
-dbl_017_org_36	Dartmouth
-dbl_017_org_37	PBS
-dbl_017_org_38	Dartmouth
-dbl_017_org_39	Dartmouth
-dbl_017_org_40	Dartmouth
-dbl_017_org_41	Dartmouth
-dbl_017_org_42	Dartmouth
-dbl_017_org_43	the U.S. State Department
-dbl_017_org_44	Dartmouth
-dbl_017_org_45	Peace Corps
-dbl_017_org_46	the Shabazz Center for Intellectual Inquiry
-dbl_017_org_47	Delta Sigma Theta
-dbl_017_org_48	BADA
-dbl_017_org_49	AM,the Afr[ican] Am[erican Society] 
-dbl_017_org_50	Dartmouth
-dbl_017_org_51	Ivy League
-dbl_017_org_52	Deltas
-dbl_017_org_53	Shabazz
-dbl_017_org_54	Dartmouth
-dbl_017_org_55	CCAD
-dbl_017_org_56	the Columbus College of Art and Design
+id	orgName	QID	dbl_id
+dbl_017_org_0	Latin American, Latino, and Caribbean House	Q116593758	
+dbl_017_org_1	Dartmouth College	Q49116	
+dbl_017_org_2	Dartmouth Black Lives	Q114647391	
+dbl_017_org_3	Rockdale Temple	Q7355026	
+dbl_017_org_4	Jet	Q3177768	
+dbl_017_org_5	PBS	Q215616	
+dbl_017_org_6	Living Arts Center	Q116593538	
+dbl_017_org_7	Jefferson Township High School	Q6175691	
+dbl_017_org_8	Alvin Ailey	Q449037	
+dbl_017_org_9	Kentucky State University	Q1187623	
+dbl_017_org_10	Kentucky State University	Q1187623	
+dbl_017_org_11	Kentucky State University	Q1187623	
+dbl_017_org_12	Dartmouth College	Q49116	
+dbl_017_org_13	Dartmouth College	Q49116	
+dbl_017_org_14	Wellesley College	Q49205	
+dbl_017_org_15	Smith College	Q49204	
+dbl_017_org_16	Radcliffe Institute for Advanced Study	Q7280030	
+dbl_017_org_17	Dartmouth College	Q49116	
+dbl_017_org_18	Dartmouth College	Q49116	
+dbl_017_org_19	Dartmouth College	Q49116	
+dbl_017_org_20	Dartmouth College	Q49116	
+dbl_017_org_21	Dartmouth College	Q49116	
+dbl_017_org_22	Dartmouth College	Q49116	
+dbl_017_org_23	Bridge Program	Q118610714	
+dbl_017_org_24	Bridge Program	Q118610714	
+dbl_017_org_25	Bridge Program	Q118610714	
+dbl_017_org_26	Bridge Program	Q118610714	
+dbl_017_org_27	First-Year Summer Enrichment Program	Q116593447	
+dbl_017_org_28	First-Year Summer Enrichment Program	Q116593447	
+dbl_017_org_29	Dartmouth College	Q49116	
+dbl_017_org_30	Dartmouth College	Q49116	
+dbl_017_org_34	Bridge Program	Q118610714	
+dbl_017_org_35	The Supreme Court	Q55025499	
+dbl_017_org_36	Dartmouth College	Q49116	
+dbl_017_org_37	PBS	Q215616	
+dbl_017_org_38	Dartmouth College	Q49116	
+dbl_017_org_39	Dartmouth College	Q49116	
+dbl_017_org_40	Dartmouth College	Q49116	
+dbl_017_org_41	Dartmouth College	Q49116	
+dbl_017_org_42	Dartmouth College	Q49116	
+dbl_017_org_43	United States Department of State	Q789915	
+dbl_017_org_44	Dartmouth College	Q49116	
+dbl_017_org_45	Peace Corps	Q458620	
+dbl_017_org_46	El-Hajj Malik El-Shabazz Center	Q104931609	
+dbl_017_org_47	Delta Sigma Theta	Q5254747	
+dbl_017_org_48	Black Alumni of Dartmouth Association	Q117514486	
+dbl_017_org_49	Afro-American Society	Q114879775	
+dbl_017_org_50	Dartmouth College	Q49116	
+dbl_017_org_51	Ivy League	Q49113	
+dbl_017_org_52	Delta Sigma Theta	Q5254747	
+dbl_017_org_53	El-Hajj Malik El-Shabazz Center	Q104931609	
+dbl_017_org_54	Dartmouth College	Q49116	
+dbl_017_org_55	Columbus College of Art and Design	Q5150026	
+dbl_017_org_56	Columbus College of Art and Design	Q5150026	
