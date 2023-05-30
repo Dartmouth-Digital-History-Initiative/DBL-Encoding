@@ -1,0 +1,2272 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dbl_026">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Monica Hargrove</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Black Lives</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dbl_026</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="02:16:40">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/hargrove_monica/hargrove_monica.mp3" mimeType="video/mp4"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Kiara Cannon</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/hargrove_monica/hargrove_monica_transcript_final.pdf">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Dartmouth Black Lives</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="CANNON"/>
+        <person xml:id="HARGROVE"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2021-11-05"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="CANNON">Okay. Hello, my name is <persName ref="#dbl_026_person_0">Kiara Cannon</persName> and I am at <placeName ref="#dbl_026_place_0">Berry library</placeName> in <placeName ref="#dbl_026_place_1">Hanover, New Hampshire</placeName>. And I am doing a zoom interview with <persName ref="#dbl_026_person_1">Monica Hargrove</persName>, who is in <placeName ref="#dbl_026_place_2">Washington, DC</placeName>. Today is <date when="2021-11-05">November 5th, 2021</date> and this is an interview for the <orgName ref="#dbl_026_org_0">Dartmouth Black Lives Oral History Project</orgName>. Hello, <persName ref="#dbl_026_person_2">Monica</persName>. Thank you for joining me today.</u>
+      <u who="HARGROVE">Hi <persName ref="#dbl_026_person_3">Kiara</persName>. The pleasure is mine. </u>
+      <u who="CANNON">First I'd like to learn a little bit about your childhood. Can you please state when and where you were born? </u>
+      <u who="HARGROVE">I was born in <placeName ref="#dbl_026_place_3">Atlanta, Georgia</placeName> on <date when="1955-02-07">February 7, 1955</date>. </u>
+      <u who="CANNON">Can you tell me the names of your parents? </u>
+      <u who="HARGROVE">My parents are both deceased and they are the late <persName ref="#dbl_026_person_4">Betty Forston Hargrove</persName> from <placeName ref="#dbl_026_place_4">Chattanooga, Tennessee</placeName> and my father was the late <persName ref="#dbl_026_person_5">Ernest Cropper Hargrove</persName>. </u>
+      <u who="CANNON">Could you please tell me where your father's from? </u>
+      <u who="HARGROVE">My father's from a little town in <placeName ref="#dbl_026_place_5">Georgia</placeName> called <placeName ref="#dbl_026_place_6">Commerce, Georgia</placeName>. He was one of seven children born to <persName ref="#dbl_026_person_6">Blanche</persName> and <persName ref="#dbl_026_person_7">Conyers Hargrove</persName> in <placeName ref="#dbl_026_place_7">Commerce, Georgia</placeName>. </u>
+      <u who="CANNON">What was it like growing up in <placeName ref="#dbl_026_place_8">Commerce, Georgia</placeName> and in <placeName ref="#dbl_026_place_9">Chattanooga, Tennessee</placeName> for your parents, respectively? Yeah. </u>
+      <u who="HARGROVE">That's a good question. Both of my parents had interesting and different backgrounds. My father's family was largely a family of farmers. They owned some farm land and <placeName ref="#dbl_026_place_10">Commerce, Georgia</placeName>, they had grown up in more rural parts of <placeName ref="#dbl_026_place_11">Georgia</placeName> outside <orgName ref="#dbl_026_org_1">Commerce</orgName>. <placeName ref="#dbl_026_place_12">Commerce</placeName> was the largest nearby city or town. And they have been sharecroppers for a number of years prior to coming to own their own land and to be able to farm. My grandfather also became an employee of a local hospital in <placeName ref="#dbl_026_place_13">Commerce</placeName>. And my grandmother was a domestic worker in <placeName ref="#dbl_026_place_14">Commerce</placeName>. But before she and my grandfather started to work in other places, they own their own farmland and farm. They raised animals as well as vegetables. My mother was from <placeName ref="#dbl_026_place_15">Chattanooga, Tennessee</placeName>. She was one of nine siblings. She was the oldest girl of nine siblings. And it was always her dream to become a nurse. So she left <placeName ref="#dbl_026_place_16">Chattanooga, Tennessee</placeName> to go to <orgName ref="#dbl_026_org_2">Grady Nursing School</orgName> in <placeName ref="#dbl_026_place_17">Atlanta, Georgia</placeName>. And she had as a goal to become a registered nurse and she met many other young black women similar to her who had a dream of becoming nurses. They were from many different cities, largely throughout the south, but some as far away as <placeName ref="#dbl_026_place_18">Philadelphia</placeName>. And somebody one of her classmates was from someplace in <placeName ref="#dbl_026_place_19">Connecticut</placeName>. They became very close, almost like family. And they were all successful in their career, dreams and that they all became registered nurses, and excelled in the field. They all achieved some significant things beyond being nurses. My mother's first started in an emergency room of a hospital. She laid it later became a visiting nurse. She later entered into the director of nursing services at a nursing home and ultimately became the administrator of that nursing home. Very proud of the accomplishments of my parents, given the time period during which they lived. And their dreams to, you know, live beyond their-- the way they grew up and the knowledge of the way their parents lived. They both had dreams of becoming well-educated and being able to take care of themselves and their families. They were successful in that regard.</u>
+      <u who="CANNON">Thank you so much for telling me, specifically about your experience—or your perspective and your inspiration through your parents’ work ethic and also I'm very interested in thinking about were-- who did you look up to as a child? Were your parents your role models? Or, specifically because you described your mother having a very large friend group of black women — of women in her nursing school? What were your role models and who did you look up to as a child? </u>
+      <u who="HARGROVE">I looked up to my parents, and to their siblings, my aunts, and uncles. They all had dreams of doing better than the parents that brought them as far as they had come. They looked up to their parents, because their parents instilled faith in them. Faith in themselves. Faith in the God, whom we all grew up to believe in and to look up to, and to understand what his as — what his expectations of us were. And both of my families had really good role models in them in terms of aunts and uncles who also achieved and excelled. During that time period, there were not opportunities for African Americans to attend predominantly white schools. So they attended colleges that were historically black colleges, or they attended other learning institutions like the nursing school where they could obtain the training that they needed to pursue their dreams. And even though it seems that in some parts of our society now, youth of today, don't dream of a better world and have aspirations to excel beyond what they were exposed to. During my era, we all had strong aspirations of doing things that our parents may never have dreamed of. And in my family, my parents fed that and encourage that, and helped us to believe in ourselves and taught us that there was nothing impossible if we didn't work hard at it. That we could become what we desire to become in life. And we could attend any college that we wanted to attend, if we worked hard, and that they would support us in those initiatives.So my father had-- there were seven kids in his family. And even though my grandfather worked at a hospital and they own their own farm, and my grandmother was a domestic worker; my grandmother had a very strong belief in the importance of education. She thought that all seven of her children should go to college. All seven of her children went to college. Several of them attain graduate degrees, including my father, my father attended <orgName ref="#dbl_026_org_3">Morehouse College</orgName> and graduated with a master's from <orgName ref="#dbl_026_org_4">Atlanta University</orgName>. Only my father's brother did not graduate from college. He attended <orgName ref="#dbl_026_org_5">Tennessee State</orgName> and decided that in his last term that he was just tired and wanted to do something different. He was the only one who didn't finish and he was that close to finishing and it was just not his desire to complete that path. But all of my father's sisters—and there were only two boys, my dad and his brother—all of them attended college and several of them attained graduate degrees.Similarly, in my mother's family, her brothers and sisters, most of them attended college and in both families in my dad's family, as well as in my mother's family, most of them were educators. My mother and the sister next to her both became registered nurses. But the other sisters, three of the other four sisters, ended up becoming teachers and getting advanced degrees, graduating from college with degrees in education. One sister taught French and so she had an undergraduate degree in French, but they all excelled. My mother's youngest brother attended <placeName ref="#dbl_026_place_20">Tennessee State</placeName> with a degree in engineering, moved to <placeName ref="#dbl_026_place_21">Washington DC</placeName> and worked for the government until he retired in the engineering field, and her other two brothers both went into the service and came out and worked. Neither of them attended college, but they were successful in the fields in which they were employed. So in both my mother's family as well as my father's family, there was a intense respect for the importance of becoming educated and studying to get ahead and making the most of yourself and believing in who you could become and how you could make a positive contribution to society and a strong work ethic as well as a strong ethic in spiritual gifts and knowledge of God.We were raised in the Christian Church, as Methodists. And you know, church was a very important part, feeling a strong self- concept and a belief in us being able to do anything that we wanted to do. Other role models in my family. On my father's side, I would be reticent not to mention that my father's — one of my father's sisters, had a daughter, who was five years older than me. She was a scholar, and a really good role model. She was like a sister, big sister to me. And she had attended college, I mean high school in <placeName ref="#dbl_026_place_22">Atlanta</placeName>,and was one of four valedictorians who graduated with a 4.0. average in college. And she and her classmates, many of whom I got to know very well — decided that they would not just be satisfied with going to the historically black colleges that we had only been able to go to in mass during the late 60s and early 70s. And prior to that time that they were going to go to other schools in New England. So she attended <orgName ref="#dbl_026_org_6">Mount Holyoke College</orgName>, and which was, as you know, a sister school to <orgName ref="#dbl_026_org_7">Dartmouth</orgName>, in a sense. And she met the late <persName ref="#dbl_026_person_8">Oliver Lee</persName>, who was her who became her husband. He graduated in the class of <date when="1972">'72</date>, at <orgName ref="#dbl_026_org_8">Dartmouth</orgName>, and I met some of his friends through her. I was in their wedding and, you know, visited them a lot. And learned about <orgName ref="#dbl_026_org_9">Dartmouth</orgName> from <persName ref="#dbl_026_person_9">Oliver Lee</persName> and was very impressed with what he shared of his experiences there, and with the character and quality of education that they shared with me, based on their experiences. And so I became interested in attending predominantly white schools outside of <placeName ref="#dbl_026_place_23">Atlanta, Georgia</placeName>, with all of those rich, historically black colleges right there in town. I went all the way to <placeName ref="#dbl_026_place_24">Hanover</placeName>, <placeName ref="#dbl_026_place_25">New Hampshire</placeName>, to further my education after graduating from high school in <placeName ref="#dbl_026_place_26">Atlanta</placeName>. That was a long answer, but I had to talk about the influence of my cousin <persName ref="#dbl_026_person_10">Gloria Lee</persName>, <persName ref="#dbl_026_person_11">Gloria Harper Lee</persName>, in terms of helping me see my educational opportunities much broader than I would have understood without having come in contact with her friends, and her fiancé and his friends.</u>
+      <u who="CANNON">No, thank you so much for the explanation and contextualizing your connected introduction to <orgName ref="#dbl_026_org_10">Dartmouth</orgName>. From what you were describing, throughout your childhood and your adolescent years, I'm hearing that you had a very strong support system, whether it had been — whether it was people or resources — not necessarily resources, but people to look up to. The resource being dreams and inspiration, and also this reverence and striving for education. And within that support system that goes to your parents and also your grandparents. And I guess to back up slightly, I wanted to know or want to ask if you had any particular experiences or any memories of where your grandparents grew up, or memories with your grandparents and how that influenced not only your educational experience, but also your outlook on life and what you could achieve in the world. </u>
+      <u who="HARGROVE">Yes, I had great experiences and I have great memories of my grandparents, especially my paternal grandparents. Unfortunately, my maternal grandfather died prior to my birth, so I never met him. And my maternal grandmother died when I was in second or third grade. I remember when she had a massive heart attack and my dad will be up early that morning to say that my mother had traveled to <placeName ref="#dbl_026_place_27">Chattanooga</placeName> with her sister ,who lived in <placeName ref="#dbl_026_place_28">Atlanta</placeName> that was also a nurse — to check on grandmother because she had had a serious illness during the wee hours of the morning. And so, but I still remember, <persName ref="#dbl_026_person_12">Grandma Sallie Mae Forston</persName>. And I always treasure her for being able to raise her kids, notwithstanding her husband's early death, and for being able to encourage them to pursue their education and to believe in themselves. And to accomplish as much as she did as a single mother in raising those kids and instilling such a strong self-concept that I witnessed firsthand through my own mother.My paternal grandparents grew up in <placeName ref="#dbl_026_place_29">North Carolina</placeName>, I don't know exactly how my mom and granddaddy met. I know they were fairly young, and they came to <placeName ref="#dbl_026_place_30">Georgia</placeName> after having grown up and married in <placeName ref="#dbl_026_place_31">North Carolina</placeName>. And I remember going to <placeName ref="#dbl_026_place_32">Commerce</placeName> frequently to visit my grandparents because <placeName ref="#dbl_026_place_33">Commerce</placeName> was about 60 miles or so from <placeName ref="#dbl_026_place_34">Atlanta</placeName>. It's sort of a place on the <placeName ref="#dbl_026_place_35">Georgia</placeName> map now because I don't know whether it still is. But by the time I left to go to college, <placeName ref="#dbl_026_place_36">Commerce</placeName> had become a stop for a lot of people passing through the south en route to other places. There were lots of restaurants. There was a lot of shopping opportunity, I guess they had what we call modern day outlet malls there, which none of that was there when I was growing up. But it became a place on the map.When I was growing up, my fondest memories with my grandparents were every summer my brother — I have one brother who also is a graduate of <orgName ref="#dbl_026_org_11">Dartmouth</orgName>. You would say — you might say he followed his big sister’s footprints. His name is <persName ref="#dbl_026_person_13">Ernest Hargrove, Jr.</persName>, named after my father. Class of <date when="1980">1980</date>. Anyway, my grandparents were very loving, and they loved their grandchildren. And my brother and I were able to spend summers visiting my grandparents. And they — they were still working at that time. And we had an aunt who lived in <placeName ref="#dbl_026_place_37">Mississippi</placeName> who did not have children, and she would come. She was married to a minister in <placeName ref="#dbl_026_place_38">Mississippi</placeName>. So during the summer — she was at a school — she was not teaching so she would come to spend the summers visiting her parents, my grandparents, and Aunt K loved for my brother and I to come and spend at least two weeks — if not more, preferably, as long as she was in town, she'd like to be our surrogate mom. So my mom and dad got a little break while my brother and I went to visit my grandparents and my aunt and we had another aunt, my dad's oldest sister, lived in a little town called <placeName ref="#dbl_026_place_39">Nicholson, Georgia</placeName>, and she would come up with activities for us so that we wouldn't be wasting time and just, you know, not productive during the summer months. She, too, was a school teacher and there were camps for kids our age at her at her school. They had summer camps. So we would stay with my grandparents at their house but we would have day camp to attend every day. And Aunt K would make sure that, you know, we got a good night's sleep that we had breakfast before we left for camp and that we got to the bus stop in time to get picked up to go to camp, and then Aunt Ruthie would beat the camp to make sure we didn't do anything wrong and we didn't get into any trouble. And then we come back after a full day of camp and spend time with my grandparents and my aunt.My grandmother was a great cook and my grandfather was funny. He had he saved up jokes for us. So whenever we came down, he had brand new jokes that he saved just for me and my brother. He saved old coins for us and he asked us questions that we should know the answers to. And if we answered the questions right, some of them were history questions, some of them were, you know, questions that you should have learned in school this year. Just to test us, and then we would be beneficiaries of his half dollar, dime, Buffalo nickels. He will reward us — and pennies. And he was he was a delight. And he — as much of an interest as we showed in gardening or farming, he would teach us things about the garden and about the vegetables, and about the livestock on the farm. And my grandmother tried to teach me to cook — my son tells me all the time, "Mom, it's a shame you had all those great cooks in your family and you didn't learn how to make homemade biscuits or buttermilk gravy or any of that stuff. But grandmama tried. I was never really at domestic type. I've never really took a strong interest. And even though she took the time to try to teach me some of her tricks in the kitchen, I didn’t — I confess, I was not a very good student in that realm, but they loved us.They taught us right from wrong. They were very spiritual church- going people. So when we went there, in the summer, we went to church, if there was a vacation Bible school, not only do we do summer camp, we did Vacation Bible School at church. We were regulars every summer. So we had our summer friends down in <placeName ref="#dbl_026_place_40">Commerce</placeName>. And as soon as they saw my dad's car drive up, they knew we were there. And the yard was full of kids who enjoyed playing baseball and, and we played pick-up-sticks and <persName ref="#dbl_026_person_14">Jack</persName> stones. Before board games became very popular, although we played checkers, and chess and some other board games. But yeah, those are my memories of my grandparents. And I learned a lot from each of them. They were always there to encourage us. To teach us right from wrong. To tell us, you know, when we've done a good job, or when we could improve and to reward us for a job well done, although we didn't do a good job just for the reward, but they always had a reward for us, as well.</u>
+      <u who="CANNON">Thank you for giving details about your relationship with your grandparents. Through your words, I just feel the love and I also feel the nurturing and also just the support to have that — just to have that stable foundation, to build your education off of but also to build your social skills, your relationship with God. Those are amazing things to have that can't necessarily be found within the education system. </u>
+      <u who="HARGROVE">Yes, they are super education. Things are components that you don't realize the value of them until you look back and think about them. And just these questions. The questions that you've raised have reminded me of how much inspiration and how much self- esteem I developed. Because I knew that my family loved me. Because I knew that they cared about where I was headed and where I'd already been, where I might go. And they had such strong faith in me as a person and it wasn't just me, it was in, you know, all of their grandchildren and all of the people that they love. They were just really good people. </u>
+      <u who="CANNON">Thank you for sharing that. I currently want to move a little further in the timeline towards your adolescence, or more so, your high school age. I know that you attended <orgName ref="#dbl_026_org_12">Douglass High School</orgName> and I just want to hear more about that time period, and also the events that surrounded that time period, I guess, contextualizing moments for your coming of age. </u>
+      <u who="HARGROVE">Yeah, a lot happened during my high school years. One of the things that I didn't mention is that when I attended elementary school, I attended grammar school, not in the <placeName ref="#dbl_026_place_41">Atlanta</placeName> Public School System but in <placeName ref="#dbl_026_place_42">Clayton County, Georgia</placeName>. My father was a school teacher in <placeName ref="#dbl_026_place_43">Clayton County, Georgia</placeName>. And so I didn't attend elementary school with kids that grew up from my environment, because I grew up in <placeName ref="#dbl_026_place_44">Atlanta</placeName>. So when I attended high school, I was withdrawing from people that I had grown up with since first grade and moving toward making new friends in a large city in which I had grown, but in which I had not really gone through the educational process, or developed friendships, except for some summer camp experiences and some experiences with people that I knew from church. Not like, you know, going to elementary school with kids that live in your neighborhood. So when I came to <placeName ref="#dbl_026_place_45">Atlanta</placeName> to attend college, I'm sorry to attend high school, I was thrown into a very new educational environment with people that I didn't know. And I had excelled in elementary school, and I was a perfectionist. My parents were concerned that I was gonna have a nervous breakdown because if I misspelled one word on the spelling test, I'd beat myself up because I didn't make 100, I only got 98. And that strong drive to do well, and to excel was not something that I was taught or that I could trace to either parent. It was just inherent in me from the beginning. And my brother and I were very different in that, he didn't have that kind of drive for perfectionism. He wanted to do well, and he wanted to excel. But he didn't go to the extreme that I did. But I — and there was some concern about whether I would adjust in the new environment because in some ways I was somewhat quiet and — not a loner, but I am more of an introvert than an extrovert. So I learned and what was important to me, was based on what I consider important and what I wanted to learn more about, it wasn't just about how popular it was with the other kids in the — in the class.So I left <placeName ref="#dbl_026_place_46">Jonesborough</placeName> — <orgName ref="#dbl_026_org_13">JW Arnold Elementary School</orgName> in <placeName ref="#dbl_026_place_47">Jonesboro, Georgia</placeName>, and came to <placeName ref="#dbl_026_place_48">Atlanta</placeName> during a time when the civil rights movement was underway. During a time when there was a tremendous growth going on in the African American community in terms of middle income, lower middle income to middle income families moving to the suburbs in <placeName ref="#dbl_026_place_49">Atlanta</placeName> and into homes of their own — not in projects and apartments — into new neighborhoods that were evolving. I was living in the <placeName ref="#dbl_026_place_50">Collier Heights</placeName> area, which was a new neighborhood for African Americans. And there were so many kids that it was necessary to build new school systems. In fact, when I started eighth grade, I started at — um what's the name of the high school. Hm — I just had a memory lapse. Before I went to Douglass I went to another high school in <placeName ref="#dbl_026_place_51">Collier Heights</placeName> that had so many students enrolled there that they went on double session and so in eighth grade, I reported to school at 12 Noon. I was there until four o'clock in the afternoon, because there were not sufficient classes or teachers at my high school's name I can't remember right now — to house all of us. And I got to know and that probably was a blessing in disguise because there were so many kids at that school. And I've always been vertically challenged, so I was very, very young looking and did not look like a high school student when I entered eighth grade or ninth grade for that matter. And just the number of, you know, basketball players and football players and cheerleaders. It could have been pretty overwhelming for me, but because the eighth and ninth graders had the school to themselves, from 12, noon to four, and the upperclassmen were there, I think, from eight to 12, or something like that. It was it was a more controlled environment and our classes weren't overcrowded because they split the sizes of the class. They made the class sizes reasonable. I was able to make lots of friends notwithstanding the fact that I had come from a totally different school system, and a lot of the kids there had gone elementary school with some kids in their classes. Everybody that that met there was new. But it was a great opportunity. I excel in eighth grade and made lots of friends. And then the next year, <orgName ref="#dbl_026_org_14">Douglass High School</orgName> was built. And it was right down the street from where I lived. So I could actually walk to school from my house. And I enrolled at <orgName ref="#dbl_026_org_15">Douglass</orgName> from ninth grade and graduated from <orgName ref="#dbl_026_org_16">Douglass</orgName> in 12th grade. And some of my friends who were at <orgName ref="#dbl_026_org_17">Harper High School</orgName> finally came back to me who attended <orgName ref="#dbl_026_org_18">Harbor High School</orgName> with me, <orgName ref="#dbl_026_org_19">Charles L Harper High School</orgName>, left <orgName ref="#dbl_026_org_20">Harper</orgName> to come to <orgName ref="#dbl_026_org_21">Douglass</orgName>. So there was some continuity. And then there were other, you know, students who came to <orgName ref="#dbl_026_org_22">Douglas</orgName> from other schools as well. So again, it was a mixed bag and, you know, a lot of people were meeting new people, which made it easier for me to make the transition from coming from <orgName ref="#dbl_026_org_23">Clayton County Public School</orgName> to <orgName ref="#dbl_026_org_24">Atlanta City Public School</orgName>.And during that time period, the civil rights movement was strong. I remember <persName ref="#dbl_026_person_15">Martin Luther King, Jr.</persName> and his speeches. I remember <persName ref="#dbl_026_person_16">Ralph Abernathy</persName>, I remember the <orgName ref="#dbl_026_org_25">Student Nonviolent Coordinating Commission (SNCC)</orgName>. I remember <persName ref="#dbl_026_person_17">Julian Bond</persName>. There was a lot of political growth among black leaders in the city of <placeName ref="#dbl_026_place_52">Atlanta</placeName>. And even though, you know, <persName ref="#dbl_026_person_18">Lester Maddox</persName> was governor at one point. So much about the city of <placeName ref="#dbl_026_place_53">Atlanta</placeName> was not like the state of <placeName ref="#dbl_026_place_54">Georgia</placeName> and during that same time period, or shortly after that, because I guess it was right before I went to law school, and actually, <persName ref="#dbl_026_person_19">Jimmy Carter</persName> was elected president. But I just saw great transformation in the racial profile of <placeName ref="#dbl_026_place_55">Georgia</placeName>, but especially in <placeName ref="#dbl_026_place_56">Atlanta</placeName>. And so I grew up during a time where I really believed in African American people. We called ourselves black Americans during that time period, I grew up during a period where, you know, "I'm black, and I'm proud" was strongly professed. It wasn't radical, but it was a great coming of age and a great learning opportunity for us as a people to understand that we could take great pride in ourselves, that we could be great contributors to <placeName ref="#dbl_026_place_57">America</placeName>, that we could make conditions better for the next generation than we found them. That our parents and grandparents had done a great job notwithstanding all the cards being turned against them. That they have come a long way and that we could take things to the next level. And the death of <persName ref="#dbl_026_person_20">Martin Luther King Jr.</persName>, the assassination of <persName ref="#dbl_026_person_21">Dr. King</persName>, the assassination of <persName ref="#dbl_026_person_22">John Kennedy</persName>, I'll never forget that. And of <persName ref="#dbl_026_person_23">Bobby</persName>, all of those things stand out in my mind as great disruptors by fate in <placeName ref="#dbl_026_place_58">America</placeName> and our ability to live up to — to our creeds to the values that the Founding Fathers had to <persName ref="#dbl_026_person_24">Abraham Lincoln</persName>'s writing, you know and aspirations that, you know, we would bring an end into the division by making my people, black people, real people, and not just chattel. That we would be free, and that we would be able to be partakers in all that <placeName ref="#dbl_026_place_59">America</placeName> had to offer. I really wanted to believe that, but those were tremendous setbacks for me. And caused me to think that, that I had something to contribute to ensure that those dreams of our fore parents were fulfilled, and that I would contribute in some way to ensuring that we didn't go back to a divided segregated society.Because when I grew up as a little girl, and I attended school in <placeName ref="#dbl_026_place_60">Clayton County</placeName>, those schools were segregated. We had black schools, and we had white schools. And, you know, the school that my dad taught at was an all-black school. In fact, the first name of that school was <placeName ref="#dbl_026_place_61">Jonesborough</placeName> colored school. And then it was subsequently named after a pioneering African American in <placeName ref="#dbl_026_place_62">Jonesboro</placeName>, whose name was <persName ref="#dbl_026_person_25">JW Arnold</persName>, and it was it was <orgName ref="#dbl_026_org_26">JW Arnold Elementary School</orgName>. And then when they decided to integrate the school system in <placeName ref="#dbl_026_place_63">Clayton County</placeName>, they basically closed the black schools, told all the black kids they would go to the white schools,integrated the faculties and all the white school, demolished the black schools. And, and so my friends that I went to elementary school with, did not move to <placeName ref="#dbl_026_place_64">Atlanta</placeName> and attend predominantly black or integrated schools where their race was in the majority. They — they some of them did not achieve their dreams because they didn't enjoy the continued support that they had at the segregated black schools where they had teachers and principals and parents and supporters of <orgName ref="#dbl_026_org_27">JW Arnold school</orgName> who believed in them who believed in what they could accomplish, who supported their training some of them lost that support and did not become who they would have become in the segregated black schools where they had teachers and principals, and parents and supporters of <orgName ref="#dbl_026_org_28">JW Arnold school</orgName> who believed in them who believed in what they could accomplish, who supported their dreams, some of them lost that support, and did not become who they would have become in the segregated, but not equal black schools in <placeName ref="#dbl_026_place_65">Clayton County</placeName>.So those, those are my memories of my childhood, my coming of age, the political factors, the realities of life in <placeName ref="#dbl_026_place_66">America</placeName>, that hit me hard. That persuaded me that I had to work that much harder, that told me I could dare to go to <orgName ref="#dbl_026_org_29">Dartmouth College</orgName> and excel, that I could dare to go to law school at <orgName ref="#dbl_026_org_30">the University of Michigan Law School</orgName> in <placeName ref="#dbl_026_place_67">Ann Arbor, Michigan</placeName> and excel that I could dare to want to be an antitrust lawyer in <orgName ref="#dbl_026_org_31">the US Department of Justice</orgName>, in <placeName ref="#dbl_026_place_68">Washington, DC</placeName> after I graduated from <placeName ref="#dbl_026_place_69">Michigan</placeName>, and I could excel, and that I could leave <orgName ref="#dbl_026_org_32">the Justice Department</orgName> and get a job in the private sector, in an industry that was predominantly dominated by white men, that being the airline industry, and that I could go work for what was then the old <orgName ref="#dbl_026_org_33">Allegheny Airlines</orgName> , which became <orgName ref="#dbl_026_org_34">USAir</orgName>, and I can remain there in excel. And I could leave there and become general counsel of <orgName ref="#dbl_026_org_35">Airports Council International</orgName>, North America, and I could excel, and that I could own my own franchise business between leaving <orgName ref="#dbl_026_org_36">US Air</orgName> and going to become general counsel of <orgName ref="#dbl_026_org_37">ACI</orgName> and I can excel and I could leave <orgName ref="#dbl_026_org_38">ACI</orgName> and go to <orgName ref="#dbl_026_org_39">the Metropolitan Washington Airports Authority</orgName> and excel and contribute, not just excel, but contribute in a meaningful way to each institution that I became a part of my belief in African American people, and the opportunities that were available to us even though we had to fight our way in and we had to fight to stay there. And we had to fight for equal treatment, we had to fight to be heard. I was determined, and had a strong belief based on the obstacles that my parents and my grandparents had overcome. And my aunts and uncles had overcome. And those other ladies who came from little towns in <placeName ref="#dbl_026_place_70">Georgia</placeName> and <placeName ref="#dbl_026_place_71">Alabama</placeName>, and other parts of the south and <placeName ref="#dbl_026_place_72">Tennessee</placeName>, and <placeName ref="#dbl_026_place_73">South Carolina</placeName> and <placeName ref="#dbl_026_place_74">North Carolina</placeName> and <placeName ref="#dbl_026_place_75">Texas</placeName> to come to go to nursing school in <placeName ref="#dbl_026_place_76">Atlanta</placeName>, the obstacles that they overcame and succeeded, had, you know, good families with strong self-concepts and kids who excel that — that is what all of that did to me as aperson and made me aspire to do the best to contribute the most I could, to be the best example that I could be. And whatever I chose to do, knowing that with God as my guide, that the sky was the limit, and that I would go where he sent me.</u>
+      <u who="CANNON">Thank you for that. I again, wanted to just, I guess, not clarify but from what I heard, much of your identity, your dreams, your pride. Whether it be like your cultural pride of being black, pride of the experiences and your family's experiences that were constructed in <placeName ref="#dbl_026_place_77">Atlanta</placeName>, or are constructed in the cities of <placeName ref="#dbl_026_place_78">Atlanta</placeName> that might not necessarily be in <placeName ref="#dbl_026_place_79">Atlanta</placeName>, but </u>
+      <u who="HARGROVE">The <placeName ref="#dbl_026_place_80">Atlanta</placeName> Metropolitan area </u>
+      <u who="CANNON">Yes, the <placeName ref="#dbl_026_place_81">Atlanta</placeName> metropolitan area and a beautiful city named <orgName ref="#dbl_026_org_40">Commerce</orgName>. So I am interested in I guess, this frame — or an understanding your framing of your childhood in your adolescence. I'm interested in your identity and your, I guess positionality in transferring or transitioning to <orgName ref="#dbl_026_org_41">Dartmouth</orgName>? What was that travel like? What was it like the first time that you went to <orgName ref="#dbl_026_org_42">Dartmouth</orgName>? </u>
+      <u who="HARGROVE">Um, it was interesting. And because my cousin's husband, he's deceased now, as I said, God bless him. May he rest in peace, um, because he has a lot and they had pictures of <placeName ref="#dbl_026_place_82">Hanover</placeName>. I knew what to expect, I can honestly admit that I didn't do a trip to Hanover to do a — to get an orientation to the college. Back during that time period, I graduated from high school in <date when="1972">1972</date>. And during that period of time, college tours weren't what they are <date>today</date>. And some parents, you know, took their kids to on college tours. For friends of mine who I attended high school with who were considering schools in <placeName ref="#dbl_026_place_83">Georgia</placeName> or in <placeName ref="#dbl_026_place_84">Atlanta</placeName>, you know, it was no big deal to go do a tour of <orgName ref="#dbl_026_org_43">Morehouse</orgName> or <orgName ref="#dbl_026_org_44">Spelman</orgName>, or <persName ref="#dbl_026_person_26">Clark Atlanta</persName>, or <persName ref="#dbl_026_person_27">Morris Brown</persName>, or <orgName ref="#dbl_026_org_45">Georgia Tech</orgName>. But to pay money to go all the way to <placeName ref="#dbl_026_place_85">New Hampshire</placeName>, to see the campus just seemed an extravagance. Even for two working parents who had saved so that they could help me in my college expenses and hopefully not leave me riddled with a lot of debt, a lot of loans, when I got ready to go to college. So I didn't get to go do a freshman, or a preadmittance tour of <orgName ref="#dbl_026_org_46">Dartmouth</orgName>, but envisioned what the school was like. And uh, and my high school counselors and my high school teachers who were so proud of the fact that I had been accepted at <orgName ref="#dbl_026_org_47">Dartmouth College</orgName> during its first year of coeducation. I was the valedictorian of my high school, they were very proud of the new path that I was plotting for future generations of students from <orgName ref="#dbl_026_org_48">Dartmouth</orgName> who might go to a place that was unknown to anybody else at that high school, and make a name for not only myself, but for other students who, you know, could look at that experience and dream and say, I can do the same thing. I might not go to <orgName ref="#dbl_026_org_49">Dartmouth</orgName>, but maybe I'll go to <orgName ref="#dbl_026_org_50">Brown</orgName>, or maybe I'll go to some other college in New England that most of us don't go to that most of us don't venture out of our comfort zone for. I was very interested in computer science at the time and it was very new, very new in the 70s. And there were some classes that have been offered at my high school using a language called APL, a programming language, which was a precursor that Basic or any of the other programming language. And we had an outstanding young white teacher who was my physics teacher, <persName ref="#dbl_026_person_28">Mr. Page</persName>, who was a little computer geek, who wasn't little he was very tall. And he was, he loved us and he loved those of us who really, you know, soaked up any new concepts and dreamed big and he fed my interest in computer science and encouraged me in that vein. I did an independent study project, my senior year, where I had an opportunity to study under a person who was a PhD candidate or something and part of her thesis involves some research with young black students who are interested in Interdisciplinary Studies and fields that were beyond classes that were offered in any curriculum in the public school system, and who wanted to do an independent study project in some fields. So I did an independent study project on the role of automation in our society and where it might take us someday. Ask me where I got the concept from in <date when="1972">1972</date>. I'm amazed. But I undertook that project and I think that part of what I learned in the research was about how much <orgName ref="#dbl_026_org_51">Dartmouth</orgName> had done and how much <persName ref="#dbl_026_person_29">John Kemeny</persName>, the president of <orgName ref="#dbl_026_org_52">Dartmouth</orgName> at that time, had done and the new ways they were using computers in all disciplines, in education at <orgName ref="#dbl_026_org_53">Dartmouth</orgName>. And, of course, <persName ref="#dbl_026_person_30">Oliver</persName> had shared some of that with me and he and his friends had talked about what they were learning on how the <placeName ref="#dbl_026_place_86">Keiwit Computer Center at Dartmouth</placeName> was an essential part of the curriculum there. And this was before people had iPhones or iPads. We didn't even all have computers at that time, but I was totally intrigued. And very excited that I might have the opportunity to go to an institution where I could be exposed to the new, up and coming things that people were still trying to figure out, you know, kind of what the future held in that area. And I didn't just want to be a school teacher or nurse, I didn't know exactly what I wanted to be, but it's like, that's what everybody in my family's been, I'm going to do something different, something that uses, you know, kind of my passion areas and my intellect and my energy. And, um, and so, when it became clear that <orgName ref="#dbl_026_org_54">Dartmouth</orgName> was going to go coed, and that I would have the opportunity to apply and possibly go there. I applied at the time, there was another school that I won't name that was my first choice. And it was in <placeName ref="#dbl_026_place_87">Connecticut</placeName>. And I'll name it. It was <orgName ref="#dbl_026_org_55">Wesleyan</orgName>, <orgName ref="#dbl_026_org_56">Wesleyan University</orgName> in <placeName ref="#dbl_026_place_88">Connecticut</placeName>. For some reason, I was, I don't know why I was so intrigued at <orgName ref="#dbl_026_org_57">Wesleyan</orgName>, now. When I think about how intrigued I was by the <placeName ref="#dbl_026_place_89">Keiwit Computer Center</placeName>, and the prospects of, you know, really learning as much as I could about technology during that time period. But I was waitlisted at <orgName ref="#dbl_026_org_58">Wesleyan</orgName> and got into <orgName ref="#dbl_026_org_59">Dartmouth</orgName>. And, um, and I was subsequently admitted to <orgName ref="#dbl_026_org_60">Wesleyan</orgName> as well, but initially, I was waitlisted. And so, when they offered me admission, I said, 'Well now, I can go to <orgName ref="#dbl_026_org_61">Dartmouth</orgName>, I'm glad you waitlisted me. I've learned so many more things to <orgName ref="#dbl_026_org_62">Dartmouth</orgName> that were more in line with, you know, what I foresaw as my future at that time. And my mother flew up to <orgName ref="#dbl_026_org_63">Dartmouth</orgName> with me, after I was admitted and you know, before freshman year started, for the freshman orientation week. My mom, you know, helped me get all my things together, ship my trunks up. She and my dad was so excited. My dad was beyond excited that his daughter was going to be in the first class of women at <orgName ref="#dbl_026_org_64">Dartmouth College</orgName>. He said, if I have to hot the house, if I have to sell the house, you know, you're gonna go, I'm gonna pay for as much of it as I can. [Laughter]But anyway, we were all really proud of that opportunity. And my teachers, my counselors at <orgName ref="#dbl_026_org_65">Douglass</orgName> kept telling me that I would be competing with students who had been in private schools all their lives, and that the quality of the education would be totally different from what I had been experienced to, expose to I'm sorry, as a, in a public school in <placeName ref="#dbl_026_place_90">Georgia</placeName>, because <placeName ref="#dbl_026_place_91">Georgia</placeName> schools weren't that great. And then I was at a Black <placeName ref="#dbl_026_place_92">Georgia</placeName> school — public school. And so they cautioned me that my experience would be different, that I might find it much more challenging than anything I had done before and that despite my intellect and my drive, they didn't want me to be discouraged if it just was overwhelming.</u>
+      <u who="CANNON">Mhmm. </u>
+      <u who="HARGROVE">My mom accompanied me and had those pep talks with me because they knew I was anal when it came to having to have a perfect, you know, Spelling Bee test— that followed me throughout my high school career, that, you know, if it wasn't perfect, it wasn't good enough, I wasn't satisfied with anything less than my best. And if my best wasn't perfect, I wasn't satisfied. So, they are a little bit concerned, because they realized that the level of competition in terms of the types of educational opportunities that other students who would be attending <orgName ref="#dbl_026_org_66">Dartmouth</orgName> had, that they, they wouldn't compare favorably with my, my experiences. But, you know, they believed in me and encouraged me and said, you know, whatever you don't know, when you start, you'll learn, you'll learn how to study differently, and we believe you, we believe in you, we believe you'll do well. And so my mom went with me, she saw how different it was, even though she and her friends and my dad's friends and my cousin's had cautioned me that it would be different. Nobody could put into words, haha, for me, how different it would be. And when my mom accompanied me for freshman orientation week, she told me on my way to <orgName ref="#dbl_026_org_67">Hanover</orgName>, that um, all she wanted was for me to give it at least one year. And if I didn't think that that was the place for me to finish my four years of undergraduate work that then I could transfer, but just at least give it one year. By the time my mom got ready to go back to <placeName ref="#dbl_026_place_93">Atlanta</placeName>, she said to me, well just give it at least  one term. HahaThat and you know, she had been adamant about, not because of the money or the waste, it was just, you know, you are, you know, you were so determined to do this, and I'm not going to let you talk yourself out of a tremendous opportunity, you're going to do it. And then when she got there and felt firsthand how different it was, and what a big adaptation it would be for me, and how different it was from life in <placeName ref="#dbl_026_place_94">Atlanta, Georgia</placeName>, <orgName ref="#dbl_026_org_68">Frederick Douglass High School</orgName>, and even though I'd done all kinds of programs at <orgName ref="#dbl_026_org_69">Emory</orgName> and other schools and done camps that were with integrated, you know, kids in the <placeName ref="#dbl_026_place_95">Georgia</placeName> area, largely, she knew that nothing compared to the experience that I was about to undertake. And she didn't want that to rob me of who I was, and my self-concept. And she wanted me to be able to feel good about even trying it. So seeing how different it was, she said to me, you know, look, if you just give it one, one you know, term, if you don't feel like it's you, you can come home and no hard, you know, look, I'm not going to tell you where you have to apply. I'm not going to say you have to go to a predominantly black college, you know, but you'll be able to experience something differently if you feel that way.But not only did I stay, through the first term, at the end of my first term, I had a totally different concept of the educational opportunity, even though it was drastically different and required a huge adjustment. First of all, to the weather. Hahaha. First time it snowed my freshman year, I'd never seen that much snow in my entire life. So that alone, you know, the cold temperature, the dorm rooms, the types of outdoor activities that most people enjoyed — skiing was not my forte. So it was a huge difference in terms of the way I had grown up and the types of things that I enjoyed. Except that the educational opportunity and the challenge of being new and being exposed to people from all over the world, and especially other parts of the <placeName ref="#dbl_026_place_96">United States</placeName>. That was really important to me because my parents were southern. My grandparents were southern. My aunts and uncles where southern. And so I realized that my view of the <placeName ref="#dbl_026_place_97">United States</placeName> was jaded because I had not experienced people, really from other parts of the country, or the world, even though I've been on vacations in some other parts, I hadn't traveled really internationally at that point, and um, hadn't had that much orientation to people from outside the <placeName ref="#dbl_026_place_98">Atlanta</placeName> area. So that first semester at <orgName ref="#dbl_026_org_70">Dartmouth</orgName> was a rude awakening in terms of — I was committed to, you know, studying and doing my best and learning new things, so the challenges of the classroom were not as big a hurdle as some who tried to tell me they would be, you know. I was very proud to come back after my first term with two A's and a C plus. Because back during that time period, you only took like three classes a semester. It wasn't a semester, it was a quarter from what I can remember. Um, and when I came home at the end and got my grades, my mother said, “What's with the C+?” Haha. I was like, wait a minute, I'm at <orgName ref="#dbl_026_org_71">Dartmouth</orgName>, wait, you know, you should just be excited that I got two A's. But um, yeah, so it was a, it was a big transition for me having attended a 99.9%, black high school, in inner city, <placeName ref="#dbl_026_place_99">Atlanta</placeName>, in a lower middle class neighborhood, to go to <orgName ref="#dbl_026_org_72">Dartmouth</orgName>, and, you know, attend classes with kids from all over the country and all over the world. Um, and to know that I could do it, and to study hard, and to put my best foot forward. Really, it's, you know, that first year showed me yeah, you can do whatever you set your mind to. And, even though it was hard to adjust to the changes in the weather, to the changes in the people, to the changes in the racial makeup of the college, I knew I could do it. And I knew it was the place for me, the things that I wanted there, I wanted to learn what life in <placeName ref="#dbl_026_place_100">America</placeName> was really like, not just in the segregated south, but in — and not in a big city, but in you know, what I call Middle America, which is, you know, no name, you know, predominantly white, kind of what that is and who you are when you're there, and what it takes for you to feel okay about being there, and grow there, and become a part of that, and contribute, and grow and challenge and be challenged. So all of that was what I expected. When I went there. When my mom left, I wasn't sure I'd make it beyond that one, hahaha, um, semester that she said, I could leave after just doing one, but she was shocked when she called back, you know, two weeks later, and I said, I love it. I met some friends and, you know, I like my classes it's very challenging, but this is what I expected. And uh, they never thought, oh, no, I can't make it, I'm gonna have to leave.</u>
+      <u who="CANNON">Thank you for describing in detail, your introduction, and also being vulnerable about your feelings and your parents’ feelings, and also, um, just going into depth with that context. Um, and I heard a lot of you describing, I guess, the hurdle of the first year and specifically the first term. And, like in moments that you've described, where you leaned on your support from your family members, and also looked up to very resilient, innovative and also caring figures within your life. I'm interested in the community that you fostered at <orgName ref="#dbl_026_org_73">Dartmouth</orgName>, and the introduction to that community, specifically, in your process and transition of leaving the south and also southern people — a lot of what you were surrounded by. </u>
+      <u who="HARGROVE">Yeah, it was interesting. My roommate, I did not have a single my freshman year, and I chose not to go to an all-girls dorm, I chose to live in a in the <placeName ref="#dbl_026_place_101">Choates</placeName>, which at that time was, um, it was a coed dorm, by suite. So not even by floor like some of the dorms were coed by floor, so you know, the even number of floors were all male and the odd number of floors were all female, for example. And some dorms were coed by room as some of the dorms had their own bathrooms and a, you know, in a room. In the <placeName ref="#dbl_026_place_102">Choates</placeName>, the dorms were coed by suite and I was on the second floor as I recall. And, uh, and so I was in a suite of females and then there were two other — there were like three suites on the floor. And so two out of the three suites were, uh, were male, and our suite was the female suite.</u>
+      <u who="CANNON">Could you clari- or could you tell me what <placeName ref="#dbl_026_place_103">Choate</placeName> you lived in? </u>
+      <u who="HARGROVE">I lived in <placeName ref="#dbl_026_place_104">Bissell</placeName>. <persName ref="#dbl_026_person_31">Bissell Hall</persName>. </u>
+      <u who="CANNON">That's very interesting. I also lived in <placeName ref="#dbl_026_place_105">Bissell</placeName>.  </u>
+      <u who="HARGROVE">Haha. Your freshman year? </u>
+      <u who="CANNON">Yes. </u>
+      <u who="HARGROVE">Oh, wow. Haha. I don't remember if it was by alphabet, I don't — I remember. I think I lived in E, one — at one point. 202E or something like that. I don't. Yeah. That's too long ago. But yeah, that is wild. That we both are from <placeName ref="#dbl_026_place_106">Georgia</placeName>. </u>
+      <u who="CANNON">Yes. </u>
+      <u who="HARGROVE">East. You're from <placeName ref="#dbl_026_place_107">East Atlanta</placeName>. I'm from real <placeName ref="#dbl_026_place_108">Atlanta</placeName>. Hahaha. And that you lived in the <placeName ref="#dbl_026_place_109">Choates</placeName>. And in <placeName ref="#dbl_026_place_110">Bissell</placeName>. That's, that's uncanny. </u>
+      <u who="CANNON">I lived on the second floor. </u>
+      <u who="HARGROVE">Okay. Wow, I lived on the second floor. That is really unbelievable. Yeah, so I was in the <placeName ref="#dbl_026_place_111">Choates</placeName>. And my roommate, I said all that to say, my roommate was from <placeName ref="#dbl_026_place_112">California</placeName>. She was a <placeName ref="#dbl_026_place_113">California</placeName> girl. And she was there from <placeName ref="#dbl_026_place_114">Oakland</placeName>. And she had been a part of the <orgName ref="#dbl_026_org_74">Summer Bridge Program</orgName>, so she knew some people you know, already before I got there, because she had been there that summer. And so that was good, because she introduced me to people that you know, she learned during the summer, but we were very different. She, she jokingly said to me, after we got to know each other and feel comfortable with each other for a while, she said, I'm not gonna lie. When I first met you and your mom, I thought I was gonna fall asleep before you finish the sentence cause you talk sooo slow&lt;a href="http://www/"&gt;www. &lt;/a&gt;And, you know, people from <placeName ref="#dbl_026_place_115">California</placeName> talk so much faster. And and she was dating a guy who was a senior. So you know, she had already met people, hooked up and, so you know, they introduced me to people. Um, and the whole freshman experience was a good experience the way <orgName ref="#dbl_026_org_75">Dartmouth</orgName> introduced the freshmen class to each other because we got there a week before classes start, as I recall. And we had freshmen week. And, you know, they put people in little cohort groups and mixed them and matched them. And so you learn people outside your dorm. And they had some activities or freshmen trip or something. I don't remember where it was or what we did, but I just remember meeting people and — and my cousin's late husband had left people behind that he told, 'You know you gotta look out for her. My wife's cousin. She's like her little sister, don't let anything bad happened to her. You look out for her.' And so people were coming and introducing themselves to me as my big brothers.And then people tended to befriend people from their hometown, and so, there were some people from <placeName ref="#dbl_026_place_116">Atlanta</placeName> that had heard that I was coming. And um, and there was one other brother in my freshman class from <placeName ref="#dbl_026_place_117">Atlanta</placeName>. We didn't know each other before we got there. And I still have some friends now who were from <placeName ref="#dbl_026_place_118">Atlanta</placeName>, that um, actually I've sort of lost contact with some of them but one of them lives in the Metropolitan Washington Area. Actually, we attend the same church now and I learned this church because when, I moved to this area, he and his wife are already here and they said, oh, you should come check out our church. So, um, and even though I said I'm an introvert and not outgoing in terms of meeting people, the way my parents had raised us encouraged me to come out of my cocoon. And they didn't put titles on people like introverts and extroverts during that time period, but they knew I was kind of a loner. So in addition to attending camps in <placeName ref="#dbl_026_place_119">Atlanta</placeName>, I mean, in <placeName ref="#dbl_026_place_120">Commerce</placeName>, as we got older and especially as we got more toward adolescent years, my mom thought it was really important that we learn to interact with people in the <placeName ref="#dbl_026_place_121">Atlanta</placeName> area and make some friends beyond <placeName ref="#dbl_026_place_122">Clayton County</placeName> where we were in elementary school. So I went to <orgName ref="#dbl_026_org_76">Girl Scout</orgName> Camp, I attended other day camps in the city, and learned how to come out of my cocoon and meet people. So by the time I got to <orgName ref="#dbl_026_org_77">Dartmouth</orgName>, I had developed some social skills, and learned how to interact with people, and then the natural process of being in classes with others and interacting with them.And then there was the <orgName ref="#dbl_026_org_78">African American Society [Afro-American Society]</orgName>. Which for somebody like me, who had grown up in a predominantly black setting — city, institutions — was a natural place for me to go, because I was accustomed to being with people who look like me. And even though not all of us think the same, not all of us like the same books, not all of us like the same professors, not all of us learn the same way, not all of us like anti-trust [law]. You know, there were differences, and yet, you know, the <orgName ref="#dbl_026_org_79">African American Society [Afro-American Society]</orgName> was home. There were lots of activities there. There were lots of social consciousness discussions. There were lots of opportunities to reflect on what was happening in the larger society, and similarities between what we saw there and what we saw at <orgName ref="#dbl_026_org_80">Dartmouth</orgName> and what needed to change and why.There was a lot of discussion of political issues that were confronting the nation, and what we were learning at <orgName ref="#dbl_026_org_81">Dartmouth</orgName> and whether we could make an impact on things that needed to change.And so I was, even though, you know, <placeName ref="#dbl_026_place_123">Hanover, New Hampshire</placeName> was drastically different from <placeName ref="#dbl_026_place_124">Atlanta, Georgia</placeName>, as I'm sure you know, hahaha. And there were places that I didn't try to learn and that I didn't try to be a part of. So, the fraternity system was not something that I was interested in trying, or understanding, or even partying in. I kind of knew what I felt comfortable with, and where I needed to be to develop what I needed in me to become the person that I wanted to be and to make the contributions that I thought I wanted to make. And that meant that I ventured into some areas that were totally different from anything I'd done in the past, but I also avoided some things that I knew were not a part of anything that I wanted in my makeup. So, to make a long story short, I met people through, you know, living in the <placeName ref="#dbl_026_place_125">Choates</placeName>. I tried to take advantage of the opportunities that were there to mix and mingle.I had a work study job. My first year, my freshman advisor was a guy by the name of <persName ref="#dbl_026_person_32">John Goyette [‘60]</persName>, who was the, uh, what was his title? He was the director of the <placeName ref="#dbl_026_place_126">Hopkins Center</placeName>. So he ran the <placeName ref="#dbl_026_place_127">Hopkins Center</placeName>, he scheduled all the events. He and his wife were really good people. They treated me like I was an older daughter almost, and they had young kids. They took a real big interest in me doing well at <orgName ref="#dbl_026_org_82">Dartmouth</orgName>. I needed a work study job, <persName ref="#dbl_026_person_33">John Goyette [‘60]</persName> said, 'I think we have some work study opportunities. Let me see.” I wasn't working in — not in the dining hall. [He] said, "I don't think you have to work in the dining hall." So I got a job in the <placeName ref="#dbl_026_place_128">Hop</placeName>, helping review press releases, or write press releases and whatever they needed help with in the publication's office basically.And I, you know, met the people in my dorm and, uh, of course, I met the guys because we had plenty to choose from, hahaha. So, I started hanging out with a brother from <placeName ref="#dbl_026_place_129">Washington DC</placeName>. And attended a lot of the meetings at the <orgName ref="#dbl_026_org_83">AAm [Afro-American Society]</orgName> and just got involved in a diverse group of things to learn some new areas. I even got interested in some of the student-led activities at The <placeName ref="#dbl_026_place_130">Hop</placeName> and did some — participated in some drama productions, you know, was not a drama major by any stretch of the imagination, but I just like supporting the arts and had an interest in the arts and so I participated in some of the 12:30 Rep Productions. We did Purlie, the musical, and took it on the road, took it to a couple of locations in the <placeName ref="#dbl_026_place_131">Upper Valley</placeName> and I, you know, I was not <persName ref="#dbl_026_person_34">Ludy Vale</persName>, you know, I didn't have that kind of voice, but just a part of the cast. It was fun. So I did all kinds of stuff. I was not a cheerleader. You know, I found my niches, my areas for exploration, and seized opportunities that gave me some exposure to some aspects of myself that I wanted to test in and learn more about.</u>
+      <u who="CANNON">Wait, can you repeat that? Did you say you were not cheerleader?  </u>
+      <u who="HARGROVE">I was not a cheerleader? No. </u>
+      <u who="CANNON">Okay. </u>
+      <u who="HARGROVE">No, I'm short and all that. You think I'd might have been a cheerleader, haha? </u>
+      <u who="CANNON">I wanted to clarify. I think, uh, I couldn't hear that 'not' part. </u>
+      <u who="HARGROVE">No. I was not a cheerleader. I didn't pursue a cheerleader for the football team, basketball team. No team, not — not my thing. </u>
+      <u who="CANNON">Were there any specific student groups that you were either a part of or contributed to? That you could recall? </u>
+      <u who="HARGROVE">I was a member of the <orgName ref="#dbl_026_org_84">African American Society [Afro-American Society]</orgName>. And before I left, I was the director of cultural and educational affairs. I think my junior — and it might have been my sophomore and junior years. I finished <orgName ref="#dbl_026_org_85">Dartmouth</orgName> early. I had taken four classes per semester for at least some three semesters and I had done a summer term abroad. And then I spent a summer at <orgName ref="#dbl_026_org_86">Dartmouth</orgName> and realized that, you know, I didn't need to be there (inaudible) l so I graduated early. And so I think it was my sophomore year and part of my junior year that I was director of cultural and educational affairs at the <orgName ref="#dbl_026_org_87">African American Society</orgName>. And I was on the intra-dormitory council [IDC]. So I was the IDC rep in <placeName ref="#dbl_026_place_132">Bissell</placeName>. Again, I think my sophomore and junior years, and I was on several student faculty committees, including the committee on the freshman year the Committee on social life and I did language study abroad. I participated in the Dartmouth MIT Urban Studies program in <placeName ref="#dbl_026_place_133">Boston</placeName>. I did an internship in urban studies in <placeName ref="#dbl_026_place_134">Atlanta</placeName>, one semester. I worked for the guy who was the liaison between the <orgName ref="#dbl_026_org_88">Atlanta City Council</orgName> and the State of <placeName ref="#dbl_026_place_135">Georgia</placeName>, uh, State Legislators. I sort of lobbied on behalf of the city on matters that were important to us, that were under review at the state legislature. Um, and what else did I do? And like I said, I dabbled in some dra- in some dramatics and some drama productions. I was not a drama major or minor.I majored in government and took a lot of courses in Urban Studies, which was sort of an interdisciplinary, not a major, but an interdisciplinary line of courses, because I wasn't sure whether I wanted to go into public administration or public policy. So I did some urban studies oriented courses and stuff. I also worked at the medical school library part time. The summer that I was at <orgName ref="#dbl_026_org_89">Dartmouth</orgName>, I worked at <placeName ref="#dbl_026_place_136">Dana library</placeName>. Those were most of my activities except for writing the — helping to write the racism report. I thought I did some support work in the dean of freshman's office for a while, but I don't, I don't remember exactly what that was. I know, I was on the committee on the freshman year, because they were evaluating, um, after the first year coeducation, what they could do to enhance the transition from high school to college for new students. And whether they needed to rethink the freshman year, especially as they were going to year-round operation and requiring people to spend a semester abroad how that was impacting, you know, the freshmen, the freshman year experience, as well as the, uh, the class as a whole. Whether people felt this strong sense of being a part of the class if they were constantly, you know, off campus, that kind of thing. And I studied a lot.</u>
+      <u who="CANNON">Naturally, as a <orgName ref="#dbl_026_org_90">Dartmouth</orgName> student, you can't help but to study to get the degree but I'm so I'm interested in, as you were explaining your, not only your engagement and how you're active in multiple facets of campus, from work to academic life and extracurriculars and also engagement in student life on campus, with the committee of social life. It reminds me of earlier when we were talking about your experiences in the summer, when going to your grandparents’ house, and always being able to have like the resources, family resources to keep you busy, but also to make sure that you're nourished and fed and have support. So I'm interested as a clarifying point. Do you know around what time or I guess in your junior year that you completed your graduation credits, since you did graduate early? </u>
+      <u who="HARGROVE">I actually finished the fall term of my senior year. So I left in December of my senior year. I graduated in <date when="1976">'76</date>, so left like in <date when="1975-12">December of ‘75</date>. And then I went to <placeName ref="#dbl_026_place_137">Atlanta</placeName> and got a job. I was applying to law schools at that time, and I knew I was gonna go to law school. So my mentor, <persName ref="#dbl_026_person_35">Oliver Lee [‘72]</persName>, told me that what I needed to do was get a job as a paralegal with a law firm to get a better sense of what lawyers do, how law firms work, because that's what most people who practice it, they work for a law firm in some area of specialty. So he suggested that I try to get a job with a law firm as a paralegal just to learn the language and to see what being a lawyer was like since I thought that's what I wanted to do, uh, so I applied to law schools and got all my law school — like they call them the, all of the test scores in the LSATs — I finished the LSATS and the application process and wrote all of my support statements to support my applications. And then I took a break. I was dating a guy who graduated the year before me, and we ultimately got married after law school. We're divorced now. He was a year ahead of me at <orgName ref="#dbl_026_org_91">Dartmouth</orgName>. But we we both did — he decided to defer his attendance of law school year because we were pretty serious, and we wanted to attend the same law school. So I took up my cousin's husband's suggestion that I go ahead and apply for paralegal positions. I got a job as a paralegal with a law firm in <placeName ref="#dbl_026_place_138">Atlanta</placeName>, that, you know, was an up and coming law firm. It was called <orgName ref="#dbl_026_org_92">Huie, Brown, and Ide</orgName>. They merged with some other firms. It's a huge firm, it's one of these nationwide firms. I forget the name of the firm now. I went there. And because I had some interest in antitrust, first, they let me support the general practice group, and whatever they needed help with. If it was upcoming depositions, or drafting, correspondence, or litigation requests, whatever organizing documents for litigation, I actually got to support one of their practitioners ahead of their litigation group who was a <orgName ref="#dbl_026_org_93">Michigan</orgName> grad, <orgName ref="#dbl_026_org_94">Michigan Law</orgName> grad. Got to work with him on a case that they represented the <orgName ref="#dbl_026_org_95">Marta [Metropolitan Atlanta Rapid Transit Authority]</orgName> bus system, and it was a bus accident case. And, you know, my first month there, they let me, you know, sit in on that trial and help out with organizing the documents. And that kind of thing was a really neat experience, so that was really a good recommendation by <persName ref="#dbl_026_person_36">Oliver Lee [‘72]</persName>, for me to do that. So I worked and then I went back to participate in graduation that May and, um, got into several law schools and decided to go to <orgName ref="#dbl_026_org_96">Michigan</orgName> and left the firm. And it was the year that <persName ref="#dbl_026_person_37">Jimmy Carter</persName> became president of the <placeName ref="#dbl_026_place_139">United States</placeName>. The firm was very active in his campaign, they were so proud, they gave me a little gold 14 karat gold peanut necklace to wish me well for law school, along with some other things, but that was sorta to remind me that I was from <placeName ref="#dbl_026_place_140">Georgia</placeName>.</u>
+      <u who="CANNON">Is it? Is it possible for us to actually — when you were going over the timeline of your graduation, I was interested in where you mentioned it towards the end, but I'm interested in where 'Institutional Racism and Student Life at Dartmouth' fits into, again, your very full plate of academic of academic honors, but also your integration within student life. I personally can relate to having a lot of chip on my dip a lot of times, when it comes to— </u>
+      <u who="HARGROVE">Yeah. I re-read this paper for this interview, because I couldn't remember when did we do this and it's dated <date when="1974-11-19">November 19, 1974</date>. And I said I left in <date when="1975-12">December of '75</date>. So that would have been my junior year, the fall term of my junior year. Yeah. </u>
+      <u who="CANNON">Could you give me more context or could you give me a timeline of the beginning of the ideation of "Institutional Racism and Student Life of Dartmouth”? Of course, it probably wasn't a report or I don't know if the structure was necessarily grounded in the creation of this idea, but I'm interested in you walking me through how it came to be. </u>
+      <u who="HARGROVE">Sometimes I asked myself it's funny how you know, how the years erase some things. So many — you, you're involved in so many things in life and the details about some things just escape over time. But my memory of, of this experience was lodged in part in my very full consumption with the issues that the <orgName ref="#dbl_026_org_97">African American Society [Afro-American Society]</orgName> was involved in on racism at <orgName ref="#dbl_026_org_98">Dartmouth</orgName>. And that said, I was director of cultural and educational affairs, which was the part of the role that tried to meet the cultural and educational support needs of the African American students who were active in the <orgName ref="#dbl_026_org_99">African American Society [Afro-American Society]</orgName> who voiced concerns about experiences that they had; classroom experiences, experiences in life, in the dorms, or, you know, abrasive conduct when they ran into students of other races, in isolated settings on campus, or even comments, racist comments by professors, that they encountered. And the feeling of not being supported and being judged without fairness in various aspects of campus life. So those were issues that were discussed, you know, in <orgName ref="#dbl_026_org_100">AAm [Afro-American Society]</orgName> meetings as well as, you know, just amongst friends on campus, and, you know, sometimes people will come by your room, you know, upset about something that happened I had lots of friends, as a member of the inter- dormitory council, as a rep in my dorm, people in my, under, you know, my oversight were encouraged to come to me if they had problems or had concerns or wanted to know who they could talk to for assistance. And so there were other black women in the <placeName ref="#dbl_026_place_141">Choates</placeName> who, you know, raised issues with me. As I became an upperclassmen more people that were freshmen would come and share their stories. And some of the stories that I had, that I heard were unbelievable, and they weren't all experiences that I had, but they caused me to question some experiences that I had that I was so naive, that I didn't realize that some of the experiences that I had, reflected some assumptions that were unfair.And my friends, <persName ref="#dbl_026_person_38">Eileen Cave</persName> and <persName ref="#dbl_026_person_39">Judy Redding</persName>, both were also in the <placeName ref="#dbl_026_place_142">Choates</placeName>. <persName ref="#dbl_026_person_40">Judy</persName> was on the third floor, I think of <placeName ref="#dbl_026_place_143">Bissell</placeName>. I can't remember which, which dorm <persName ref="#dbl_026_person_41">Eileen</persName> was in. She wasn't in <placeName ref="#dbl_026_place_144">Bissell</placeName>. She was in another dorm in the <placeName ref="#dbl_026_place_145">Choates</placeName>, I think. And <persName ref="#dbl_026_person_42">Judy</persName> was taking a class on institutional racism at <orgName ref="#dbl_026_org_101">Dartmouth</orgName>. And she, you know, we've talked about classes, what's going on your class?What are you studying? How's it going? Part of the educational process is sharing and growing from other people's experiences, even in classes that you don't take, and you learn about different professors from sharing information. So she said she was taking this class on institutional racism, it was like, what discipline is that? History? You know, I said, I didn't even know there was a class like that. So it was being offered by a visiting professor, and as she shared what she was learning and what the curriculum was about and what institutional racism means, we all began to see institutional racism at <orgName ref="#dbl_026_org_102">Dartmouth</orgName> and to understand better why it's called institutional. How the institutions perpetuate the problem.And it became not just an exercise in her study, but it became an opportunity for us to learn what the the current thinking was on how institutional racism works and how it ismanifested in institutions throughout society. And so we begin to see the web in the very own institution at which this class was being taught. And we engaged in a lot of discussions and examples and then we said, Wow, there could be a lot of growth if somebody actually applied these concepts, and what we've learned about institutional racism to this institution, and it could perhaps change some of, or at least identify some of the concerns to hope toward removing the problem or addressing the problem. And, uh, somehow we started to, as we talked about, the evidence of institutional racism in various aspects of college life, we began to see the web and how connected it was, and how one part fed another part and how it kept growing. And we began to think that there had to be ways of addressing it and perhaps, you know, one way was to bring it to the attention of those who are responsible for ensuring that the institution, its objectives, and doesn't detract from the growth of students who have come there. So we — and I shouldn't speak for them, I probably naively thought that we could make a real big difference of the campus. At least that was my hope, and that we would all learn from one another. So we applied the — some of the concepts that were taught in the class, as <persName ref="#dbl_026_person_43">Judy</persName> shared them with us and we began to write this report. And we didn't know how it would end up, but as we did the research, and did the writing, and thought more about it, we began to understand how institutional racism worked. We saw how it worked at the college, we looked at the history of where the college had come from, we looked at some of the statements that <persName ref="#dbl_026_person_44">John Kemeny</persName> had made about the desire to make the experience an all-encompassing experience where everybody felt a part of the institution and didn't feel alienated. So we thought, well, let's help them do that. And you know, by using examples from every aspect of college life, not only the educational experience, but the social experiences, the athletic experiences, the institutional growth and evaluation experiences through the various student faculty committees. Through the way decisions are made, both at the administrative level, the faculty level, the student level, the alumni level. I mean, every place we looked, every way we looked at it, we could see the impact of institutional racism. So we thought, if it was that clear, we could write about it, and share what we saw with people who hadn't been affected by it, to broaden their understanding, because you don't feel what doesn't apply to you. That's why it's really interesting to talk, for example, to white students who go to historically black colleges and experienced that for the first time, then they understand what it feels like to be the only one of your kind in the class and how you are alienated or you don't feel a part of, but in most situations, that is not the experience that white students have at <orgName ref="#dbl_026_org_103">Dartmouth</orgName> because they are in the majority.So we applied the concepts and the learning from the class to the facts as we saw them at <orgName ref="#dbl_026_org_104">Dartmouth</orgName>. And we divided up different parts of the report based on who had the most experience in different aspects, or who had the relationships with those persons who had experienced more of the different aspects of athletic settings, and off-campus programs, and financial aid problems, in—in experiences with the admissions office even. Because different people had different experiences in the recruitment process and different experiences in terms of whether they were really encouraged to, to apply, whether they felt that their interviews went well. It was really interesting. As we talked to other students and learned more about not only the experiences that they had on campus, but the experiences that they had that led them there, or that made them hesitant about applying, or that caused them to decide not to stay. All of those were things that we learned about from sharing with one another. And the three of us were all involved in different types of activities on campus. We weren't all — we all were members of the <orgName ref="#dbl_026_org_105">African American society [Afro-American Society]</orgName>, but we weren't all on the same committees. <persName ref="#dbl_026_person_45">Eileen</persName> was a cheerleader, <persName ref="#dbl_026_person_46">Judi</persName> was involved in different activities. The common, the common Nexus was, we were all living in the <placeName ref="#dbl_026_place_146">Choates</placeName> and we all were pretty involved in <orgName ref="#dbl_026_org_106">African American Society</orgName>. But we all had different majors, different interest, we weren't even on campus at the same time. Not all of us did the same— I didn't do any off- campus programs with them. So we were very different. We were from different places, we had different expectations of <orgName ref="#dbl_026_org_107">Dartmouth</orgName>.Um, <persName ref="#dbl_026_person_47">Eileen</persName> was from — was she from <placeName ref="#dbl_026_place_147">Chicago</placeName>? No, she's from <placeName ref="#dbl_026_place_148">Brooklyn</placeName>, she's from <placeName ref="#dbl_026_place_149">New York</placeName>. <persName ref="#dbl_026_person_48">JB</persName> was from <placeName ref="#dbl_026_place_150">Pennsylvania</placeName>, I was from <placeName ref="#dbl_026_place_151">Atlanta</placeName> and it was our conversations about this class and looking at the books and comparing what was taught and what the academic outline of institutional racism was, to the institution that we were in. That we were all a part of, that we all had experienced, uh, different aspects of and seeing the web in different places. And based on the experiences of our friends, who were African American, who voiced you know, the same web of experiences that they felt were based on their race, that led us to put it in writing and decide that the best thing to do would be to present it to those in leadership and have them look at it to see what had happened since the McLane Report, what more needed to be done, where the problems were, and what could be done to make the experience for African American students more palatable. Because some would decide that they couldn't stomach it and leave, and you know, we didn't want to see that happen.</u>
+      <u who="CANNON">Thank you for going through that. I'm interested in I guess the process of presentation, or could you guide me through your experience or your memories of actually presenting the report along with <persName ref="#dbl_026_person_49">Judi Redding</persName> and <persName ref="#dbl_026_person_50">Eileen Cave</persName>. </u>
+      <u who="HARGROVE">We spent many hours in the wee hours of the morning, at night between classes, on weekends, writing, typing, rewriting, discussing with the leadership of the <orgName ref="#dbl_026_org_108">African American Society [Afro-American Society]</orgName>, who supported this, and we wanted to present it as three women; all from different parts of the country from different backgrounds, in the same class, with different majors, with different expectations, with different experiences who all came to the same conclusion. And we wanted to present it as, um, inclusive of similar experiences of others who were not involved in the research and writing of the report, but who shared their experiences with us, and were anonymous but not fictional components of what we described in the report. And so, the thinking was that it was not a good idea to have the <orgName ref="#dbl_026_org_109">African American Society</orgName> present the report, because then it's an institution that college — that the college is funding, coming back to bite the college. To criticize the college. And not everybody who was a member of the <orgName ref="#dbl_026_org_110">African American Society [Afro-American Society]</orgName>, you know, wanted to endorse this as a, um, as the society's view. I mean, the society had a lot of things that it was trying to accomplish and to undertake, and it supported the report and the recommendations of the report. But it was three independent students who had, who felt strongly based on views of other students, who had experienced some of the things that were discussed in the report. So we would just be three students who would bring something to the attention about the administrators for the good of the cause, not to bring a claim to ourselves not to say that the college owed us anything, but to say for the betterment of <orgName ref="#dbl_026_org_111">Dartmouth</orgName>. And to stand up to her goals and values that <orgName ref="#dbl_026_org_112">Dartmouth</orgName> says it stands for and to reevaluate whether <orgName ref="#dbl_026_org_113">Dartmouth</orgName> is at the end of the road, or midstream in its commitment to equal opportunity for people who are not majority culture people. Whether it is fulfilled its obligation to Native Americans, that the college ostensibly was founded to educate. Whether it's committed it — whether it is really still behind equal employment, I mean, equal opportunities for people of color, and especially African Americans and other evolving ethnic and ethnic groups and immigrant groups to our country. And what that means, is the commitment just to get people in the door and then they sink or swim on their own, and they make whatever they can of it? Or is it to evaluate the quality of the educational experience that they leave <orgName ref="#dbl_026_org_114">Dartmouth</orgName> with. Not just about how much money they make or what jobs they obtain, but whether the experience was fulfilling, whether it met their expectations, whether it was fair, uh, whether it was inclusive. So, we questioned, uh, whether the college understood how individual African Americans felt and how we could bring that to their attention in a constructive way. We were not trying to make them look bad, we were not trying to gain publicity, we were really trying to bring what we consider legitimate concerns to the forefront of those leaders of the college, whose responsibility it was to ensure that the college experience was meaningful and fulfilled the purpose of the educational mission and the social mission of the college. And to point out that from our perspective, it was not doing that for many African Americans who went there. And in the process of talking to other African American students, I remember being a, we divided the responsibilities of the paper, so that certain aspects of, uh, of the paper were delved into more deeply by, you know, each of us. So I didn't, I didn't do the athletic part. I wasn't an athlete. I didn't know the stories of the athletes, so somebody else interviewed those athletes, African American athletes on campus, and, you know, talked about their experiences. I knew more about the committees, and the selection criteria, because I had served on a couple of committees. Somebody else knew more about the <orgName ref="#dbl_026_org_115">College Committee of Standing and Conduct</orgName> and did that research. So we divided the — I won't call them the institutions, but those aspects of college life that we addressed in the paper — we divided the responsibilities for the research and writing of those parts of the paper. Each person was supposed to talk to other people, not just in our class, because we are all part of the same class, we were all part of the first class of women, <orgName ref="#dbl_026_org_116">Class of '76</orgName>. Well, we tried to make sure that we talked to, you know, class members of every class, African American, some that we knew some that we didn't know, some who it really excelled in certain parts of campus life, even to get their experiences, to get their viewpoints, so that it wasn't jaded—like the people who are maladjusted are the ones that are making and raising all these issues. And it was really interesting because we didn't do oral interviews with <orgName ref="#dbl_026_org_117">Zoom</orgName> or audiotape, as we didn't know about all of that back then. Hey, <orgName ref="#dbl_026_org_118">Zoom</orgName> didn't exist back then. But we use our time and our resources and our energy to do this. Not to get a <orgName ref="#dbl_026_org_119">New York Times</orgName> article or a <orgName ref="#dbl_026_org_120">Wall Street Journal</orgName> article, or even an article in the <orgName ref="#dbl_026_org_121">Upper Valley News [Valley News]</orgName>. We were trying to get the college to focus on the commitment that it made and to explore the shortcomings with an effort to improvement in the experience for African American students, and faculty and families that came to live, and grow, and learn, and be beneficiaries and benefactors of the <orgName ref="#dbl_026_org_122">Dartmouth College</orgName> experience. Um, and that's how we did it, and the parts of the paper that each of us were responsible for writing became the parts that we were responsible for presenting, uh, to the leadership of the college. And we talked about which administrators should be invited to the meeting, and why. And we did consult with the leadership of the <orgName ref="#dbl_026_org_123">African American Society [Afro-American Society]</orgName>, so the persons that accompany us as representatives of the African American community, to the meeting, they are named in one of the newspaper articles. They were there because they we wanted other witnesses to be there to what was said and what was done and to what our demeanor was, so that there could be no inappropriate characterization of what happened at that meeting. There were other eye witnesses. And so that, um, you know, if we were totally off track, you know, we will be called on the carpet by them. And when they went back to report to the <orgName ref="#dbl_026_org_124">African American society</orgName>, what happened at the meeting, they were eyewitnesses who were present who could corroborate what we represented as well as point out any inconsistencies in what was reported in the <orgName ref="#dbl_026_org_125">Dartmouth</orgName> newspaper or elsewhere. Um, so we planned it, and we didn't — and it was not done in isolation. And the decision to meet on the steps of <placeName ref="#dbl_026_place_152">Baker library</placeName> because people held <placeName ref="#dbl_026_place_153">Baker library</placeName> in high esteem, and it was a place where we all studied and we loved it, and it represented, you know, as an integral part, an important part of the college. Um, and so, we felt that standing there in solidarity with other African American members of the <orgName ref="#dbl_026_org_126">Dartmouth College</orgName> classes, who were there, whether they were in grad school or undergrad school, who had witnessed some of the concerns or experienced some of the concerns that we wrote about. They stood with us on the steps of <placeName ref="#dbl_026_place_154">Baker</placeName> singing the Dartmouth Alma Mater, representing an endearing feeling that we have for the college, and yet challenges that we experienced as African American students. Uh, challenges that we wanted to share with the hope of the betterment of the experience for anybody who attended, and for those who would still be there when we left. So it was a huge learning experience for me, in that I had a greater appreciation for how difficult it is for others to understand experiences that they don't share, the extent to which they feel responsible for what they start. Responsible for learning to improve and being committed to improve. And the ability to hear from others not like you, and to evaluate what, um, assessments they've made merit further study, merit work, merit acceptance, and a commitment to make improvements.And I think that any institution in our country that serves any viable purpose, should be committed to those principles; principles of fulfilling its stated commitment. If it doesn't, evaluating why doesn't. And trying to, uh--to make it better. To meet the commitment that it has publicly stated that it is, is meeting. And I think that the experiences of <date when="2020">2020</date>, <persName ref="#dbl_026_person_51">George Floyd</persName> and <persName ref="#dbl_026_person_52">Ahmaud Arbery</persName> and all of those other African American men and women — <persName ref="#dbl_026_person_53">Brianna Taylor</persName>, um, you know — their deaths represent institutions that have failed. They failed society, they failed families, they failed communities. Um, and it's not enough just to say that people overreact to things, or people think they're entitled to things. I think, well, we care about one another. And we see impediments to progress for all, that we owe it to one another to figure out where the problems are and to make improvements. And I saw evidence of a country that still holds dear to that belief, when I saw all of those people from all over the world, um, protest and march as a result of the death of <persName ref="#dbl_026_person_54">George Floyd</persName>, and I was not hoping that we would ever get to a point where there would needto be deaths or, or, uh, protests of that nature at <orgName ref="#dbl_026_org_127">Dartmouth</orgName>. But I was hopeful that information that was researched and presented carefully, to the leaders of <orgName ref="#dbl_026_org_128">Dartmouth</orgName>, would have resulted in evaluations of whether the college was living up to its stated mission, whether it was meeting its responsibilities and its commitments to all — people of all colors and backgrounds, and if it wasn't, whether it was committed to learning how it could better do that.</u>
+      <u who="CANNON">Wow, that was extremely inspiring. Yes, thank you. I guess to conclude, a concluding question would be, with institutional racism and student life at <orgName ref="#dbl_026_org_129">Dartmouth</orgName>, what was — what was the campus response? How did the campus digest it? And also, how was it distributed to members of the campus? </u>
+      <u who="HARGROVE">I know copies of the paper were distributed by, you know, I think the <orgName ref="#dbl_026_org_130"> African American Society</orgName>. To people that were interested in receiving it. There were articles in The <orgName ref="#dbl_026_org_131">Dartmouth</orgName> about the paper. I honestly don't remember how widespread the distribution was. I remember talking to, that's all personal stuff. And the interesting thing is, I said that I — that was my junior year, it was the fall term of my junior year — I was trying to remember whether I was on campus the next term, and I think the next term, was the term that I, if memory serves me correctly, I think that's the term that I did the independent study project in <placeName ref="#dbl_026_place_155">Atlanta</placeName> with the guy who was the liaison between the city council and the state legislature. And then in the spring of that year — that's really interesting — in the spring of that year, I was doing the <placeName ref="#dbl_026_place_156">Boston</placeName>, <orgName ref="#dbl_026_org_132">MIT</orgName>, Urban Studies program, and so I was in <placeName ref="#dbl_026_place_157">Boston</placeName>. And then the fall of my senior year, I came back to do my final term on campus. And I think maybe that was the summer that I spent as my term on campus and I worked at <placeName ref="#dbl_026_place_158">Baker library</placeName>. That summer was hot as I don't know what. </u>
+      <u who="CANNON">[Laughter] </u>
+      <u who="HARGROVE">So because I was off campus for two consecutive terms after the report was written, I was disconnected from what the follow-up to the report was, you know, in a, in a real time conscious sense. And I was removed from whatever was being said, and, you know, whatever the fallout was, you know. I was still in contact with <persName ref="#dbl_026_person_55">Eileen</persName> and <persName ref="#dbl_026_person_56">Judi</persName>, but I don't have any personal first-hand knowledge of what was done. I know that we were told that, that they would — we were told by the leadership that was in attendance at the meeting, and the Director of Athletics was there, the Dean of the College was there, the Dean of Freshmen was not there. <persName ref="#dbl_026_person_57">Dean Warner Traynham [‘57]</persName> was there. We were told by the group that they would study the report and that we receive a response, or that a response will be issued. And that's what I remember. And I remember there being a sense of disbelief that we would even write such a report. Yeah — like, not how dare you, but you know, don't you have enough to do? You know, you really think you know, your experiences supposed to not have problems? I don't know. It was just — it was a, I don't know. I was a little disappointed in what I perceived as a lack of serious concern about the issues that were raised. And that's not for everybody. There were some persons in attendance and leadership, who said, you know, what they're saying is that notwithstanding what <orgName ref="#dbl_026_org_133">Dartmouth</orgName> has done, it's not enough and more needs to be done if students of color are going to feel comfortable and have, you know, satisfying and I hate to say equal, but, you know, equal educational opportunities. You know, they have to feel a part of the campus and what they're saying is, that hasn't happened yet and it's going to take more effort to make everybody feel a part, because everybody is not treated equally. Their experiences are very different. They documented that. They explained that. And now it's up to us to evaluate what can be done to change that.</u>
+      <u who="CANNON">So I guess that leads to my final, final question — let me ask it beforehand. With your current positionality of a black <orgName ref="#dbl_026_org_134">Dartmouth</orgName> alumni, with your experiences that you had at <orgName ref="#dbl_026_org_135">Dartmouth</orgName> and with your experiences you had post-<orgName ref="#dbl_026_org_136">Dartmouth</orgName>, I'm interested in your, how your impressions of the college changed or shifted or warped, I guess, with your transition from being a undergraduate student to an alumni. </u>
+      <u who="HARGROVE">I will say that after I left <orgName ref="#dbl_026_org_137">Dartmouth</orgName>, after I graduated and went to law school and started my career, and reflected on what I learned from <orgName ref="#dbl_026_org_138">Dartmouth</orgName>, and the experiences that I had because of the educational opportunity of attending <orgName ref="#dbl_026_org_139">Dartmouth</orgName>, that I greatly value the experience. No experience anywhere is perfect. You know, an experience at historically black college is not perfect for everybody. Or for most people, because there are no perfect places on this side of the world. And I don't mean the <placeName ref="#dbl_026_place_159">United States</placeName>. I mean, heaven is the only perfect place. </u>
+      <u who="CANNON">Mhmm. </u>
+      <u who="HARGROVE">But when I thought about where I'd been and the experiences that I took advantage of at <orgName ref="#dbl_026_org_140">Dartmouth</orgName>, that were unique to <orgName ref="#dbl_026_org_141">Dartmouth</orgName>, including the <orgName ref="#dbl_026_org_142">Boston MIT</orgName>, Urban Studies program, language study abroad in <placeName ref="#dbl_026_place_160">Porsche France</placeName>, the opportunity for independent study, the Interdisciplinary Studies and use of the computer in various classes that I took, the liberal arts education, which, you know, is not something you get everywhere. You declare a major, we take all these classes in your major and the necessity of fulfilling human—uh, distributed requirements in other fields, really broadened me as a person and lead me to explore things and to take classes, like a speech class, which really helped me tremendously. I just, I valued all that <orgName ref="#dbl_026_org_143">Dartmouth</orgName> had to offer. And I valued the opportunity of doing the research and actually being a part of the presentation of the paper on Institutional Racism and Student Life at <orgName ref="#dbl_026_org_144">Dartmouth College</orgName>. I better understood how racism works in American society, that nobody wants to admit that it's institutional. It is — I mean when <date when="2020">2020</date> hit and the whole social justice effort took a mass, massive step forward, and was recognized throughout the world. And the terms institutional racism rolled off of everybody's lips. Wow. We wrote about that in <date when="1974">1974</date>. [Laughter] I mean, I just think that, um, in a lot of ways, <orgName ref="#dbl_026_org_145">Dartmouth</orgName> prepared me for adulthood and prepared me for life in <placeName ref="#dbl_026_place_161">America</placeName>. And because I grew up in <placeName ref="#dbl_026_place_162">Atlanta</placeName> and had come through the Civil Rights Movement, and had a totally different experience, I knew that my experience in <placeName ref="#dbl_026_place_163">Atlanta</placeName> was not like the rest of <placeName ref="#dbl_026_place_164">America</placeName>, but I never experienced living outside of the <placeName ref="#dbl_026_place_165">South</placeName>. I've visited other places, but only visited. And so, living in <placeName ref="#dbl_026_place_166">Hanover, New Hampshire</placeName>, and being a student at <orgName ref="#dbl_026_org_146">Dartmouth</orgName>, were really important to me understanding who I am, what I could be, and going for things like becoming an antitrust lawyer and being in the aviation industry, which, you know, I could have made totally different choices about my life based on a different educational experience and background.I credit <orgName ref="#dbl_026_org_147">Dartmouth</orgName> for, uh, making me even more secure, notwithstanding my solid foundation and a good family that believed in the value of all of the family members and in us as, as a race, and in our ability to accomplish great things, and to not let anybody tell us what we couldn't be, but to go for what we felt driven to achieve. I thought <orgName ref="#dbl_026_org_148">Dartmouth</orgName> equipped me with that self-assurance, and, you know, encouraged me to apply to top law schools and, you know, all of which I was accepted into, and to, uh, you know, complete studies and even to go back to graduate school, to divinity school, as an adult, while working full time, subsequently.And, you know, the confidence that I had was in the education that I received and the experiences that I grew from, and in my ability to excel in that environment. I knew if I could do it there, I could do it anywhere that I put my mind to it. As an alumni that meant that, you know, I thought I had something to contribute and, you know, you will learn this. You have all of these desires to do all of these things to give back to the college that you love and yet you're married, you're a mother, you're a daughter, you have cousins, you're in church, you are part of other institutions and you are busy and everybody's asking you to do something. And so juggling all of that becomes difficult. I did go back to some <orgName ref="#dbl_026_org_149">Black Alumni of Dartmouth Association</orgName> conferences or annual events. I was not as active as I know Ju — no, not <persName ref="#dbl_026_person_58">Judi</persName>, but I know <persName ref="#dbl_026_person_59">Eileen [Cave]</persName> was very active in the <orgName ref="#dbl_026_org_150">Black Alumni of Dartmouth</orgName>.I mentioned that, you know, I became divorced, I was a mother, I had a young son, I couldn't go everywhere I wanted to go and be everywhere I wanted to be. When they did the 25th anniversary of coeducation of <orgName ref="#dbl_026_org_151">Dartmouth</orgName>, I was one of the African American women that was invited back to speak on some panels. I participated. I took my son. He learned about <orgName ref="#dbl_026_org_152">Dartmouth</orgName>. He applied to <orgName ref="#dbl_026_org_153">Dartmouth</orgName>. He was accepted into <orgName ref="#dbl_026_org_154">Dartmouth</orgName>. He's a techie. He was very interested in computer science systems engineering. He was not impressed with <placeName ref="#dbl_026_place_167">Keiwit Computer Center</placeName>. And even though his mother and father are graduates of <orgName ref="#dbl_026_org_155">Dartmouth</orgName>, he decided to go to <orgName ref="#dbl_026_org_156">Rensselaer Polytechnic Institute</orgName> — and he had been to a lot of <orgName ref="#dbl_026_org_157">Dartmouth</orgName> events with me. But I gave back in my early years when he was young by participating on panels of prospective <orgName ref="#dbl_026_org_158">Dartmouth</orgName> students, supporting <orgName ref="#dbl_026_org_159">Dartmouth</orgName> students, black <orgName ref="#dbl_026_org_160">Dartmouth</orgName> students were part of the <orgName ref="#dbl_026_org_161">Gospel Choir</orgName> or something when they came to give concerts and tours. I was on the <orgName ref="#dbl_026_org_162">Dartmouth Alumni Council</orgName> for four years and went back for some activities after that. I was one of the persons involved in the <orgName ref="#dbl_026_org_163">Concern Black Alumni of Dartmouth</orgName> letter to the college, since the <persName ref="#dbl_026_person_60">George Floyd</persName> event erupted. So through the years, I have done what I could to support the college. I've contributed in monetary ways. I have participated in interviews from different — Some professors reached out to me to help with some, to talk to some students in the past. Me, I didn't run away from <orgName ref="#dbl_026_org_164">Dartmouth</orgName>. I didn't say <orgName ref="#dbl_026_org_165">Dartmouth</orgName> didn't do what I thought they should have done on the institutional racism report. I don't have anything to do with them. I credit Dartmouth for who I am and I credit, the education, uh, the educational opportunities that I received. I'm a prime beneficiary of them and I'm very appreciative. Uh, I think that to the extent that I didn't do as much as I thought I would do is because there are a limited number of hours in the day. And we, as you know, especially African Americans who, you know, think they something to offer, we tend to spread ourselves too thin sometimes, and it's just hard to, uh, to do at all. And so I have contributed in a number of ways. I didn't pick any one thing to do, I didn't say okay, my, my way of giving is going to be to continue to be involved in the interviews of prospective <orgName ref="#dbl_026_org_166">Dartmouth</orgName> students or to go to high schools in my area. I was always asked by different high school guidance counselors and stuff in the <placeName ref="#dbl_026_place_168">Arlington</placeName> community — this is where my church is, you know, a lot of them asked me to participate in their college fairs. I did a lot of that. So, you know, I couldn't talk my son into going to <orgName ref="#dbl_026_org_167">Dartmouth</orgName> [laughter]. But I talked a lot of other students into going and they were very happy about that. So I don't know if that answers your question.</u>
+      <u who="CANNON">Yes, that answers my question perfectly. And as that was my last question. Now is the time, now is where I thank you for sitting with me, uh, for this time in this <placeName ref="#dbl_026_place_169">Zoom</placeName> room, with this blank screen. But I wanted to thank you for your perspective, I wanted to thank you for your vulnerability, and also, your flexibility in being able to arrange this. Your resource — your resource being your story, your time, and also all that you've done for <orgName ref="#dbl_026_org_168">Dartmouth</orgName> students like me, who can look back, and look at these examples of research and also methodologies and creating a unified struggle for seeking the change that, you know should be instituted and that you know is right within yourself. And I thank you, um, for being able to share your life and your narrative with me. I believe it truly is, something that should be required. Your stories, your narrative should be required, should be the least of the requirements of the <orgName ref="#dbl_026_org_169">Dartmouth</orgName> archive, and really its benefit, and I'm really excited for its benefit and use for future classes even beyond me. And yes, that was my conclusion and my thank you, but thank you, again.</u>
+      <u who="HARGROVE">Well <persName ref="#dbl_026_person_61">Kiara</persName>, thank you for your patience. I didn't know what this experience was going to be like and it did cause me to reflect a lot on my days at <orgName ref="#dbl_026_org_170">Dartmouth</orgName>. What led me there, you know, how I really felt once it was over. What led me to be a part of the institutional racism report and what I learned from it. And uh, I am proud of the fact that I had the opportunity to engage in that research and for what I learned from being a part of the writing and presentation of the paper. A lot of people will never understand it, some people have preconceived notions about, you know, the audacity of three of us to think that we knew something to present to the college of that magnitude. But I think when you look at the reasons that people are led to engage in undertakings that are not required based on a class, and for which they are not seeking notoriety or acclaim. And to share stories about people that they care about, many of whom they have no real allegiance or relationship with, except that they are all at the same institution, says a lot about what compels the writing of the report. People who have class obligations and who are trying to get good grades so that they get into good graduate schools and continue their lives, have no reason to write something like that, which can be misperceived and misapplied and could lead to you not getting into the places where some people could hold all of that against you. And we didn't weigh those consequences, we did it because we felt compelled to do it. And I had to explain that to my mother when I got home for Christmas that year. ‘Cause she couldn't believe that I was at <orgName ref="#dbl_026_org_171">Dartmouth</orgName> writing a report on institutional racism when they were paying for me to finish my college education. So, you know, the things that we do and the growth that we experience as a result of taking some risk was the other thing, that I think about that experience. So I'm grateful for the opportunity to share what I recall about my years at <orgName ref="#dbl_026_org_172">Dartmouth</orgName>, about the writing of the report, about its presentation and the aftermath.And I thank you for your time. I thank God for uniting two sisters from <placeName ref="#dbl_026_place_170">Atlanta</placeName>, both venturing to <placeName ref="#dbl_026_place_171">Hanover, New Hampshire</placeName> to pursue educational opportunities that they could not have conceived of, which are leading them to contribute in a great way to the betterment of life for African Americans in these <placeName ref="#dbl_026_place_172">United States</placeName>. Thank you.</u>
+      <u who="CANNON">Thank you. And with that, I am stopping the recording. </u>
+      <u who="HARGROVE">Okay. </u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dbl_026_place_0">
+        <placeName>Berry Library</placeName>
+        <location>
+          <geo>43.70564 -72.28871</geo>
+        </location>
+        <idno type="WD">Q115184487</idno>
+      </place>
+      <place xml:id="dbl_026_place_1">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_026_place_2">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dbl_026_place_3">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_4">
+        <placeName>Chattanooga</placeName>
+        <location>
+          <geo>35.045555555556 -85.267222222222</geo>
+        </location>
+        <idno type="WD">Q186702</idno>
+      </place>
+      <place xml:id="dbl_026_place_5">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_6">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_7">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_8">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_9">
+        <placeName>Chattanooga</placeName>
+        <location>
+          <geo>35.045555555556 -85.267222222222</geo>
+        </location>
+        <idno type="WD">Q186702</idno>
+      </place>
+      <place xml:id="dbl_026_place_10">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_11">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_12">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_13">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_14">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_15">
+        <placeName>Chattanooga</placeName>
+        <location>
+          <geo>35.045555555556 -85.267222222222</geo>
+        </location>
+        <idno type="WD">Q186702</idno>
+      </place>
+      <place xml:id="dbl_026_place_16">
+        <placeName>Chattanooga</placeName>
+        <location>
+          <geo>35.045555555556 -85.267222222222</geo>
+        </location>
+        <idno type="WD">Q186702</idno>
+      </place>
+      <place xml:id="dbl_026_place_17">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_18">
+        <placeName>Philadelphia</placeName>
+        <location>
+          <geo>39.952777777778 -75.163611111111</geo>
+        </location>
+        <idno type="WD">Q1345</idno>
+      </place>
+      <place xml:id="dbl_026_place_19">
+        <placeName>Connecticut</placeName>
+        <location>
+          <geo>41.6 -72.7</geo>
+        </location>
+        <idno type="WD">Q779</idno>
+      </place>
+      <place xml:id="dbl_026_place_20">
+        <placeName>Tennessee State University</placeName>
+        <location>
+          <geo>36.165874 -86.830337</geo>
+        </location>
+        <idno type="WD">Q1782948</idno>
+      </place>
+      <place xml:id="dbl_026_place_21">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dbl_026_place_22">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_23">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_24">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_026_place_25">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dbl_026_place_26">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_27">
+        <placeName>Chattanooga</placeName>
+        <location>
+          <geo>35.045555555556 -85.267222222222</geo>
+        </location>
+        <idno type="WD">Q186702</idno>
+      </place>
+      <place xml:id="dbl_026_place_28">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_29">
+        <placeName>North Carolina</placeName>
+        <location>
+          <geo>35.5 -80</geo>
+        </location>
+        <idno type="WD">Q1454</idno>
+      </place>
+      <place xml:id="dbl_026_place_30">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_31">
+        <placeName>North Carolina</placeName>
+        <location>
+          <geo>35.5 -80</geo>
+        </location>
+        <idno type="WD">Q1454</idno>
+      </place>
+      <place xml:id="dbl_026_place_32">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_33">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_34">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_35">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_36">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_37">
+        <placeName>Mississippi</placeName>
+        <location>
+          <geo>33 -90</geo>
+        </location>
+        <idno type="WD">Q1494</idno>
+      </place>
+      <place xml:id="dbl_026_place_38">
+        <placeName>Mississippi</placeName>
+        <location>
+          <geo>33 -90</geo>
+        </location>
+        <idno type="WD">Q1494</idno>
+      </place>
+      <place xml:id="dbl_026_place_39">
+        <placeName>Nicholson</placeName>
+        <location>
+          <geo>34.1147 -83.4294</geo>
+        </location>
+        <idno type="WD">Q732521</idno>
+      </place>
+      <place xml:id="dbl_026_place_40">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_41">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_42">
+        <placeName>Clayton County</placeName>
+        <location>
+          <geo>33.54 -84.36</geo>
+        </location>
+        <idno type="WD">Q486150</idno>
+      </place>
+      <place xml:id="dbl_026_place_43">
+        <placeName>Clayton County</placeName>
+        <location>
+          <geo>33.54 -84.36</geo>
+        </location>
+        <idno type="WD">Q486150</idno>
+      </place>
+      <place xml:id="dbl_026_place_44">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_45">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_46">
+        <placeName>Jonesborough</placeName>
+        <location>
+          <geo>36.294166666667 -82.4725</geo>
+        </location>
+        <idno type="WD">Q1703404</idno>
+      </place>
+      <place xml:id="dbl_026_place_47">
+        <placeName>Jonesboro</placeName>
+        <location>
+          <geo>33.5244 -84.3542</geo>
+        </location>
+        <idno type="WD">Q1703398</idno>
+      </place>
+      <place xml:id="dbl_026_place_48">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_49">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_50">
+        <placeName>Collier Heights</placeName>
+        <location>
+          <geo>33.771944 -84.483889</geo>
+        </location>
+        <idno type="WD">Q5147163</idno>
+      </place>
+      <place xml:id="dbl_026_place_51">
+        <placeName>Collier Heights</placeName>
+        <location>
+          <geo>33.771944 -84.483889</geo>
+        </location>
+        <idno type="WD">Q5147163</idno>
+      </place>
+      <place xml:id="dbl_026_place_52">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_53">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_54">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_55">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_56">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_57">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_58">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_59">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_60">
+        <placeName>Clayton County</placeName>
+        <location>
+          <geo>33.54 -84.36</geo>
+        </location>
+        <idno type="WD">Q486150</idno>
+      </place>
+      <place xml:id="dbl_026_place_61">
+        <placeName>Jonesborough</placeName>
+        <location>
+          <geo>36.294166666667 -82.4725</geo>
+        </location>
+        <idno type="WD">Q1703404</idno>
+      </place>
+      <place xml:id="dbl_026_place_62">
+        <placeName>Jonesboro</placeName>
+        <location>
+          <geo>33.5244 -84.3542</geo>
+        </location>
+        <idno type="WD">Q1703398</idno>
+      </place>
+      <place xml:id="dbl_026_place_63">
+        <placeName>Clayton County</placeName>
+        <location>
+          <geo>33.54 -84.36</geo>
+        </location>
+        <idno type="WD">Q486150</idno>
+      </place>
+      <place xml:id="dbl_026_place_64">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_65">
+        <placeName>Clayton County</placeName>
+        <location>
+          <geo>33.54 -84.36</geo>
+        </location>
+        <idno type="WD">Q486150</idno>
+      </place>
+      <place xml:id="dbl_026_place_66">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_67">
+        <placeName>Ann Arbor</placeName>
+        <location>
+          <geo>42.28138889 -83.74833333</geo>
+        </location>
+        <idno type="WD">Q485172</idno>
+      </place>
+      <place xml:id="dbl_026_place_68">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dbl_026_place_69">
+        <placeName>Michigan</placeName>
+        <location>
+          <geo>44.34 -85.58</geo>
+        </location>
+        <idno type="WD">Q1166</idno>
+      </place>
+      <place xml:id="dbl_026_place_70">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_71">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dbl_026_place_72">
+        <placeName>Tennessee</placeName>
+        <location>
+          <geo>36 -86</geo>
+        </location>
+        <idno type="WD">Q1509</idno>
+      </place>
+      <place xml:id="dbl_026_place_73">
+        <placeName>South Carolina</placeName>
+        <location>
+          <geo>34 -81</geo>
+        </location>
+        <idno type="WD">Q1456</idno>
+      </place>
+      <place xml:id="dbl_026_place_74">
+        <placeName>North Carolina</placeName>
+        <location>
+          <geo>35.5 -80</geo>
+        </location>
+        <idno type="WD">Q1454</idno>
+      </place>
+      <place xml:id="dbl_026_place_75">
+        <placeName>Texas</placeName>
+        <location>
+          <geo>31 -100</geo>
+        </location>
+        <idno type="WD">Q1439</idno>
+      </place>
+      <place xml:id="dbl_026_place_76">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_77">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_78">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_79">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_80">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_81">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_82">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_026_place_83">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_84">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_85">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dbl_026_place_86">
+        <placeName>Class of 1982 Engineering and Computer Science Center</placeName>
+        <location>
+          <geo>43.7037946 -72.2946593</geo>
+        </location>
+        <idno type="WD">Q117516777</idno>
+      </place>
+      <place xml:id="dbl_026_place_87">
+        <placeName>Connecticut</placeName>
+        <location>
+          <geo>41.6 -72.7</geo>
+        </location>
+        <idno type="WD">Q779</idno>
+      </place>
+      <place xml:id="dbl_026_place_88">
+        <placeName>Connecticut</placeName>
+        <location>
+          <geo>41.6 -72.7</geo>
+        </location>
+        <idno type="WD">Q779</idno>
+      </place>
+      <place xml:id="dbl_026_place_89">
+        <placeName>Class of 1982 Engineering and Computer Science Center</placeName>
+        <location>
+          <geo>43.7037946 -72.2946593</geo>
+        </location>
+        <idno type="WD">Q117516777</idno>
+      </place>
+      <place xml:id="dbl_026_place_90">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_91">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_92">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_93">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_94">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_95">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_96">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_97">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_98">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_99">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_100">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_101">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_102">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_103">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_104">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_105">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_106">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_107">
+        <placeName>East Atlanta</placeName>
+        <location>
+          <geo>33.74 -84.3455</geo>
+        </location>
+        <idno type="WD">Q5327753</idno>
+      </place>
+      <place xml:id="dbl_026_place_108">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_109">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_110">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_111">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_112">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dbl_026_place_113">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dbl_026_place_114">
+        <placeName>Oakland</placeName>
+        <location>
+          <geo>37.8 -122.25</geo>
+        </location>
+        <idno type="WD">Q17042</idno>
+      </place>
+      <place xml:id="dbl_026_place_115">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dbl_026_place_116">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_117">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_118">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_119">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_120">
+        <placeName>Commerce</placeName>
+        <location>
+          <geo>34.2064 -83.4611</geo>
+        </location>
+        <idno type="WD">Q2689380</idno>
+      </place>
+      <place xml:id="dbl_026_place_121">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_122">
+        <placeName>Clayton County</placeName>
+        <location>
+          <geo>33.54 -84.36</geo>
+        </location>
+        <idno type="WD">Q486150</idno>
+      </place>
+      <place xml:id="dbl_026_place_123">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_026_place_124">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_125">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_126">
+        <placeName>Hopkins Center for the Arts</placeName>
+        <location>
+          <geo>43.701666666667 -72.288611111111</geo>
+        </location>
+        <idno type="WD">Q3140375</idno>
+      </place>
+      <place xml:id="dbl_026_place_127">
+        <placeName>Hopkins Center for the Arts</placeName>
+        <location>
+          <geo>43.701666666667 -72.288611111111</geo>
+        </location>
+        <idno type="WD">Q3140375</idno>
+      </place>
+      <place xml:id="dbl_026_place_128">
+        <placeName>Hopkins Center for the Arts</placeName>
+        <location>
+          <geo>43.701666666667 -72.288611111111</geo>
+        </location>
+        <idno type="WD">Q3140375</idno>
+      </place>
+      <place xml:id="dbl_026_place_129">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dbl_026_place_130">
+        <placeName>Hopkins Center for the Arts</placeName>
+        <location>
+          <geo>43.701666666667 -72.288611111111</geo>
+        </location>
+        <idno type="WD">Q3140375</idno>
+      </place>
+      <place xml:id="dbl_026_place_131">
+        <placeName>Upper Valley</placeName>
+        <location>
+          <geo>43.6574776 -72.2814202</geo>
+        </location>
+        <idno type="WD">Q105076900</idno>
+      </place>
+      <place xml:id="dbl_026_place_132">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_133">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.360277777777775 -71.05777777777777</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dbl_026_place_134">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_135">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_136">
+        <placeName>John Cotton Dana Library</placeName>
+        <location>
+          <geo>40.741811 -74.174963</geo>
+        </location>
+        <idno type="WD">Q18749583</idno>
+      </place>
+      <place xml:id="dbl_026_place_137">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_138">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_139">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_140">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="dbl_026_place_141">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_142">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_143">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_144">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_145">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_146">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.707306 -72.291034</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dbl_026_place_147">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.85003 -87.65005</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dbl_026_place_148">
+        <placeName>Brooklyn</placeName>
+        <location>
+          <geo>40.692777777778 -73.990277777778</geo>
+        </location>
+        <idno type="WD">Q18419</idno>
+      </place>
+      <place xml:id="dbl_026_place_149">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.7 -74</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dbl_026_place_150">
+        <placeName>Pennsylvania</placeName>
+        <location>
+          <geo>41 -77.5</geo>
+        </location>
+        <idno type="WD">Q1400</idno>
+      </place>
+      <place xml:id="dbl_026_place_151">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_152">
+        <placeName>Baker Library</placeName>
+        <location>
+          <geo>43.70514 -72.28867</geo>
+        </location>
+        <idno type="WD">Q115184517</idno>
+      </place>
+      <place xml:id="dbl_026_place_153">
+        <placeName>Baker Library</placeName>
+        <location>
+          <geo>43.70514 -72.28867</geo>
+        </location>
+        <idno type="WD">Q115184517</idno>
+      </place>
+      <place xml:id="dbl_026_place_154">
+        <placeName>Baker Library</placeName>
+        <location>
+          <geo>43.70514 -72.28867</geo>
+        </location>
+        <idno type="WD">Q115184517</idno>
+      </place>
+      <place xml:id="dbl_026_place_155">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_156">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.360277777777775 -71.05777777777777</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dbl_026_place_157">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.360277777777775 -71.05777777777777</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dbl_026_place_158">
+        <placeName>Baker Library</placeName>
+        <location>
+          <geo>43.70514 -72.28867</geo>
+        </location>
+        <idno type="WD">Q115184517</idno>
+      </place>
+      <place xml:id="dbl_026_place_159">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_160">
+        <placeName>France</placeName>
+        <location>
+          <geo>47 2</geo>
+        </location>
+        <idno type="WD">Q142</idno>
+      </place>
+      <place xml:id="dbl_026_place_161">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_162">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_163">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_164">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_026_place_165">
+        <placeName>South</placeName>
+      </place>
+      <place xml:id="dbl_026_place_166">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_026_place_167">
+        <placeName>Class of 1982 Engineering and Computer Science Center</placeName>
+        <location>
+          <geo>43.7037946 -72.2946593</geo>
+        </location>
+        <idno type="WD">Q117516777</idno>
+      </place>
+      <place xml:id="dbl_026_place_168">
+        <placeName>Arlington County</placeName>
+        <location>
+          <geo>38.880277777778 -77.108333333333</geo>
+        </location>
+        <idno type="WD">Q107126</idno>
+      </place>
+      <place xml:id="dbl_026_place_169">
+        <placeName>Zoom</placeName>
+        <idno type="WD">Q94979732</idno>
+      </place>
+      <place xml:id="dbl_026_place_170">
+        <placeName>Atlanta</placeName>
+        <location>
+          <geo>33.756944444444 -84.390277777778</geo>
+        </location>
+        <idno type="WD">Q23556</idno>
+      </place>
+      <place xml:id="dbl_026_place_171">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_026_place_172">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+    </listPlace>
+    <listPerson>
+      <person xml:id="dbl_026_person_0">
+        <persName>Kiara Cannon</persName>
+        <idno type="WD">Q115042004</idno>
+      </person>
+      <person xml:id="dbl_026_person_1">
+        <persName>Monica Hargrove</persName>
+        <idno type="WD">Q114647971</idno>
+      </person>
+      <person xml:id="dbl_026_person_2">
+        <persName>Monica Hargrove</persName>
+        <idno type="WD">Q114647971</idno>
+      </person>
+      <person xml:id="dbl_026_person_3">
+        <persName>Kiara Cannon</persName>
+        <idno type="WD">Q115042004</idno>
+      </person>
+      <person xml:id="dbl_026_person_4">
+        <persName>Betty Forston Hargrove</persName>
+        <idno type="WD">Q117518775</idno>
+      </person>
+      <person xml:id="dbl_026_person_5">
+        <persName>Ernest Cropper Hargrove</persName>
+        <idno type="WD">Q117518649</idno>
+      </person>
+      <person xml:id="dbl_026_person_6">
+        <persName>Blanche Hargrove</persName>
+        <idno type="WD">Q117518555</idno>
+      </person>
+      <person xml:id="dbl_026_person_7">
+        <persName>Conyers Hargrove</persName>
+        <idno type="WD">Q117518879</idno>
+      </person>
+      <person xml:id="dbl_026_person_8">
+        <persName>Oliver Lee</persName>
+        <idno type="WD">Q117517461</idno>
+      </person>
+      <person xml:id="dbl_026_person_9">
+        <persName>Oliver Lee</persName>
+        <idno type="WD">Q117517461</idno>
+      </person>
+      <person xml:id="dbl_026_person_10">
+        <persName>Gloria Harper Lee</persName>
+        <idno type="WD">Q117517845</idno>
+      </person>
+      <person xml:id="dbl_026_person_11">
+        <persName>Gloria Harper Lee</persName>
+        <idno type="WD">Q117517845</idno>
+      </person>
+      <person xml:id="dbl_026_person_12">
+        <persName>Grandma Sallie Mae Forsten</persName>
+        <idno type="WD">Q117518958</idno>
+      </person>
+      <person xml:id="dbl_026_person_13">
+        <persName>Ernest Cropper Hargrove</persName>
+        <idno type="WD">Q117518649</idno>
+      </person>
+      <person xml:id="dbl_026_person_14">
+        <persName>Jack</persName>
+      </person>
+      <person xml:id="dbl_026_person_15">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_026_person_16">
+        <persName>Ralph Abernathy</persName>
+        <idno type="WD">Q545488</idno>
+      </person>
+      <person xml:id="dbl_026_person_17">
+        <persName>Julian Bond</persName>
+        <idno type="WD">Q6306998</idno>
+      </person>
+      <person xml:id="dbl_026_person_18">
+        <persName>Lester Maddox</persName>
+        <idno type="WD">Q885384</idno>
+      </person>
+      <person xml:id="dbl_026_person_19">
+        <persName>Jimmy Carter</persName>
+        <idno type="WD">Q23685</idno>
+      </person>
+      <person xml:id="dbl_026_person_20">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_026_person_21">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dbl_026_person_22">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dbl_026_person_23">
+        <persName>Robert F. Kennedy</persName>
+        <idno type="WD">Q25310</idno>
+      </person>
+      <person xml:id="dbl_026_person_24">
+        <persName>Abraham Lincoln</persName>
+        <idno type="WD">Q91</idno>
+      </person>
+      <person xml:id="dbl_026_person_25">
+        <persName>JW Arnold</persName>
+      </person>
+      <person xml:id="dbl_026_person_26">
+        <persName>Clark Atlanta</persName>
+      </person>
+      <person xml:id="dbl_026_person_27">
+        <persName>Morris Brown</persName>
+      </person>
+      <person xml:id="dbl_026_person_28">
+        <persName>Mr. Page</persName>
+        <idno type="WD">Q107100819</idno>
+      </person>
+      <person xml:id="dbl_026_person_29">
+        <persName>John George Kemeny</persName>
+        <idno type="WD">Q28900</idno>
+      </person>
+      <person xml:id="dbl_026_person_30">
+        <persName>Oliver Lee</persName>
+        <idno type="WD">Q117517461</idno>
+      </person>
+      <person xml:id="dbl_026_person_31">
+        <persName>Bissell Hall</persName>
+      </person>
+      <person xml:id="dbl_026_person_32">
+        <persName>John Goyette</persName>
+        <idno type="WD">Q117518303</idno>
+      </person>
+      <person xml:id="dbl_026_person_33">
+        <persName>John Goyette</persName>
+        <idno type="WD">Q117518303</idno>
+      </person>
+      <person xml:id="dbl_026_person_34">
+        <persName>Ludy Vale</persName>
+      </person>
+      <person xml:id="dbl_026_person_35">
+        <persName>Oliver Lee</persName>
+        <idno type="WD">Q117517461</idno>
+      </person>
+      <person xml:id="dbl_026_person_36">
+        <persName>Oliver Lee</persName>
+        <idno type="WD">Q117517461</idno>
+      </person>
+      <person xml:id="dbl_026_person_37">
+        <persName>Jimmy Carter</persName>
+        <idno type="WD">Q23685</idno>
+      </person>
+      <person xml:id="dbl_026_person_38">
+        <persName>Eileen Cave</persName>
+        <idno type="WD">Q114647741</idno>
+      </person>
+      <person xml:id="dbl_026_person_39">
+        <persName>Judith B. Redding</persName>
+        <idno type="WD">Q114648250</idno>
+      </person>
+      <person xml:id="dbl_026_person_40">
+        <persName>Judy</persName>
+        <idno type="WD">Q40747396</idno>
+      </person>
+      <person xml:id="dbl_026_person_41">
+        <persName>Eileen Cave</persName>
+        <idno type="WD">Q114647741</idno>
+      </person>
+      <person xml:id="dbl_026_person_42">
+        <persName>Judy</persName>
+        <idno type="WD">Q40747396</idno>
+      </person>
+      <person xml:id="dbl_026_person_43">
+        <persName>Judy</persName>
+        <idno type="WD">Q40747396</idno>
+      </person>
+      <person xml:id="dbl_026_person_44">
+        <persName>John George Kemeny</persName>
+        <idno type="WD">Q28900</idno>
+      </person>
+      <person xml:id="dbl_026_person_45">
+        <persName>Eileen Cave</persName>
+        <idno type="WD">Q114647741</idno>
+      </person>
+      <person xml:id="dbl_026_person_46">
+        <persName>Judith B. Redding</persName>
+        <idno type="WD">Q114648250</idno>
+      </person>
+      <person xml:id="dbl_026_person_47">
+        <persName>Eileen Cave</persName>
+        <idno type="WD">Q114647741</idno>
+      </person>
+      <person xml:id="dbl_026_person_48">
+        <persName>Judith B. Redding</persName>
+        <idno type="WD">Q114648250</idno>
+      </person>
+      <person xml:id="dbl_026_person_49">
+        <persName>Judith B. Redding</persName>
+        <idno type="WD">Q114648250</idno>
+      </person>
+      <person xml:id="dbl_026_person_50">
+        <persName>Eileen Cave</persName>
+        <idno type="WD">Q114647741</idno>
+      </person>
+      <person xml:id="dbl_026_person_51">
+        <persName>George Floyd</persName>
+        <idno type="WD">Q95677819</idno>
+      </person>
+      <person xml:id="dbl_026_person_52">
+        <persName>Ahmaud Arbery</persName>
+        <idno type="WD">Q93437574</idno>
+      </person>
+      <person xml:id="dbl_026_person_53">
+        <persName>Brianna Taylor</persName>
+        <idno type="WD">Q4965750</idno>
+      </person>
+      <person xml:id="dbl_026_person_54">
+        <persName>George Floyd</persName>
+        <idno type="WD">Q95677819</idno>
+      </person>
+      <person xml:id="dbl_026_person_55">
+        <persName>Eileen Cave</persName>
+        <idno type="WD">Q114647741</idno>
+      </person>
+      <person xml:id="dbl_026_person_56">
+        <persName>Judith B. Redding</persName>
+        <idno type="WD">Q114648250</idno>
+      </person>
+      <person xml:id="dbl_026_person_57">
+        <persName>Warner Traynham</persName>
+        <idno type="WD">Q116786610</idno>
+      </person>
+      <person xml:id="dbl_026_person_58">
+        <persName>Judith B. Redding</persName>
+        <idno type="WD">Q114648250</idno>
+      </person>
+      <person xml:id="dbl_026_person_59">
+        <persName>Eileen Cave</persName>
+        <idno type="WD">Q114647741</idno>
+      </person>
+      <person xml:id="dbl_026_person_60">
+        <persName>George Floyd</persName>
+        <idno type="WD">Q95677819</idno>
+      </person>
+      <person xml:id="dbl_026_person_61">
+        <persName>Kiara Cannon</persName>
+        <idno type="WD">Q115042004</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dbl_026_org_0">
+        <orgName>Dartmouth Black Lives</orgName>
+        <idno type="WD">Q114647391</idno>
+      </org>
+      <org xml:id="dbl_026_org_1">
+        <orgName>Commerce</orgName>
+      </org>
+      <org xml:id="dbl_026_org_2">
+        <orgName>Grady Health System</orgName>
+        <idno type="WD">Q30254216</idno>
+      </org>
+      <org xml:id="dbl_026_org_3">
+        <orgName>Morehouse College</orgName>
+        <idno type="WD">Q1524124</idno>
+      </org>
+      <org xml:id="dbl_026_org_4">
+        <orgName>Atlanta University</orgName>
+        <idno type="WD">Q63887403</idno>
+      </org>
+      <org xml:id="dbl_026_org_5">
+        <orgName>Tennessee State University</orgName>
+        <idno type="WD">Q1782948</idno>
+      </org>
+      <org xml:id="dbl_026_org_6">
+        <orgName>Mount Holyoke College</orgName>
+        <idno type="WD">Q1140542</idno>
+      </org>
+      <org xml:id="dbl_026_org_7">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_8">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_9">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_10">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_11">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_12">
+        <orgName>Douglass High School</orgName>
+        <idno type="WD">Q5302169</idno>
+      </org>
+      <org xml:id="dbl_026_org_13">
+        <orgName>J.W. Arnold Elementary</orgName>
+        <idno type="WD">Q117515392</idno>
+      </org>
+      <org xml:id="dbl_026_org_14">
+        <orgName>Douglass High School</orgName>
+        <idno type="WD">Q5302169</idno>
+      </org>
+      <org xml:id="dbl_026_org_15">
+        <orgName>Douglass High School</orgName>
+        <idno type="WD">Q5302169</idno>
+      </org>
+      <org xml:id="dbl_026_org_16">
+        <orgName>Douglass High School</orgName>
+        <idno type="WD">Q5302169</idno>
+      </org>
+      <org xml:id="dbl_026_org_17">
+        <orgName>Harper High School</orgName>
+        <idno type="WD">Q14687526</idno>
+      </org>
+      <org xml:id="dbl_026_org_18">
+        <orgName>Charles L Harper High School</orgName>
+        <idno type="WD">Q117514059</idno>
+      </org>
+      <org xml:id="dbl_026_org_19">
+        <orgName>Charles L Harper High School</orgName>
+        <idno type="WD">Q117514059</idno>
+      </org>
+      <org xml:id="dbl_026_org_20">
+        <orgName>Charles L Harper High School</orgName>
+        <idno type="WD">Q117514059</idno>
+      </org>
+      <org xml:id="dbl_026_org_21">
+        <orgName>Douglass High School</orgName>
+        <idno type="WD">Q5302169</idno>
+      </org>
+      <org xml:id="dbl_026_org_22">
+        <orgName>Douglass High School</orgName>
+        <idno type="WD">Q5302169</idno>
+      </org>
+      <org xml:id="dbl_026_org_23">
+        <orgName>Clayton County Public Schools</orgName>
+        <idno type="WD">Q5130207</idno>
+      </org>
+      <org xml:id="dbl_026_org_24">
+        <orgName>Atlanta Public Schools</orgName>
+        <idno type="WD">Q4816126</idno>
+      </org>
+      <org xml:id="dbl_026_org_25">
+        <orgName>Student Nonviolent Coordinating Committee</orgName>
+        <idno type="WD">Q127723</idno>
+      </org>
+      <org xml:id="dbl_026_org_26">
+        <orgName>J.W. Arnold Elementary</orgName>
+        <idno type="WD">Q117515392</idno>
+      </org>
+      <org xml:id="dbl_026_org_27">
+        <orgName>J.W. Arnold Elementary</orgName>
+        <idno type="WD">Q117515392</idno>
+      </org>
+      <org xml:id="dbl_026_org_28">
+        <orgName>J.W. Arnold Elementary</orgName>
+        <idno type="WD">Q117515392</idno>
+      </org>
+      <org xml:id="dbl_026_org_29">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_30">
+        <orgName>University of Michigan Law School</orgName>
+        <idno type="WD">Q911830</idno>
+      </org>
+      <org xml:id="dbl_026_org_31">
+        <orgName>United States Department of Justice</orgName>
+        <idno type="WD">Q1553390</idno>
+      </org>
+      <org xml:id="dbl_026_org_32">
+        <orgName>United States Department of Justice</orgName>
+        <idno type="WD">Q1553390</idno>
+      </org>
+      <org xml:id="dbl_026_org_33">
+        <orgName>Allegheny Airlines</orgName>
+        <idno type="WD">Q2837839</idno>
+      </org>
+      <org xml:id="dbl_026_org_34">
+        <orgName>US Airways</orgName>
+        <idno type="WD">Q208046</idno>
+      </org>
+      <org xml:id="dbl_026_org_35">
+        <orgName>Airports Council International</orgName>
+        <idno type="WD">Q409068</idno>
+      </org>
+      <org xml:id="dbl_026_org_36">
+        <orgName>US Airways</orgName>
+        <idno type="WD">Q208046</idno>
+      </org>
+      <org xml:id="dbl_026_org_37">
+        <orgName>Airports Council International</orgName>
+        <idno type="WD">Q409068</idno>
+      </org>
+      <org xml:id="dbl_026_org_38">
+        <orgName>Airports Council International</orgName>
+        <idno type="WD">Q409068</idno>
+      </org>
+      <org xml:id="dbl_026_org_39">
+        <orgName>Metropolitan Washington Airports Authority</orgName>
+        <idno type="WD">Q12177622</idno>
+      </org>
+      <org xml:id="dbl_026_org_40">
+        <orgName>Commerce</orgName>
+      </org>
+      <org xml:id="dbl_026_org_41">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_42">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_43">
+        <orgName>Morehouse College</orgName>
+        <idno type="WD">Q1524124</idno>
+      </org>
+      <org xml:id="dbl_026_org_44">
+        <orgName>Spelman College</orgName>
+        <idno type="WD">Q7575916</idno>
+      </org>
+      <org xml:id="dbl_026_org_45">
+        <orgName>Georgia Institute of Technology</orgName>
+        <idno type="WD">Q864855</idno>
+      </org>
+      <org xml:id="dbl_026_org_46">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_47">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_48">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_49">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_50">
+        <orgName>Brown University</orgName>
+        <idno type="WD">Q49114</idno>
+      </org>
+      <org xml:id="dbl_026_org_51">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_52">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_53">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_54">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_55">
+        <orgName>Wesleyan University</orgName>
+        <idno type="WD">Q49167</idno>
+      </org>
+      <org xml:id="dbl_026_org_56">
+        <orgName>Wesleyan University</orgName>
+        <idno type="WD">Q49167</idno>
+      </org>
+      <org xml:id="dbl_026_org_57">
+        <orgName>Wesleyan University</orgName>
+        <idno type="WD">Q49167</idno>
+      </org>
+      <org xml:id="dbl_026_org_58">
+        <orgName>Wesleyan University</orgName>
+        <idno type="WD">Q49167</idno>
+      </org>
+      <org xml:id="dbl_026_org_59">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_60">
+        <orgName>Wesleyan University</orgName>
+        <idno type="WD">Q49167</idno>
+      </org>
+      <org xml:id="dbl_026_org_61">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_62">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_63">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_64">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_65">
+        <orgName>Douglass High School</orgName>
+        <idno type="WD">Q5302169</idno>
+      </org>
+      <org xml:id="dbl_026_org_66">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_67">
+        <orgName>Hanover</orgName>
+        <idno type="WD">Q131908</idno>
+      </org>
+      <org xml:id="dbl_026_org_68">
+        <orgName>Douglass High School</orgName>
+        <idno type="WD">Q5302169</idno>
+      </org>
+      <org xml:id="dbl_026_org_69">
+        <orgName>Emory University</orgName>
+        <idno type="WD">Q621043</idno>
+      </org>
+      <org xml:id="dbl_026_org_70">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_71">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_72">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_73">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_74">
+        <orgName>United States Department of Education</orgName>
+        <idno type="WD">Q861556</idno>
+      </org>
+      <org xml:id="dbl_026_org_75">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_76">
+        <orgName>Girl Scouts of the USA</orgName>
+        <idno type="WD">Q2576280</idno>
+      </org>
+      <org xml:id="dbl_026_org_77">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_78">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_79">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_80">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_81">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_82">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_83">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_84">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_85">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_86">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_87">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_88">
+        <orgName>Atlanta City Council</orgName>
+        <idno type="WD">Q4816040</idno>
+      </org>
+      <org xml:id="dbl_026_org_89">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_90">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_91">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_92">
+        <orgName>Kutak Rock</orgName>
+        <idno type="WD">Q6448333</idno>
+      </org>
+      <org xml:id="dbl_026_org_93">
+        <orgName>University of Michigan</orgName>
+        <idno type="WD">Q230492</idno>
+      </org>
+      <org xml:id="dbl_026_org_94">
+        <orgName>University of Michigan Law School</orgName>
+        <idno type="WD">Q911830</idno>
+      </org>
+      <org xml:id="dbl_026_org_95">
+        <orgName>Metropolitan Atlanta Rapid Transit Authority</orgName>
+        <idno type="WD">Q1423792</idno>
+      </org>
+      <org xml:id="dbl_026_org_96">
+        <orgName>University of Michigan</orgName>
+        <idno type="WD">Q230492</idno>
+      </org>
+      <org xml:id="dbl_026_org_97">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_98">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_99">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_100">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_101">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_102">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_103">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_104">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_105">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_106">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_107">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_108">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_109">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_110">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_111">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_112">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_113">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_114">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_115">
+        <orgName>Dartmouth College Committee of Standards</orgName>
+        <idno type="WD">Q115044607</idno>
+      </org>
+      <org xml:id="dbl_026_org_116">
+        <orgName>Class of '76</orgName>
+        <idno type="WD">Q3284567</idno>
+      </org>
+      <org xml:id="dbl_026_org_117">
+        <orgName>Zoom</orgName>
+        <idno type="WD">Q94979732</idno>
+      </org>
+      <org xml:id="dbl_026_org_118">
+        <orgName>Zoom</orgName>
+        <idno type="WD">Q94979732</idno>
+      </org>
+      <org xml:id="dbl_026_org_119">
+        <orgName>The New York Times</orgName>
+        <idno type="WD">Q9684</idno>
+      </org>
+      <org xml:id="dbl_026_org_120">
+        <orgName>The Wall Street Journal</orgName>
+        <idno type="WD">Q164746</idno>
+      </org>
+      <org xml:id="dbl_026_org_121">
+        <orgName>Valley News</orgName>
+        <idno type="WD">Q7912156</idno>
+      </org>
+      <org xml:id="dbl_026_org_122">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_123">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_124">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_125">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_126">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_127">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_128">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_129">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_130">
+        <orgName>Afro-American Society at Dartmouth College</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_131">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_132">
+        <orgName>Massachusetts Institute of Technology</orgName>
+        <idno type="WD">Q49108</idno>
+      </org>
+      <org xml:id="dbl_026_org_133">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_134">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_135">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_136">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_137">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_138">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_139">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_140">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_141">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_142">
+        <orgName>Massachusetts Institute of Technology</orgName>
+        <idno type="WD">Q49108</idno>
+      </org>
+      <org xml:id="dbl_026_org_143">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_144">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_145">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_146">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_147">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_148">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_149">
+        <orgName>Black Alumni of Dartmouth Association</orgName>
+        <idno type="WD">Q117514486</idno>
+      </org>
+      <org xml:id="dbl_026_org_150">
+        <orgName>Black Alumni of Dartmouth Association</orgName>
+        <idno type="WD">Q117514486</idno>
+      </org>
+      <org xml:id="dbl_026_org_151">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_152">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_153">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_154">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_155">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_156">
+        <orgName>Rensselaer Polytechnic Institute</orgName>
+        <idno type="WD">Q49211</idno>
+      </org>
+      <org xml:id="dbl_026_org_157">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_158">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_159">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_160">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_161">
+        <orgName>gospel choir</orgName>
+        <idno type="WD">Q1538570</idno>
+      </org>
+      <org xml:id="dbl_026_org_162">
+        <orgName>Dartmouth Alumni Council</orgName>
+        <idno type="WD">Q114879368</idno>
+      </org>
+      <org xml:id="dbl_026_org_163">
+        <orgName>Black Alumni of Dartmouth Association</orgName>
+        <idno type="WD">Q117514486</idno>
+      </org>
+      <org xml:id="dbl_026_org_164">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_165">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_166">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_167">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_168">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_169">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_170">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_171">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_172">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
