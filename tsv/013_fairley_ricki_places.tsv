@@ -1,45 +1,44 @@
-id	placeName
-dbl_013_place_0	Shabazz Center for Intellectual Inquiry
-dbl_013_place_1	Hanover, New Hampshire
-dbl_013_place_2	Annapolis, Maryland
-dbl_013_place_3	Washington, D.C.
-dbl_013_place_4	D.C.
-dbl_013_place_5	Silver Spring, Maryland
-dbl_013_place_6	Silver Spring, Maryland
-dbl_013_place_7	Chicago
-dbl_013_place_8	Hanover
-dbl_013_place_9	Hanover
-dbl_013_place_10	Hanover
-dbl_013_place_11	the Hanover Inn
-dbl_013_place_12	Hanover
-dbl_013_place_13	Hanover
-dbl_013_place_14	Hanover
-dbl_013_place_15	Hanover
-dbl_013_place_16	Virginia
-dbl_013_place_17	Cincinnati
-dbl_013_place_18	Channing Cox
-dbl_013_place_19	Channing Cox.
-dbl_013_place_20	Sanborn House
-dbl_013_place_21	Green
-dbl_013_place_22	the green
-dbl_013_place_23	Hanover
-dbl_013_place_24	Maryland
-dbl_013_place_25	Lou's
-dbl_013_place_26	Manchester [,New Hampshire]
-dbl_013_place_27	China
-dbl_013_place_28	Hanover
-dbl_013_place_29	Hanover
-dbl_013_place_30	Amanda
-dbl_013_place_31	Hanover
-dbl_013_place_32	Boston
-dbl_013_place_33	California
-dbl_013_place_34	California
-dbl_013_place_35	LA
-dbl_013_place_36	Atlanta
-dbl_013_place_37	the Chesapeake Bay
-dbl_013_place_38	Hanover
-dbl_013_place_39	Hanover
-dbl_013_place_40	Paris
-dbl_013_place_41	D.C.
-dbl_013_place_42	Hanover
-dbl_013_place_43	Hanover
+id	placeName	QID	dbl_id	coordinate location
+dbl_013_place_0	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
+dbl_013_place_1	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_2	Annapolis	Q28271		38.978611111111114,-76.49194444444444
+dbl_013_place_3	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_013_place_4	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_013_place_5	Silver Spring	Q755741		39.002441,-77.020791
+dbl_013_place_6	Silver Spring	Q755741		39.002441,-77.020791
+dbl_013_place_7	Chicago	Q1297		41.85003,-87.65005
+dbl_013_place_8	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_9	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_10	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_11	Hanover Inn Dartmouth	Q56427380		43.70224,-72.28899
+dbl_013_place_12	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_13	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_14	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_15	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_16	Virginia	Q1370		37.5,-79
+dbl_013_place_17	Cincinnati	Q43196		39.1,-84.5125
+dbl_013_place_18	River Cluster	Q108887715		43.704013,-72.296405
+dbl_013_place_19	River Cluster	Q108887715		43.704013,-72.296405
+dbl_013_place_20	Sanborn House	Q107672686		43.70472849774863,-72.28940546645217
+dbl_013_place_21	The Green	Q7738117		43.7033,-72.2886
+dbl_013_place_22	The Green	Q7738117		43.7033,-72.2886
+dbl_013_place_23	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_24	Maryland	Q1391		39,-76.7
+dbl_013_place_25	Lou's Bakery & Restaurant	Q105427593		43.7015263,-72.2891712
+dbl_013_place_26	Manchester	Q48370		42.990833333333,-71.463611111111
+dbl_013_place_27	People's Republic of China	Q148		35.844722222222224,103.45194444444445
+dbl_013_place_28	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_29	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_31	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_32	Boston	Q100		42.360277777777775,-71.05777777777777
+dbl_013_place_33	California	Q99		37,-120
+dbl_013_place_34	California	Q99		37,-120
+dbl_013_place_35	Los Angeles	Q65		34.05223,-118.24368
+dbl_013_place_36	Atlanta	Q23556		33.756944444444,-84.390277777778
+dbl_013_place_37	Chesapeake Bay	Q216868		37.248056,-76.119444
+dbl_013_place_38	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_39	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_40	Paris	Q90		48.85666666666667,2.352222222222222
+dbl_013_place_41	Washington, D.C.	Q61		38.895,-77.036666666667
+dbl_013_place_42	Hanover	Q131908		43.7,-72.28333333333333
+dbl_013_place_43	Hanover	Q131908		43.7,-72.28333333333333

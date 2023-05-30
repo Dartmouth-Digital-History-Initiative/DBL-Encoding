@@ -1,135 +1,117 @@
-id	orgName
-dbl_013_org_0	Dartmouth College
-dbl_013_org_1	class of ’78
-dbl_013_org_2	Dartmouth
-dbl_013_org_3	the Dartmouth Black Lives Oral History Project
-dbl_013_org_4	class of '55
-dbl_013_org_5	Dartmouth
-dbl_013_org_6	Stanford
-dbl_013_org_7	department of education
-dbl_013_org_8	Dartmouth
-dbl_013_org_9	Dartmouth
-dbl_013_org_10	Dartmouth
-dbl_013_org_11	Dartmouth
-dbl_013_org_12	Dartmouth
-dbl_013_org_13	Brown
-dbl_013_org_14	Dartmouth
-dbl_013_org_15	Brown
-dbl_013_org_16	Brown
-dbl_013_org_17	Dartmouth
-dbl_013_org_18	Dartmouth
-dbl_013_org_19	BADA
-dbl_013_org_20	Dartmouth
-dbl_013_org_21	Dartmouth
-dbl_013_org_22	Dartmouth
-dbl_013_org_23	Dartmouth
-dbl_013_org_24	Dartmouth
-dbl_013_org_25	Dartmouth
-dbl_013_org_26	‘07
-dbl_013_org_27	Dartmouth
-dbl_013_org_28	Amanda
-dbl_013_org_29	'07
-dbl_013_org_30	'07
-dbl_013_org_31	BUTA
-dbl_013_org_32	Dartmouth
-dbl_013_org_33	Dartmouth
-dbl_013_org_34	'78
-dbl_013_org_35	'78
-dbl_013_org_36	Dartmouth
-dbl_013_org_37	Afro-American Society
-dbl_013_org_38	AAm 
-dbl_013_org_39	AAm
-dbl_013_org_40	AAm
-dbl_013_org_41	AAm
-dbl_013_org_42	'76
-dbl_013_org_43	‘14
-dbl_013_org_44	Dartmouth
-dbl_013_org_45	Alphas
-dbl_013_org_46	Dartmouth
-dbl_013_org_47	AAm
-dbl_013_org_48	BUTA
-dbl_013_org_49	Dean Trainum
-dbl_013_org_50	BADA
-dbl_013_org_51	Dartmouth
-dbl_013_org_52	BUTA
-dbl_013_org_53	Black Praxis
-dbl_013_org_54	AAm
-dbl_013_org_55	BADA
-dbl_013_org_56	BUTA
-dbl_013_org_57	'78]
-dbl_013_org_58	English Department
-dbl_013_org_59	Dartmouth
-dbl_013_org_60	Dartmouth
-dbl_013_org_61	Dartmouth
-dbl_013_org_62	Dartmouth
-dbl_013_org_63	Dartmouth
-dbl_013_org_64	Columbia
-dbl_013_org_65	Cornell
-dbl_013_org_66	Dartmouth
-dbl_013_org_67	AAm
-dbl_013_org_68	The Dartmouth
-dbl_013_org_69	'76
-dbl_013_org_70	Dartmouth
-dbl_013_org_71	'78
-dbl_013_org_72	General Electric
-dbl_013_org_73	Touch the Black Breast Cancer Alliance
-dbl_013_org_74	Dartmouth
-dbl_013_org_75	Emory
-dbl_013_org_76	Michigan
-dbl_013_org_77	'91
-dbl_013_org_78	the Triple Negative Breast Cancer
-dbl_013_org_79	Obama campaign
-dbl_013_org_80	University of Georgia
-dbl_013_org_81	Breast Cancer
-dbl_013_org_82	the Black Alumni Network of Dartmouth
-dbl_013_org_83	BADA
-dbl_013_org_84	“When We Trial”
-dbl_013_org_85	YouTube
-dbl_013_org_86	BADA
-dbl_013_org_87	BADA
-dbl_013_org_88	BADA
-dbl_013_org_89	BADA
-dbl_013_org_90	Dartmouth
-dbl_013_org_91	Dartmouth
-dbl_013_org_92	BADA
-dbl_013_org_93	Dartmouth
-dbl_013_org_94	'57]
-dbl_013_org_95	'57
-dbl_013_org_96	'57
-dbl_013_org_97	'72
-dbl_013_org_98	BADA
-dbl_013_org_99	Dartmouth
-dbl_013_org_100	Coke
-dbl_013_org_101	Dartmouth
-dbl_013_org_102	'20
-dbl_013_org_103	'20
-dbl_013_org_104	Instagram
-dbl_013_org_105	Alumni Council
-dbl_013_org_106	BADA
-dbl_013_org_107	BADA
-dbl_013_org_108	'85
-dbl_013_org_109	’82
-dbl_013_org_110	Dartmouth
-dbl_013_org_111	Dartmouth
-dbl_013_org_112	BADA
-dbl_013_org_113	'78
-dbl_013_org_114	Wisconsin
-dbl_013_org_115	University of Wisconsin
-dbl_013_org_116	University of Wisconsin
-dbl_013_org_117	Dartmouth
-dbl_013_org_118	Dartmouth
-dbl_013_org_119	'92
-dbl_013_org_120	Dartmouth
-dbl_013_org_121	Dartmouth
-dbl_013_org_122	Dartmouth
-dbl_013_org_123	ROTC
-dbl_013_org_124	Tufts
-dbl_013_org_125	Tufts
-dbl_013_org_126	Tufts
-dbl_013_org_127	Tufts
-dbl_013_org_128	Dartmouth
-dbl_013_org_129	Dartmouth
-dbl_013_org_130	Dartmouth
-dbl_013_org_131	Dartmouth
-dbl_013_org_132	Dartmouth
-dbl_013_org_133	'78
+id	orgName	QID	dbl_id
+dbl_013_org_0	Dartmouth College	Q49116	
+dbl_013_org_1	Dartmouth College Class of 1978	Q116569914	
+dbl_013_org_2	Dartmouth College	Q49116	
+dbl_013_org_3	Dartmouth Black Lives	Q114647391	
+dbl_013_org_4	Dartmouth College Class of 1955	Q116570314	
+dbl_013_org_5	Dartmouth College	Q49116	
+dbl_013_org_6	Stanford University	Q41506	
+dbl_013_org_7	Department of Education	Q116551405	
+dbl_013_org_8	Dartmouth College	Q49116	
+dbl_013_org_9	Dartmouth College	Q49116	
+dbl_013_org_10	Dartmouth College	Q49116	
+dbl_013_org_11	Dartmouth College	Q49116	
+dbl_013_org_12	Dartmouth College	Q49116	
+dbl_013_org_13	Brown University	Q49114	
+dbl_013_org_14	Dartmouth College	Q49116	
+dbl_013_org_15	Brown University	Q49114	
+dbl_013_org_16	Brown University	Q49114	
+dbl_013_org_17	Dartmouth College	Q49116	
+dbl_013_org_18	Dartmouth College	Q49116	
+dbl_013_org_19	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_20	Dartmouth College	Q49116	
+dbl_013_org_21	Dartmouth College	Q49116	
+dbl_013_org_22	Dartmouth College	Q49116	
+dbl_013_org_23	Dartmouth College	Q49116	
+dbl_013_org_24	Dartmouth College	Q49116	
+dbl_013_org_25	Dartmouth College	Q49116	
+dbl_013_org_27	Dartmouth College	Q49116	
+dbl_013_org_29	Dartmouth College Class of 2007	Q116570653	
+dbl_013_org_30	Dartmouth College Class of 2007	Q116570653	
+dbl_013_org_31	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_32	Dartmouth College	Q49116	
+dbl_013_org_33	Dartmouth College	Q49116	
+dbl_013_org_36	Dartmouth College	Q49116	
+dbl_013_org_37	Afro-American Society at Dartmouth College	Q114879775	
+dbl_013_org_38	Afro-American Society at Dartmouth College	Q114879775	
+dbl_013_org_39	Afro-American Society at Dartmouth College	Q114879775	
+dbl_013_org_40	Afro-American Society at Dartmouth College	Q114879775	
+dbl_013_org_41	Afro-American Society at Dartmouth College	Q114879775	
+dbl_013_org_42	Dartmouth College Class of 1976	Q115010988	
+dbl_013_org_44	Dartmouth College	Q49116	
+dbl_013_org_45	Alpha Phi Alpha	Q2839513	
+dbl_013_org_46	Dartmouth College	Q49116	
+dbl_013_org_47	Afro-American Society at Dartmouth College	Q114879775	
+dbl_013_org_48	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_50	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_51	Dartmouth College	Q49116	
+dbl_013_org_52	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_53	Black Praxis	Q115027533	
+dbl_013_org_54	Afro-American Society at Dartmouth College	Q114879775	
+dbl_013_org_55	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_56	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_58	Dartmouth College Department of English	Q108871738	
+dbl_013_org_59	Dartmouth College	Q49116	
+dbl_013_org_60	Dartmouth College	Q49116	
+dbl_013_org_61	Dartmouth College	Q49116	
+dbl_013_org_62	Dartmouth College	Q49116	
+dbl_013_org_63	Dartmouth College	Q49116	
+dbl_013_org_64	Columbia University	Q49088	
+dbl_013_org_65	Cornell University	Q49115	
+dbl_013_org_66	Dartmouth College	Q49116	
+dbl_013_org_67	Afro-American Society at Dartmouth College	Q114879775	
+dbl_013_org_68	The Dartmouth	Q7729068	
+dbl_013_org_69	Dartmouth College Class of 1976	Q115010988	
+dbl_013_org_70	Dartmouth College	Q49116	
+dbl_013_org_72	General Electric	Q54173	
+dbl_013_org_73	Touch the Black Breast Cancer Alliance	Q116552747	
+dbl_013_org_74	Dartmouth College	Q49116	
+dbl_013_org_75	Emory University	Q621043	
+dbl_013_org_76	University of Michigan	Q230492	
+dbl_013_org_78	The Triple Negative Breast Cancer Foundation	Q7770259	
+dbl_013_org_79	"Barack Obama presidential campaign, 2012"	Q4858123	
+dbl_013_org_80	University of Georgia	Q761534	
+dbl_013_org_82	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_83	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_84	When We Trail	Q116553865	
+dbl_013_org_85	YouTube	Q866	
+dbl_013_org_86	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_87	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_88	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_89	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_90	Dartmouth College	Q49116	
+dbl_013_org_91	Dartmouth College	Q49116	
+dbl_013_org_92	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_93	Dartmouth College	Q49116	
+dbl_013_org_96	Dartmouth College Class of 1957	Q116571185	
+dbl_013_org_98	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_99	Dartmouth College	Q49116	
+dbl_013_org_100	The Coca-Cola Company	Q3295867	
+dbl_013_org_101	Dartmouth College	Q49116	
+dbl_013_org_103	Dartmouth College Class of 2020	Q116571831	
+dbl_013_org_104	Instagram	Q209330	
+dbl_013_org_105	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_106	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_107	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_110	Dartmouth College	Q49116	
+dbl_013_org_111	Dartmouth College	Q49116	
+dbl_013_org_112	Black Alumni of Dartmouth Association	Q116551499	
+dbl_013_org_114	University of Wisconsin–Madison	Q838330	
+dbl_013_org_115	University of Wisconsin–Madison	Q838330	
+dbl_013_org_116	University of Wisconsin–Madison	Q838330	
+dbl_013_org_117	Dartmouth College	Q49116	
+dbl_013_org_118	Dartmouth College	Q49116	
+dbl_013_org_120	Dartmouth College	Q49116	
+dbl_013_org_121	Dartmouth College	Q49116	
+dbl_013_org_122	Dartmouth College	Q49116	
+dbl_013_org_123	Reserve Officers' Training Corps	Q489983	
+dbl_013_org_124	Tufts University	Q49120	
+dbl_013_org_125	Tufts University	Q49120	
+dbl_013_org_126	Tufts University	Q49120	
+dbl_013_org_127	Tufts University	Q49120	
+dbl_013_org_128	Dartmouth College	Q49116	
+dbl_013_org_129	Dartmouth College	Q49116	
+dbl_013_org_130	Dartmouth College	Q49116	
+dbl_013_org_131	Dartmouth College	Q49116	
+dbl_013_org_132	Dartmouth College	Q49116	
+dbl_013_org_133	Dartmouth College Class of 1978	Q116569914	
