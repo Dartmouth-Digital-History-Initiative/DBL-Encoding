@@ -1,0 +1,871 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dbl_017">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Wendy Kendrick</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Black Lives</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dbl_017</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="01:37:00">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="https://course-exhibits.library.dartmouth.edu/s/HIST10_04_21F/item/3197" mimeType="MIMEaudtio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Jackelinne Claros Benitez</persName>
+            <orgName>Dartmouth Black Lives</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="BENITEZ"/>
+        <person xml:id="KENDRICK"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2022-10-25"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="BENITEZ">My name is <persName ref="#dbl_017_person_0">Jackelinne Benitez</persName>, and I'm at the <orgName ref="#dbl_017_org_0">Latin American, Latino, and Caribbean House</orgName> within <orgName ref="#dbl_017_org_1">Dartmouth College</orgName>, in <placeName ref="#dbl_017_place_0">Hanover New Hampshire</placeName>. I'm doing a virtual interview with <persName ref="#dbl_017_person_1">Wendy Kendrick</persName>, who is in <placeName ref="#dbl_017_place_1">Gahanna, Ohio</placeName>. Today is <date when="2022-10-30">October 30th 2022</date> and this is an interview for the <orgName ref="#dbl_017_org_2">Dartmouth Black Lives</orgName> oral history project. Hi <persName ref="#dbl_017_person_2">Wendy</persName>. Thank you so much for joining me today. We appreciate it.</u>
+      <u who="KENDRICK">Thanks for having me.</u>
+      <u who="BENITEZ">First, I'd like to learn a little about your childhood. Can you please state when and where you were born?</u>
+      <u who="KENDRICK">I was born on <date when="1995-01-15">January 15th, 1955</date> in <placeName ref="#dbl_017_place_2">Georgetown, Kentucky</placeName>. I am one of five children and I am the second oldest in my family.</u>
+      <u who="BENITEZ">Thank you. Can you tell me the names of your parents, please?</u>
+      <u who="KENDRICK">Yes. My dad was <persName ref="#dbl_017_person_3">Theodore Thompson</persName> and my mom was <persName ref="#dbl_017_person_4">Catherine Thompson</persName>. </u>
+      <u who="BENITEZ">Oh, got it. What was it like growing up in <placeName ref="#dbl_017_place_4">Gahanna, Ohio</placeName> and your other hometown, <placeName ref="#dbl_017_place_5">Georgetown, Kentucky</placeName>?</u>
+      <u who="KENDRICK">Okay, so I was born in <placeName ref="#dbl_017_place_6">Kentucky</placeName>, but my parents moved when I was young. We moved to <placeName ref="#dbl_017_place_7">Cincinnati</placeName>. I started kindergarten in <placeName ref="#dbl_017_place_8">Cincinnati</placeName> when I was four at <orgName ref="#dbl_017_org_3">Rockdale Temple</orgName> in <placeName ref="#dbl_017_place_9">Cincinnati</placeName> and we stayed there until I was in third grade. Then we moved to <placeName ref="#dbl_017_place_10">Dayton, Ohio </placeName>and that's where I spent the rest of my years until my high school graduation.</u>
+      <u who="BENITEZ">Is there a particular reason why you kept moving as a family?</u>
+      <u who="KENDRICK">I was wondering when I thought about that. It's something that I realized when I was in my teen years. I'm imagining, <persName ref="#dbl_017_person_5">Jackie</persName>, it was probably because of jobs and housing. I was born in the mid 50's, so if you look at what was going on in the <placeName ref="#dbl_017_place_11">US</placeName>, you can see the racial climate and how housing was a major concern, not only for African Americans, but for other people as well. Particularly, those coming to the <placeName ref="#dbl_017_place_12">U.S.</placeName>, immigrants, but for African-Americans as well. You had redlining. It's just a lot of things that were happening and so I have wondered about that. Because when I look at my younger siblings, they grew up in one house from a young age all the way through high school. Whereas in my early years, we were kind of moving around some so I'm not really sure. Unfortunately, my parents are both deceased so I can't ask them those questions now. But I do think about that sometimes and wonder but I imagine it was definitely for work and just trying to provide the best for the family.</u>
+      <u who="BENITEZ">Got it. Thank you for sharing that with me. What is your happiest childhood memory?</u>
+      <u who="KENDRICK">Happiest...Wow. Let's see. Lots of happy memories. I can remember, I was a zoo fan. I loved the zoo and my mom had one of her dear friends. They did not have any children and so Ms. Eloise will come and get me sometimes and take me on outings. I remember this particular outfit, I had on, oh my goodness, I had to have been probably three or four and I just remember getting dressed up in this–It was called a skort because it was a little plaid skirt. It was a sailor top white with a little plaid trim. I was cute. I had that on and we went to the zoo and it was so special. That was probably one of the earliest memories I have of going somewhere with someone other than my family and so it made me feel so special. Yeah, the zoo was a big to-do for me.</u>
+      <u who="BENITEZ">Got it. Were you passionate about art from a young age?</u>
+      <u who="KENDRICK">I was, I was. I think my earliest memory was with crayons, the smell of crayons, a new box of crayons. I haven't done [this in] the last two years, but typically, every school year, even though I'm not always in a school [but I typically have them draw]. Anyhow, definitely drawing was always my passion. I can remember one of the stories my mom used to tell all the time about me when she first realized I could draw. I had to have been three or four, and I came into the kitchen. She was cooking and I came into the kitchen to show her this picture.  [This] is the squirrel story. Okay? Bear with me <persName ref="#dbl_017_person_6">Jackie</persName>. So, it was a picture of a squirrel. I was telling my mom [while I] was excited [that] I drew this picture of a squirrel. My mother said, “No, <persName ref="#dbl_017_person_7">Wendy</persName> you didn't draw that. You traced it.” I knew to be respectful but I was trying to tell her. “No, I drew it.” As the story goes, I kept insisting that I drew it and she just finally said “Okay, show me. Where the picture that you looked at if you drew it [was]. It was in a coloring book and she took the paper and placed it on top of the picture. She [noticed] it didn't fit. That was when she realized I had actually drawn it and not traced it.</u>
+      <u who="BENITEZ">That reminds me of my younger sister because she can draw better than me. She's only 13. Her artwork is really impressive. I always tell her to always follow her passion no matter what anyone tells there, because I know that there's this negative association correlated to the arts as opposed to fields like STEM.</u>
+      <u who="KENDRICK">Yeah, I know what that's about. But yes, we got to combat that.</u>
+      <u who="BENITEZ">Yes, we do. Were your parents always supportive of your art passion?</u>
+      <u who="KENDRICK">No, no, no. So think about when I was a kid. They didn't get me. They didn't understand me for a long time because, even now, when I think about it, it probably just sounds crazy because as a kid, I was interested. I didn't know exactly how I was going to maneuver this journey, but I knew there was something about the arts that I really really loved. It wasn't dance, it wasn't performance, or anything like that. I did write a little bit in elementary [as] I started writing some. But, I can remember going in one day and [I saw in the] early morning some kind of little documentary on the TV and it was on glass blowing and it just did something for me. I remember going in and telling my mom I know what I want to be–I want to be a glassblower. She looked at me as if I was an alien that just landed on Earth. [laughter] She had just witnessed the landing and I didn't understand why she wasn't excited because I was so excited to see this guy blowing this glass. This form just appeared in front of my eyes and I was like this is so amazing and so they tried to drive home to me to go to school and major in business, or education to get a good job because that's where they had ended up. My parents had difficulty initially after college. [Both of them] went to college. They went to <orgName ref="#dbl_017_org_57">Kentucky State [University]</orgName>. When I was an infant, [they left] my brother who was a couple years ahead of me [and me] with my grandmother in <placeName ref="#dbl_017_place_14">Kentucky</placeName>, to go for an interview. They had an interview for teaching positions in <placeName ref="#dbl_017_place_15">Michigan</placeName>, and so, they drove all the way to <placeName ref="#dbl_017_place_16">Michigan</placeName> from <placeName ref="#dbl_017_place_17">Kentucky</placeName>.  When they got there, they were told [by] the guy who spoke with them on the phone–who had verbally hired them and they had the paperwork and all that– [and] he said he could not hire them because on the phone, they didn't sound Black. So they didn't get the position. Actually, it made it into <orgName ref="#dbl_017_org_4">Jet Magazine</orgName> way back that little tiny article about them. So based upon that, when I was coming along, that's some of the things that my parents went through. So they tried to guide us according to what they knew at that time and what they felt was best for us and they surely did not know any artist. I guess it did seem really foreign–that kind of understanding I have at this point in my life. But when I was younger, I didn't have that understanding and I didn't understand why they responded to the things that interested me the way they did. </u>
+      <u who="BENITEZ">Alright. You briefly mentioned your grandmother, and I remember from a [<orgName ref="#dbl_017_org_5">PBS</orgName>] documentary my professors shared with me that you had mentioned that quilting reminded you of her. How was she a primary figure in your passion for art?</u>
+      <u who="KENDRICK">My grandmother is my mom's mother, and we called her Big Momma. She was a seamstress, and she sewed for people in town. She was an excellent cook. My mom was one of three girls in her family. My mother was the youngest and her other two sisters had gone to college but they did not stay. They went for the first year and then they said, it wasn't for them and came back home. </u>
+      <u who="KENDRICK">So, we would go down to <placeName ref="#dbl_017_place_18">Kentucky</placeName>, to <placeName ref="#dbl_017_place_19">Georgetown</placeName>, to spend the summers. When we went, I never knew where my siblings were because I didn't really care. </u>
+      <u who="KENDRICK">I just stuck with my grandmother. I loved everything that she did. I loved to sit at her feet when she was sewing on that old sewing machine and all of these scraps would fall to the floor and she would take those. I had Barbies back then. She would make these clothes for my Barbie dolls and they were the best. I mean, it would be a hat. It might have been a tweed fabric because she was sewing for an adult and so she would take those scraps, and without any pattern, I don't know how she did it, but she would make the best Barbie clothes ever. Better than anything that you would find in the store and so, she did that, she taught me some forms of macrame. It was actually a bag. It was like a drawstring bag and it was macrame. She didn't call it macrame, but she just taught me how to do it and the house was decorated. [There] was crochet; the toilet paper had a crocheted cover. </u>
+      <u who="KENDRICK">The cookie jar had a cover on it, all these kinds of things I saw created in that environment and I just loved it. I still have a cookie jar cover that my grandmother created and had to have been made in the 60s. It was made out of cotton stocking if you can imagine. So it's seen better days, but I keep it because it's a reminder of her, so she always felt she got me. She understood me. She just fed that creative part of me. </u>
+      <u who="KENDRICK">My dad was very creative as well and he fed it too. I always say my grandmother, but my dad was very creative. He could make anything; my dad made furniture. I remember him making a coffee table when I was probably about four or five. I saw him make lamps. Whatever he thought of he could make: bookcases, artwork, whatever. </u>
+      <u who="KENDRICK">One day, [I saw him] pick up a piece of black and orange construction paper, and a razor blade and cut this silhouette out and glued it down to the white paper. He added this orange piece around the neck and I was like, woah and he put it in a frame and it hung in our house. Yes, he did feed into me a lot, and it's interesting because I was the only one that he fed that stuff to. My other siblings got other things from him, but he was the one that fed me creatively between the two parents. My mom was a storyteller, so she loved storytelling but my grandmother? Yeah, I always felt like she got me, she really did.</u>
+      <u who="BENITEZ">I’m so happy to hear that you were able to received support from a few family members. Did you feel supported by your teachers in elementary school and middle school in regards to your art passion?</u>
+      <u who="KENDRICK">Elementary? Art was different back then. Art was on a cart when you had it. I don't remember it until I got into fourth grade and fourth grade was definitely on a cart prior to that. We probably had some form, but there was no specific art class and my art teacher in the fourth grade, (we were living in <placeName ref="#dbl_017_place_20">Dayton</placeName>) her name was Mrs. McGee. She also happened to be a Black woman which I thought was cool because we didn't have a lot of Black teachers. I thought she was cool too because she was very striking. She was dark complexioned. But, she had this shock of almost white hair, a streak of it in her hair. I thought that was pretty cool because I had never seen that.  Well, she actually lived in <placeName ref="#dbl_017_place_21">Cincinnati</placeName> and she commuted to <placeName ref="#dbl_017_place_22">Dayton</placeName> to teach. So, what stood out for me was when she taught us how to make these paper mache puppets from a light bulb and I was like, oh my goodness. This is the coolest thing I've ever seen in my life. Well, that was the first art teacher I can recall having in fourth grade.  My teacher in high school [was also] a work meister, bless her soul. She was extremely supportive. At that point, we lived in <placeName ref="#dbl_017_place_23">Dayton</placeName> and we lived outside the city limits in what's called <placeName ref="#dbl_017_place_24">Jefferson Township</placeName>, a farming community. It was actually a German community and eventually Black families started moving in and then the school system changed in terms of the diversity as time went on. When I got to high school, she realized how much art meant to me and how passionate I was and back in those days, art was a class. We had small rooms with tables where everybody sat. There was a small back room that housed a kiln and the kids in my class, unfortunately, they just came in the class because they thought it was an easy A, but that's not why I was there.  So here I am trying to create all these things. Eventually, she let me pretty much do just kind of like an independent study. The whole time I took art in high school because she would allow me to bring my materials in from home. I would lug in chicken wire. I remember creating this giraffe; this huge giraffe out of chicken wire and she allowed me to do it in the back room away from all the other stuff that was going on in the classroom. She eventually connected me to a place that was called The <orgName ref="#dbl_017_org_6">Living Arts Center</orgName> [during my senior year of high school]. It was in <placeName ref="#dbl_017_place_25">Dayton, Ohio</placeName> and she told me about it. However, you have to be a City of <placeName ref="#dbl_017_place_26">Dayton</placeName> resident, and we lived outside the city. But somehow, she contacted the center. She told me to fill out the application and I was able to attend. By going there, that's where I first met a living artist, as a high school senior. His name is <persName ref="#dbl_017_person_8">Bing Davis</persName> [and] he still lives in <placeName ref="#dbl_017_place_27">Dayton</placeName>. He was very very supportive, and became someone who encouraged me almost all the way through college and still [continues to do so] to this day. So, yeah, she was very supportive and I tried to find her and have been unable to.</u>
+      <u who="BENITEZ">Thank you so much for sharing that with me. It makes me really happy to hear that you had a lot of support in high school. Now, transitioning to high school and college. What high school did you attend and where was it located?</u>
+      <u who="KENDRICK">Okay. I attended <orgName ref="#dbl_017_org_7">Jefferson Township High School</orgName> located in <placeName ref="#dbl_017_place_28">Jefferson Township</placeName>, a suburb of <placeName ref="#dbl_017_place_29">Dayton, Ohio</placeName>.</u>
+      <u who="BENITEZ">Got it, thank you. Did you have high school friends who shared your art passion? Do you still keep in touch with them?</u>
+      <u who="KENDRICK">There were. I would say not as serious as I was. There were a couple of guys in my art class who liked to draw and then there was a friend I had in middle school who had a passion for dance. Actually, she went on and made a career of it and her name was <persName ref="#dbl_017_person_9">Donna Wood</persName>. She went on to dance [at the] <orgName ref="#dbl_017_org_8">Alvin Ailey</orgName> [Dance Theater]. I know she was a lead and she really went for it, but she was as passionate about dance, as I was about the visual arts. But when we got to high school, she went to another high school. She switched to another high school and so no, there really wasn't [anyone with the same visual arts passion]. There were a couple of guys who liked to draw, but for me it was something much deeper. It was hard to explain, but it meant a lot more to me than what it did to other classmates.</u>
+      <u who="BENITEZ">Right. It's really impressive that you continued on with your passion, despite being the only one. Now transitioning to college. Who or what influenced you to apply to college?</u>
+      <u who="KENDRICK">Okay. In our family, education was very important. My parents were the first generation on both sides to go to college. My grandmother [and] my great-grandmother on my mom's side were very, very passionate readers. My great-grandmother lost her sight. Probably started losing it maybe when I was in middle school, and by the time I was in high school, she had completely lost her sight. She had cataracts and she was afraid. She had never been hospitalized, and she was afraid to have the surgery so she didn't get it taken care of. So she ended up losing her sight but she loved to be read to. </u>
+      <u who="KENDRICK">us on trips on Friday evenings. My mom and dad both went to <orgName ref="#dbl_017_org_9">Kentucky State</orgName> [University] and there was no question about it. We all knew we were going to college; that was a given. However, my parents wanted me to go to <orgName ref="#dbl_017_org_10">Kentucky State</orgName> and that was a point of contention. That was the first time I rebelled against my parents. Yeah, it was. I came from a really strict household. I look at it now, and I know my parents were doing what they thought was best for us to keep us safe and to provide and take care of us and all that, which I'm thankful for, but I was really wanting to get out. </u>
+      <u who="KENDRICK">Yes, I just wanted to get out and get away. I felt like if I had gone to <orgName ref="#dbl_017_org_11">Kentucky State</orgName>, that was too close to <placeName ref="#dbl_017_place_30">Ohio</placeName> and I had a vision of my parents popping up on the weekends unannounced and I [didn’t] want that. It probably wouldn't have been that way and, hindsight, I see it differently now, as I've gotten older in terms of what they probably were trying to do for me but I didn't understand it. I didn't feel like it was communicated really well. I imagine they were trying to protect me again based upon their experiences but when it came to college, my brother went to <orgName ref="#dbl_017_org_12">Dartmouth</orgName>. That's how I knew about <orgName ref="#dbl_017_org_13">Dartmouth</orgName> but that was not where I wanted to go. I really was interested in the sister schools. I was interested in either going to <orgName ref="#dbl_017_org_14">Wellesley</orgName> [College], <orgName ref="#dbl_017_org_15">Smith</orgName> [College], or <orgName ref="#dbl_017_org_16">Radcliffe [Institute for Advanced Study]</orgName>. So yes, education was definite in our house.</u>
+      <u who="BENITEZ">Got it. Thank you. I can somewhat relate.I'm from <placeName ref="#dbl_017_place_31">New York City</placeName>, [specifically] the <placeName ref="#dbl_017_place_32">Bronx</placeName>, and my parents wanted me to stay within the <placeName ref="#dbl_017_place_33">New York City</placeName> [area]. I remember telling them that I had gotten into <orgName ref="#dbl_017_org_17">Dartmouth</orgName> and one of the first things my dad said was, “Oh, so you just want to leave us?” That really struck me. It made it really hard. Oh yeah, because I'm a very family-oriented person. I am the eldest daughter of my immediate family; I'm the first to go to college. First- gen, low-income, so there's a lot of pressure.</u>
+      <u who="KENDRICK">Yeah, that didn't go well, I'll say.</u>
+      <u who="BENITEZ">Right.</u>
+      <u who="KENDRICK">Well, it actually resulted in me becoming estranged from my family. It was that serious. Yeah. Oh yeah, it was. So the whole time I was in <orgName ref="#dbl_017_org_18">Dartmouth</orgName> I was just there. My dad was through with me and so because it was so far away for one, I'm sure they were trying to figure out how they're going to pay for this. My brother had gone. By the time I got to campus, my brother was a senior and so there were three more kids coming behind me, but I just couldn't, I don't know. I just couldn't do it. I just could not do it. I just had to go my own path. I had to do that. So yeah, so I had to pay the consequences on that one.</u>
+      <u who="BENITEZ">Yeah. I mean at the end it seems like it was all worth it.</u>
+      <u who="KENDRICK">Yes. Yes, I think it was like a given yes.</u>
+      <u who="BENITEZ">You mentioned that you wanted to go to the sister colleges. What caused you to decide to ultimately attend <orgName ref="#dbl_017_org_19">Dartmouth</orgName> instead?</u>
+      <u who="KENDRICK">Financial aid, actually, yes. I'm just saying it's real because at the end of the day, <orgName ref="#dbl_017_org_20">Dartmouth</orgName> was the only school that was really offering me enough to really come. That was the bottom line, you because like I said, my parents were trying to figure out how this is going to work and all this. They were there and took me to the interviews when I had to go interview and all that stuff. They did all of that but I think they thought I was going to change my mind. But I didn't. The financial package made it such that I could come.</u>
+      <u who="BENITEZ">I understand. How did your freshman fall at <orgName ref="#dbl_017_org_21">Dartmouth</orgName> go–your first term at <orgName ref="#dbl_017_org_22">Dartmouth</orgName>?</u>
+      <u who="KENDRICK">As I said, I was estranged from my family. I was always a shy kid. I was a really extremely shy kid and so growing up where I grew up in <placeName ref="#dbl_017_place_34">Jefferson Township</placeName>, it was a real close-knit Black community. Everybody knew each other. Until this day, we still go to my class reunions. It's like one of these [unique] in the sense that if you lived in the township, it doesn't matter if you might have graduated 20 years after me, but if you lived in the township, it's almost like an unspoken code. Some people even say township for life. So it's just a close-knit community because mostly coming up, almost everyone on my street and in my neighborhood have the same number of kids. [All] families had siblings and everybody was in each other's class. You knew everybody. It was just really close-knit. I was in a real-sheltered environment. It was strict in our house. [My parents] didn't play. Even when I wanted to work, my dad told me I didn't need to [because] he would take care of me. That was in high school and I wanted to get a job. He's like, “Oh you don't need to do that.” So I was really sheltered. I was sheltered and I was very shy.When I came to school, I had rebelled by saying, this is where I'm going and bye, it was kind of difficult for me but it wasn't as difficult, probably as it could have been because I started meeting people. Before [my] fall [term], I came in the <orgName ref="#dbl_017_org_23">Bridge</orgName> program. So they had the <orgName ref="#dbl_017_org_24">Bridge</orgName> program that summer before matriculating in the fall. That gave me a head start on friendships and there was a small group of us in the <orgName ref="#dbl_017_org_25">Bridge</orgName> program. We were really close because we were up there for the summer on campus. We were able to take math and I don't know if I forgot what the other class was, that's terrible, but anyhow we were able to get two classes out of the way. I thought it might have been ELA  or something. But yes, we just stuck together.We came back to campus in the fall. Unlike the other students arriving, unless they came from the same school, we already had a group of folks that we knew so that helped a lot. That really helped a lot. The friendships on campus helped me a great deal.</u>
+      <u who="BENITEZ">It's really interesting that you bring up the <orgName ref="#dbl_017_org_26">Bridge</orgName> program because we actually have a different version of that for first-gen students who are the first in their families to attend college. I was part of a summer program called <orgName ref="#dbl_017_org_27">FYSEP</orgName>, the <orgName ref="#dbl_017_org_28">First Year Summer Enrichment Program</orgName>. I definitely relate to being able to make friends beforehand so that really helped me.</u>
+      <u who="KENDRICK">Yeah, it definitely did [and] does help.</u>
+      <u who="BENITEZ">Would you say you were able to find community at <orgName ref="#dbl_017_org_29">Dartmouth</orgName>, specifically with other Black students?</u>
+      <u who="KENDRICK">Definitely. Yes, definitely. I think about that now because coming to campus was really my first time. Prior to coming to <orgName ref="#dbl_017_org_30">Dartmouth</orgName>, family-wise, my dad was into camping, so he threw us all in the volkswagen van, whatever they called that thing. A camper, that's what it was. So we would go to <placeName ref="#dbl_017_place_35">Niagara Fall</placeName> [by] <placeName ref="#dbl_017_place_36">Canada</placeName> [to] see family but we had never really been anywhere. I had not had the experience of meeting people from other states, so that was a really good experience for me because coming to campus, I met people who were from the East Coast. I met people from the West Coast, people from the South, people from all over. Actually, when I was in the Bridge program that <date>summer</date>, I had two roommates. So one roommate was from <placeName ref="#dbl_017_place_40">Brooklyn</placeName>. Then my other roommate, Sondra, was from <placeName ref="#dbl_017_place_42">Brooklyn</placeName> and Lydia was from a reservation in <placeName ref="#dbl_017_place_43">Arizona</placeName>; she was Native American. It really opened my eyes, but it was so wonderful because meeting people from all over, they brought with them to campus those things that they had enjoyed coming up, from their culture, from their neighborhood, or whatever.When I got to campus, there were a couple of classmates, particularly from the Philly area, that introduced me to African dance. I did love to dance. I wasn't a star dancer, but I did love to dance and I thought that was so wonderful. We would get together sometimes and put this music on and some of the guys would drum. It was just amazing, and I loved that. Then one of my friends, Viola, was from <placeName ref="#dbl_017_place_44">New Jersey</placeName>, and she was the only person other than me who I know that came to campus with a sewing machine. I had a little tiny sewing machine that my sister-in-law had given me that she didn't want. <orgName ref="#dbl_017_org_33">Viola</orgName> came to campus with a sewing machine. It was just really, really good. I don't know that I would have made it had it not been for the friendships that were formed on campus.</u>
+      <u who="BENITEZ">That's true. Thank you for sharing that. Did you have any Black professors or faculty members whom you confided in during your undergrad career?</u>
+      <u who="KENDRICK">Sometimes there were a few who would invite us to their house off-campus and have cooked for us to have dinner and stuff like that. But in terms of confining in, no. I didn't feel like I had [that]. I know my experience is different from a lot of other people but I just didn't. You have to remember too, I was really a shy kid. I was really shy. No, I did not. I'm trying to think–there were very few Black professors that I encountered on campus, period [but I didn’t reach that level of trust].</u>
+      <u who="BENITEZ">That makes sense. Were you aware that the college accepted more Black students than ever in the late 1960s compared to <date>the past decades</date> before then?</u>
+      <u who="KENDRICK">I didn't. I don't think I found that out really. They probably told us that, but I think it really sunk in more so down the road that I realized that, which is interesting. I find it to be very, very interesting. I've looked back through some of the history, so I understand what was going on that made those numbers high at that point but yes, no, I can't say for sure that that was in the forefront of my mind while I was there.            </u>
+      <u who="BENITEZ">How did that information impact how you entered the college, as someone who faces a double jeopardy between gender and race?</u>
+      <u who="KENDRICK">It was just interesting. It was the first time that I had been coming up in this environment that wasn't all-Black even though in the early years when we lived in <placeName ref="#dbl_017_place_45">Cincinnati</placeName>, the schools weren’t  integrated there. <placeName ref="#dbl_017_place_46">Dayton</placeName> has a long history of segregation. So, Black folks lived on the west side. White people lived on the east side and that's where you lived and that's [why]  consequently it was a close community. Even outside of <placeName ref="#dbl_017_place_47">Dayton</placeName> proper not even the township, it was an even smaller, tighter and closer community there. But coming to campus, it was the opposite of what I knew, and so now I'm in an [unfamiliar] environment. I hadn't really thought all that through when I made my decision. I just knew I was getting away and I was going far away. That fit the bill for me and I knew they had art so I was like, okay, but yea  it was very different. When you come up in a close-knit community for me, since I was born in <placeName ref="#dbl_017_place_48">Kentucky</placeName>, it was close knit. It was a small town, <placeName ref="#dbl_017_place_49">Dayton</placeName>, close-knit segregated, and then coming to campus, there were a lot of adjustments that had to be made. I was used to people being friendly and speaking to one another and that wasn't the case. It was like, oh my where am I. So yeah, that was one of the first things, I noticed. I'm like, wow, you say hello and people just keep going.</u>
+      <u who="BENITEZ">[laughter] It’s the same thing now.</u>
+      <u who="KENDRICK">So that was an adjustment and the climate that was going on. So, prior to me coming to campus, things that I saw in elementary school: my dad was very active locally, in terms of protesting for employment. He also made signs, protest signs for rent strikes or whatever. Yeah, I would watch my dad paint those. He had beautiful lettering skills–graphics. I don't know where he got all this from. I can see that red paint just as clear as day and I'm watching him paint these signs. There were some riots that went on in <placeName ref="#dbl_017_place_50">Dayton</placeName> before I got to college. I saw hoses turned on my dad on TV and I was like, oh, there's dad. They were protesting and that was for employment at one of the department stores that refused to hire Black [people] to work at the counters, like the makeup, counters and stuff, like that. All of that was part of my tapestry, so to speak. So, coming to campus, it was an adjustment but I was thankful for those friendships that were formed that summer in <orgName ref="#dbl_017_org_34">Bridge</orgName> because those were the people that I would remain close to for the duration of those four years pretty much, not all of them, but there were enough to keep me sane so to speak and have some kind of social interaction.</u>
+      <u who="BENITEZ">I'm so happy to hear that you were able to have a supportive group of friends, that's really important, especially going into an environment that's foreign to you. On a sort of different note, in <date when="1973">1973</date> <name type="event" ref="#dbl_017_event_0">Roe v. Wade</name> was passed by the <orgName ref="#dbl_017_org_35">Supreme Court</orgName> and I was wondering whether this decision was a big deal on campus and if you remember the college's reaction, if they had any.</u>
+      <u who="KENDRICK">Yeah, I looked at that. I don't honestly remember the reaction on campus. There were a lot of things going on on campus during that time, when I was there. I can remember there being some activists coming. I remember <persName ref="#dbl_017_person_10">Flo Kennedy</persName> coming to campus and I'm thinking, whoa, they invited her here because she was all about Black power, and she was kind of tough and she didn't hold her or mince her words. I can remember people coming to campus, but in terms of that impact, I can't say honestly that I recall anything with that. That was just me. I was kind of in survival mode. Like let me get through this place and so no.</u>
+      <u who="BENITEZ">Got it. Thank you for sharing. Now we will transition back to your passion for the arts. May you tell me more about the art program at <orgName ref="#dbl_017_org_36">Dartmouth</orgName>?</u>
+      <u who="KENDRICK">In terms of what it was like?</u>
+      <u who="BENITEZ">Yes.</u>
+      <u who="KENDRICK">I thought it was very difficult in the sense that it was difficult to get into the program. I had no idea it was going to be like that. I thought you just went off to college; I would go up there to campus and just declare I'm going to be an art major because, initially, when I came to campus, I actually thought I was going to be an anthropologist. I had changed my mind again, <persName ref="#dbl_017_person_11">Jackie</persName>. I loved just learning about different people, and cultures. I took that first class, unfortunately, <date>freshman year</date>. I didn't have good advice on that and I got that book that looked like it was about six inches thick. [Laugh] That's an exaggeration, but I'm just saying it was thick. I went to one or two classes and I was like, okay, this is not going to work for me. So I think I dropped it within the first couple of weeks and I couldn't continue with that. So, in terms of the art department, I don't think I got in until I'm going to say sophomore year. [pause]</u>
+      <u who="BENITEZ">From the documentary, you noted how a professor humiliated you in front of the class. If you could speak to the professor, what would you tell them?</u>
+      <u who="KENDRICK">Look at me now, probably. I've thought about that through the years and depending on what year it was, I've had a different response. I'll say, actually this morning, it was passing through my mind. I think about the role of a teacher, the role of an educator and it simply came to me this morning that that role is to teach–to encourage at least. That's my definition of it. I've been blessed to work with a lot of youth since the last probably almost 25 years. I think about the damage I would have done if I ever had allowed those kinds of words to come from my mouth towards a student. Part of me wants to say shame on you.</u>
+      <u who="BENITEZ">Right.</u>
+      <u who="KENDRICK">So no, I don't really have that much to say to them. I wouldn't have that much to say other than look at me and shame on you.</u>
+      <u who="BENITEZ">Yeah. That’s understandable. What did you do during the few years you left art following the situation?</u>
+      <u who="KENDRICK">Agonized over it. I'm not gonna lie. I can't lie about that. It was painful. It was painful for me because this was just who I was. Art had always been something that brought me a lot of joy and it made me temporarily doubt my ability. I think had I had someone to connect to on campus, someone that I felt I could confide in, it would have been maybe a little different. Regardless, like I say, the journey has been magnificent. Yes. There have been some painful parts of it but I would not, if I had to do it again, I would probably do the same. I don't know that I would change anything because I feel like despite what happened that day, that really made me feel like I will never do this again. It actually was strengthening me. Even though that person for whatever reason [I still don’t know why] till this day, there was still enough burning inside of me. That period of time that I stepped away from the art, I was in anguish because it's like you're trying to step away from yourself.</u>
+      <u who="BENITEZ">Yes.</u>
+      <u who="KENDRICK">And that's so difficult. I never really talked about it and the little bit that I would share with very few people, I always said it was my period of self-exile.</u>
+      <u who="BENITEZ">Yeah.</u>
+      <u who="KENDRICK">It gave me time to think and look for anything that was creative, anything that I could just grab. I would do that, but I do see it as a time of strengthening for me, personal strengthening, because once I came through that period of time, I knew what I had to do. I knew what I had to do and that was to be true to myself and true to my family. I just went for it. So bit by bit, it wasn't like I dived in but I just started positioning myself so that I could work myself back into that and put myself in a position where I could be around the arts. That was how I addressed it but yeah, that period of time sharpened me.</u>
+      <u who="BENITEZ">That's beautiful. Thank you for sharing. How did your parents react when you told them that you were abandoning art for a period of time?</u>
+      <u who="KENDRICK">Didn't tell them. No one knew. I swallowed that [and it] went down inside of me so deep. I did not tell anyone. I swallowed it. I said I won't do it and I left that campus after graduation and so no, I did not. So when the piece that you're referencing was done locally here by the <orgName ref="#dbl_017_org_37">PBS</orgName> station, when I shared that, that was the first time I told that story. I had never told my children a part of that story. When they were younger, they walked in when I was looking through my college portfolio, I still have, they didn't even know that I drew. They didn't know, my husband didn't even know. So I was holding that in. I held it.</u>
+      <u who="BENITEZ">Wow. You held it in for a long time.</u>
+      <u who="KENDRICK">Yeah. My dad passed shortly after I had graduated from college. So my mom was able to see when I first started my first solo exhibition. She came. She became one of my biggest cheerleaders and I was thankful. I was thankful for her being able to see that and she was championing me on, you know, 30 years. Yeah, she just loved everything that I did. Yes. I took the time, one day, to teach her how to draw a cup although she told everyone she can't do it. I said, “Yes, you can mom” and I just showed her how to draw a cup and she thought that was the greatest thing ever.</u>
+      <u who="BENITEZ">I'm so glad that your mom had a change of heart at the end.</u>
+      <u who="KENDRICK">Oh yes. Yes.</u>
+      <u who="BENITEZ">Yeah. What do you wish <orgName ref="#dbl_017_org_38">Dartmouth</orgName> provided you during your undergrad career that may have prevented you from leaving art?</u>
+      <u who="KENDRICK">Mentorship. You know, a mentoring program for that department. I came from a school system that didn't have anything in terms of art department. So it wasn't like I knew the latest in all that. I didn't get that kind of instruction as some of the students got in that department. I didn't have that. Actually, I remember my senior year, <persName ref="#dbl_017_person_12">Ashley Bryan</persName> [a professor who taught at several institutions, including <orgName ref="#dbl_017_org_39">Dartmouth</orgName>, until his retirement in the 1980s] was on campus in the art department and I remember him. I had one class [with him]. He was the first Black professor in the art department that I saw while I was there. So, he came at the end of my college time. There, he saw something that I had drawn one day, and he said something to me at the end of class. He [asked], “Has no one ever taught you perspective?” and I said no. He just said “come here” and he told me to come into his office. He asked, “Do you mind if I draw on your pad on your drawing pad, your sketch pad?” and I was like no, and he just took the time, right then and there to show me perspective.This was four years into my art major and no one had ever taken the time [to directly help me], so I felt like no one really was looking at what I was doing. I was [just] there. Affirmative action was big when I came in and I often felt that I was there just as a number, so to speak, as a stat. But in terms of someone being invested in me as a student, it would have been nice to have someone in that department who I felt was invested in me. There were professors I had who I loved in the art history department and even in the visual arts, I had a couple professors. But in terms of having someone to really take the time and invest in me as a student, I wish that had been there. I wish there had been something.I'm imagining other programs, maybe other departments have something, I don't know, but I would have loved to have something there. Mentoring, some type of mentoring in that department to help me to understand. There was a lot I didn't understand. I didn't understand the process. I didn't understand this whole thing of creating art and everybody's doing the same thing. That didn't make sense to me because I had never had any formal instruction. I kind of railed against it when I was there but having someone explain that to me, that would have helped too.</u>
+      <u who="BENITEZ">That's true. How did you navigate imposter syndrome when you faced it?</u>
+      <u who="KENDRICK">Can you repeat that? How did I what?</u>
+      <u who="BENITEZ">Yeah, how did you navigate imposter syndrome when you faced it on campus?</u>
+      <u who="KENDRICK">Imposter syndrome. I’m not sure if I know what that is, imposter syndrome.</u>
+      <u who="BENITEZ">Pretty much when someone doubts their skills or talents because they're sort of comparing themselves to those around them and they feel as though they're an imposter or not really living up to those expectations.</u>
+      <u who="KENDRICK">Hmm. Okay. All right. That's yeah. This is one I should have had beforehand. I should have looked at this one. Okay. Okay. So repeat that question one more time.</u>
+      <u who="BENITEZ">Yeah. How did you navigate impostor syndrome when you faced it? How were you able to go through that [and] overcome it?</u>
+      <u who="KENDRICK">I think I'm understanding what you're asking me. I've never heard that before. That's new to me. That's a new term. Okay, so, in terms of how that applied to myself. Explain that a little bit more. That's confusing me.</u>
+      <u who="BENITEZ">Yeah, sorry. I can give an example. I know a lot of my friends who are in STEM feel as though they're not as intelligent as the other students and sometimes they doubt their own ability. They question why they got into <orgName ref="#dbl_017_org_40">Dartmouth</orgName>, how they got into <orgName ref="#dbl_017_org_41">Dartmouth</orgName>, and then they sometimes also feel even though affirmative action is no longer used, they sort of feel they're just a number here. That they're not really contributing much.</u>
+      <u who="KENDRICK">Okay. Okay. I think I understand you. Okay, sorry about that.</u>
+      <u who="BENITEZ">No, it’s okay.</u>
+      <u who="KENDRICK">I can remember talking to the department head while I was there because you would have to. I remember going in for my senior project. I had to go a couple of times because what I was proposing, I remember him telling me it wasn't art, it was craft. I thought that was ludicrous. I thought he was just nuts. I really did and it was frustrating to me because I realized that here I am thinking I'm coming here to get this wonderful arts education and I did, so don't take me [the] wrong [way], but it was like the hurdles you had to jump through. I thought that was unnecessary because it made me feel it was just a very singular mindset [that] there was only one way to do this and there was no room for anything else and it was very narrow for me. The way I saw it, it was very narrow in terms of how art was viewed in that department.  </u>
+      <u who="BENITEZ">Yeah.</u>
+      <u who="KENDRICK">Here I am, this kid, who [had] no formal training. I'm just all about creativity. I love the arts. Loved all my art history classes, for the most part. I learned a lot, the exposure and stuff. I just wanted to create and do all this, but I felt like I was being squished. Nope, you can't expand out like that. You need to stay right in here. I've heard a few people as I came out of college and spoke to other people that had gone to other colleges in terms of our teenagers speaking about similar experiences but they have been invited. There was someone there that pulled them aside and said look, do what they're asking you to do and then when you get out of here you can do whatever you want with your work but just play the game, go along with them. One of my friends had this experience when she was in college, not at the same college, but somewhere else. She was telling me how she would be painting her color palette. She had to change it to meet the standards of the college and so she would paint the way she wanted to paint, but then when it came time for the professor to come around and do the critiques, she would turn that painting over and pull out this other one that had the palette that they were asking for.I didn't get that memo. I just thought it was crazy. This is crazy. I don't know. I just struggled with it, I pushed against it, [and] it didn't get me anywhere. I really didn't change anything at the end of the day. [It was just] do what they want, but it just felt like it was taken away from me: who I was and having to fake something, do something, and it's probably standard. It was probably standard for art departments across the country, but that vision of art was not inclusive. It was very white. You know there was no room for what I saw being art. I felt like there was no room for it.I don't know if that answered your question <persName ref="#dbl_017_person_13">Jackie</persName>.</u>
+      <u who="BENITEZ">Yes, it did, thank you. I really appreciate it. Now transitioning to your current work and college views. What is your current line of work with art?</u>
+      <u who="KENDRICK">Currently, I'm working in textiles and loving it. I had probably started out with doing collage. So, working exclusively with papers and then some years ago, I started adding some fabric. </u>
+      <u who="KENDRICK"><placeName ref="#dbl_017_place_51">Tanzania</placeName> 12 years ago. I went and stayed for a month or so. I think it was longer than that but it was a month I think. That really opened my eyes and really changed the trajectory of my work. So from there, I had already started working with fabric and working it into a collage. But when I came back, I was so fascinated by the fabric that I saw the women wearing. And so, I came back and I was still doing painting and my papers, making these designs. </u>
+      <u who="KENDRICK">I just turned to fabric and pulled my sewing machine out. I had a brand new sewing machine [that] I had purchased from my art sales, a treat to myself, and I wasn't using it. I took it out and I made this piece that I called Freedom and it just opened a door for me. I still approach my textile work as if it's collage because to me it still is. I am not a traditional quilter even though I quilted the pieces that I create, but I'm still collage. I have new materials and I have a sewing machine and that's an additional tool. I use it like a drawing tool; [it] is a large drawing tool but I use it as a drawing tool and that's how I see it and I love it. The journey has been fantastic. It's been an incredible journey. That's kind of what I'm doing now.</u>
+      <u who="BENITEZ">Yeah, how do you believe <orgName ref="#dbl_017_org_42">Dartmouth</orgName> prepared you for your current career?</u>
+      <u who="KENDRICK">I think it definitely instilled in me the importance of perseverance. Yes. Because at the end of the day, I had allowed one person to extinguish my flame. I think about it a lot because I think about all the young people I've worked with through <date>the years</date> who I would not have had an opportunity to work with. I think about where this journey has taken me. I think of the different places I have been blessed to show my work. I even think about the experience of the exchange and that was a woman's artist exchange to <placeName ref="#dbl_017_place_52">Tanzania</placeName>. That was through the <orgName ref="#dbl_017_org_43">U.S. State Department</orgName> and I think about that and all the incredible women artists. I met all the experiences I've had, and I wouldn't have had those if I did not get that whole piece about perseverance.</u>
+      <u who="KENDRICK">Despite what happened, even [though] that was one person, there was so much more that I got from campus, [such as] spending time in the costume department over in the theater department. That is definitely something that is a foundation of my textile work because [of] pattern-making. I do a lot of pattern-making for my current work and it's not that I'm building costumes or clothing for that matter, but I use patterns on pieces that I know. I like those shapes and I want to be able to do that shape again. I will make a pattern but that started for me in that costume department. Being in there and learning.</u>
+      <u who="KENDRICK">There were a lot of masks. I had the love of African art. I got that from <orgName ref="#dbl_017_org_44">Dartmouth</orgName>. One of my professors had done a lot of <orgName ref="#dbl_017_org_45">Peace Corps</orgName> work and would share his little 8 millimeter films and they were breathtaking. I'm looking at these people from across the globe and dancers, and all kinds of things, and it was just incredible.</u>
+      <u who="KENDRICK">I think the love of art will strengthen. I think the love of people was strengthened in cultures. I think the love of people and acceptance of others was strengthened despite what I encountered, but I was able to meet people from all over the world while on campus. That also lit my fire for travel. [It’s] important to me as an artist that I get out, see other places and things like that. </u>
+      <u who="KENDRICK">So, definitely perseverance. I took that away–just stick to whatever it is that is your passion. You've got to persevere, no matter what, because that was one experience. And believe me, I encountered more after that as an artist. I started putting my work out there professionally and you just have to stick to it. It's one of the things that I share with young people. You just can't let people define you. You can't let someone else tell you who you are because they haven't had a clue. They really don't unless they spend time with you. In real time. They don't know. </u>
+      <u who="KENDRICK">That Professor, way back my junior year whatever it was, she didn't know me. She really didn't. She was a visiting professor from another country. She did not know me. So yes, that's what I took away. It's allowed me to be an encourager to others, adults and youth through the years, and I feel like that has been my mission for so long because of my experience. It has definitely made me an advocate and like if you're interested in arts, hey go for it. I'm always here for you. You can call me. I'm a resource on and on. So that's what I got. You know. That's what it's enabled me to do.</u>
+      <u who="BENITEZ">Yeah, got it. Thank you so much for sharing and for being someone who has become a role model for others to prevent situations like that from happening to anyone else. What are your current views on the college and the active Black community on campus surrounding the <orgName ref="#dbl_017_org_46">Shabazz Center for Intellectual Inquiry</orgName> and <orgName ref="#dbl_017_org_47">Delta Sigma Theta</orgName>, a historically African-American sorority?</u>
+      <u who="KENDRICK">Now, excuse me. I'm [going to] need you to catch me up because I don't know if you're aware, [but] I just came back to campus and met for the first time after graduating.</u>
+      <u who="BENITEZ">Oh my God.</u>
+      <u who="KENDRICK">Yes. Yes. Okay, you didn’t know that, did you <persName ref="#dbl_017_person_14">Jackie</persName>? Okay. Yes, ma’am. I just came back so that’s it. That’s how I felt when I left. I’m gone, we’re good. I’ll speak to how I felt when I came back. How about that? </u>
+      <u who="KENDRICK">The only reason I came back was because one of my classmates reached out to me. When I left campus, I unfortunately lost contact with just about everyone, even people who I'm going to reach and wouldn't talk with them often. [However,] classmates reached out and she was one of three Black females who was in the art department with me when I was on campus, and she gave me a heads-up. She said someone's going to contact you. So, [to] make a long story short, I was commissioned by <orgName ref="#dbl_017_org_48">BADA</orgName> [the Black Alumni of Dartmouth Association] to create a piece to pay tribute to the women who had graduated between 72 and 76. There were 37 African-American women who graduated and some of them included those that had been transfers from the sister schools and so I was working on this. It happened. </u>
+      <u who="KENDRICK">I think I was approached in the spring like [around] May. It was early in the year [and] along the way about <date>the second week</date> that we were meeting online, the question came up. The question was well does this mean that you're coming back to campus? The two people that I was working with on this were <persName ref="#dbl_017_person_15">Aileen Cave [‘76]</persName>, who was my classmate and <persName ref="#dbl_017_person_16">[Forrester] “Woody” [Ashe] Lee [‘68]</persName>. They both knew that I had not been back to campus since I graduated. So the question was, are you coming? When the question was raised, I felt a flutter [in] my stomach and it wasn't a good flutter. I thought I was just going to create a piece and ship it off and that was it. Hadn't thought about coming to campus. That was not on my radar. [I] wasn't thinking about it. It wasn't planning to. </u>
+      <u who="KENDRICK">I said I'm a praying woman, so let me pray about that. I'll get back to you. So it was probably two weeks later. The question came again and I said, you know what? I am coming back because I realized there were some loose ends. I thought I was good, there were some things that I needed to tie up so to speak. So I came back and met this past. May was the first time I came back. I've been gone for 45 years or so [and] coming back, everything look[ed] different. The <placeName ref="#dbl_017_place_53">Green</placeName> was still there [and] I could identify a few things right there in the center of campus, but so much had changed. When I came back, I needed to come back. I needed to come back and I was really welcomed. I felt really welcomed coming back, I had no idea. I didn't know how I would feel. I didn't know what it was going to [be like] coming back. </u>
+      <u who="KENDRICK">I had spoken to another classmate and she had shared her experience. When she first went back, she had had some experiences while she was there. Everybody has a story and so I didn't know what to expect, but it was really, really good. It was definitely something I needed to do. For many reasons: for myself to have some closure and I thought I had closure on that particular part of my life, but it also, <persName ref="#dbl_017_person_17">Jackie</persName>, gave me such a sense of responsibility to the students who are currently on campus and that was the part that I felt like, oh my goodness. You know, I have been missing that and I do have a responsibility to do something for [them].I don't know exactly what yet, but I did leave with that urgency–wanting things to be better for the students who are there, particularly students of color. </u>
+      <u who="KENDRICK">When I came back, the piece was presented and I got to share a little bit of my story nobody knew. Like I said, I kept [to] myself. I did not, unfortunately, get over The <orgName ref="#dbl_017_org_49">AM,the Afr[ican] Am[erican Society] </orgName>.</u>
+      <u who="BENITEZ">Yeah. Now we refer to it as <placeName ref="#dbl_017_place_54">Shabazz</placeName> mostly.</u>
+      <u who="KENDRICK">They had it open to women to live there because it had been all male. I'm thinking to myself, who wants to live up here with all these guys? I mean that was me and I know there were a couple women who did move in while I was there which I thought was interesting and so yeah I'm not sure how it functions. Now when I was there though, <persName ref="#dbl_017_person_18">Jackie</persName>, that was where everything took place. That was our hub. Sometimes there were meetings just keeping us abreast on what was happening on campus, particularly my junior year. I had to figure out and sift through all this information. </u>
+      <u who="KENDRICK">[In that piece,] I also brought to light the three women in my class who were responsible for the report on institutional racism at <orgName ref="#dbl_017_org_50">Dartmouth</orgName>. I was able to say thank you to them because it struck me. I kept abreast of what was going on. We protested and had sit ins, we were on the steps and all that at the administration building but it didn't sink in, as much as it did until I started working on that piece and I saw it from a different end of the lens so to speak. Because now being older and I'm looking back and I realize what a monumental piece these three took on, there were more with them. When it came to the end of the day, my understanding is no one else wanted to sign off on it but those three women. I thought about it and I had a conversation because <persName ref="#dbl_017_person_19">Eileen Cave</persName> was one of the people I spoke with and I told her, I said, my goodness, you know, we were kids. We were kids when this was going on and taking on adult issues. Well, they were our issues too, because we were students there, but I'm saying, taking it on in a sense of challenging the administration who were adults. It was big, that was a big thing to do. It was, it was super courageous. </u>
+      <u who="KENDRICK">Especially when you see people backing out at the end and like, no, I don't want to sign off on this. It was like, wow, wow, wow. Here you were on campus as young women trying to make a difference for all of us and bringing it. You know, they weren't the only ones but I'm saying they had the courage, the balls, whatever you want to say to actually take it, take it there, Though nothing came of it, you know. It was swept under the rug so to speak, but still the fact that it was done, to me, that was major. Particularly when you look at the history of college campuses [and] other <orgName ref="#dbl_017_org_51">Ivy League</orgName> schools, what was going on during that time. Other campuses [had] the support of a city. We don't have that; we were just completely isolated. I met so many wonderful alumni from other classes, and it struck me. </u>
+      <u who="KENDRICK">I thought it was kind of funny at first but then I realized the work was serious when they were asked what class you were from and I would respond and they were like, oh, you're one of the pioneers. I didn't think of it that way. I didn't see it like that. Coming to campus, I knew it was an all-male institution prior to our class coming in. I knew that much but it just didn't strike me that way. I didn't realize the significance of it until much later down the road but definitely coming back, I do feel such a responsibility to the students there and I don't know. I haven't quite figured out yet how I am, so I will be supportive of those students who are there. Like I said, particularly the students of color in whatever way I can, if nothing more than just an encourager when times seem rough. Hey, I'm here, I'm available. If you need to talk about whatever. It's necessary. I'm not sure what the story is with the <orgName ref="#dbl_017_org_52">Deltas</orgName> because we didn't have enough Black sororities when I was there.</u>
+      <u who="BENITEZ">Yeah, that's a historically African-American sorority. So I actually have a friend who's part of that and she was telling me that it almost is like a secretive society where they are told not to speak. They're being assessed on whether they should enter the sorority and pretty much the sorority does community service for the Black community and they have the common goal of bringing justice for the community. So, it's very geared mostly toward Black students</u>
+      <u who="KENDRICK">Yes, I am familiar with the Greek organizations, the Black Greek organizations then, but I didn't know why you mentioned that particular sorority.</u>
+      <u who="BENITEZ">Oh yes. I was just asking whether you were aware of it and how active it is right now.</u>
+      <u who="KENDRICK">No. No. Because like I said, I'm just reconnecting believe it or not. Yes, I read the alum magazines. I read a little bit of that but I don't feel bad. I was going to say, I kind of feel bad, but I don't. It's just been my journey.</u>
+      <u who="KENDRICK">There are other people that have not been back to campus since they graduated. Yeah, no. I'm just saying I came back but when I came back, I realized that the responsibility continues. There were those before my arrival on that campus who felt the responsibility and made it possible for us to be there. I just feel that continuation. I feel that responsibility and so, yes. I am making plans to reconnect and find a way that will be viable for me to really help in some form or fashion.</u>
+      <u who="BENITEZ">Alright, if you'd like after this interview, I can connect you with a few of my friends who live in <orgName ref="#dbl_017_org_53">Shabazz</orgName>. I can give them your email and if you want them to call your phone number, I can also give that to them.</u>
+      <u who="KENDRICK">Yes, I would love to. Yeah, definitely.</u>
+      <u who="BENITEZ">​​Thank you. Now, we're almost done with this interview. I have three more questions or I might have follow-up questions, but we're going to transition to advice you would give to your past self and others. So, first question, what advice would you give undergraduate students, especially those with minoritized backgrounds, if they faced a similar situation where a professor undermines their abilities?</u>
+      <u who="KENDRICK">I would say if you're able to, stay connected to your family. Stay connected. [It’s] important to stay connected because there may be times when you just need to be reassured. So support is crucial, whether that's from alum, professors, you just need to be connected. Don't isolate [yourself]. You are already operating on a campus that is very isolated. So you don't want to further that isolation so to speak. So it is important. I would definitely advise you to connect to someone that has more wisdom than you on that campus. That might even be an upperclassman, it could be a junior or senior. I don't even know if there is such a program that would connect upperclassmen with incoming freshman or sophomores but yeah, definitely. You need support, some type of support.</u>
+      <u who="BENITEZ">Got it. Thank you for that. What would you tell students who have a passion for the arts but are concerned about the financial uncertainty it may bring?</u>
+      <u who="KENDRICK">You know what? I've realized a key is you have to believe in yourself because regardless of what happens on campus, you're going to encounter people out in the world. I don't know what they call them. Now young kids, he said, call them haters. That's the sad thing is they were a dime in a dozen and you're going to encounter people along the way for whatever reason that feel like they need to share with you and really need to knock you down. Maybe it stems from jealousy. Maybe it stems from what they perceive, a misperception of who you are. It could be any number of reasons, but you have to be strong in yourself. You have to, you just have to believe. </u>
+      <u who="KENDRICK">So if you're passionate about it, and it's what you really want to do, you have to keep going, no matter how bleak, it may seem. One of the things unfortunately that I still hear younger artists say, from time to time, is this whole term. It just makes me cringe. That starving artist [phrase]; that is the craziest thing. I don't know where it stems from, but I always tell anyone I encounter to rinse that out of your mouth. Do not speak that because our words are powerful. If you start saying, that, that's embedding itself within you. That's going to become embedded, it becomes a part of you. </u>
+      <u who="KENDRICK">Whatever your field is, I'm going to do this, no matter what anyone says, no matter what, how many rejections or whatever I'm going forward. Because if it's really what brings you joy, it is really what you've been called to do. It doesn't matter. No one can stop you. It's going to get done. It's going to get done and we all have a different path. No one. There's no two ways to get to your destination. You know somebody over there. They may have had a different route but that whole thing of a whole starving artist piece.</u>
+      <u who="KENDRICK">No, I would definitely connect with those alumni. They don't even have to be on campus. I definitely was when I came out of <orgName ref="#dbl_017_org_54">Dartmouth</orgName> and was trying to figure out what my path was going to be. I, at one point, just pulled a list of people together and I interviewed them. I called them and asked if they could spare five minutes, five to ten minutes for an interview and I interviewed them. So, I could learn more about their field, how they function in their field and that in turn helped me to know if that was the direction I needed to go. </u>
+      <u who="KENDRICK">I did something over here. I was a part of the art museum here for almost 10 years. That put me closer to art; that put me in a position to know–it turned out to be with other artists who happened to be volunteering there at the museum as well. It put me in close proximity to <orgName ref="#dbl_017_org_55">CCAD</orgName>, which is the <orgName ref="#dbl_017_org_56">Columbus College of Art and Design</orgName>, and I was able to go over there and I ended up going back and taking foundational courses, which was amazing. </u>
+      <u who="KENDRICK">You just have to do what you have to do. You go for it, you line yourself up, you connect with people along the way. That's one of the things that I did not do when I was there. I did not connect with the alum. That was a major mistake. I'll say, I'm not sure if it would have done anymore for me. I live. Listen to other classmates, some of them definitely connected, but no, I would just say [you] have to start to believe in yourself. Even when no one else does, you gotta believe in yourself and be true to yourself and be your authentic self.</u>
+      <u who="BENITEZ">Got it, thank you so much. That concludes our interview. I really appreciate you taking the time out of your day to be interviewed for my oral history project.</u>
+      <u who="KENDRICK">No, <persName ref="#dbl_017_person_20">Jackie</persName>. I appreciate you. You know, your questions definitely made me think and yeah a couple threw me off like okay, but now I think it's such a wonderful thing to do. Did you come up with the questions? Were these pulled together by the professor? Where did the questions come from?</u>
+      <u who="BENITEZ">I came up with the questions. The only ones they gave me were your full name, your parents; names, and your hometown but everything else is me.</u>
+      <u who="KENDRICK">Your questions were wonderful.</u>
+      <u who="BENITEZ">Thank you.</u>
+      <u who="KENDRICK">Thank you. You know, you really made me think. You had me thinking there like okay maybe I should have prepared a little more but no I hopefully you can make sense of what I said.</u>
+      <u who="BENITEZ">Yes, for sure. If I have any questions, would you be open to me emailing you a few clarifying questions on your responses?</u>
+      <u who="KENDRICK">Okay, yes. No problem.</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dbl_017_place_0">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_017_place_1">
+        <placeName>Gahanna</placeName>
+        <location>
+          <geo>40.0267 -82.8692</geo>
+        </location>
+        <idno type="WD">Q1924937</idno>
+      </place>
+      <place xml:id="dbl_017_place_2">
+        <placeName>Georgetown</placeName>
+        <location>
+          <geo>38.2097 -84.56</geo>
+        </location>
+        <idno type="WD">Q877247</idno>
+      </place>
+      <place xml:id="dbl_017_place_4">
+        <placeName>Gahanna</placeName>
+        <location>
+          <geo>40.0267 -82.8692</geo>
+        </location>
+        <idno type="WD">Q1924937</idno>
+      </place>
+      <place xml:id="dbl_017_place_5">
+        <placeName>Georgetown</placeName>
+        <location>
+          <geo>38.2097 -84.56</geo>
+        </location>
+        <idno type="WD">Q877247</idno>
+      </place>
+      <place xml:id="dbl_017_place_6">
+        <placeName>Kentucky</placeName>
+        <location>
+          <geo>37.5 -85</geo>
+        </location>
+        <idno type="WD">Q1603</idno>
+      </place>
+      <place xml:id="dbl_017_place_7">
+        <placeName>Cincinnati</placeName>
+        <location>
+          <geo>39.1 -84.5125</geo>
+        </location>
+        <idno type="WD">Q43196</idno>
+      </place>
+      <place xml:id="dbl_017_place_8">
+        <placeName>Cincinnati</placeName>
+        <location>
+          <geo>39.1 -84.5125</geo>
+        </location>
+        <idno type="WD">Q43196</idno>
+      </place>
+      <place xml:id="dbl_017_place_9">
+        <placeName>Cincinnati</placeName>
+        <location>
+          <geo>39.1 -84.5125</geo>
+        </location>
+        <idno type="WD">Q43196</idno>
+      </place>
+      <place xml:id="dbl_017_place_10">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_11">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_017_place_12">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dbl_017_place_14">
+        <placeName>Kentucky</placeName>
+        <location>
+          <geo>37.5 -85</geo>
+        </location>
+        <idno type="WD">Q1603</idno>
+      </place>
+      <place xml:id="dbl_017_place_15">
+        <placeName>Michigan</placeName>
+        <location>
+          <geo>44.34 -85.58</geo>
+        </location>
+        <idno type="WD">Q1166</idno>
+      </place>
+      <place xml:id="dbl_017_place_16">
+        <placeName>Michigan</placeName>
+        <location>
+          <geo>44.34 -85.58</geo>
+        </location>
+        <idno type="WD">Q1166</idno>
+      </place>
+      <place xml:id="dbl_017_place_17">
+        <placeName>Kentucky</placeName>
+        <location>
+          <geo>37.5 -85</geo>
+        </location>
+        <idno type="WD">Q1603</idno>
+      </place>
+      <place xml:id="dbl_017_place_18">
+        <placeName>Kentucky</placeName>
+        <location>
+          <geo>37.5 -85</geo>
+        </location>
+        <idno type="WD">Q1603</idno>
+      </place>
+      <place xml:id="dbl_017_place_19">
+        <placeName>Georgetown</placeName>
+        <location>
+          <geo>38.2097 -84.56</geo>
+        </location>
+        <idno type="WD">Q877247</idno>
+      </place>
+      <place xml:id="dbl_017_place_20">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_21">
+        <placeName>Cincinnati</placeName>
+        <location>
+          <geo>39.1 -84.5125</geo>
+        </location>
+        <idno type="WD">Q43196</idno>
+      </place>
+      <place xml:id="dbl_017_place_22">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_23">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_24">
+        <placeName>Jefferson Township</placeName>
+        <location>
+          <geo>39.282777777778 -83.906388888889</geo>
+        </location>
+        <idno type="WD">Q535467</idno>
+      </place>
+      <place xml:id="dbl_017_place_25">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_26">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_27">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_28">
+        <placeName>Jefferson Township</placeName>
+        <location>
+          <geo>39.282777777778 -83.906388888889</geo>
+        </location>
+        <idno type="WD">Q535467</idno>
+      </place>
+      <place xml:id="dbl_017_place_29">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_30">
+        <placeName>Ohio</placeName>
+        <location>
+          <geo>40.5 -82.5</geo>
+        </location>
+        <idno type="WD">Q1397</idno>
+      </place>
+      <place xml:id="dbl_017_place_31">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.7 -74</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dbl_017_place_32">
+        <placeName>The Bronx</placeName>
+        <location>
+          <geo>40.84676 -73.873207</geo>
+        </location>
+        <idno type="WD">Q18426</idno>
+      </place>
+      <place xml:id="dbl_017_place_33">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.7 -74</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dbl_017_place_34">
+        <placeName>Jefferson Township</placeName>
+        <location>
+          <geo>39.282777777778 -83.906388888889</geo>
+        </location>
+        <idno type="WD">Q535467</idno>
+      </place>
+      <place xml:id="dbl_017_place_35">
+        <placeName>Niagara Falls</placeName>
+        <location>
+          <geo>43.08 -79.071</geo>
+        </location>
+        <idno type="WD">Q34221</idno>
+      </place>
+      <place xml:id="dbl_017_place_36">
+        <placeName>Canada</placeName>
+        <location>
+          <geo>56 -109</geo>
+        </location>
+        <idno type="WD">Q16</idno>
+      </place>
+      <place xml:id="dbl_017_place_40">
+        <placeName>Brooklyn</placeName>
+        <location>
+          <geo>40.692777777778 -73.990277777778</geo>
+        </location>
+        <idno type="WD">Q18419</idno>
+      </place>
+      <place xml:id="dbl_017_place_42">
+        <placeName>Brooklyn</placeName>
+        <location>
+          <geo>40.692777777778 -73.990277777778</geo>
+        </location>
+        <idno type="WD">Q18419</idno>
+      </place>
+      <place xml:id="dbl_017_place_43">
+        <placeName>Arizona</placeName>
+        <location>
+          <geo>34.286667 -111.656944</geo>
+        </location>
+        <idno type="WD">Q816</idno>
+      </place>
+      <place xml:id="dbl_017_place_44">
+        <placeName>New Jersey</placeName>
+        <location>
+          <geo>40 -74.5</geo>
+        </location>
+        <idno type="WD">Q1408</idno>
+      </place>
+      <place xml:id="dbl_017_place_45">
+        <placeName>Cincinnati</placeName>
+        <location>
+          <geo>39.1 -84.5125</geo>
+        </location>
+        <idno type="WD">Q43196</idno>
+      </place>
+      <place xml:id="dbl_017_place_46">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_47">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_48">
+        <placeName>Kentucky</placeName>
+        <location>
+          <geo>37.5 -85</geo>
+        </location>
+        <idno type="WD">Q1603</idno>
+      </place>
+      <place xml:id="dbl_017_place_49">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_50">
+        <placeName>Dayton</placeName>
+        <location>
+          <geo>39.766666666667 -84.2</geo>
+        </location>
+        <idno type="WD">Q34739</idno>
+      </place>
+      <place xml:id="dbl_017_place_51">
+        <placeName>Tanzania</placeName>
+        <location>
+          <geo>-6.3069444444444445 34.85388888888889</geo>
+        </location>
+        <idno type="WD">Q924</idno>
+      </place>
+      <place xml:id="dbl_017_place_52">
+        <placeName>Tanzania</placeName>
+        <location>
+          <geo>-6.3069444444444445 34.85388888888889</geo>
+        </location>
+        <idno type="WD">Q924</idno>
+      </place>
+      <place xml:id="dbl_017_place_53">
+        <placeName>The Green</placeName>
+        <location>
+          <geo>43.7033 -72.2886</geo>
+        </location>
+        <idno type="WD">Q7738117</idno>
+      </place>
+      <place xml:id="dbl_017_place_54">
+        <placeName>El-Hajj Malik El-Shabazz Center</placeName>
+        <location>
+          <geo>43.70678140394604 -72.2898819546128</geo>
+        </location>
+        <idno type="WD">Q104931609</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dbl_017_event_0" when-iso="1973-01-22T00:00:00Z">
+        <desc>Roe v. Wade</desc>
+        <idno type="WD">Q300950</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dbl_017_person_0">
+        <persName>Jackelinne Benitez</persName>
+        <idno type="WD">Q116594593</idno>
+      </person>
+      <person xml:id="dbl_017_person_1">
+        <persName>Wendy Kendrick</persName>
+        <idno type="WD">Q116594223</idno>
+      </person>
+      <person xml:id="dbl_017_person_2">
+        <persName>Wendy Kendrick</persName>
+        <idno type="WD">Q116594223</idno>
+      </person>
+      <person xml:id="dbl_017_person_3">
+        <persName>Harold Theodore Thompson</persName>
+        <idno type="WD">Q26458194</idno>
+      </person>
+      <person xml:id="dbl_017_person_4">
+        <persName>Catherine Thompson</persName>
+        <idno type="WD">Q118869228</idno>
+      </person>
+      <person xml:id="dbl_017_person_5">
+        <persName>Jackelinne Benitez</persName>
+        <idno type="WD">Q116594593</idno>
+      </person>
+      <person xml:id="dbl_017_person_6">
+        <persName>Jackelinne Benitez</persName>
+        <idno type="WD">Q116594593</idno>
+      </person>
+      <person xml:id="dbl_017_person_7">
+        <persName>Wendy Kendrick</persName>
+        <idno type="WD">Q116594223</idno>
+      </person>
+      <person xml:id="dbl_017_person_8">
+        <persName>Bing Davis</persName>
+        <idno type="WD">Q4914125</idno>
+      </person>
+      <person xml:id="dbl_017_person_9">
+        <persName>Donna Maria Wood</persName>
+        <idno type="WD">Q110590775</idno>
+      </person>
+      <person xml:id="dbl_017_person_10">
+        <persName>Florynce Kennedy</persName>
+        <idno type="WD">Q8564015</idno>
+      </person>
+      <person xml:id="dbl_017_person_11">
+        <persName>Jackelinne Benitez</persName>
+        <idno type="WD">Q116594593</idno>
+      </person>
+      <person xml:id="dbl_017_person_12">
+        <persName>Ashley Bryan</persName>
+        <idno type="WD">Q4805375</idno>
+      </person>
+      <person xml:id="dbl_017_person_13">
+        <persName>Jackelinne Benitez</persName>
+        <idno type="WD">Q116594593</idno>
+      </person>
+      <person xml:id="dbl_017_person_14">
+        <persName>Jackelinne Benitez</persName>
+        <idno type="WD">Q116594593</idno>
+      </person>
+      <person xml:id="dbl_017_person_15">
+        <persName>Aileen Cave</persName>
+        <idno type="WD">Q118869225</idno>
+      </person>
+      <person xml:id="dbl_017_person_16">
+        <persName>Forrester "Woody" Ashe Lee</persName>
+        <idno type="WD">Q116419637</idno>
+      </person>
+      <person xml:id="dbl_017_person_17">
+        <persName>Jackelinne Benitez</persName>
+        <idno type="WD">Q116594593</idno>
+      </person>
+      <person xml:id="dbl_017_person_18">
+        <persName>Jackelinne Benitez</persName>
+        <idno type="WD">Q116594593</idno>
+      </person>
+      <person xml:id="dbl_017_person_19">
+        <persName>Eileen Cave</persName>
+        <idno type="WD">Q114647741</idno>
+      </person>
+      <person xml:id="dbl_017_person_20">
+        <persName>Jackelinne Benitez</persName>
+        <idno type="WD">Q116594593</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dbl_017_org_0">
+        <orgName>Latin American, Latino, and Caribbean House</orgName>
+        <idno type="WD">Q116593758</idno>
+      </org>
+      <org xml:id="dbl_017_org_1">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_2">
+        <orgName>Dartmouth Black Lives</orgName>
+        <idno type="WD">Q114647391</idno>
+      </org>
+      <org xml:id="dbl_017_org_3">
+        <orgName>Rockdale Temple</orgName>
+        <idno type="WD">Q7355026</idno>
+      </org>
+      <org xml:id="dbl_017_org_4">
+        <orgName>Jet</orgName>
+        <idno type="WD">Q3177768</idno>
+      </org>
+      <org xml:id="dbl_017_org_5">
+        <orgName>PBS</orgName>
+        <idno type="WD">Q215616</idno>
+      </org>
+      <org xml:id="dbl_017_org_6">
+        <orgName>Living Arts Center</orgName>
+        <idno type="WD">Q116593538</idno>
+      </org>
+      <org xml:id="dbl_017_org_7">
+        <orgName>Jefferson Township High School</orgName>
+        <idno type="WD">Q6175691</idno>
+      </org>
+      <org xml:id="dbl_017_org_8">
+        <orgName>Alvin Ailey</orgName>
+        <idno type="WD">Q449037</idno>
+      </org>
+      <org xml:id="dbl_017_org_9">
+        <orgName>Kentucky State University</orgName>
+        <idno type="WD">Q1187623</idno>
+      </org>
+      <org xml:id="dbl_017_org_10">
+        <orgName>Kentucky State University</orgName>
+        <idno type="WD">Q1187623</idno>
+      </org>
+      <org xml:id="dbl_017_org_11">
+        <orgName>Kentucky State University</orgName>
+        <idno type="WD">Q1187623</idno>
+      </org>
+      <org xml:id="dbl_017_org_12">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_13">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_14">
+        <orgName>Wellesley College</orgName>
+        <idno type="WD">Q49205</idno>
+      </org>
+      <org xml:id="dbl_017_org_15">
+        <orgName>Smith College</orgName>
+        <idno type="WD">Q49204</idno>
+      </org>
+      <org xml:id="dbl_017_org_16">
+        <orgName>Radcliffe Institute for Advanced Study</orgName>
+        <idno type="WD">Q7280030</idno>
+      </org>
+      <org xml:id="dbl_017_org_17">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_18">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_19">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_20">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_21">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_22">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_23">
+        <orgName>Bridge Program</orgName>
+        <idno type="WD">Q118610714</idno>
+      </org>
+      <org xml:id="dbl_017_org_24">
+        <orgName>Bridge Program</orgName>
+        <idno type="WD">Q118610714</idno>
+      </org>
+      <org xml:id="dbl_017_org_25">
+        <orgName>Bridge Program</orgName>
+        <idno type="WD">Q118610714</idno>
+      </org>
+      <org xml:id="dbl_017_org_26">
+        <orgName>Bridge Program</orgName>
+        <idno type="WD">Q118610714</idno>
+      </org>
+      <org xml:id="dbl_017_org_27">
+        <orgName>First-Year Summer Enrichment Program</orgName>
+        <idno type="WD">Q116593447</idno>
+      </org>
+      <org xml:id="dbl_017_org_28">
+        <orgName>First-Year Summer Enrichment Program</orgName>
+        <idno type="WD">Q116593447</idno>
+      </org>
+      <org xml:id="dbl_017_org_29">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_30">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_33">
+        <orgName>Viola</orgName>
+      </org>
+      <org xml:id="dbl_017_org_34">
+        <orgName>Bridge Program</orgName>
+        <idno type="WD">Q118610714</idno>
+      </org>
+      <org xml:id="dbl_017_org_35">
+        <orgName>The Supreme Court</orgName>
+        <idno type="WD">Q55025499</idno>
+      </org>
+      <org xml:id="dbl_017_org_36">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_37">
+        <orgName>PBS</orgName>
+        <idno type="WD">Q215616</idno>
+      </org>
+      <org xml:id="dbl_017_org_38">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_39">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_40">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_41">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_42">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_43">
+        <orgName>United States Department of State</orgName>
+        <idno type="WD">Q789915</idno>
+      </org>
+      <org xml:id="dbl_017_org_44">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_45">
+        <orgName>Peace Corps</orgName>
+        <idno type="WD">Q458620</idno>
+      </org>
+      <org xml:id="dbl_017_org_46">
+        <orgName>El-Hajj Malik El-Shabazz Center</orgName>
+        <idno type="WD">Q104931609</idno>
+      </org>
+      <org xml:id="dbl_017_org_47">
+        <orgName>Delta Sigma Theta</orgName>
+        <idno type="WD">Q5254747</idno>
+      </org>
+      <org xml:id="dbl_017_org_48">
+        <orgName>Black Alumni of Dartmouth Association</orgName>
+        <idno type="WD">Q117514486</idno>
+      </org>
+      <org xml:id="dbl_017_org_49">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_017_org_50">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_51">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dbl_017_org_52">
+        <orgName>Delta Sigma Theta</orgName>
+        <idno type="WD">Q5254747</idno>
+      </org>
+      <org xml:id="dbl_017_org_53">
+        <orgName>El-Hajj Malik El-Shabazz Center</orgName>
+        <idno type="WD">Q104931609</idno>
+      </org>
+      <org xml:id="dbl_017_org_54">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_017_org_55">
+        <orgName>Columbus College of Art and Design</orgName>
+        <idno type="WD">Q5150026</idno>
+      </org>
+      <org xml:id="dbl_017_org_56">
+        <orgName>Columbus College of Art and Design</orgName>
+        <idno type="WD">Q5150026</idno>
+      </org>
+      <org xml:id="dbl_017_org_57">
+        <orgName>Kentucky State</orgName>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
