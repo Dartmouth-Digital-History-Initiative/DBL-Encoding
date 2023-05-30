@@ -1,6 +1,5 @@
 id	orgName	QID	dbl_id
 dbl_026_org_0	Dartmouth Black Lives	Q114647391	
-dbl_026_org_1	Commerce		
 dbl_026_org_2	Grady Health System	Q30254216	
 dbl_026_org_3	Morehouse College	Q1524124	
 dbl_026_org_4	Atlanta University	Q63887403	
@@ -39,7 +38,6 @@ dbl_026_org_36	US Airways	Q208046
 dbl_026_org_37	Airports Council International	Q409068	
 dbl_026_org_38	Airports Council International	Q409068	
 dbl_026_org_39	Metropolitan Washington Airports Authority	Q12177622	
-dbl_026_org_40	Commerce		
 dbl_026_org_41	Dartmouth College	Q49116	
 dbl_026_org_42	Dartmouth College	Q49116	
 dbl_026_org_43	Morehouse College	Q1524124	
@@ -73,7 +71,7 @@ dbl_026_org_70	Dartmouth College	Q49116
 dbl_026_org_71	Dartmouth College	Q49116	
 dbl_026_org_72	Dartmouth College	Q49116	
 dbl_026_org_73	Dartmouth College	Q49116	
-dbl_026_org_74	United States Department of Education	Q861556	
+dbl_026_org_74	Bridge Program	Q118610714	
 dbl_026_org_75	Dartmouth College	Q49116	
 dbl_026_org_76	Girl Scouts of the USA	Q2576280	
 dbl_026_org_77	Dartmouth College	Q49116	
@@ -160,7 +158,7 @@ dbl_026_org_157	Dartmouth College	Q49116
 dbl_026_org_158	Dartmouth College	Q49116	
 dbl_026_org_159	Dartmouth College	Q49116	
 dbl_026_org_160	Dartmouth College	Q49116	
-dbl_026_org_161	gospel choir	Q1538570	
+dbl_026_org_161	Dartmouth College Gospel Choir	Q118869521	
 dbl_026_org_162	Dartmouth Alumni Council	Q114879368	
 dbl_026_org_163	Black Alumni of Dartmouth Association	Q117514486	
 dbl_026_org_164	Dartmouth College	Q49116	
@@ -172,3 +170,5 @@ dbl_026_org_169	Dartmouth College	Q49116
 dbl_026_org_170	Dartmouth College	Q49116	
 dbl_026_org_171	Dartmouth College	Q49116	
 dbl_026_org_172	Dartmouth College	Q49116	
+dbl_026_org_173	Zoom	Q94979732	
+dbl_026_org_174	Zoom	Q94979732	
