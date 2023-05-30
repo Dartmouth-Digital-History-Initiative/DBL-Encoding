@@ -1,26 +1,23 @@
-id	persName
-dbl_025_person_0	Molly Rudman
-dbl_025_person_1	Ife Landsmark
-dbl_025_person_2	Landsmark
-dbl_025_person_3	Rosanna Isabella O'Garro Landsmark Dickerson
-dbl_025_person_4	Yul Brynner
-dbl_025_person_5	Bishop McDonnell
-dbl_025_person_6	Trump
-dbl_025_person_7	Langston Hughes
-dbl_025_person_8	Harlem
-dbl_025_person_9	Harlem
-dbl_025_person_10	Swadesh Grant
-dbl_025_person_11	Grant
-dbl_025_person_12	Swadesh
-dbl_025_person_13	Nels
-dbl_025_person_14	Nels
-dbl_025_person_15	Easter
-dbl_025_person_16	John Sloan] Dickey
-dbl_025_person_17	Latinos
-dbl_025_person_18	Peter Hauri
-dbl_025_person_19	Marvin Gaye
-dbl_025_person_20	Marvin Gaye
-dbl_025_person_21	Baker
-dbl_025_person_22	Yankel Rosenbaum
-dbl_025_person_23	Nels Armstrong
-dbl_025_person_24	Nels Armstrong
+id	persName	QID	dbl_id
+dbl_025_person_0	Molly Rudman	Q117841521	
+dbl_025_person_1	Ife Landsmark	Q117841070	
+dbl_025_person_2	Ife Landsmark	Q117841070	
+dbl_025_person_3	Rosanna Isabella O'Garro Landsmark Dickerson		dbl_0048
+dbl_025_person_4	Yul Brynner	Q102813	
+dbl_025_person_5	Bishop McDonnell		dbl_0049
+dbl_025_person_6	Donald Trump	Q22686	
+dbl_025_person_7	Langston Hughes	Q188093	
+dbl_025_person_10	Swadesh Grant		dbl_0047
+dbl_025_person_11	Grant		dbl_0047
+dbl_025_person_12	Morris Swadesh	Q333227	
+dbl_025_person_13	Nelson Armstrong	Q114647430	
+dbl_025_person_14	Nelson Armstrong	Q114647430	
+dbl_025_person_16	John Sloan Dickey	Q3182471	
+dbl_025_person_18	Peter Hauri	Q107333927	
+dbl_025_person_19	Marvin Gaye	Q189758	
+dbl_025_person_20	Marvin Gaye	Q189758	
+dbl_025_person_22	Yankel Rosenbaum	Q117841523	
+dbl_025_person_23	Nels Armstrong	Q115119072	
+dbl_025_person_24	Nels Armstrong	Q115119072	
+dbl_025_person_25	Bishop McDonald		dbl_0049
+dbl_025_person_26	Rose		dbl_0048

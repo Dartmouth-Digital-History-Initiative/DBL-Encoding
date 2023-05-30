@@ -1,24 +1,19 @@
 id	orgName	QID
 dbl_025_org_0	Collis Center for Student Involvement	Q100725367
 dbl_025_org_1	Dartmouth Black Lives	Q114647391
-dbl_025_org_2	St. Peter Claver	
-dbl_025_org_3	St. Peter Claver	
+dbl_025_org_2	St. Peter Claver	Q118609829
+dbl_025_org_3	St. Peter Claver	Q118609829
 dbl_025_org_4	American Museum of Natural History	Q217717
-dbl_025_org_5	Boys High School	
 dbl_025_org_6	Black Panther Party	Q115247499
 dbl_025_org_7	Black Panther Party	Q189150
 dbl_025_org_8	Black Panther Party	Q189150
 dbl_025_org_9	Pennsylvania State University	Q739627
-dbl_025_org_10	Nostrand Avenue	
 dbl_025_org_11	Dartmouth College	Q49116
 dbl_025_org_12	Brooklyn College	Q371625
-dbl_025_org_13	Bishop McDonald	
 dbl_025_org_14	Bedford–Stuyvesant	Q1156982
 dbl_025_org_15	New York University	Q49210
 dbl_025_org_16	New York University	Q49210
-dbl_025_org_17	Ebbets Field	
 dbl_025_org_18	Brooklyn Dodgers	Q5869184
-dbl_025_org_19	Simple and Simple	
 dbl_025_org_20	Dartmouth College	Q49116
 dbl_025_org_21	Dartmouth College	Q49116
 dbl_025_org_22	Dartmouth College	Q49116
@@ -87,7 +82,6 @@ dbl_025_org_84	Dartmouth College	Q49116
 dbl_025_org_85	Dartmouth College	Q49116
 dbl_025_org_86	WDCR	Q7948320
 dbl_025_org_87	WDCR	Q7948320
-dbl_025_org_88	SPSS	
 dbl_025_org_89	Dartmouth–Hitchcock Medical Center	Q14705324
 dbl_025_org_90	Dartmouth–Hitchcock Medical Center	Q14705324
 dbl_025_org_91	Dartmouth–Hitchcock Medical Center	Q14705324
@@ -127,7 +121,6 @@ dbl_025_org_124	Dartmouth College	Q49116
 dbl_025_org_125	Dartmouth College	Q49116
 dbl_025_org_126	Dartmouth College	Q49116
 dbl_025_org_127	Blackboard Learn	Q15933979
-dbl_025_org_128	Wayside	
 dbl_025_org_129	Dartmouth College	Q49116
 dbl_025_org_130	Dartmouth College	Q49116
 dbl_025_org_131	Dartmouth College	Q49116
@@ -143,3 +136,4 @@ dbl_025_org_140	Dartmouth College	Q49116
 dbl_025_org_141	Dartmouth College	Q49116
 dbl_025_org_142	Dartmouth College	Q49116
 dbl_025_org_143	Black Praxis	Q115027533
+dbl_025_org_144	Afro-Am.	Q114879775

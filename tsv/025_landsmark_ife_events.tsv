@@ -1,6 +1,5 @@
-id	name
-dbl_025_event_0	the March of the Panthers
-dbl_025_event_1	Olympics
-dbl_025_event_2	Penn State
-dbl_025_event_3	the Vietnam War
-dbl_025_event_4	the Vietnam War
+id	name	QID	dbl_id	start time	end time	point in time
+dbl_025_event_1	1968 Olympics Black Power salute	Q1890705				1968-10-16T00:00:00Z
+dbl_025_event_2	1968 Pittsburgh riots	Q20709263				1968-04-05T00:00:00Z
+dbl_025_event_3	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dbl_025_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
