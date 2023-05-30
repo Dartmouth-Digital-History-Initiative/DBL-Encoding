@@ -17,3 +17,4 @@ ddhi_update_places updated/$f3\_orgs.xml tsv/$f3\_places.tsv > updated/$f3\_plac
 
 rm updated/$f3\_pers.xml
 rm updated/$f3\_orgs.xml
+rm updated/$f3\_places.xml
