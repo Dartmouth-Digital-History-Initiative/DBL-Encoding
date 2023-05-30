@@ -914,6 +914,9 @@
       <person xml:id="dbl_005_person_110">
         <persName>Bill</persName>
       </person>
+      <person xml:id="dbl_005_person_112">
+        <persName>Agnes</persName>
+      </person>
     </listPerson>
     <listOrg>
       <org xml:id="dbl_005_org_0">
