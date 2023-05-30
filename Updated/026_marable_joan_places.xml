@@ -1,0 +1,966 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dbl_026">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Joan Marable</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Black Lives</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dbl_026</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="01:18:04">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="rcweb.dartmouth.edu/DartmouthBlackLives/histories/marable_joan/marable_joan.mp3" mimeType="video/mp3"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Tamonie Brown</persName>
+            <orgName>Dartmouth Black Lives</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="rcweb.dartmouth.edu/DartmouthBlackLives/histories/marable_joan/marable_joan_transcript_final.pdf">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Dartmouth Black Lives</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="BROWN"/>
+        <person xml:id="MARABLE"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2022-10-23"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="BROWN">Okay. Hello, my name is <persName ref="#dbl_026_person_0">Tamonie Brown</persName>, I am a Junior at <orgName ref="#dbl_026_org_0">Dartmouth College</orgName> calling in from <orgName ref="#dbl_026_org_1">Dartmouth College</orgName>'s campus in <placeName ref="#dbl_026_place_0">Hanover, New Hampshire</placeName>, and I’m with <persName ref="#dbl_026_person_1">Joan Marable</persName> right now—you can go, sorry.</u>
+      <u who="MARABLE">We’ll get it together!</u>
+      <u who="BROWN">Yeah.</u>
+      <u who="MARABLE">I’m <persName ref="#dbl_026_person_2">Joan Marable</persName>, I am <orgName ref="#dbl_026_org_2">class of ’76</orgName> at <orgName ref="#dbl_026_org_3">Dartmouth</orgName>—well, from <orgName ref="#dbl_026_org_4">Dartmouth</orgName>, and I’m speaking from <placeName ref="#dbl_026_place_1">Brooklyn, New York</placeName>, my home in <placeName ref="#dbl_026_place_2">Brooklyn</placeName>. </u>
+      <u who="BROWN">Got it. So, we’re gonna start a little bit with your life before <orgName ref="#dbl_026_org_5">Dartmouth</orgName>, so can you tell me a little bit about where you grew up? </u>
+      <u who="MARABLE">Okay, I was born and raised in <placeName ref="#dbl_026_place_3">Boston, Massachusetts</placeName>. Where I grew up—so I lived in <placeName ref="#dbl_026_place_43">Dorchester</placeName>, which is, back then—<placeName ref="#dbl_026_place_4">Dorchester</placeName> and <placeName ref="#dbl_026_place_5">Roxbury</placeName> were the Black communities in <placeName ref="#dbl_026_place_6">Boston</placeName>, so that’s where I grew up. </u>
+      <u who="BROWN">So, I’m not very familiar with <placeName ref="#dbl_026_place_7">Boston</placeName>, but you said that <placeName ref="#dbl_026_place_8">Dorchester</placeName> was one of the Black communities. Outside of <placeName ref="#dbl_026_place_9">Boston</placeName> was there not a lot of—were there not a lot of other Black people around? </u>
+      <u who="MARABLE">There were, it was just a major concentration, when you said you lived in <placeName ref="#dbl_026_place_10">Dorchester</placeName> or <placeName ref="#dbl_026_place_11">Roxbury</placeName>, especially <placeName ref="#dbl_026_place_12">Roxbury</placeName>, which is right next—well the boundaries were blurred, the assumption was that you were Black [laughter].</u>
+      <u who="BROWN">Got it. </u>
+      <u who="MARABLE">Back in those days.</u>
+      <u who="BROWN">Yeah. And actually, <placeName ref="#dbl_026_place_13">Roxbury</placeName> does sound kind of familiar. I might be off, but I think New Edition is from there. Like the R&amp;B group? </u>
+      <u who="MARABLE">They might be. They’re a little bit after my time but I think so yeah. Yeah, I think so. </u>
+      <u who="BROWN">Okay. So, I think I know what you’re talking about, okay. Can you tell me a little bit about what your high school was like? </u>
+      <u who="MARABLE">Well, I went to <orgName ref="#dbl_026_org_6">Beaver Country Day School</orgName> in <placeName ref="#dbl_026_place_14">Chestnut Hill</placeName>, <placeName ref="#dbl_026_place_15">Massachusetts</placeName>, which was a girls’ prep school. I started actually in the seventh grade there, in <date when="1966">1966</date>, and at that time we were sort of an experiment. My parents decided that there was no option, they were not going to send me to be bussed to the suburbs outside of <placeName ref="#dbl_026_place_16">Roxbury</placeName> and <placeName ref="#dbl_026_place_17">Dorchester</placeName> because unfortunately at that time, well that was during the height of the Civil Rights Movement, you know, King and everybody else—things were going on, let’s just put it that way to make it shorter. But the kids who were bussed, often times the busses were stoned and attacked and the kids had a terrible time with that at their schools. So as a result, my parents had heard that this school was accepting Black girls and it was an all-girls school, so I was one of four Black girls in my class and about—I think there were about six in the whole school? [laughter] I went all the way through seventh grade, seventh through twelfth, I graduated from there and went on to <orgName ref="#dbl_026_org_7">Dartmouth</orgName>. But it was definitely a predominantly white institution, very similar to how prep schools are now. But we were the experiment.</u>
+      <u who="BROWN">That’s really interesting. I guess kind of following with the experiment idea, as you progressed through, like, seventh, eighth, so on, until your senior year, did you start to see, like, I guess a higher concentration of Black students at your high school? </u>
+      <u who="MARABLE">Numbers went up, but I wouldn’t say its concentration. We were, I think we were the second class, the other two girls were the class before me, so they might’ve added one or two Black girls per grade after that. By the time I was getting ready to graduate, they were talking about making it a coed school, so by that time there might have been probably a few more kids per grade. But it was a small school, but still, the numbers were teeny.</u>
+      <u who="BROWN">I can imagine. In your college application process, did you consider any other schools, or was it just <orgName ref="#dbl_026_org_8">Dartmouth</orgName> all the way? </u>
+      <u who="MARABLE">Well, I don’t know if you know but my class is part of the first—is the first class of women who were invited to matriculate as first year students, so I—before that decision was made because that decision came out right in the middle of college app time our senior year, so I had applied early decision to <orgName ref="#dbl_026_org_9">Bowdoin</orgName>, and they had deferred me. And then, like a week later, I heard that <orgName ref="#dbl_026_org_10">Dartmouth</orgName> was looking for women to apply. In fact, they sent representatives to the school [laughter] saying we would like some women at the school to apply—they called us girls, of course. I think six of us applied, two of us got in. Two out of the four Black girls in my class, we were the only two who got in. And both of us came to <orgName ref="#dbl_026_org_11">Dartmouth</orgName>. And I had also been accepted by then by regular decision to <orgName ref="#dbl_026_org_12">Bowdoin</orgName>, so in my mind, I was saying “Well, I have a choice”, my parents said, “Absolutely not,” [laughter] “you’re going to an <orgName ref="#dbl_026_org_13">Ivy League</orgName> college”. There’s nobody in our family who’s ever been in any <orgName ref="#dbl_026_org_14">Ivy</orgName> anything, are you kidding? [laughter] So, I mean, I didn’t not wanna go, [laughter] those were how decisions were made back then. Parents were a major influence! </u>
+      <u who="BROWN">I definitely get it. But out of curiosity, if you did really have that choice, would you have still picked <orgName ref="#dbl_026_org_15">Dartmouth</orgName>? Or would you go with <orgName ref="#dbl_026_org_16">Bowdoin</orgName>?</u>
+      <u who="MARABLE">I probably would’ve picked <orgName ref="#dbl_026_org_17">Dartmouth</orgName>. That’s an interesting question, I never thought of it that way, because I just put it out of my mind entirely. [laughter] But I think that the pros outweigh the cons. I mean, both had gorgeous campuses. <orgName ref="#dbl_026_org_18">Bowdoin</orgName>’s in <placeName ref="#dbl_026_place_18">Maine</placeName>, you think it’s cold in <placeName ref="#dbl_026_place_19">Hanover</placeName>? [laughter]</u>
+      <u who="BROWN">Yeah, I’ve heard about <placeName ref="#dbl_026_place_20">Maine</placeName>. [laughter]</u>
+      <u who="MARABLE"><orgName ref="#dbl_026_org_19">Bowdoin</orgName> not only is the same kind of cold, but it’s also of the water, so it’s really cold. I’m a New Englander, so I went to camp every summer in <placeName ref="#dbl_026_place_21">Maine</placeName> and then became a camp counselor, so I like <placeName ref="#dbl_026_place_22">Maine</placeName>. But I think <orgName ref="#dbl_026_org_20">Dartmouth</orgName> ended up being a better choice for me definitely. Things that developed in my life since going to <orgName ref="#dbl_026_org_21">Dartmouth</orgName>, I don’t know if that would’ve happened if I [laughter] who knows? </u>
+      <u who="BROWN">Right. When you first arrived at <orgName ref="#dbl_026_org_22">Dartmouth</orgName>, what did you think of the campus, or the school as a whole. What was your perception of it? </u>
+      <u who="MARABLE">When I got there, first of all, I said, “Wow, this looks like your consummate college campus.” A green, old buildings, [laughter] everything else, I mean, <orgName ref="#dbl_026_org_23">Dartmouth</orgName> back then did not look anything like it does now. There’s so many buildings now. We had a long way to walk between dorms and classes and ugh. It was a long way—my bike was my friend. Until I couldn’t use it, like on the ice or something. I biked everywhere, because that was the only way that I could get to class on time. The campus was nice, I hadn’t—I don’t think we had visited beforehand. I don’t remember. We could have. My father liked to drive everywhere all over the place in <placeName ref="#dbl_026_place_23">New England</placeName>, northern <placeName ref="#dbl_026_place_24">New England</placeName>, so we could’ve visited beforehand. But for some reason, I don’t think we did. Are you talking about the physical impression, or just in general? Like, people, or what? </u>
+      <u who="BROWN">I think in general, yeah. </u>
+      <u who="MARABLE">Okay. Alright, so I noticed there were not a lot of people who looked like me, but coming from a predominantly white institution, I said, “Okay, so this is more of the same” with that. I was sort of used to that. It didn’t bother me that much. I know for a fact that I was always looking. [laughter] To say “Hi! My name is… What class are you or are you a faculty member or family member or whoever.” Just in general, also, because it was the beginning of coeducation, there were signs in different places, discreet or otherwise, that women were not welcome as fellow students. [laughter] I sort of figured that out and I think we all did as women. Sort of figured that out and just, am I gonna let this bother me? No, because I have decided I’m gonna be here. </u>
+      <u who="BROWN">When you did get here what did you major in? And how did you decide on that?</u>
+      <u who="MARABLE">Well, I started out as a bio major because I was gonna do the pre-med route. I said that to my parents and, you know, that was the thing to do. I was a bio major and pre-med until I finished organic chemistry and I have a story about that, so we’ll get to that. [laughter] And then I changed my major to psychology, and I never declared a minor or a double major, I could’ve probably with religion because I took a lot of religion classes as well. Not that I am necessarily a religious person but just studying religion. Especially Judeo-Christian tradition. It was just really interesting to me to understand history and try to find the truth about that because I knew that there was too much division in that, and that always bothered me. Even though I grew up in the church I just, I didn’t understand why if we’re all Christians why are we all in different directions and vehemently disagree with one another about that. Or if you’re Jewish, why is that so bad? Or if you’re Muslim, why is that so bad? Because that’s also part of that tradition, too. But long story short, I went from being a bio major to a psychology major. </u>
+      <u who="BROWN">A lot of people say when they were on that pre-med track, it’s always organic chemistry that stops them, so can you tell me about your story with that? </u>
+      <u who="MARABLE">[laughter] Mine was a little different, I think. I don’t think it continued the same way after what happened to me and the other women in my class. First of all, I don’t know why but I took organic spring term of my freshman year, which is the stupidest thing in the world. But nobody told me that it was. [laughter] So, that in itself, I did very well in the sciences going up to organic chemistry. I was in the class and there were probably about four or five other women, I think I was the only Black woman for that term in the class. And the teaching assistant stood up in front of the class, he was in charge of labs, and he announced that every woman in his class, in this class, will not pass any of his labs, he will make sure of that. Because, and we were looking at him like, “What is he talking about?” And basically, he said, “I applied to med school, I know you all are thinking about going to med school, and since I couldn’t get in, you’re not gonna get in. And you need organic to pass, to get in. So, I’ll make sure of it.” We were like, “Oh yeah, he’s just talking.” Well, no he wasn’t. He sabotaged our labs. In organic, your lab is supposed to be completely dry, and he would come around after we said we were finished and the lab was completely dry and we knew that it was, and he’d look at it and he’d say, “Oh, let me come closer.” And of course, everything, the labs are really close to—each station had a sink. So, he’d turn on the water real hard, blast the water, splash the lab results, and, of course, they’d get wet. Then he said, “Oh, gee, I’m sorry, but your lab is not dry. I guess you failed this lab.” Then he kept doing that. Not knowing that each of us had this same situation, at least immediately, we started going to the dean. There was a Black woman dean, <persName ref="#dbl_026_person_4">Joan Nelson</persName>. She was a dean who happened to be a Black woman. She was like my mom on campus. And I went to her, you know I can speak from the “I” perspective, and I told her what was happening. And evidently other women went to her as well. He got himself fired. And then, meanwhile, my grade for organic was kind of sketchy, I was really freaking out. For my final, long story short, my mom and <persName ref="#dbl_026_person_5">dean Nelson</persName> said, “Just take the exam. Just finish it.” I aced the exam [laughter] it shocked me! They told me, they basically gave me permission to relax [laughter] and I aced it. But after that, I was saying, “Well, maybe I don’t wanna do this.” [laughter] That’s a horrible way to come to a decision, but that sort of had a big influence on that and I said, “Do I really wanna go through this? No.” I don’t know, maybe I was a scaredy cat or maybe, you know, I don’t know why. It just—after that I changed my mind. </u>
+      <u who="BROWN">I think it’s really understandable why. I mean, it’s just—I wouldn’t say you should expect it from other students, but I guess it’s easier to expect it from other students than it is to expect from a professor. I think I absolutely understand. And I’m very sorry that happened. It’s kind of ridiculous. [laughter] </u>
+      <u who="MARABLE">I think he thought nothing would happen. I mean, we didn’t know anything was gonna happen, but it sure didn’t sit well. I wasn’t one of those like, “Women, women, rah rah rah!” I was more about Black folk, but still, I just said, “This isn’t right. I deserve every right, every opportunity that these other people do. Why is he doing this?” He’s messing with me, my mind and everything else. I just, I didn’t like that. </u>
+      <u who="BROWN">Was that an isolated incident or has that ever happened to you again during your time at <orgName ref="#dbl_026_org_24">Dartmouth</orgName>? </u>
+      <u who="MARABLE">Not from a professor, just random stupid comments usually from other students, male students in the class who were there. They didn’t want us to—if we answered, or tried to answer, a question, they’d groan or something like that. Then thirty seconds later, they’d give the same answer. [laughter] And when you’re going through stuff like that you don’t realize how idiotic that is [laughter] you just get annoyed. But I can laugh about it now. We didn’t have terminology like “microaggressions” and all that other stuff back then. All that stuff was going on. </u>
+      <u who="BROWN">I wanna come back to the whole coeducation thing for a second, but before we do, what activities were you involved in on campus? </u>
+      <u who="MARABLE">I was involved with the <orgName ref="#dbl_026_org_25">AAM [Afro-American Society]</orgName> as much as I could be. I spent most of my time studying [laughter] making sure that I could finish and graduate and maintain a halfway decent GPA. I worked; I was part of the work study program. First, I started out in the <placeName ref="#dbl_026_place_25">dining hall</placeName>, <placeName ref="#dbl_026_place_26">Thayer dining hall</placeName>, it’s not called that anymore? Or was it class of ‘52—</u>
+      <u who="BROWN"><placeName ref="#dbl_026_place_27">’53 Commons</placeName>? </u>
+      <u who="MARABLE">Yeah. I worked the steam tables and that’s how my husband [laughter] dated me half the time. The football team, he was part of the football team, and they ate separate from everybody else so he would come through the line, get his food, because I was part of the line serving the food, then he’d stand there and talk to me, then he’d go to the table and dump his food on the tray from the plate and come back with his plate and repeat this. So, he had a mountain of food, and then he ate it all. [laughter]</u>
+      <u who="BROWN">So, your husband—</u>
+      <u who="MARABLE">He’s <orgName ref="#dbl_026_org_26">class of ’74</orgName>, <persName ref="#dbl_026_person_6">Ken Marable</persName>. </u>
+      <u who="BROWN">I was gonna ask, is that how you guys met? Because I know he was also a <orgName ref="#dbl_026_org_27">Dartmouth</orgName> student, and—is that how you met? </u>
+      <u who="MARABLE">We actually met in the bookstore, let me finish about the work, that was the question, right? I forgot what you said, how did I spend my time? </u>
+      <u who="BROWN">Activities in general and work was part of that, yeah. </u>
+      <u who="MARABLE">Okay, because I can go all over the place, I’m sorry. [laughter]</u>
+      <u who="BROWN">No, that’s fine.</u>
+      <u who="MARABLE">I’m talking about work experience, I got tired of that. Then, I sewed, I used to make almost all of my clothes. The theater department needed a costume assistant, somebody who could help sew the costumes and help halfway design them, I did that. That was my job that, when I was working on campus, that’s pretty much what I did until I didn’t have to work anymore. Which, I don’t remember that could’ve been the whole time [laughter] I don’t even remember, that was a long time ago. But, yeah, I remember those because those were long hours, I mean, I liked being creative, I liked theater, I liked the arts, but—and I wasn’t on the performing end. For that, as far as being on the stage, except for dance, there was no formal dance anything at <orgName ref="#dbl_026_org_28">Dartmouth</orgName>. But dance companies would come and myself and some faculty spouses, wives, would dance, take master classes. One faculty spouse in particular <persName ref="#dbl_026_person_7">Mrs. Hill</persName>, I don’t know if you ever met her, <persName ref="#dbl_026_person_8">Professor Hill</persName>’s wife? Her first name is escaping me, which is terrible. But she’s still up in <placeName ref="#dbl_026_place_28">Hanover</placeName>, by the way. She’s in a senior home up there, right in <placeName ref="#dbl_026_place_29">Hanover</placeName> actually. My junior year, they created the opportunity for us to perform on campus, those of us who wanted to. We were part of <orgName ref="#dbl_026_org_29">the Dartmouth Players</orgName>. I was in a couple of dance concerts. I did stuff with the <orgName ref="#dbl_026_org_30">AAM</orgName>. Parties? Yeah, I liked the parties [laughter] because I never had a chance when I was in high school. My parents were very particular and protective on that. Every once in a while, we, as Black women on campus, a few of us got together and would cook some food and eat. But it was mostly studying [laughter] and we’d go and watch football games and stuff like that, you know, the usual stuff. Getting back to how I met <persName ref="#dbl_026_person_9">Ken</persName>, my husband, <orgName ref="#dbl_026_org_31">class of ’74</orgName>, he was part of the football team and they’d come up, I guess they start practice what, two, three weeks before the term starts, or whatever it is. And freshman week, we got our assignments for our classes and all that other stuff. So, I was in the bookstore, all the freshmen, back in the day the textbooks and all that were in the basement in the bookstore. And all the freshmen were down there and there was this huge line snaking up the stairs to the cash registers. [laughter] I don’t know if you’ve ever felt somebody staring at you [laughter] so, I turn around, and here’s this dude with blue granny glasses and overalls [laughter] and a red flannel shirt and black high-top sneakers. And here I am, Ms. Prep School, in my crewneck sweater and corduroys and penny loafers. And I’m looking at him, so he said, “Ain’t no way you have to stand in the line.” I said, “Okay, let me get my friend.” The other girl who came to <orgName ref="#dbl_026_org_32">Dartmouth</orgName> the same time I did, the other Black girl. He said, “Forget about her.” [laughter] I left her she was so mad. And then she said afterwards, she said, “How do you like this guy? He’s not even your type.” I was like, “He’s nice.” After football practice, he’d say, “Let’s go get something to eat.” He had a car, which was highly unusual back then. We went to, I forgot what town, there was, <orgName ref="#dbl_026_org_33">McDonald’s</orgName> was new then, believe it or not, that’s a long time—it’s fifty years ago. [laughter] We went to <orgName ref="#dbl_026_org_34">McDonald’s</orgName>, and I watched him eat more food, I’d never seen anyone eat as much food as he had in that short amount of time.</u>
+      <u who="BROWN">The football player appetite. </u>
+      <u who="MARABLE">Yeah, I hadn’t seen it before. And then we went for ice cream and after that, he shut his hand in the door, he’s probably gonna kill me if I told you this. [laughter] I said, “If this guy is okay with this, he’s okay. He’s trying very hard to show his gentlemanly side.” He always was and still is a gentleman, that, I think, is what attracted me to him. So, I mean, really, we met my freshman week [laughter] freshman fall term week. And we were sort of pretty much together the whole time. So that’s how I met him. Nice guy.</u>
+      <u who="BROWN">He sounds very nice. </u>
+      <u who="MARABLE">We get on each other’s nerves every once in a while, but that can be expected. [laughter]</u>
+      <u who="BROWN">Well, that’s beautiful. Thank you for sharing. [laughter] My next question is, what was the relationship like between the women of your class, being that first class to bring in coeducation? </u>
+      <u who="MARABLE">Within the ranks of the women? </u>
+      <u who="BROWN">Yes. </u>
+      <u who="MARABLE">That was interesting because we came from all kinds of backgrounds. The ratio, male to female, was ten to one. The ratio of, well let’s put it this way: there were twenty-seven Black women on campus my fall term freshman year. And that included Black women, I think there were five? Or seven? I forget. Something like that. Less than ten Black women ranging from the <orgName ref="#dbl_026_org_35">class of ’73</orgName> through <orgName ref="#dbl_026_org_36">’75</orgName>. They came to <orgName ref="#dbl_026_org_37">Dartmouth</orgName>, they were there originally as transfer students—no, exchange students. And then when <orgName ref="#dbl_026_org_38">Dartmouth</orgName> did full coeducation, they applied and the college accepted them as transfer students, so they were able to graduate with a degree from <orgName ref="#dbl_026_org_39">Dartmouth</orgName>. We were close as individual personalities go. Closer to some people more than others. I had a few girls on my floor, I was the only Black girl on my floor. I was in <placeName ref="#dbl_026_place_30">Butterfield</placeName> [a Dartmouth dorm] pretty much the whole time I was at <orgName ref="#dbl_026_org_40">Dartmouth</orgName>. I never had a roommate [laughter] which was great. I loved living in a single. In fact, except for my freshman year, I had a single with a half bath, that was really good. One of the women on my floor was <persName ref="#dbl_026_person_10">President Kemeny</persName>’s [Dartmouth president from 1970-1981] daughter, so the president of <orgName ref="#dbl_026_org_41">the College</orgName>’s daughter was on my floor. We sort of see each other at reunions and stuff like that, so, I don’t say that we’re super-duper close friends, but when we see each other at reunions, we say hi, you know, friendly enough. Black women, depending on who it is, even though we didn’t have a whole lot, we sort of know, all of us know each other. And we connect more so with <orgName ref="#dbl_026_org_42">BADA [Black Alumni of Dartmouth Association]</orgName> stuff, Black Alumni of Dartmouth stuff. The cooking, that was definitely, there were about four or five of us who would cook. Out of everybody, I was least talented, I thought I was the thing until I came up to <orgName ref="#dbl_026_org_43">Dartmouth</orgName> and I realized I ain’t know nothing! I was in charge of the deviled eggs and things like tuna fish and stuff like that. [laughter]</u>
+      <u who="BROWN">So, they just gave you the cans? </u>
+      <u who="MARABLE">They were frying chicken and making stuff [laughter] I didn’t do that right, they let me know that really fast, I was like, “Oh, okay.” But it was fun. We had a good time. Three of my classmates, Black women, were in my wedding. We lost one of them, my main of honor, she died, oh boy, let’s see. I have to do the math. Our youngest is 36, and she had a child around the same time, and she died less than a year later after that. So, yeah, she’s been gone about 35 years. But, yeah, long story short, that was sort of our relationship. My relationship with them. We were sisters. We had each other’s back, we made sure that we were on point, if somebody was doing something stupid, we let them know, nicely, some people not so nicely, but still. Because we were a small group. There were twenty-seven of us, and we knew what was happening and the Black community was small enough that everybody knew what everybody was doing. [laughter] You couldn’t just sneak too much, mm-mm. </u>
+      <u who="BROWN">Kind of branching out to the Black community as a whole, what was, what were the interactions like between Black men and Black women on campus at the time? </u>
+      <u who="MARABLE">Again, it depends on who it was. [laughter] I had, again, coming from a very protective background, I was not used to the first three weeks of freshman fall term, every fifteen minutes, a brother would come by, knock on my door, “Hi, my name is so-and-so, I’d like to get to know you better.” And I figured out after a while what that meant, and was like, “No!” [laughter] And back in those days, if you were a good girl, you had your door open if a guy was in your room. Even <persName ref="#dbl_026_person_11">Ken</persName>, who I was dating at the time, when he was there, my door was wide open. The last time that these dudes decided to do these fifteen-minute trips, he was sitting in my room helping me with a paper, because I was trying to figure out what are they looking for, and I guess word went out, you can’t go by <persName ref="#dbl_026_person_12">Joan</persName>’s room anymore because <persName ref="#dbl_026_person_13">Ken</persName> is there [laughter] I got mad, I left <persName ref="#dbl_026_person_14">Ken</persName> there with the guys. They came and they were like, “Wait a minute, what are you doing here?” Other brothers were really nice also, when I went through that thing with organic, there were some upper classmen who were already fast tracked toward med school. They gave me enough confidence to keep going, because I didn’t know what was happening with that class, between the TA and just the pressure itself. Taking it during my freshman year, and of course, they didn’t even say “Why are you doing this freshman year?” I think by the end they said after the fact, “We couldn’t understand why you did that.” [laughter] I don’t know what to say, I tried to get it over with? I have no idea. I would say that’s about it, as far as with the Black men. We got along. I didn’t see Black men on campus as somebody who was there to hurt me because we had enough of that going on with other folks. We were so small as far as a community, even if we were not necessarily friends, per say, we knew that we had the same goal, and that was to finish, to do well enough to graduate, and graduate on time, and look out for each other. I would say that that was the relationship. </u>
+      <u who="BROWN">Thank you. My next question is, what was the engagement like between Black students and Black faculty? </u>
+      <u who="MARABLE">There was very few Black faculty. <persName ref="#dbl_026_person_15">Professor Errol Hill</persName>, again, I spoke of his wife, he was the only, I think the only Black tenured professor at that time. I don’t know if he was chair of the theater department then, but I think he did become that, did have that position assigned to him before I graduated. He was all about—he was a Caribbean brother. Their family is <placeName ref="#dbl_026_place_31">Bajan</placeName>. They were all about, we’re Black people, we need to be proud of what we do. And based on the types of theater that he had students participate in and just the influence he had on who came up to the <placeName ref="#dbl_026_place_32">Hop</placeName> [Dartmouth’s Hopkins Center for the Arts], I think that a lot of stuff—we were all trying to make things work. The <orgName ref="#dbl_026_org_44">Afro-Am</orgName> was really blooming then, it was the only place that we had, really. There was no other place for foreign students. If you were a foreign student and you were Black, you still came to the <orgName ref="#dbl_026_org_45">AAM</orgName>. If you were an exchange student, you came to the <orgName ref="#dbl_026_org_46">AAM</orgName>. If you were any part, anywhere on the LGBTQ+ spectrum, you came to the <orgName ref="#dbl_026_org_47">AAM</orgName>. We all, that was our place. And there was another, there were some other families there as well, I mentioned <persName ref="#dbl_026_person_16">Joan Nelson</persName>, <persName ref="#dbl_026_person_17">dean Joan Nelson</persName>, she was like a mother to me and to all, pretty much all of the Black women on campus. She understood what we were going through as a Black woman. She would calm us and direct us and tell us also if we were going off the deep end [laughter] but again, nobody told me about organic! I don’t understand. But that was, maybe they told me, and I just didn’t hear. I don’t think so. And her husband, <persName ref="#dbl_026_person_18">Berky Nelson</persName>, I forgot what he taught but he was a professor there. There weren’t too many, there was an English professor, Black woman, I can’t remember her name, <persName ref="#dbl_026_person_19">Professor Cook</persName> was there, I never had—you know what’s interesting? I never had a Black professor. In all the time I was at <orgName ref="#dbl_026_org_48">Dartmouth</orgName>. Never had one. I thought about that in retrospect. In my lifetime, I never had a Black professor, teacher, nothing. That’s sad, but I don’t know. I mean, I don’t know. That never happened and I lost on that. There were not many. <orgName ref="#dbl_026_org_49">Dartmouth</orgName> has not a whole lot, but it’s a whole lot more than what we had back then in the early ‘70s, early to mid ‘70s. And even when our children were there in the early 2000s, there were more faculty members of color, Black and otherwise. But not when I was there. </u>
+      <u who="BROWN">That’s really interesting. I think, like you said, there’s not really a lot now either, but there is a big improvement. But it’s also interesting to hear that you said you’ve never had one because I think that’s still pretty common now. A lot of students have never had a Black professor, at least not at <orgName ref="#dbl_026_org_50">Dartmouth</orgName>. They’re around a lot, and I’ve had classes that were taught by Black professors, but I do know it’s pretty common to not have that experience. So, it’s just really interesting to hear you say that. My next question is a little bit different, kind of more related to the <orgName ref="#dbl_026_org_51">AAM</orgName> in a sense and activities in general. Was there any strong involvement—I know <orgName ref="#dbl_026_org_52">Alpha Phi Alpha Fraternity [historically African American fraternity founded in 1906]</orgName> was on campus at this time [The Dartmouth chapter of Alpha Phi Alpha, Theta Zeta Chapter, was chartered in 1972], was there any involvement that they had with the entire community that you remember that you were part of? </u>
+      <u who="MARABLE"><orgName ref="#dbl_026_org_53">Alpha Phi Alpha</orgName>, the first line [members of Black Greek letter organizations are initiated by “line”, which is a group of initiates joining at the same time] … why do I wanna say it was 19—that I remember, was <date when="1974">1974</date>? I think it was <date when="1974">1974</date>. My husband was on line [term that describes joining a Black fraternity or sorority] for thirty seconds [laughter] not very long. He said, “I’m not going through this my senior year, are you kidding me? I don’t need to do this now. If I was a sophomore, maybe. My senior year? No.” I don’t know, I didn’t mention, but I finished the <orgName ref="#dbl_026_org_54">Dartmouth</orgName>, the D-Plan [plan that allows students to choose when they will take classes at the College] it was called the D-Plan back then, was a three-to-five-year plan. So, you could finish your studies between three and five years and I finished in three years and a term. I was not there during my class’s senior year; I had already finished my credits. As far as influence, I’m sure there was a lot of influence by then, my senior year, it was starting to, they were starting to have some influence my junior year while I was there. I don’t remember that much as far as them—if you’re asking if they almost ran the <orgName ref="#dbl_026_org_55">AAM</orgName> I don’t think so. I think they have more influence now than they did back then. As far as what I understand. And also, when my children were there. They had a lot of influence; you know Black fraternities and sororities were there by then. But when I was there, no. </u>
+      <u who="BROWN">And you said you finished in three years and a term. What made you decide to do that instead of staying the whole four years? </u>
+      <u who="MARABLE">First of all, I tell everybody, “Do not do that.” [laughter] You need to be there the whole four years because senior year is a different experience that I never got to experience. Part of it was naivete and I didn’t say this to anybody until many, many years afterward, but I thought since my husband had graduated in <date when="1974">’74</date>, and back then you didn’t shack up with anybody, my parents would not allow that. I figured, well, my parents—we got engaged after he graduated in <date when="1974">’74</date> and I still would’ve had two my years and my parents said, “You’re not getting married until you finish at <orgName ref="#dbl_026_org_56">Dartmouth</orgName>.” I said, “Okay.” So, I finished. [laughter] I was Ms. Goody Two Shoes, I said, “Ok, I’ll do that.” I don’t think they thought I would do it that fast. But I finished in three years and a term. Actually, I know there’s several people who did that. For different reasons, some people did it because they couldn’t stand it on campus. Mine wasn’t for that reason. Or the finances, they couldn’t—you know, the faster they got it, they less they had to pay. Mine was plain and simple, I thought he would disappear. I said, “Well, if I’m gonna continue with this process, I need to finish and finish a year early.” So, I did. I finished <date when="1975-08">August of ’75</date> and we got married in <date when="1975-11">November of ’75</date> and we came back so I could walk with my class [laughter] in <date when="1976-05">May of ’76</date>. As a result, I did not do study abroad, big mistake. I did not experience any of the senior things that people do as seniors that I have found out over the years. Made sure that our kids, when they went to <orgName ref="#dbl_026_org_57">Dartmouth</orgName>, I said, “Do not do what mama did. Please do not. You do the whole—go abroad and do your senior year.” They did. </u>
+      <u who="BROWN">Well, that’s great to hear. [laughter] This naturally just aligns with my question because now I’m kind of moving into the post-<orgName ref="#dbl_026_org_58">Dartmouth</orgName> route. What did you do after your graduation and after your marriage? </u>
+      <u who="MARABLE">I worked for a number of years in property casualty insurance. Basically, medical malpractice insurance, which, even thought I had not attended med school, I just still had an intense interest in medicine so I found out things that doctors and hospitals shouldn’t do. Even though I had to support them even in their liabilities which was very stressful. I did property casualty for a while, then I did, I was with the board of education, department of education as it’s called now, in the city of <placeName ref="#dbl_026_place_33">New York</placeName> with the chancellor’s office for a while. And then after we were married for eight years, we started having children and I was home with them for a while, but I would go back periodically to work with the board of education and did a lot of volunteer work and then twenty-four years ago I started a non-profit. For high school kids. </u>
+      <u who="BROWN">Right, and that is <orgName ref="#dbl_026_org_59">the Diversity Awareness Initiative for Students [DAIS for short]</orgName>? </u>
+      <u who="MARABLE">Yeah. </u>
+      <u who="BROWN">I noticed that your husband, <persName ref="#dbl_026_person_20">Ken</persName>, is also part of it. I think he’s the president of the board? </u>
+      <u who="MARABLE">Yeah. </u>
+      <u who="BROWN">Did you guys start it together? Like, as a joint thing? </u>
+      <u who="MARABLE">It’s interesting because our daughter, <persName ref="#dbl_026_person_21">Kimberly</persName>, when she was in the tenth grade, had been part of another organization that was very similar to it, and it just stopped existing. And she and three of her friends came to me, literally in tears, saying, “We want to do something similar to this, we want an organization where we as students have a voice. But a little more of a voice than we did before, can you help us?” And I said, “Okay.” Here I am, twenty-four years later [laughter] still. But I forgot what your question was. [laughter]</u>
+      <u who="BROWN">[laughter] That’s fine. That’s fine. My question was basically, did you and <persName ref="#dbl_026_person_22">Ken</persName> start it together?</u>
+      <u who="MARABLE">Oh, yes. We had to have a board, so he became president of the board. He helped me at the beginning, and we had to have a board. We tried to—it’s interesting, some people say you shouldn’t have a board where you pay it so close to the chest, but because of how we created the organization and the fact that most of the students who participate are, we’re open to everybody, kids from independent, parochial, and public schools, but most of the kids from independent schools, because most people feel that kids who go to independent schools, because they have these fabulous educational opportunities, that they don’t have any issues with identity or how to deal with things. And that it totally wrong, and as a result, because I am not a trained teacher [laughter] I had a lot of faculty members from the different schools when we first started and some major organizations come to me and tell me to cease and desist because I was not a quote unquote “educator”. And I said, “No, there’s nothing that exists for these kids, and they need support.” Of course, everybody loves us now. Long story short, in order to make sure that we continued to exist, we sort of kept everything close knit. We have other board members too, but they sort of feel the same way we do. Their kids went to independent schools, all of our children have been adults for a while. We just felt that there was a need for our kids to, and everybody’s kids, to have this voice, to have the agency to be able to have these safe discussions about social justice issues. All of the language about all of the things that we went through over fifty years ago and you still go through now, at any institution, but specifically PWIs [predominantly white institutions] it’s needed. It still needs to be addressed. The only way I’d feel that we can make a change is to make sure that young people, and I’m talking about kids, children, teens, learn how to develop the language to have these discussions. That’s how you have the leadership. I’m part of a generation where we were to be seen and not be heard. I resented that. When we were raising our children, we definitely, because my husband had the same situation, we said, “We are not gonna do that for our children. We wanna hear what they have to say.” We also do that with this organization, and I would say that we’ve impacted over ten thousand kids doing that. A lot of them have come to <orgName ref="#dbl_026_org_60">Dartmouth</orgName>. I don’t always know that they’re there until I come on campus [laughter] and somebody’s yelling my name across <placeName ref="#dbl_026_place_34">the Green</placeName>, “<persName ref="#dbl_026_person_23">Mrs. Marable</persName>!” We encourage these kids to do that. Because not everybody has the same opportunities to have discussions or to voice their opinions either at home or at school—definitely not at school. Or at home, depends on the environment. Or in the community. This whole thing that you see, student movement now, that’s nothing new. It’s just that it’s become, I don’t know, I guess more publicized. But I know we’ve been doing this for twenty-four years now. This is the twenty fourth year of having kids do that, because it’s necessary. You can’t—I did not have a voice, as I said, and I didn’t know that I could have a voice until well into my adulthood. That’s ridiculous. I think as a result of self-reflection and realizing what I didn’t know and what I didn’t have, and the fact that our daughter and then her friends came with this request, it seemed like an opportunity that we had to take up. That’s sort of how we keep doing—the schools like what we do, I mean, this whole “Black at” thing. We were having discussion about that without the hashtags and all that for years. The schools don’t know that but [laughter] we were. Because the kids, and this is basically for the tri-state area, the greater <placeName ref="#dbl_026_place_35">New York City</placeName> area and <placeName ref="#dbl_026_place_36">Connecticut</placeName> and <placeName ref="#dbl_026_place_37">New Jersey</placeName>, the kids realized that they could have these discussions and develop the strength in their opinion and their voice and then go on and express themselves on campus and maybe make a change on campus and then beyond that in their adulthood. Our oldest alums are in their low forties already. [laughter] it seems crazy. But that’s what happens. I don’t know if I answered your question. </u>
+      <u who="BROWN">You absolutely did, thank you.</u>
+      <u who="MARABLE">Okay. </u>
+      <u who="BROWN">I’m not a private school product but I do absolutely understand the need for all of this, so I just want to thank you for being able to give these students the chance to do what you felt like you weren’t able to. Because I think it’s just very important to, like you said, reflect on what previous generations wanted to do or weren’t able to, and allowing the current and next generations to do so. I think that’s just very admirable, so thank you for that. </u>
+      <u who="MARABLE">You’re welcome. We have kids from public school and parochial school too, but the majority, vast majority, is independent school. I don’t turn anybody away. We even have homeschooled kids now. </u>
+      <u who="BROWN">I have one more question about this, you mentioned that it’s in the tri-state area, <placeName ref="#dbl_026_place_38">New York</placeName>, <placeName ref="#dbl_026_place_39">New Jersey</placeName>, <placeName ref="#dbl_026_place_40">Connecticut</placeName>. Could you see it branching out beyond that to other cities around the country? </u>
+      <u who="MARABLE">I would love to. I don’t have the bandwidth because it’s just me pretty much. I know my husband has always said, “We should do it nationwide.” I can’t do it nationwide. I know what it takes to do it effectively in this sphere. It’s something that’s needed, I know that some of our alums have set up things that sort of take little bits and pieces of what they experienced through DAIS and created something wherever they were. Then they realize how much work it takes [laughter] so, it usually doesn’t last. I know that there are actual companies that have tried to implement parts of, or things that are similar to ours. But, usually, again, it’s a group of educators and, you know, my mom was an educator, she retired as an educator, she’s no longer with us, but I just know that educators, their job, or at least they feel that their job, is to make sure that they lead kids and basically tell them almost how to say things or what to say, and we don’t do that. We’re a peer facilitated group and that’s what makes a difference, I think, between a lot of these companies. I mean, they’re literally companies that charge a whole lot of money for what we do, and don’t charge the kids anything. The only thing we charge for, pretty much, is our annual conference, and that’s low budget compared to some of these other things. It’s interesting to see how all of this pans out. But nationally? It would be nice, I don’t know. I think if I was twenty years younger, maybe I could think of doing that now [laughter] but I don’t think I have the bandwidth or the energy at this point. That’s a sad thing, the goal was by <date when="2025">year 2025</date> to have somebody or a couple of people in place to take over and Covid sort of put a pause in that, so I know I’m gonna be doing this and reenergizing the organization post Covid. Probably, it’ll take another two years or so to do that, like everything else. <orgName ref="#dbl_026_org_61">Zoom</orgName>, everybody’s <orgName ref="#dbl_026_org_62">Zoom</orgName>ed out [laughter]. <orgName ref="#dbl_026_org_63">Zoom</orgName> has been our friend for almost three years!</u>
+      <u who="BROWN">Absolutely. I only have a couple more questions. One of them is, are you involved in <orgName ref="#dbl_026_org_64">BADA</orgName> now? </u>
+      <u who="MARABLE">Yes. I go to <orgName ref="#dbl_026_org_65">BADA</orgName> events, my husband has been in the, I don’t remember what it’s called, the title. Regional director? Something for <orgName ref="#dbl_026_org_66">BADA</orgName> off and on, probably for the past thirty years. For <placeName ref="#dbl_026_place_41">New York City</placeName> pretty much. I help him organize a lot of events. We do things together here, sometimes it’s just making sure we all get up on campus which is a tough thing. Some people don’t wanna go back because of their experience. <persName ref="#dbl_026_person_24">Ken</persName> and I go back. Our experience was not a bunch of roses, and our children, our daughter’s <orgName ref="#dbl_026_org_67">class of ’05</orgName> and our son is <orgName ref="#dbl_026_org_68">’08</orgName>. Our daughter, she was a theater major, she’s a professional actor, she’s been on Broadway and stuff like that. Our son is an urban planner. Our daughter said, ‘I don’t wanna go to college outside of the city.” And then she came up to <orgName ref="#dbl_026_org_69">Dartmouth</orgName> on her own without us and fell in love and applied early decision and got in. Our son on the other hand said, “I always wanted to go to <orgName ref="#dbl_026_org_70">Dartmouth</orgName>!” and then had us run around to twenty-five schools. [laughter] He still applied early decision and got in. And it wasn’t a legacy thing, even though, I must say, <persName ref="#dbl_026_person_25">Kimberly</persName> was the second Black double legacy to come to <orgName ref="#dbl_026_org_71">Dartmouth</orgName>. The first one was a woman classmate of mine and a guy who she married in <orgName ref="#dbl_026_org_72">class of ’75</orgName>, their son came to <orgName ref="#dbl_026_org_73">Dartmouth</orgName>, he’s <orgName ref="#dbl_026_org_74">class of ’01</orgName>. We’ve been a lot of green. My brother was <orgName ref="#dbl_026_org_75">class of ’79</orgName> and my parents, again, they had the last say so they made him come. He did not like <orgName ref="#dbl_026_org_76">Dartmouth</orgName>, but he graduated. [laughter] He graduated. He did okay, he did quite well, actually. If he had his choice, he would not have been at <orgName ref="#dbl_026_org_77">Dartmouth</orgName>. </u>
+      <u who="BROWN">My last question for you is, how has your perception of <orgName ref="#dbl_026_org_78">Dartmouth</orgName> changed since you were a student?</u>
+      <u who="MARABLE">A lot of things have changed; a lot of things are definitely still the same. I think the opportunities, first of all, to get in, I probably would not be able to get into <orgName ref="#dbl_026_org_79">Dartmouth</orgName>. [laughter] When our children got in, I don’t think I would’ve made it. I was a good student in high school, but the test scores and other stuff that was required then, as I said, they were early 2000s and even the requirements then were way above what was required back in the early ‘70s. Just watching the difference between our daughter’s experience and our son’s experience, they overlapped one year, her senior year and his freshman year. Their experiences were very different because of their personalities but also what was on campus. In the early 2000s, the faculty support, the hiring and retention of faculty and staff of color was still pretty bad, it still is, but it was really bad, still, back then. It’s improved some. The whole situation with assault and sexual assault, on one hand I say it’s the same from when I was there, except we didn’t know how to talk about it. We just knew we felt bad. And it was just like, “What did I do?” Because that was the accepted norm and said it was always the woman’s fault. Now at least students have a voice in saying, “No, I didn’t do anything. This person did this to me or said this to me.” The whole aspect of communicating what is acceptable and what isn’t. Again, same stuff going on, but there’s more of a language to be able to handle that now, or at least address it. I don’t say it’s resolved because I read the <orgName ref="#dbl_026_org_80">Dartmouth</orgName> daily briefs every once in a while, I don’t read them every day, but I get the emails. And it’s like, gee, this is the same stuff we went through, it’s just they got a name to it now. I think that’s good. I’m thrilled, as I said, about the Black faculty who I have met, the new DEI person, the <persName ref="#dbl_026_person_26">Vice President [Mrs. Marable was referring to Shontay Delalue]</persName>, I forgot her name, the sister, what is her name? Do you know? </u>
+      <u who="BROWN">I’m not sure. </u>
+      <u who="MARABLE">You gotta meet her if you haven’t met her. She’s fabulous. I can’t remember her name, but I met her at the fiftieth anniversary of <orgName ref="#dbl_026_org_81">BADA</orgName>. I’ll be up again for the fiftieth anniversary of coeducation for a day and a half because our daughter <persName ref="#dbl_026_person_27">Kimberly</persName> is gonna be on the panel for people in entertainment from, I think it’s called “Star Power: From Broadway to <placeName ref="#dbl_026_place_42">Hollywood</placeName>”. Getting back to your question, I don’t expect it to be any different, because… I don’t expect a tremendous amount of difference because environmental stuff, and I’m not talking about green stuff, I’m talking about the social environment on campus. A lot of it has to do with systems. How <orgName ref="#dbl_026_org_82">the College</orgName> was created. I don’t know if you know or if students know on campus, but slavery was a big part of how <orgName ref="#dbl_026_org_83">the College</orgName> started. I didn’t know that when I was a student. I didn’t know that probably until about ten years ago. That was highly accepted. The fact that <orgName ref="#dbl_026_org_84">the College</orgName> is acknowledging that, that’s a good thing. What they’ll do about it, I don’t know. Change happens one step at a time. Because a lot of things are based on systems that are in existence, unless you change the systems, it’s really hard to make permanent changes on other things. Coeducation exists because the systems in this country just having an elite male organization, there are a few left, it’s kind of tough to maintain that. And <orgName ref="#dbl_026_org_85">Dartmouth</orgName> and a lot of other institutions like <orgName ref="#dbl_026_org_86">Dartmouth</orgName> have realized there’s strength in the power of women. Especially their alumni base but even the students and faculty members, wow. Back when I was there, with these guys, when we came freshman year, all of our freshman year and I don’t even know, it might’ve been part of the early part of our sophomore year. They still bussed in women from women’s colleges for socials. You’re here, but it doesn’t matter, this is a tradition we have so we gotta bus in our weekend entertainment. That’s a system that eventually changed on campus and that’s because I think that it was just not acceptable in enough places in the country, so they had to make that change. When you’re talking about other aspects of social identifiers like race or ethnicity or even sexual identity or sexual orientation, we still have a long way to go. I know that <orgName ref="#dbl_026_org_87">Dartmouth</orgName> is trying to do their thing and there are some things that have failed and some that have succeeded a little bit but until there’s a major change in how the system works, it’s not gonna be a permanent thing. It’s easy enough to just slide on back to how it was. That’s my opinion. I still appreciate <orgName ref="#dbl_026_org_88">Dartmouth</orgName> for the experience and the exposure that I had for my education. I was not an “A” student, but I wasn’t at the bottom of the class either [laughter] probably in the middle. I don’t know if <orgName ref="#dbl_026_org_89">Dartmouth</orgName> necessarily gave me super-duper opportunities, but it didn’t hurt. If anything, between my education in high school at a similar type of institution, an elite type thing, I’m not saying that it comes strictly from that, but I had enough exposure to what other people had to realize that I could have that for me and my family as well. That’s how I look at my experience at <orgName ref="#dbl_026_org_90">Dartmouth</orgName>. I don’t dislike it. It was not perfect. I don’t think any place is. With our country’s recognition all of a sudden of HBCUs, I’m wondering if I should’ve participated in that, what is it, the college exchange with <orgName ref="#dbl_026_org_91">Spelman</orgName>, do they still have that? </u>
+      <u who="BROWN">Yeah, we do still have that. </u>
+      <u who="MARABLE">Yeah, I think about that more and more, I say, “Boy, I think I should have tried.” I wonder what that would’ve been—I think that would’ve been a really nice experience. Not that I didn’t have a cultural connection, my parents made sure that I did and we, in turn, have done the same thing with our children. Outside of school, the influence, you had pride in who you were and where you came from. And we still do that. I think that’s important, regardless of what your background is. We as Black people especially have had so much taken away from us that I just feel it’s important that we do that. There’s so many things—if we were to sit down and look at <orgName ref="#dbl_026_org_92">Dartmouth</orgName> now compared to how it was fifty years ago, there are a lot of things that have changed and a lot of things that are still the same. I don’t discourage people from attending <orgName ref="#dbl_026_org_93">Dartmouth</orgName> from <orgName ref="#dbl_026_org_94">DAIS</orgName>. If I know a kid’s interested in <orgName ref="#dbl_026_org_95">Dartmouth</orgName>, I tell them that we were there and don’t expect it to be perfect, because no place is perfect, but you will have the opportunities that you need. We didn’t make our children go to <orgName ref="#dbl_026_org_96">Dartmouth</orgName>, but they also understood the opportunities would be there that they needed, and they took advantage of that. I’m thankful for that, that they were able to have the grades and everything to go, because as I said, I would not be able to get into <orgName ref="#dbl_026_org_97">Dartmouth</orgName> [laughter] when they applied. No way. But, yeah, they did well. Again, I sort of ramble, I feel like I ramble all over the place, but I hope that I answered your questions. </u>
+      <u who="BROWN">You absolutely did. Thank you so much. I’m gonna end the recording right now, thank you so much for talking with me today, though. </u>
+      <u who="MARABLE">Okay. </u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dbl_026_place_0">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_026_place_1">
+        <placeName>Brooklyn</placeName>
+        <location>
+          <geo>40.692777777778 -73.990277777778</geo>
+        </location>
+        <idno type="WD">Q18419</idno>
+      </place>
+      <place xml:id="dbl_026_place_2">
+        <placeName>Brooklyn</placeName>
+        <location>
+          <geo>40.692777777778 -73.990277777778</geo>
+        </location>
+        <idno type="WD">Q18419</idno>
+      </place>
+      <place xml:id="dbl_026_place_3">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.360277777777775 -71.05777777777777</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dbl_026_place_4">
+        <placeName>Dorchester</placeName>
+        <location>
+          <geo>42.316666666667 -71.05</geo>
+        </location>
+        <idno type="WD">Q1024037</idno>
+      </place>
+      <place xml:id="dbl_026_place_5">
+        <placeName>Roxbury</placeName>
+        <location>
+          <geo>42.325 -71.095277777778</geo>
+        </location>
+        <idno type="WD">Q20138</idno>
+      </place>
+      <place xml:id="dbl_026_place_6">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.360277777777775 -71.05777777777777</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dbl_026_place_7">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.360277777777775 -71.05777777777777</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dbl_026_place_8">
+        <placeName>Dorchester</placeName>
+        <location>
+          <geo>42.316666666667 -71.05</geo>
+        </location>
+        <idno type="WD">Q1024037</idno>
+      </place>
+      <place xml:id="dbl_026_place_9">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.360277777777775 -71.05777777777777</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dbl_026_place_10">
+        <placeName>Dorchester</placeName>
+        <location>
+          <geo>42.316666666667 -71.05</geo>
+        </location>
+        <idno type="WD">Q1024037</idno>
+      </place>
+      <place xml:id="dbl_026_place_11">
+        <placeName>Roxbury</placeName>
+        <location>
+          <geo>42.325 -71.095277777778</geo>
+        </location>
+        <idno type="WD">Q20138</idno>
+      </place>
+      <place xml:id="dbl_026_place_12">
+        <placeName>Roxbury</placeName>
+        <location>
+          <geo>42.325 -71.095277777778</geo>
+        </location>
+        <idno type="WD">Q20138</idno>
+      </place>
+      <place xml:id="dbl_026_place_13">
+        <placeName>Roxbury</placeName>
+        <location>
+          <geo>42.325 -71.095277777778</geo>
+        </location>
+        <idno type="WD">Q20138</idno>
+      </place>
+      <place xml:id="dbl_026_place_14">
+        <placeName>Chestnut Hill</placeName>
+        <location>
+          <geo>42.330555555556 -71.166111111111</geo>
+        </location>
+        <idno type="WD">Q990957</idno>
+      </place>
+      <place xml:id="dbl_026_place_15">
+        <placeName>Massachusetts</placeName>
+        <location>
+          <geo>42.3 -71.8</geo>
+        </location>
+        <idno type="WD">Q771</idno>
+      </place>
+      <place xml:id="dbl_026_place_16">
+        <placeName>Roxbury</placeName>
+        <location>
+          <geo>42.325 -71.095277777778</geo>
+        </location>
+        <idno type="WD">Q20138</idno>
+      </place>
+      <place xml:id="dbl_026_place_17">
+        <placeName>Dorchester</placeName>
+        <location>
+          <geo>42.316666666667 -71.05</geo>
+        </location>
+        <idno type="WD">Q1024037</idno>
+      </place>
+      <place xml:id="dbl_026_place_18">
+        <placeName>Maine</placeName>
+        <location>
+          <geo>45.5 -69</geo>
+        </location>
+        <idno type="WD">Q724</idno>
+      </place>
+      <place xml:id="dbl_026_place_19">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_026_place_20">
+        <placeName>Maine</placeName>
+        <location>
+          <geo>45.5 -69</geo>
+        </location>
+        <idno type="WD">Q724</idno>
+      </place>
+      <place xml:id="dbl_026_place_21">
+        <placeName>Maine</placeName>
+        <location>
+          <geo>45.5 -69</geo>
+        </location>
+        <idno type="WD">Q724</idno>
+      </place>
+      <place xml:id="dbl_026_place_22">
+        <placeName>Maine</placeName>
+        <location>
+          <geo>45.5 -69</geo>
+        </location>
+        <idno type="WD">Q724</idno>
+      </place>
+      <place xml:id="dbl_026_place_23">
+        <placeName>New England</placeName>
+        <location>
+          <geo>44.205555555556 -70.306425</geo>
+        </location>
+        <idno type="WD">Q18389</idno>
+      </place>
+      <place xml:id="dbl_026_place_24">
+        <placeName>New England</placeName>
+        <location>
+          <geo>44.205555555556 -70.306425</geo>
+        </location>
+        <idno type="WD">Q18389</idno>
+      </place>
+      <place xml:id="dbl_026_place_25">
+        <placeName>Class of 1953 Commons</placeName>
+        <location>
+          <geo>43.70309 -72.29092</geo>
+        </location>
+        <idno type="WD">Q98636574</idno>
+      </place>
+      <place xml:id="dbl_026_place_26">
+        <placeName>Class of 1953 Commons</placeName>
+        <location>
+          <geo>43.70309 -72.29092</geo>
+        </location>
+        <idno type="WD">Q98636574</idno>
+      </place>
+      <place xml:id="dbl_026_place_27">
+        <placeName>Class of 1953 Commons</placeName>
+        <location>
+          <geo>43.70309 -72.29092</geo>
+        </location>
+        <idno type="WD">Q98636574</idno>
+      </place>
+      <place xml:id="dbl_026_place_28">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_026_place_29">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dbl_026_place_30">
+        <placeName>Butterfield Hall at Dartmouth College</placeName>
+        <location>
+          <geo>43.7056495 -72.2911834</geo>
+        </location>
+        <idno type="WD">Q118127518</idno>
+      </place>
+      <place xml:id="dbl_026_place_31">
+        <placeName>Barbados</placeName>
+        <location>
+          <geo>13.17 -59.5525</geo>
+        </location>
+        <idno type="WD">Q244</idno>
+      </place>
+      <place xml:id="dbl_026_place_32">
+        <placeName>Hopkins Center for the Arts</placeName>
+        <location>
+          <geo>43.701666666667 -72.288611111111</geo>
+        </location>
+        <idno type="WD">Q3140375</idno>
+      </place>
+      <place xml:id="dbl_026_place_33">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.7 -74</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dbl_026_place_34">
+        <placeName>The Green</placeName>
+        <location>
+          <geo>43.7033 -72.2886</geo>
+        </location>
+        <idno type="WD">Q7738117</idno>
+      </place>
+      <place xml:id="dbl_026_place_35">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.7 -74</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dbl_026_place_36">
+        <placeName>Connecticut</placeName>
+        <location>
+          <geo>41.6 -72.7</geo>
+        </location>
+        <idno type="WD">Q779</idno>
+      </place>
+      <place xml:id="dbl_026_place_37">
+        <placeName>New Jersey</placeName>
+        <location>
+          <geo>40 -74.5</geo>
+        </location>
+        <idno type="WD">Q1408</idno>
+      </place>
+      <place xml:id="dbl_026_place_38">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.7 -74</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dbl_026_place_39">
+        <placeName>New Jersey</placeName>
+        <location>
+          <geo>40 -74.5</geo>
+        </location>
+        <idno type="WD">Q1408</idno>
+      </place>
+      <place xml:id="dbl_026_place_40">
+        <placeName>Connecticut</placeName>
+        <location>
+          <geo>41.6 -72.7</geo>
+        </location>
+        <idno type="WD">Q779</idno>
+      </place>
+      <place xml:id="dbl_026_place_41">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.7 -74</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dbl_026_place_42">
+        <placeName>Hollywood</placeName>
+        <location>
+          <geo>34.098333333333336 -118.32666666666667</geo>
+        </location>
+        <idno type="WD">Q34006</idno>
+      </place>
+      <place xml:id="dbl_026_place_43">
+        <placeName>Dorchester</placeName>
+      </place>
+    </listPlace>
+    <listPerson>
+      <person xml:id="dbl_026_person_0">
+        <persName>Tamonie Brown</persName>
+        <idno type="WD">Q115041559</idno>
+      </person>
+      <person xml:id="dbl_026_person_1">
+        <persName>Joan Marable</persName>
+        <idno type="WD">Q118127462</idno>
+      </person>
+      <person xml:id="dbl_026_person_2">
+        <persName>Joan Marable</persName>
+        <idno type="WD">Q118127462</idno>
+      </person>
+      <person xml:id="dbl_026_person_4">
+        <persName>Joan Nelson</persName>
+        <idno type="WD">Q118127470</idno>
+      </person>
+      <person xml:id="dbl_026_person_5">
+        <persName>Nelson Dean</persName>
+        <idno type="WD">Q6990471</idno>
+      </person>
+      <person xml:id="dbl_026_person_6">
+        <persName>Ken Marable</persName>
+        <idno type="WD">Q118127474</idno>
+      </person>
+      <person xml:id="dbl_026_person_7">
+        <persName>Grace Hill</persName>
+        <idno type="WD">Q118228407</idno>
+      </person>
+      <person xml:id="dbl_026_person_8">
+        <persName>Errol Hill</persName>
+        <idno type="WD">Q5395585</idno>
+      </person>
+      <person xml:id="dbl_026_person_9">
+        <persName>Ken Marable</persName>
+        <idno type="WD">Q118127474</idno>
+      </person>
+      <person xml:id="dbl_026_person_10">
+        <persName>John George Kemeny</persName>
+        <idno type="WD">Q28900</idno>
+      </person>
+      <person xml:id="dbl_026_person_11">
+        <persName>Ken Marable</persName>
+        <idno type="WD">Q118127474</idno>
+      </person>
+      <person xml:id="dbl_026_person_12">
+        <persName>Joan Marable</persName>
+        <idno type="WD">Q118127462</idno>
+      </person>
+      <person xml:id="dbl_026_person_13">
+        <persName>Ken Marable</persName>
+        <idno type="WD">Q118127474</idno>
+      </person>
+      <person xml:id="dbl_026_person_14">
+        <persName>Ken Marable</persName>
+        <idno type="WD">Q118127474</idno>
+      </person>
+      <person xml:id="dbl_026_person_15">
+        <persName>Errol Hill</persName>
+        <idno type="WD">Q5395585</idno>
+      </person>
+      <person xml:id="dbl_026_person_16">
+        <persName>Joan Nelson</persName>
+        <idno type="WD">Q118127470</idno>
+      </person>
+      <person xml:id="dbl_026_person_17">
+        <persName>Joan Nelson</persName>
+        <idno type="WD">Q118127470</idno>
+      </person>
+      <person xml:id="dbl_026_person_18">
+        <persName>Berky Nelson</persName>
+        <idno type="WD">Q118127505</idno>
+      </person>
+      <person xml:id="dbl_026_person_19">
+        <persName>Professor William Cook</persName>
+        <idno type="WD">Q118127490</idno>
+      </person>
+      <person xml:id="dbl_026_person_20">
+        <persName>Ken Marable</persName>
+        <idno type="WD">Q118127474</idno>
+      </person>
+      <person xml:id="dbl_026_person_21">
+        <persName>Kimberly Marable</persName>
+        <idno type="WD">Q118127403</idno>
+      </person>
+      <person xml:id="dbl_026_person_22">
+        <persName>Ken Marable</persName>
+        <idno type="WD">Q118127474</idno>
+      </person>
+      <person xml:id="dbl_026_person_23">
+        <persName>Joan Marable</persName>
+        <idno type="WD">Q118127462</idno>
+      </person>
+      <person xml:id="dbl_026_person_24">
+        <persName>Ken Marable</persName>
+        <idno type="WD">Q118127474</idno>
+      </person>
+      <person xml:id="dbl_026_person_25">
+        <persName>Kimberly Marable</persName>
+        <idno type="WD">Q118127403</idno>
+      </person>
+      <person xml:id="dbl_026_person_26">
+        <persName>Shontay Delalue</persName>
+        <idno type="WD">Q118593980</idno>
+      </person>
+      <person xml:id="dbl_026_person_27">
+        <persName>Kimberly Marable</persName>
+        <idno type="WD">Q118127403</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dbl_026_org_0">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_1">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_2">
+        <orgName>Class of '76</orgName>
+        <idno type="WD">Q3284567</idno>
+      </org>
+      <org xml:id="dbl_026_org_3">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_4">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_5">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_6">
+        <orgName>Beaver Country Day School</orgName>
+        <idno type="WD">Q4878004</idno>
+      </org>
+      <org xml:id="dbl_026_org_7">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_8">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_9">
+        <orgName>Bowdoin College</orgName>
+        <idno type="WD">Q895401</idno>
+      </org>
+      <org xml:id="dbl_026_org_10">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_11">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_12">
+        <orgName>Bowdoin College</orgName>
+        <idno type="WD">Q895401</idno>
+      </org>
+      <org xml:id="dbl_026_org_13">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dbl_026_org_14">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dbl_026_org_15">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_16">
+        <orgName>Bowdoin College</orgName>
+        <idno type="WD">Q895401</idno>
+      </org>
+      <org xml:id="dbl_026_org_17">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_18">
+        <orgName>Bowdoin College</orgName>
+        <idno type="WD">Q895401</idno>
+      </org>
+      <org xml:id="dbl_026_org_19">
+        <orgName>Bowdoin College</orgName>
+        <idno type="WD">Q895401</idno>
+      </org>
+      <org xml:id="dbl_026_org_20">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_21">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_22">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_23">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_24">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_25">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_26">
+        <orgName>Class of 74</orgName>
+        <idno type="WD">Q5128028</idno>
+      </org>
+      <org xml:id="dbl_026_org_27">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_28">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_29">
+        <orgName>The Dartmouth Players</orgName>
+        <idno type="WD">Q118127394</idno>
+      </org>
+      <org xml:id="dbl_026_org_30">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_31">
+        <orgName>Class of 74</orgName>
+        <idno type="WD">Q5128028</idno>
+      </org>
+      <org xml:id="dbl_026_org_32">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_33">
+        <orgName>McDonald’s</orgName>
+        <idno type="WD">Q38076</idno>
+      </org>
+      <org xml:id="dbl_026_org_34">
+        <orgName>McDonald’s</orgName>
+        <idno type="WD">Q38076</idno>
+      </org>
+      <org xml:id="dbl_026_org_35">
+        <orgName>Dartmouth College Class of 1973</orgName>
+        <idno type="WD">Q116860983</idno>
+      </org>
+      <org xml:id="dbl_026_org_36">
+        <orgName>Dartmouth College Class of 1975</orgName>
+        <idno type="WD">Q118127432</idno>
+      </org>
+      <org xml:id="dbl_026_org_37">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_38">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_39">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_40">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_41">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_42">
+        <orgName>Black Alumni of Dartmouth Association</orgName>
+        <idno type="WD">Q117514486</idno>
+      </org>
+      <org xml:id="dbl_026_org_43">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_44">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_45">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_46">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_47">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_48">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_49">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_50">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_51">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_52">
+        <orgName>Alpha Phi Alpha</orgName>
+        <idno type="WD">Q2839513</idno>
+      </org>
+      <org xml:id="dbl_026_org_53">
+        <orgName>Alpha Phi Alpha</orgName>
+        <idno type="WD">Q2839513</idno>
+      </org>
+      <org xml:id="dbl_026_org_54">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_55">
+        <orgName>Afro-American Society</orgName>
+        <idno type="WD">Q114879775</idno>
+      </org>
+      <org xml:id="dbl_026_org_56">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_57">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_58">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_59">
+        <orgName>Diversity Awareness Initiative for Students</orgName>
+        <idno type="WD">Q118127425</idno>
+      </org>
+      <org xml:id="dbl_026_org_60">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_61">
+        <orgName>Zoom</orgName>
+        <idno type="WD">Q94979732</idno>
+      </org>
+      <org xml:id="dbl_026_org_62">
+        <orgName>Zoom</orgName>
+        <idno type="WD">Q94979732</idno>
+      </org>
+      <org xml:id="dbl_026_org_63">
+        <orgName>Zoom</orgName>
+        <idno type="WD">Q94979732</idno>
+      </org>
+      <org xml:id="dbl_026_org_64">
+        <orgName>Black Alumni of Dartmouth Association</orgName>
+        <idno type="WD">Q117514486</idno>
+      </org>
+      <org xml:id="dbl_026_org_65">
+        <orgName>Black Alumni of Dartmouth Association</orgName>
+        <idno type="WD">Q117514486</idno>
+      </org>
+      <org xml:id="dbl_026_org_66">
+        <orgName>Black Alumni of Dartmouth Association</orgName>
+        <idno type="WD">Q117514486</idno>
+      </org>
+      <org xml:id="dbl_026_org_67">
+        <orgName>Dartmouth College Class of 2005</orgName>
+        <idno type="WD">Q118127418</idno>
+      </org>
+      <org xml:id="dbl_026_org_68">
+        <orgName>Dartmouth College Class of 2008</orgName>
+        <idno type="WD">Q118127441</idno>
+      </org>
+      <org xml:id="dbl_026_org_69">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_70">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_71">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_72">
+        <orgName>Dartmouth College Class of 1975</orgName>
+        <idno type="WD">Q118127432</idno>
+      </org>
+      <org xml:id="dbl_026_org_73">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_74">
+        <orgName>Dartmouth College Class of 2001</orgName>
+        <idno type="WD">Q118127447</idno>
+      </org>
+      <org xml:id="dbl_026_org_75">
+        <orgName>Dartmouth College Class of 1979</orgName>
+        <idno type="WD">Q118127445</idno>
+      </org>
+      <org xml:id="dbl_026_org_76">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_77">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_78">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_79">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_80">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_81">
+        <orgName>Black Alumni of Dartmouth Association</orgName>
+        <idno type="WD">Q117514486</idno>
+      </org>
+      <org xml:id="dbl_026_org_82">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_83">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_84">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_85">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_86">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_87">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_88">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_89">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_90">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_91">
+        <orgName>Spelman College</orgName>
+        <idno type="WD">Q7575916</idno>
+      </org>
+      <org xml:id="dbl_026_org_92">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_93">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_94">
+        <orgName>Diversity Awareness Initiative for Students</orgName>
+        <idno type="WD">Q118127425</idno>
+      </org>
+      <org xml:id="dbl_026_org_95">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_96">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dbl_026_org_97">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
