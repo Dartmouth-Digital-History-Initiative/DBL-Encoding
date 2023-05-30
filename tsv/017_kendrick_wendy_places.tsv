@@ -1,56 +1,50 @@
-id	placeName
-dbl_017_place_0	Hanover New Hampshire
-dbl_017_place_1	Gahanna, Ohio
-dbl_017_place_2	Georgetown
-dbl_017_place_3	Kentucky
-dbl_017_place_4	Gahanna, Ohio
-dbl_017_place_5	Georgetown, Kentucky
-dbl_017_place_6	Kentucky
-dbl_017_place_7	Cincinnati
-dbl_017_place_8	Cincinnati
-dbl_017_place_9	Cincinnati
-dbl_017_place_10	Dayton, Ohio 
-dbl_017_place_11	US
-dbl_017_place_12	U.S.
-dbl_017_place_13	Kentucky State
-dbl_017_place_14	Kentucky
-dbl_017_place_15	Michigan
-dbl_017_place_16	Michigan
-dbl_017_place_17	Kentucky
-dbl_017_place_18	Kentucky
-dbl_017_place_19	Georgetown
-dbl_017_place_20	Dayton
-dbl_017_place_21	Cincinnati
-dbl_017_place_22	Dayton
-dbl_017_place_23	Dayton
-dbl_017_place_24	Jefferson Township
-dbl_017_place_25	Dayton, Ohio
-dbl_017_place_26	Dayton
-dbl_017_place_27	Dayton
-dbl_017_place_28	Jefferson Township
-dbl_017_place_29	Dayton, Ohio
-dbl_017_place_30	Ohio
-dbl_017_place_31	New York City
-dbl_017_place_32	Bronx
-dbl_017_place_33	New York City
-dbl_017_place_34	Jefferson Township
-dbl_017_place_35	Niagara Fall
-dbl_017_place_36	Canada
-dbl_017_place_37	the East Coast
-dbl_017_place_38	the West Coast
-dbl_017_place_39	South
-dbl_017_place_40	Brooklyn
-dbl_017_place_41	Sondra
-dbl_017_place_42	Brooklyn
-dbl_017_place_43	Arizona
-dbl_017_place_44	New Jersey
-dbl_017_place_45	Cincinnati
-dbl_017_place_46	Dayton
-dbl_017_place_47	Dayton
-dbl_017_place_48	Kentucky
-dbl_017_place_49	Dayton
-dbl_017_place_50	Dayton
-dbl_017_place_51	Tanzania
-dbl_017_place_52	Tanzania
-dbl_017_place_53	Green
-dbl_017_place_54	Shabazz
+id	placeName	QID	dbl_id	coordinate location
+dbl_017_place_0	Hanover	Q131908		43.7,-72.28333333333333
+dbl_017_place_1	Gahanna	Q1924937		40.0267,-82.8692
+dbl_017_place_2	Georgetown	Q877247		38.2097,-84.56
+dbl_017_place_4	Gahanna	Q1924937		40.0267,-82.8692
+dbl_017_place_5	Georgetown	Q877247		38.2097,-84.56
+dbl_017_place_6	Kentucky	Q1603		37.5,-85
+dbl_017_place_7	Cincinnati	Q43196		39.1,-84.5125
+dbl_017_place_8	Cincinnati	Q43196		39.1,-84.5125
+dbl_017_place_9	Cincinnati	Q43196		39.1,-84.5125
+dbl_017_place_10	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_11	United States of America	Q30		39.828175,-98.5795
+dbl_017_place_12	United States of America	Q30		39.828175,-98.5795
+dbl_017_place_14	Kentucky	Q1603		37.5,-85
+dbl_017_place_15	Michigan	Q1166		44.34,-85.58
+dbl_017_place_16	Michigan	Q1166		44.34,-85.58
+dbl_017_place_17	Kentucky	Q1603		37.5,-85
+dbl_017_place_18	Kentucky	Q1603		37.5,-85
+dbl_017_place_19	Georgetown	Q877247		38.2097,-84.56
+dbl_017_place_20	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_21	Cincinnati	Q43196		39.1,-84.5125
+dbl_017_place_22	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_23	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_24	Jefferson Township	Q535467		39.282777777778,-83.906388888889
+dbl_017_place_25	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_26	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_27	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_28	Jefferson Township	Q535467		39.282777777778,-83.906388888889
+dbl_017_place_29	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_30	Ohio	Q1397		40.5,-82.5
+dbl_017_place_31	New York City	Q60		40.7,-74
+dbl_017_place_32	The Bronx	Q18426		40.84676,-73.873207
+dbl_017_place_33	New York City	Q60		40.7,-74
+dbl_017_place_34	Jefferson Township	Q535467		39.282777777778,-83.906388888889
+dbl_017_place_35	Niagara Falls	Q34221		43.08,-79.071
+dbl_017_place_36	Canada	Q16		56,-109
+dbl_017_place_40	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_017_place_42	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dbl_017_place_43	Arizona	Q816		34.286667,-111.656944
+dbl_017_place_44	New Jersey	Q1408		40,-74.5
+dbl_017_place_45	Cincinnati	Q43196		39.1,-84.5125
+dbl_017_place_46	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_47	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_48	Kentucky	Q1603		37.5,-85
+dbl_017_place_49	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_50	Dayton	Q34739		39.766666666667,-84.2
+dbl_017_place_51	Tanzania	Q924		-6.3069444444444445,34.85388888888889
+dbl_017_place_52	Tanzania	Q924		-6.3069444444444445,34.85388888888889
+dbl_017_place_53	The Green	Q7738117		43.7033,-72.2886
+dbl_017_place_54	El-Hajj Malik El-Shabazz Center	Q104931609		43.70678140394604,-72.2898819546128
