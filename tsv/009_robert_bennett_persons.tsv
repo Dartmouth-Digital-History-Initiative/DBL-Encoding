@@ -1,79 +1,79 @@
-id	persName	QID	dbl_id
-dbl_009_person_0	Nuhamin Demeku	Q115041393	
-dbl_009_person_1	Robert Bennett		dbl_0031
-dbl_009_person_2	Chance the Rapper	Q12470060	
-dbl_009_person_3	Anne		dbl_0034
-dbl_009_person_4	Bennett		dbl_0031
-dbl_009_person_5	Malcolm X	Q43303	
-dbl_009_person_6	George Wallace	Q313776	
-dbl_009_person_7	George Wallace	Q313776	
-dbl_009_person_8	George Wallace	Q313776	
-dbl_009_person_9	"Forrester ""Woody"" Ashe Lee"	Q116419637	
-dbl_009_person_10	Robert Bennett		dbl_0031
-dbl_009_person_11	George Wallace	Q313776	
-dbl_009_person_12	George Wallace	Q313776	
-dbl_009_person_13	George Wallace	Q313776	
-dbl_009_person_14	Woody Lee	Q8033682	
-dbl_009_person_15	George Wallace	Q313776	
-dbl_009_person_16	Guinea Bissau		
-dbl_009_person_17	George Wallace	Q313776	
-dbl_009_person_18	George Wallace	Q313776	
-dbl_009_person_19	George Wallace	Q313776	
-dbl_009_person_20	George Wallace	Q313776	
-dbl_009_person_21	George Wallace	Q313776	
-dbl_009_person_22	George Wallace	Q313776	
-dbl_009_person_23	George Wallace	Q313776	
-dbl_009_person_24	George Wallace	Q313776	
-dbl_009_person_25	George Wallace	Q313776	
-dbl_009_person_26	George Wallace	Q313776	
-dbl_009_person_27	George Wallace	Q313776	
-dbl_009_person_28	George Wallace	Q313776	
-dbl_009_person_29	George Wallace	Q313776	
-dbl_009_person_30	George Wallace	Q313776	
-dbl_009_person_31	George Wallace	Q313776	
-dbl_009_person_32	George Wallace	Q313776	
-dbl_009_person_33	George Wallace	Q313776	
-dbl_009_person_34	George Wallace	Q313776	
-dbl_009_person_35	George Wallace	Q313776	
-dbl_009_person_36	George Wallace	Q313776	
-dbl_009_person_37	Eric Sevareid	Q5387483	
-dbl_009_person_38	Walter Cronkite	Q31073	
-dbl_009_person_39	Eric Sevareid	Q5387483	
-dbl_009_person_40	George Wallace	Q313776	
-dbl_009_person_41	Samuel w Smith		dbl_0033
-dbl_009_person_42	"Forrester ""Woody"" Ashe Lee"	Q116419637	
-dbl_009_person_43	"Forrester ""Woody"" Ashe Lee"	Q116419637	
-dbl_009_person_44	Tyrone Byrd	Q114647632	
-dbl_009_person_45	Maria Cole	Q431124	
-dbl_009_person_46	Marilyn Monroe	Q4616	
-dbl_009_person_47	Nelson Mandela	Q8023	
-dbl_009_person_48	Nelson Mandela	Q8023	
-dbl_009_person_49	Nelson Mandela	Q8023	
-dbl_009_person_50	Nelson Mandela	Q8023	
-dbl_009_person_51	Nelson Mandela	Q8023	
-dbl_009_person_52	Nelson Mandela	Q8023	
-dbl_009_person_53	Nelson Mandela	Q8023	
-dbl_009_person_54	Nelson Mandela	Q8023	
-dbl_009_person_55	Nelson Mandela	Q8023	
-dbl_009_person_56	Nelson Mandela	Q8023	
-dbl_009_person_57	Nelson Mandela	Q8023	
-dbl_009_person_58	Graça Machel	Q239105	
-dbl_009_person_59	Graça Machel	Q239105	
-dbl_009_person_60	Nelson Mandela	Q8023	
-dbl_009_person_61	Graça Machel	Q239105	
-dbl_009_person_62	Samora Moisés Machel	Q219918	
-dbl_009_person_63	Graça Machel	Q239105	
-dbl_009_person_64	Nelson Mandela	Q8023	
-dbl_009_person_65	Nelson Mandela	Q8023	
-dbl_009_person_66	Graça Machel	Q239105	
-dbl_009_person_67	Graça Machel	Q239105	
-dbl_009_person_68	Nelson Mandela	Q8023	
-dbl_009_person_69	Graça Machel	Q239105	
-dbl_009_person_70	Bennett		dbl_0031
-dbl_009_person_71	Arthur Frommer	Q2865105	
-dbl_009_person_72	Maisha		dbl_0032
-dbl_009_person_73	Bobby Hamilton		
-dbl_009_person_74	Maisha		dbl_0032
-dbl_009_person_75	Maisha		dbl_0032
-dbl_009_person_76	Neil Armstrong	Q1615	
-dbl_009_person_77	Buzz Aldrin	Q2252	
+id	persName
+dbl_009_person_0	Nuhamin Demeku
+dbl_009_person_1	Robert Bennett
+dbl_009_person_2	Mr Bennett
+dbl_009_person_3	Anne
+dbl_009_person_4	Bennett
+dbl_009_person_5	Malcolm X
+dbl_009_person_6	George Wallace
+dbl_009_person_7	George Wallace
+dbl_009_person_8	George Wallace
+dbl_009_person_9	[Forrester] “Woody” Lee
+dbl_009_person_10	Robert Bennett
+dbl_009_person_11	George Wallace
+dbl_009_person_12	Wallace
+dbl_009_person_13	George Wallace
+dbl_009_person_14	Woody Lee
+dbl_009_person_15	George Wallace
+dbl_009_person_16	Guinea Bissau
+dbl_009_person_17	George Wallace
+dbl_009_person_18	George Wallace
+dbl_009_person_19	George Wallace
+dbl_009_person_20	George Wallace
+dbl_009_person_21	George Wallace
+dbl_009_person_22	George Wallace
+dbl_009_person_23	George Wallace's
+dbl_009_person_24	Wallace
+dbl_009_person_25	Wallace
+dbl_009_person_26	Wallace
+dbl_009_person_27	Wallace
+dbl_009_person_28	Wallace
+dbl_009_person_29	George Wallace's
+dbl_009_person_30	Wallace
+dbl_009_person_31	Wallace
+dbl_009_person_32	Wallace
+dbl_009_person_33	Wallace
+dbl_009_person_34	Wallace
+dbl_009_person_35	Wallace
+dbl_009_person_36	Wallace
+dbl_009_person_37	Eric Sevareid
+dbl_009_person_38	Walter Cronkite
+dbl_009_person_39	Eric Sevareid
+dbl_009_person_40	Wallace
+dbl_009_person_41	Samuel w Smith
+dbl_009_person_42	Woody Lee
+dbl_009_person_43	Woody Lee
+dbl_009_person_44	Tyrone Byrd
+dbl_009_person_45	Maria Cole
+dbl_009_person_46	mm
+dbl_009_person_47	Mandela
+dbl_009_person_48	Mandela
+dbl_009_person_49	Nelson Mandela
+dbl_009_person_50	Mandela
+dbl_009_person_51	Mr Mandela
+dbl_009_person_52	Mandela
+dbl_009_person_53	Mr Mandela
+dbl_009_person_54	Nelson Mandela
+dbl_009_person_55	Mandela
+dbl_009_person_56	Mandela
+dbl_009_person_57	Mandela
+dbl_009_person_58	Graca Machel
+dbl_009_person_59	Graca Machel
+dbl_009_person_60	Mandela
+dbl_009_person_61	Graca
+dbl_009_person_62	Somora Machel
+dbl_009_person_63	Graca
+dbl_009_person_64	Mandela
+dbl_009_person_65	Mandela
+dbl_009_person_66	Graca
+dbl_009_person_67	Graca
+dbl_009_person_68	Mandela
+dbl_009_person_69	Graca
+dbl_009_person_70	Bennett
+dbl_009_person_71	Arthur Frommer
+dbl_009_person_72	Maisha
+dbl_009_person_73	Bobby Hamilton
+dbl_009_person_74	Maisha
+dbl_009_person_75	Maisha
+dbl_009_person_76	Neil Armstrong
+dbl_009_person_77	Buzz Aldrin
