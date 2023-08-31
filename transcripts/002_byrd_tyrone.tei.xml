@@ -1,5 +1,5 @@
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dbl_002">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,10 +12,11 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">dbl_002</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="00-37-39">
+          <recording xml:id="primary_recording" type="audio" dur-iso="00:37:39">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="" mimeType="video/mp4"/>
           </recording>
@@ -58,94 +59,94 @@
   </teiHeader>
   <text>
     <body>
-      <u who="BRADLEY">All right. Here today with Mr. <persName>Tyrone Byrd</persName>, Class of <date when="1973">1973</date>, coming from <placeName>Houston</placeName>. And so, my name is <persName>Stefan Bradley</persName>, and on this <date when="2021-10-08">October 8th, 2021</date> day, we’ll take the time to talk about Mr. <persName>Byrd</persName>’s experiences at <orgName>Dartmouth College</orgName> in one of the most pivotal eras of this nation’s history. And so, very happy to be here with Mr. <persName>Byrd</persName>. Thank you for making this trip.</u>
+      <u who="BRADLEY">All right. Here today with Mr. <persName ref="#dbl_002_person_0">Tyrone Byrd</persName>, Class of <date when="1973">1973</date>, coming from <placeName ref="#dbl_002_place_0">Houston</placeName>. And so, my name is <persName ref="#dbl_002_person_1">Stefan Bradley</persName>, and on this <date when="2021-10-08">October 8th, 2021</date> day, we’ll take the time to talk about Mr. <persName ref="#dbl_002_person_2">Byrd</persName>’s experiences at <orgName ref="#dbl_002_org_0">Dartmouth College</orgName> in one of the most pivotal eras of this nation’s history. And so, very happy to be here with Mr. <persName ref="#dbl_002_person_3">Byrd</persName>. Thank you for making this trip.</u>
       <u who="BYRD">Thank you.</u>
-      <u who="BRADLEY">Especially during Homecoming. And so I was wondering first of all, do you still have the blood for these chilly mornings in <placeName>Hanover</placeName>?</u>
+      <u who="BRADLEY">Especially during Homecoming. And so I was wondering first of all, do you still have the blood for these chilly mornings in <placeName ref="#dbl_002_place_1">Hanover</placeName>?</u>
       <u who="BYRD">I have those, but it’s always nice to get back to warmer weather, right? [Laughter]</u>
-      <u who="BRADLEY">I love it. I love it. And so, now how often do you get back to <placeName>Hanover</placeName>?</u>
-      <u who="BYRD">The last time I was on campus was <date  when="2016">2016</date>. I try to get back maybe every other year, but lately because of the pandemic it hasn’t been as frequently. At one time I was a chairman of the <orgName>Alumni Council Board of Trustees</orgName> nominating committee, and that committee selects the slate of candidates to put forth to the <orgName>Alumni Council</orgName> for voting to become on the <orgName>Board of Trustees</orgName>, because we have charter, and then we have <orgName>Alumni Council</orgName>. And so, when I was chairman of that organization, I was getting back twice a year.</u>
-      <u who="BRADLEY">Okay, okay. So you’ve watched <orgName>Dartmouth</orgName> grow up a little bit. Since you graduated, you’ve got a chance to see it evolve.</u>
-      <u who="BYRD">Yes I have, yes I have. You know, when I got here in <date when="1969">1969</date> as a freshman, it was predominantly a male institution. It was beginning to change in terms of the demographic profile. My class, which was the class of <date when="1973">1973</date>, had 95 African Americans out of a total of 855 freshmen. In the previous years, I think at the most <orgName>Dartmouth</orgName> had about 20 to 30 African Americans. So it was a precipitous increase, and it required a lot of changes at <orgName>Dartmouth</orgName>, you know.</u>
-      <u who="BRADLEY">Oh yeah, I imagine so. I imagine so. I’m interested… You, so you’re from <placeName>Texas</placeName>, from the great state of <placeName>Texas</placeName>, and you know, <placeName>Texas</placeName> people, I’ve never met a place where they love the state so much. Everybody else loves their city. In <placeName>New York</placeName> they love their borough. But in <placeName>Texas</placeName> they love the great state of <placeName>Texas</placeName>. But, you came from <placeName>San Antonio</placeName>. And so, what did your folks do for a living when you were down there in <placeName>San Antonio</placeName>?</u>
-      <u who="BYRD">Well, let me tell you a little bit about my family life. My greatgrandfather after slavery migrated from <placeName>Virginia</placeName> to <placeName>East Texas</placeName>, and that was probably in the ‘30s or ‘40s. He was not a formally educated individual, but he was a lot of common sense, he was a preacher, and he set up our family residence in a little town called <placeName>Madisonville, Texas</placeName>. You haven’t heard of it, but it’s about an hour away from <placeName>Houston</placeName>. And so it was a difficult time there. It was in the midst of Jim Crow. We had a cousin who got beat up pretty bad, and so as a result of that, they decided to move from <placeName>Madisonville, Texas</placeName>, to <placeName>San Antonio, Texas</placeName>, and they set up shop there. My mother and father had two years of college education. My father worked for the railroad. He was a red cap, and a red cap was one who took luggage from the individual to put them on the train. It was hard work. </u>
+      <u who="BRADLEY">I love it. I love it. And so, now how often do you get back to <placeName ref="#dbl_002_place_2">Hanover</placeName>?</u>
+      <u who="BYRD">The last time I was on campus was <date when="2016">2016</date>. I try to get back maybe every other year, but lately because of the pandemic it hasn’t been as frequently. At one time I was a chairman of the <orgName ref="#dbl_002_org_1">Alumni Council Board of Trustees</orgName> nominating committee, and that committee selects the slate of candidates to put forth to the <orgName ref="#dbl_002_org_2">Alumni Council</orgName> for voting to become on the <orgName ref="#dbl_002_org_3">Board of Trustees</orgName>, because we have charter, and then we have <orgName ref="#dbl_002_org_4">Alumni Council</orgName>. And so, when I was chairman of that organization, I was getting back twice a year.</u>
+      <u who="BRADLEY">Okay, okay. So you’ve watched <orgName ref="#dbl_002_org_5">Dartmouth</orgName> grow up a little bit. Since you graduated, you’ve got a chance to see it evolve.</u>
+      <u who="BYRD">Yes I have, yes I have. You know, when I got here in <date when="1969">1969</date> as a freshman, it was predominantly a male institution. It was beginning to change in terms of the demographic profile. My class, which was the class of <date when="1973">1973</date>, had 95 African Americans out of a total of 855 freshmen. In the previous years, I think at the most <orgName ref="#dbl_002_org_6">Dartmouth</orgName> had about 20 to 30 African Americans. So it was a precipitous increase, and it required a lot of changes at <orgName ref="#dbl_002_org_7">Dartmouth</orgName>, you know.</u>
+      <u who="BRADLEY">Oh yeah, I imagine so. I imagine so. I’m interested… You, so you’re from <placeName ref="#dbl_002_place_3">Texas</placeName>, from the great state of <placeName ref="#dbl_002_place_4">Texas</placeName>, and you know, <placeName ref="#dbl_002_place_5">Texas</placeName> people, I’ve never met a place where they love the state so much. Everybody else loves their city. In <placeName ref="#dbl_002_place_6">New York</placeName> they love their borough. But in <placeName ref="#dbl_002_place_7">Texas</placeName> they love the great state of <placeName ref="#dbl_002_place_8">Texas</placeName>. But, you came from <placeName ref="#dbl_002_place_9">San Antonio</placeName>. And so, what did your folks do for a living when you were down there in <placeName ref="#dbl_002_place_10">San Antonio</placeName>?</u>
+      <u who="BYRD">Well, let me tell you a little bit about my family life. My greatgrandfather after slavery migrated from <placeName ref="#dbl_002_place_11">Virginia</placeName> to <placeName ref="#dbl_002_place_12">East Texas</placeName>, and that was probably in the ‘30s or ‘40s. He was not a formally educated individual, but he was a lot of common sense, he was a preacher, and he set up our family residence in a little town called <placeName ref="#dbl_002_place_13">Madisonville, Texas</placeName>. You haven’t heard of it, but it’s about an hour away from <placeName ref="#dbl_002_place_14">Houston</placeName>. And so it was a difficult time there. It was in the midst of Jim Crow. We had a cousin who got beat up pretty bad, and so as a result of that, they decided to move from <placeName ref="#dbl_002_place_15">Madisonville, Texas</placeName>, to <placeName ref="#dbl_002_place_16">San Antonio, Texas</placeName>, and they set up shop there. My mother and father had two years of college education. My father worked for the railroad. He was a red cap, and a red cap was one who took luggage from the individual to put them on the train. It was hard work. </u>
       <u who="BRADLEY">He was a porter.</u>
-      <u who="BYRD">Yeah, yeah. Physical. And my mother eventually worked for civil service, so she worked for one of the military bases. <placeName>San Antonio</placeName> thrives on military bases. There’s about five or six there, both <orgName>Army</orgName> and <orgName>Air Force</orgName>. You know, we were not poor, but we were not rich. But, you know, we lived okay. I do recall there was a time that my dad was unemployed and my mother was the breadwinner, you know, and she took that seriously and she did a hell of a good job of that. And my father was humble enough that it didn’t get in the way of his ego.</u>
+      <u who="BYRD">Yeah, yeah. Physical. And my mother eventually worked for civil service, so she worked for one of the military bases. <placeName ref="#dbl_002_place_17">San Antonio</placeName> thrives on military bases. There’s about five or six there, both <orgName ref="#dbl_002_org_8">Army</orgName> and <orgName ref="#dbl_002_org_9">Air Force</orgName>. You know, we were not poor, but we were not rich. But, you know, we lived okay. I do recall there was a time that my dad was unemployed and my mother was the breadwinner, you know, and she took that seriously and she did a hell of a good job of that. And my father was humble enough that it didn’t get in the way of his ego.</u>
       <u who="BRADLEY">Yeah.</u>
-      <u who="BYRD">So, fortunately they always taught us to save money, as much as you could. And so, during that time the government was selling what they called <orgName>US Treasury</orgName> bonds, and so my mother every paycheck would put $20, $25 away, and during that days of unemployment, which my dad was unemployed for about six months to a year, those <orgName>Treasury</orgName> bonds came in handy. </u>
+      <u who="BYRD">So, fortunately they always taught us to save money, as much as you could. And so, during that time the government was selling what they called <orgName ref="#dbl_002_org_10">US Treasury</orgName> bonds, and so my mother every paycheck would put $20, $25 away, and during that days of unemployment, which my dad was unemployed for about six months to a year, those <orgName ref="#dbl_002_org_11">Treasury</orgName> bonds came in handy. </u>
       <u who="BRADLEY">Wow. That’s good forethought. </u>
       <u who="BYRD">Yeah.</u>
       <u who="BRADLEY">Yeah, that’s good forethought. So, as a young man, football was your thing, football and education. </u>
-      <u who="BYRD">Yeah, the two went together. And my neighborhood was a multiracial neighborhood that was a proportion of Blacks, proportion of Hispanics, and whites. And so, you know, besides school we played a lot of sports, you know, baseball, football, and track. I had to learn Spanish at an early age because they were cussing me out [laughter] about my mama, you know. Cussed out my mama, you know. So, and that helped me because I made A’s at <orgName>Dartmouth</orgName>, you know. </u>
+      <u who="BYRD">Yeah, the two went together. And my neighborhood was a multiracial neighborhood that was a proportion of Blacks, proportion of Hispanics, and whites. And so, you know, besides school we played a lot of sports, you know, baseball, football, and track. I had to learn Spanish at an early age because they were cussing me out [laughter] about my mama, you know. Cussed out my mama, you know. So, and that helped me because I made A’s at <orgName ref="#dbl_002_org_12">Dartmouth</orgName>, you know. </u>
       <u who="BRADLEY">Yeah.</u>
-      <u who="BYRD">So that was a transition. But I was a good student, and then I was a good athlete. Went through elementary and middle school/junior high that was largely Hispanic. Then I went to high school which was a pretty good mix, about 3,500 people, 800-something in our class. And fortunately I did real well in the class ranking, as well as in football. Had some football scholarships, but <orgName>Dartmouth</orgName>—it was interesting how I got in touch with <orgName>Dartmouth</orgName>, because I really wasn’t knowledgeable about the Ivy Leagues or did a lot of research on the Ivy Leagues, particularly <orgName>Dartmouth</orgName>. But there was a Black alumni who had graduated from <orgName>Dartmouth</orgName> who was from <placeName>San Antonio, Texas</placeName>, and so I think he gave my name and they started recruiting me. And I applied and got accepted. I didn’t do a lot of rigorous homework to attend <orgName>Dartmouth</orgName>, but as a kid I was always intrigued about seeing the East Coast, because, you know, being from the South, you hear about how wonderful <placeName>New York</placeName> and <placeName>Boston</placeName>, and so I was intrigued by the idea of going to somewhere, a school on the East Coast, but didn’t know about <orgName>Dartmouth</orgName>. I had not seen the campus.</u>
-      <u who="BRADLEY">Interesting. So, as I understand it, you in part were recruited by a Black alumnus from <orgName>Dartmouth</orgName>.</u>
+      <u who="BYRD">So that was a transition. But I was a good student, and then I was a good athlete. Went through elementary and middle school/junior high that was largely Hispanic. Then I went to high school which was a pretty good mix, about 3,500 people, 800-something in our class. And fortunately I did real well in the class ranking, as well as in football. Had some football scholarships, but <orgName ref="#dbl_002_org_13">Dartmouth</orgName>—it was interesting how I got in touch with <orgName ref="#dbl_002_org_14">Dartmouth</orgName>, because I really wasn’t knowledgeable about the Ivy Leagues or did a lot of research on the Ivy Leagues, particularly <orgName ref="#dbl_002_org_15">Dartmouth</orgName>. But there was a Black alumni who had graduated from <orgName ref="#dbl_002_org_16">Dartmouth</orgName> who was from <placeName ref="#dbl_002_place_18">San Antonio, Texas</placeName>, and so I think he gave my name and they started recruiting me. And I applied and got accepted. I didn’t do a lot of rigorous homework to attend <orgName ref="#dbl_002_org_17">Dartmouth</orgName>, but as a kid I was always intrigued about seeing the East Coast, because, you know, being from the South, you hear about how wonderful <placeName ref="#dbl_002_place_19">New York</placeName> and <placeName ref="#dbl_002_place_20">Boston</placeName>, and so I was intrigued by the idea of going to somewhere, a school on the East Coast, but didn’t know about <orgName ref="#dbl_002_org_18">Dartmouth</orgName>. I had not seen the campus.</u>
+      <u who="BRADLEY">Interesting. So, as I understand it, you in part were recruited by a Black alumnus from <orgName ref="#dbl_002_org_19">Dartmouth</orgName>.</u>
       <u who="BYRD">That’s correct. That’s correct. I think that’s fair to say, you know, that I was recruited by him.</u>
       <u who="BRADLEY">Yeah, that’s very interesting. I think during this period, many of the Black students who were wanting more Black students on campus kind of took it upon themselves to help recruit, and so I think you were part of that effort maybe.</u>
-      <u who="BYRD">Yeah, I was. As I indicated earlier, <orgName>Dartmouth</orgName> historically had maybe 10 to 20 Black students and mine was 95. The only way they got that increase was that several years before that, Black students as part of their student activism went to <persName>President [John] Dickey</persName> and said, pretty much demanded that we wanted to increase the Black population, and “the best way to do that is give us a budget, and we’ll take care of the rest.” So, they took the initiative. I think it was $5 million for five years, so that they took the money and they began to rent cars, plane rides, and they went to searching for us at inner city schools.</u>
+      <u who="BYRD">Yeah, I was. As I indicated earlier, <orgName ref="#dbl_002_org_20">Dartmouth</orgName> historically had maybe 10 to 20 Black students and mine was 95. The only way they got that increase was that several years before that, Black students as part of their student activism went to <persName ref="#dbl_002_person_4">President [John] Dickey</persName> and said, pretty much demanded that we wanted to increase the Black population, and “the best way to do that is give us a budget, and we’ll take care of the rest.” So, they took the initiative. I think it was $5 million for five years, so that they took the money and they began to rent cars, plane rides, and they went to searching for us at inner city schools.</u>
       <u who="BRADLEY">Yeah. And it’s really not a small thing, because they were doing this on their breaks.</u>
       <u who="BYRD">Right.</u>
       <u who="BRADLEY">And this is not the place of undergraduates to be recruiting anybody.</u>
       <u who="BYRD">Exactly. It was kind of innovative. It was innovative, you know, from an institutional standpoint.</u>
       <u who="BRADLEY">Absolutely.</u>
-      <u who="BYRD">But they were very successful, because as I said because the end result there was 95 Blacks in my class. The makeup of that class, most were from the East Coast, but there were some from <placeName>Texas</placeName> and some from <placeName>California</placeName>. In terms of the demographic profile, there were some that had pretty good economic background and there were some poor. But also during that era, <orgName>Dartmouth</orgName> was undergoing some, I guess you’d call it a social experiment, is that they were admitting a group of Black men who were former gang members in <placeName>Chicago</placeName>.</u>
+      <u who="BYRD">But they were very successful, because as I said because the end result there was 95 Blacks in my class. The makeup of that class, most were from the East Coast, but there were some from <placeName ref="#dbl_002_place_21">Texas</placeName> and some from <placeName ref="#dbl_002_place_22">California</placeName>. In terms of the demographic profile, there were some that had pretty good economic background and there were some poor. But also during that era, <orgName ref="#dbl_002_org_21">Dartmouth</orgName> was undergoing some, I guess you’d call it a social experiment, is that they were admitting a group of Black men who were former gang members in <placeName ref="#dbl_002_place_23">Chicago</placeName>.</u>
       <u who="BRADLEY">Yeah.</u>
       <u who="BYRD">And so, that made it challenging for a 19-year-old man like me trying to compete with a 25-year-old man, you know. </u>
-      <u who="BRADLEY">Yeah. These were people from the south and west side of <placeName>Chicago</placeName> [<persName>Tyrone</persName>: that’s right] who had been members of the conservative Vice Lords. [<persName>Tyrone</persName>: right] And, so tell me about you got to campus and you tell an incredible story about your first arrival to campus. But I do want to hear about what it was like interacting with all these people that you just referenced.</u>
+      <u who="BRADLEY">Yeah. These were people from the south and west side of <placeName ref="#dbl_002_place_24">Chicago</placeName> [<persName ref="#dbl_002_person_5">Tyrone</persName>: that’s right] who had been members of the conservative Vice Lords. [<persName ref="#dbl_002_person_6">Tyrone</persName>: right] And, so tell me about you got to campus and you tell an incredible story about your first arrival to campus. But I do want to hear about what it was like interacting with all these people that you just referenced.</u>
       <u who="BYRD">Yeah, right, right. Um, that was good and bad. I mean, the good part is that there were about maybe a total of 250 Blacks on campus. So we were small. We really didn’t have a community. Our community was the Afro AAM, and so that was our community, you know. That was our home. We played a lot of cards, you know.</u>
       <u who="BRADLEY">The Afro-American Society.</u>
-      <u who="BYRD">Yeah, right. That was the home of the Black Studies Program, so that there was a couple Black professors there. As far as interacting with the students, there was some culture difference. I mean, I’m from <placeName>Texas</placeName>, and so, you know, trying to get along with somebody from <placeName>New York</placeName> was a challenge, you know, even though we were the same skin color. I tell the story, being from <placeName>Texas</placeName>, is that my first introduction to a person from <placeName>New York</placeName>, he was from <placeName>Brooklyn</placeName> and he went to <orgName>Brooklyn Tech</orgName>, so you guys and you ladies are familiar with that. So I meet him on The Green and, you know, he’s asking me a question about do I have a cowboy hat and do I have some boots and I have a horse and oil well? And quite honestly, I was getting kind of perturbed at all these questions, you know. And so I made the mistake of asking him, said “where are you from?” And he said “from the city.” Ha. And I say “which city?” [laughs] And so, he gave me the riot act of what the city was. “There’s only one city, that’s <placeName>New York City</placeName>, all right?” Ha ha. So that was my introduction to someone from <placeName>New York</placeName>. But coming back to interacting with the more mature men that were Vice Lords, they were challenging because they were grown men and, like I said, I was 18, 19 years old, and there were some things that they were doing that I didn’t want to do. And so, we got along, we were friends, and I played football so that gave me a little bit of a gravitas with them. But, you know, there were some things that I just wasn’t ready for because I was, you know… And so that was difficult. And they did well, some of them, and some of them went back to <placeName>Chicago</placeName> and went back in the gang life, you know, and are probably deceased. But some of them did graduate. So, it was an experiment. It was a good experiment, but it was challenging for many of us Black students because they were men and we were just young teenagers.</u>
-      <u who="BRADLEY">Right. No, this was very much a part of, you know, I guess the <orgName>Tucker Foundation</orgName> and…</u>
-      <u who="BYRD">That was the <orgName>Tucker Foundation</orgName>, yeah, yeah. Yeah, this program was funded by some well-heeled alumni who wanted to experiment. They were from <placeName>Chicago</placeName> area and they put up the money, and through the <orgName>Tucker Foundation</orgName>, and the college gave it a try, you know?</u>
-      <u who="BRADLEY">Yeah, yeah, which was, as you mentioned, terribly innovative. And that, you know, some of these young men from <placeName>Chicago</placeName> went on to graduate and to bigger and better things, that’s a good experiment. One of the things that’s very interesting, because this particular project is dealing with the Black lives of <orgName>Dartmouth</orgName>, is the nuance of the Black experience. So, you talked about meeting these young men from the Vice Lords and things like that, but I imagine there were those who had participated in what, <orgName>A Better Chance</orgName> program, and come from maybe some of these, what do you call them, boarding schools or day schools and that sort of thing. There were a range of Black students.</u>
-      <u who="BYRD">Yeah. Of those 95 Black students, they were a mixture of, some of them were former <orgName>ABC</orgName> students. <orgName>ABC</orgName> is a program whereby they take inner city students and send them to a community like <placeName>Hanover</placeName>. The <placeName>Hanover</placeName> high school was an <orgName>ABC</orgName> chapter, and so some of the class members were from there. Some of that group had gone to <orgName>Exeter</orgName> and <orgName>Andover</orgName>, some of the more prominent schools, and then a lot of them were from inner schools like myself. You know, I went to an inner city school. It was a good school, but it was inner city.</u>
-      <u who="BRADLEY">Yeah, yeah. You know, so all of you all, you’re here in the midst of one of the craziest times in American history. So, there is a war in which the <placeName>United States</placeName> is deeply engaged abroad, and there’s a draft that’s going on which now made it possible for men your age to potentially go off and fight or die on behalf of this American cause. And at the same time there’s this very deep and entrenched Black freedom movement going on. And so, how much of that played a part in just student life for you? You know, we haven’t even gotten to the classes part. But tell me about, did you all talk about the movement? Did you talk about the war? How did you all, you know…</u>
-      <u who="BYRD">Yeah. Let me speak to that. I mean, this was the late ‘60s, and I think in general there was student activism no matter what color you were. And that was because we were going through some very challenging times. One, there was the <name type="event">Vietnam War</name>, and this was a war that we probably shouldn’t have been involved in, sort of like <placeName>Afghanistan</placeName> I would say. And that’s when they instituted, a lot of these students get drafted. And so, I remember listening to a transistor radio in the night, and fortunately my number was like 200-something, and so that pretty much secured me that I wouldn’t get drafted. But there were some who, maybe number 10, and either they went to <placeName>Vietnam</placeName>, some left, went to <placeName>Canada</placeName>, some cut their feet off, whatever they could do to get out of going to the <name type="event">Vietnam War</name>. On top of that, we were coming out of some strong social movements. <persName>Martin Luther King</persName> had got killed. <persName>Malcolm X</persName> had got killed. There was the <orgName>Black Panthers</orgName> who was talking about, you know… and then you had <persName>James Brown</persName> was talking about “hey, I’m Black and I’m proud.” And so, as a student we were caught in all of that, and I think as Black students we were beginning to be comfortable with our identity. And so, <persName>James Brown</persName>’s “Black and Proud” meant a lot to us, and so we took that very seriously in terms of making sure we did our best in school. And I think, yeah, there was a lot of interaction between students in general, Blacks and whites, but I think because of the social upheaval, you know, there could have been more integration between the two. And so, that’s something that I think we regret. And I say that particularly as, yeah, we were on a championship football team, but in the locker room we were a team, but when we left, they went to the fraternity and we went to the AAM, and so there was not a lot of interaction as we could have. We were friends, don’t get me wrong. It’s just that there wasn’t a lot of socialization and engagement among the two sectors, you know.</u>
+      <u who="BYRD">Yeah, right. That was the home of the Black Studies Program, so that there was a couple Black professors there. As far as interacting with the students, there was some culture difference. I mean, I’m from <placeName ref="#dbl_002_place_25">Texas</placeName>, and so, you know, trying to get along with somebody from <placeName ref="#dbl_002_place_26">New York</placeName> was a challenge, you know, even though we were the same skin color. I tell the story, being from <placeName ref="#dbl_002_place_27">Texas</placeName>, is that my first introduction to a person from <placeName ref="#dbl_002_place_28">New York</placeName>, he was from <placeName ref="#dbl_002_place_29">Brooklyn</placeName> and he went to <orgName ref="#dbl_002_org_22">Brooklyn Tech</orgName>, so you guys and you ladies are familiar with that. So I meet him on The Green and, you know, he’s asking me a question about do I have a cowboy hat and do I have some boots and I have a horse and oil well? And quite honestly, I was getting kind of perturbed at all these questions, you know. And so I made the mistake of asking him, said “where are you from?” And he said “from the city.” Ha. And I say “which city?” [laughs] And so, he gave me the riot act of what the city was. “There’s only one city, that’s <placeName ref="#dbl_002_place_30">New York City</placeName>, all right?” Ha ha. So that was my introduction to someone from <placeName ref="#dbl_002_place_31">New York</placeName>. But coming back to interacting with the more mature men that were Vice Lords, they were challenging because they were grown men and, like I said, I was 18, 19 years old, and there were some things that they were doing that I didn’t want to do. And so, we got along, we were friends, and I played football so that gave me a little bit of a gravitas with them. But, you know, there were some things that I just wasn’t ready for because I was, you know… And so that was difficult. And they did well, some of them, and some of them went back to <placeName ref="#dbl_002_place_32">Chicago</placeName> and went back in the gang life, you know, and are probably deceased. But some of them did graduate. So, it was an experiment. It was a good experiment, but it was challenging for many of us Black students because they were men and we were just young teenagers.</u>
+      <u who="BRADLEY">Right. No, this was very much a part of, you know, I guess the <orgName ref="#dbl_002_org_23">Tucker Foundation</orgName> and…</u>
+      <u who="BYRD">That was the <orgName ref="#dbl_002_org_24">Tucker Foundation</orgName>, yeah, yeah. Yeah, this program was funded by some well-heeled alumni who wanted to experiment. They were from <placeName ref="#dbl_002_place_33">Chicago</placeName> area and they put up the money, and through the <orgName ref="#dbl_002_org_25">Tucker Foundation</orgName>, and the college gave it a try, you know?</u>
+      <u who="BRADLEY">Yeah, yeah, which was, as you mentioned, terribly innovative. And that, you know, some of these young men from <placeName ref="#dbl_002_place_34">Chicago</placeName> went on to graduate and to bigger and better things, that’s a good experiment. One of the things that’s very interesting, because this particular project is dealing with the Black lives of <orgName ref="#dbl_002_org_26">Dartmouth</orgName>, is the nuance of the Black experience. So, you talked about meeting these young men from the Vice Lords and things like that, but I imagine there were those who had participated in what, <orgName ref="#dbl_002_org_27">A Better Chance</orgName> program, and come from maybe some of these, what do you call them, boarding schools or day schools and that sort of thing. There were a range of Black students.</u>
+      <u who="BYRD">Yeah. Of those 95 Black students, they were a mixture of, some of them were former <orgName ref="#dbl_002_org_28">ABC</orgName> students. <orgName ref="#dbl_002_org_29">ABC</orgName> is a program whereby they take inner city students and send them to a community like <placeName ref="#dbl_002_place_35">Hanover</placeName>. The <placeName ref="#dbl_002_place_36">Hanover</placeName> high school was an <orgName ref="#dbl_002_org_30">ABC</orgName> chapter, and so some of the class members were from there. Some of that group had gone to <orgName ref="#dbl_002_org_31">Exeter</orgName> and <orgName ref="#dbl_002_org_32">Andover</orgName>, some of the more prominent schools, and then a lot of them were from inner schools like myself. You know, I went to an inner city school. It was a good school, but it was inner city.</u>
+      <u who="BRADLEY">Yeah, yeah. You know, so all of you all, you’re here in the midst of one of the craziest times in American history. So, there is a war in which the <placeName ref="#dbl_002_place_37">United States</placeName> is deeply engaged abroad, and there’s a draft that’s going on which now made it possible for men your age to potentially go off and fight or die on behalf of this American cause. And at the same time there’s this very deep and entrenched Black freedom movement going on. And so, how much of that played a part in just student life for you? You know, we haven’t even gotten to the classes part. But tell me about, did you all talk about the movement? Did you talk about the war? How did you all, you know…</u>
+      <u who="BYRD">Yeah. Let me speak to that. I mean, this was the late ‘60s, and I think in general there was student activism no matter what color you were. And that was because we were going through some very challenging times. One, there was the <name type="event" ref="#dbl_002_event_0">Vietnam War</name>, and this was a war that we probably shouldn’t have been involved in, sort of like <placeName ref="#dbl_002_place_38">Afghanistan</placeName> I would say. And that’s when they instituted, a lot of these students get drafted. And so, I remember listening to a transistor radio in the night, and fortunately my number was like 200-something, and so that pretty much secured me that I wouldn’t get drafted. But there were some who, maybe number 10, and either they went to <placeName ref="#dbl_002_place_39">Vietnam</placeName>, some left, went to <placeName ref="#dbl_002_place_40">Canada</placeName>, some cut their feet off, whatever they could do to get out of going to the <name type="event" ref="#dbl_002_event_1">Vietnam War</name>. On top of that, we were coming out of some strong social movements. <persName ref="#dbl_002_person_7">Martin Luther King</persName> had got killed. <persName ref="#dbl_002_person_8">Malcolm X</persName> had got killed. There was the <orgName ref="#dbl_002_org_33">Black Panthers</orgName> who was talking about, you know… and then you had <persName ref="#dbl_002_person_9">James Brown</persName> was talking about “hey, I’m Black and I’m proud.” And so, as a student we were caught in all of that, and I think as Black students we were beginning to be comfortable with our identity. And so, <persName ref="#dbl_002_person_10">James Brown</persName>’s “Black and Proud” meant a lot to us, and so we took that very seriously in terms of making sure we did our best in school. And I think, yeah, there was a lot of interaction between students in general, Blacks and whites, but I think because of the social upheaval, you know, there could have been more integration between the two. And so, that’s something that I think we regret. And I say that particularly as, yeah, we were on a championship football team, but in the locker room we were a team, but when we left, they went to the fraternity and we went to the AAM, and so there was not a lot of interaction as we could have. We were friends, don’t get me wrong. It’s just that there wasn’t a lot of socialization and engagement among the two sectors, you know.</u>
       <u who="BRADLEY">That’s very interesting, and it’s very much in line with the research and this sort of thing that there was. People would group up during that period. Even if they worked together on various movements, they would group up racially and ethnically. </u>
       <u who="BYRD">Right.</u>
       <u who="BRADLEY">So that sounds about right. Tell me some more about your time on the team? So you were a champion. You were a champion how many times? One time?</u>
-      <u who="BYRD">Three consecutive years. So I was fortunate to be on three consecutive <orgName>Ivy League</orgName> football teams, which had never, I don’t think, been done before. And the <date when="1970">1970</date> team was the one of the Lambert Trophy. The Lambert Trophy is given to the best team on the East Coast. So, in that time we were number 1, and <orgName>Penn State</orgName> was number 2. And could we have beat Penn State? Probably not. But we had a better record than them, and so the sportswriter gave it. So that was a highlight. And there has never been another <orgName>Ivy League</orgName> team to win the Lambert Trophy since that time.</u>
+      <u who="BYRD">Three consecutive years. So I was fortunate to be on three consecutive <orgName ref="#dbl_002_org_34">Ivy League</orgName> football teams, which had never, I don’t think, been done before. And the <date when="1970">1970</date> team was the one of the Lambert Trophy. The Lambert Trophy is given to the best team on the East Coast. So, in that time we were number 1, and <orgName ref="#dbl_002_org_35">Penn State</orgName> was number 2. And could we have beat Penn State? Probably not. But we had a better record than them, and so the sportswriter gave it. So that was a highlight. And there has never been another <orgName ref="#dbl_002_org_36">Ivy League</orgName> team to win the Lambert Trophy since that time.</u>
       <u who="BRADLEY">That’s amazing.</u>
-      <u who="BYRD">And, you know, football was important to me, and quite honestly, I didn’t know anything else but be just a football player. I mean, I was smart, but I didn’t really think about anything else but being a football player. And you couldn’t tell me that I could not be a professional football player. But that’s the way my mom raised me. My mom raised me, “Hey, whatever you want to do, go for it.” And so, so I did get drafted, but I played semi-professional football in <placeName>Boston</placeName>, and the next year I played with the \, and then I finally got cut, and it was horrible. I cried for a couple of days because, you know, that’s what I wanted to do as a kid. However, [knocks twice on the table] I had a good education. And so I had been accepted to <orgName>University of Chicago Business School</orgName>, and they had gave me a <date>two-year</date> deferment, so that was my plan. I’d say, “I’m gonna try this for two years. If it doesn’t work out, Plan B was go to graduate school.” So I ended up getting into the <orgName>University of Chicago Business School</orgName>. And that was largely due to the recommendation by a <orgName>Dartmouth</orgName> professor who got his Ph.D. in economics from the <orgName>University of Chicago</orgName>, Professor <persName>Colin Campbell</persName>. I think he’s dead now. But he wrote a good recommendation and I got in, so…</u>
+      <u who="BYRD">And, you know, football was important to me, and quite honestly, I didn’t know anything else but be just a football player. I mean, I was smart, but I didn’t really think about anything else but being a football player. And you couldn’t tell me that I could not be a professional football player. But that’s the way my mom raised me. My mom raised me, “Hey, whatever you want to do, go for it.” And so, so I did get drafted, but I played semi-professional football in <placeName ref="#dbl_002_place_41">Boston</placeName>, and the next year I played with the \, and then I finally got cut, and it was horrible. I cried for a couple of days because, you know, that’s what I wanted to do as a kid. However, [knocks twice on the table] I had a good education. And so I had been accepted to <orgName ref="#dbl_002_org_37">University of Chicago Business School</orgName>, and they had gave me a <date>two-year</date> deferment, so that was my plan. I’d say, “I’m gonna try this for two years. If it doesn’t work out, Plan B was go to graduate school.” So I ended up getting into the <orgName ref="#dbl_002_org_38">University of Chicago Business School</orgName>. And that was largely due to the recommendation by a <orgName ref="#dbl_002_org_39">Dartmouth</orgName> professor who got his Ph.D. in economics from the <orgName ref="#dbl_002_org_40">University of Chicago</orgName>, Professor <persName ref="#dbl_002_person_11">Colin Campbell</persName>. I think he’s dead now. But he wrote a good recommendation and I got in, so…</u>
       <u who="BRADLEY">Wow.</u>
-      <u who="BYRD">But let me go back to <orgName>Dartmouth</orgName>, because in addition to the transition from a social thing, you know, <orgName>Dartmouth</orgName> also was going through a gender change, and that is, you know, President <persName>[John] Kemeny</persName> was an advocate of coed and he made it happen. And so, during the time when I was here, I think my freshmen, there were some females who were from <orgName>Mount Holyoke</orgName> or some of the other schools. They were what they called transfer students. Matter of fact, <persName>Meryl Streep</persName> was in our class. I didn’t get to know her. [Laughter] But, and the Class of ’76 was when they became coeducational. I think there were 30, 40 Black women, and I was happy to see—I was a proponent of coeducation. And…</u>
+      <u who="BYRD">But let me go back to <orgName ref="#dbl_002_org_41">Dartmouth</orgName>, because in addition to the transition from a social thing, you know, <orgName ref="#dbl_002_org_42">Dartmouth</orgName> also was going through a gender change, and that is, you know, President <persName ref="#dbl_002_person_12">[John] Kemeny</persName> was an advocate of coed and he made it happen. And so, during the time when I was here, I think my freshmen, there were some females who were from <orgName ref="#dbl_002_org_43">Mount Holyoke</orgName> or some of the other schools. They were what they called transfer students. Matter of fact, <persName ref="#dbl_002_person_13">Meryl Streep</persName> was in our class. I didn’t get to know her. [Laughter] But, and the Class of ’76 was when they became coeducational. I think there were 30, 40 Black women, and I was happy to see—I was a proponent of coeducation. And…</u>
       <u who="BRADLEY">Let me ask, were most students at the time proponents?</u>
-      <u who="BYRD">No, I think there was a difference of opinion. You had some hard-nosed students who didn’t like the idea of sharing <orgName>Dartmouth</orgName> with women. And it was tough being a woman on campus because, I mean, some of the guys would—they did crazy things, you know?</u>
+      <u who="BYRD">No, I think there was a difference of opinion. You had some hard-nosed students who didn’t like the idea of sharing <orgName ref="#dbl_002_org_44">Dartmouth</orgName> with women. And it was tough being a woman on campus because, I mean, some of the guys would—they did crazy things, you know?</u>
       <u who="BRADLEY">Yeah.</u>
       <u who="BYRD">But the women were strong, they were smart, and they were determined to succeed. I welcomed them. Because I grew up in a high school that was gender neutral so, you know, going to an all-male school which I did, it didn’t make sense what I did, but because of the education. So I was happy to see coeducation.</u>
-      <u who="BRADLEY">Well, you, look, we talked about these very important and profound things, but we need to talk about probably the most important thing, which is that, so you went to this single sex college, and you happened to like women. How did you go about dating and that sort of thing here at <orgName>Dartmouth College</orgName>? Did you have a car? And I know here at <orgName>Dartmouth</orgName> during that period, there must not have been more than 10 Black families in the town itself, I’m sure.</u>
-      <u who="BYRD">Yeah, it was not that many Black families or Black women on campus, and so… so this applied to all males. I mean, there was a lot of road tripping. So, you know, people… I didn’t have a car, and not many Blacks had a car. But there were some. But they would go down to <orgName>Mount Holyoke</orgName>, <orgName>Smith</orgName>, <placeName>Boston</placeName>. And, you know, it was not atypical for a group of guys to rent a car, get a car, and they’d drive to allow for the weekend. [chuckles] So they just wanted to get away from <orgName>Dartmouth</orgName>, you know? So, I just happened, I had a relationship. I dated a woman from <orgName>Simmons College</orgName> down in <placeName>Boston</placeName>, so we had a good relationship. So they would come up and I would go down there quite a bit.</u>
-      <u who="BRADLEY">Yeah. No, that’s always one of the stories that people tell about the college experience during this period before coeducation actually happened. And then, when coeducation happened, dynamics shifted. One of the things that you spoke about that I think is deeply significant is this idea of: Was <orgName>Dartmouth College</orgName> prepared for the Black students that came? Was <orgName>Dartmouth College</orgName> prepared for the women who arrived on campus?</u>
+      <u who="BRADLEY">Well, you, look, we talked about these very important and profound things, but we need to talk about probably the most important thing, which is that, so you went to this single sex college, and you happened to like women. How did you go about dating and that sort of thing here at <orgName ref="#dbl_002_org_45">Dartmouth College</orgName>? Did you have a car? And I know here at <orgName ref="#dbl_002_org_46">Dartmouth</orgName> during that period, there must not have been more than 10 Black families in the town itself, I’m sure.</u>
+      <u who="BYRD">Yeah, it was not that many Black families or Black women on campus, and so… so this applied to all males. I mean, there was a lot of road tripping. So, you know, people… I didn’t have a car, and not many Blacks had a car. But there were some. But they would go down to <orgName ref="#dbl_002_org_47">Mount Holyoke</orgName>, <orgName ref="#dbl_002_org_48">Smith</orgName>, <placeName ref="#dbl_002_place_42">Boston</placeName>. And, you know, it was not atypical for a group of guys to rent a car, get a car, and they’d drive to allow for the weekend. [chuckles] So they just wanted to get away from <orgName ref="#dbl_002_org_49">Dartmouth</orgName>, you know? So, I just happened, I had a relationship. I dated a woman from <orgName ref="#dbl_002_org_50">Simmons College</orgName> down in <placeName ref="#dbl_002_place_43">Boston</placeName>, so we had a good relationship. So they would come up and I would go down there quite a bit.</u>
+      <u who="BRADLEY">Yeah. No, that’s always one of the stories that people tell about the college experience during this period before coeducation actually happened. And then, when coeducation happened, dynamics shifted. One of the things that you spoke about that I think is deeply significant is this idea of: Was <orgName ref="#dbl_002_org_51">Dartmouth College</orgName> prepared for the Black students that came? Was <orgName ref="#dbl_002_org_52">Dartmouth College</orgName> prepared for the women who arrived on campus?</u>
       <u who="BYRD">I don’t think so. But I think, you know, no matter who you were as a student, you were here for one purpose, and that was to get an education, and so you kind of—all the other noise, and there was a lot of noise, you know—you’d just kind of weed it out. But no, they were not ready. I mean, from a Black student’s standpoint, like I said, the focus wasn’t them. I mean, that was our home and we partied, and so we were there a lot. I mean, you had to make a decision: are you gonna play billiards till 4:00 in the morning or are you gonna go study, you know? And so, that took place.</u>
       <u who="BRADLEY">And these students don’t know anything about that, right?</u>
       <u who="BYRD">Yeah.</u>
       <u who="BRADLEY">Is that true?</u>
-      <u who="BYRD">Yeah. And from a female standpoint, no, the college was not ready. They were, you know, probably like today they were still working about dorms. You know, as a Black, my full—I had a larger hair, you know, and so I didn’t get no haircut, you know, so you had the Black students who would give you haircuts. I don’t know what the women did for pedicure, or they probably had to go to <placeName>Boston</placeName>. But, it was a transition. But I think the key element was that people knew that we were here for one thing and that was to get an education.</u>
+      <u who="BYRD">Yeah. And from a female standpoint, no, the college was not ready. They were, you know, probably like today they were still working about dorms. You know, as a Black, my full—I had a larger hair, you know, and so I didn’t get no haircut, you know, so you had the Black students who would give you haircuts. I don’t know what the women did for pedicure, or they probably had to go to <placeName ref="#dbl_002_place_44">Boston</placeName>. But, it was a transition. But I think the key element was that people knew that we were here for one thing and that was to get an education.</u>
       <u who="BRADLEY">Yeah. I’m interested, real quickly, about the education, and the coursework that you did and the professors that you had. You mentioned that Black Studies had just arrived, but I imagine most of the courses you took were outside of Black Studies and that sort of thing. Tell me a little bit about your educational experience.</u>
-      <u who="BYRD">Sure, sure. Well, I majored in history. Why history? A lot of my friends were, at that time were going to law school. And I had a very narrow view of lawyers, and that is, you know, they were in court all day arguing. And not—I don’t want to [inaudible], but I’m not one to promote all of them. So, I didn’t think law school was for me. That’s why I went to business school. But, I was a history major. I did well. I graduated cum laude. I had a history distinction major. <persName>Jim Wright</persName> was a professor here at that time and taught a course. I took some courses on the African slave trade. So, it was a very good educational experience. I think probably the peak of my education was a chance through the Black Studies to go to <placeName>West Africa</placeName> for three months. At that time we had a program for exchange students in <placeName>Freetown, Sierra Leone</placeName>. So I spent three months there. You could take classes or you could take independent studies. Most of us opted for independent studies because you could do whatever you want to, and you could, you know, learn the country. I was not in <placeName>Freetown</placeName>, but I was—and by the way, I was at <orgName>Fourah Bay College</orgName>. <orgName>Fourah Bay College</orgName> at that time is the largest and the oldest <orgName>West African College</orgName>. So you had Nigerians, you had Ghanaians, you had Gambians, you had some people from <placeName>Ethiopia</placeName>, and so it was a mecca. So you had a chance to meet Africans from all the continent, and that was cool, I mean, in terms of culture.I was not in the capital. I was in a little small village, and so I studied rice production. So I was going to the library every day doing my research. But, you know, I had a chance to go out into the village. So I mean, a village has some of the comforts, what we have <date>today</date>, but I mean, you go to some villages and they didn’t have any light, they didn’t have any… you know, it was what you’d see on TV. But it was a good experience to see that, and it humbled me because you realize how good you have it in this country, you know, and however you complain about it, because there was a lot of poverty there. And then, we had a chance to go to other <placeName>African</placeName> countries. So I think in terms of as a person, as a student, it was like someone taking my brain and open it up and turn the [inaudible] in.</u>
+      <u who="BYRD">Sure, sure. Well, I majored in history. Why history? A lot of my friends were, at that time were going to law school. And I had a very narrow view of lawyers, and that is, you know, they were in court all day arguing. And not—I don’t want to [inaudible], but I’m not one to promote all of them. So, I didn’t think law school was for me. That’s why I went to business school. But, I was a history major. I did well. I graduated cum laude. I had a history distinction major. <persName ref="#dbl_002_person_14">Jim Wright</persName> was a professor here at that time and taught a course. I took some courses on the African slave trade. So, it was a very good educational experience. I think probably the peak of my education was a chance through the Black Studies to go to <placeName ref="#dbl_002_place_45">West Africa</placeName> for three months. At that time we had a program for exchange students in <placeName ref="#dbl_002_place_46">Freetown, Sierra Leone</placeName>. So I spent three months there. You could take classes or you could take independent studies. Most of us opted for independent studies because you could do whatever you want to, and you could, you know, learn the country. I was not in <placeName ref="#dbl_002_place_47">Freetown</placeName>, but I was—and by the way, I was at <orgName ref="#dbl_002_org_53">Fourah Bay College</orgName>. <orgName ref="#dbl_002_org_54">Fourah Bay College</orgName> at that time is the largest and the oldest <orgName ref="#dbl_002_org_55">West African College</orgName>. So you had Nigerians, you had Ghanaians, you had Gambians, you had some people from <placeName ref="#dbl_002_place_48">Ethiopia</placeName>, and so it was a mecca. So you had a chance to meet Africans from all the continent, and that was cool, I mean, in terms of culture.I was not in the capital. I was in a little small village, and so I studied rice production. So I was going to the library every day doing my research. But, you know, I had a chance to go out into the village. So I mean, a village has some of the comforts, what we have <date>today</date>, but I mean, you go to some villages and they didn’t have any light, they didn’t have any… you know, it was what you’d see on TV. But it was a good experience to see that, and it humbled me because you realize how good you have it in this country, you know, and however you complain about it, because there was a lot of poverty there. And then, we had a chance to go to other <placeName ref="#dbl_002_place_49">African</placeName> countries. So I think in terms of as a person, as a student, it was like someone taking my brain and open it up and turn the [inaudible] in.</u>
       <u who="BRADLEY">Wow.</u>
-      <u who="BYRD">It was a great experience. I had a chance to go to <placeName>Africa</placeName> as a student.</u>
+      <u who="BYRD">It was a great experience. I had a chance to go to <placeName ref="#dbl_002_place_50">Africa</placeName> as a student.</u>
       <u who="BRADLEY">As an undergraduate.</u>
-      <u who="BYRD">Yeah, as a graduate. And we came back through <placeName>Europe</placeName>. We came to <placeName>London</placeName> and then we came back to the <placeName>US</placeName>. And it was interesting, during that time there were 14 students and a professor, 10 Blacks and four whites. And so it was interesting in talking to some of the whites, how were they feeling being in the minority, so to speak? And so, that was an experience for them, too, you know, and having that dialogue with them about that experience was interesting.</u>
+      <u who="BYRD">Yeah, as a graduate. And we came back through <placeName ref="#dbl_002_place_51">Europe</placeName>. We came to <placeName ref="#dbl_002_place_52">London</placeName> and then we came back to the <placeName ref="#dbl_002_place_53">US</placeName>. And it was interesting, during that time there were 14 students and a professor, 10 Blacks and four whites. And so it was interesting in talking to some of the whites, how were they feeling being in the minority, so to speak? And so, that was an experience for them, too, you know, and having that dialogue with them about that experience was interesting.</u>
       <u who="BRADLEY">No, that sounds like kind of a life altering experience.</u>
       <u who="BYRD">It was, it was, it was, it was. I mean…</u>
       <u who="BRADLEY">I was looking through some of your background, and so you had more experiences with nations on the continent as part of your professional career. At one point, I see that you had some business dealings with…</u>
-      <u who="BYRD">Yeah, yeah, yeah. Let me go back to a <orgName>Dartmouth</orgName> experience. I failed to tell you that in terms of student protests, we did have a student protest my freshman year. So I got here in September. This is happening in October, so I hadn’t been on campus a whole month, and I had to make some tough decisions, not just me, but those involved, as to whether we wanted to participate. But there was a professor, his name is <persName>William Shockley</persName>, and I think you may have seen that, but <persName>William Shockley</persName> was a Nobel prize, he was part of the <orgName>Hoover Institute</orgName>, which is out of <orgName>Stanford</orgName>. He was a <orgName>Stanford</orgName>… but he came to <orgName>Dartmouth</orgName> to talk about the genetic inferiority of Black people. Oh, gees. So we had a meeting and we decided, “What are we gonna do? What are we gonna do? We can’t let this guy talk about that.” So, we made an agreement among us, and there were about 60 of us in the protest, that we were gonna clap him down. So, <persName>President Kemeny</persName>, a brilliant guy, wanted to have this intellectual debate. No, no, no, no. So, I forgot, I think we were in Silsby Hall. And so <persName>Professor Shockley</persName> was introduced, and we start clapping. And he was smiling. And we just kept clapping. So we clapped him down for about 30 minutes, and then finally it was cancelled. The concern was the repercussions because we could have got kicked out of the school. I’m a freshman. They sent letters to my mom and dad, and for Christmas I didn’t know what they were gonna do. But you know what? They supported me. And I’d never felt so much love in my life that they supported me. Also one reason why we didn’t get kicked out of school, <persName>Bob Blackman</persName>, who was a football coach, there were some football players who were Rhode Scholars, they were getting drafted, and so I think he might have interceded. And I think thoroughly, there were a few Blacks on the student government committee, and so they argued for us not to get cut. So, they sent us a letter but it was a slap on the wrist kind of thing. But it was a scary scene in the sense that I thought I was going to get kicked out of school after being there for two months. But on the other hand, I felt we had to do what we had to do, and that is, I mean, we were smart and we weren’t gonna let nobody tell us that we were genetically inferior, you know, not during the Black Power Movement.</u>
+      <u who="BYRD">Yeah, yeah, yeah. Let me go back to a <orgName ref="#dbl_002_org_56">Dartmouth</orgName> experience. I failed to tell you that in terms of student protests, we did have a student protest my freshman year. So I got here in September. This is happening in October, so I hadn’t been on campus a whole month, and I had to make some tough decisions, not just me, but those involved, as to whether we wanted to participate. But there was a professor, his name is <persName ref="#dbl_002_person_15">William Shockley</persName>, and I think you may have seen that, but <persName ref="#dbl_002_person_16">William Shockley</persName> was a Nobel prize, he was part of the <orgName ref="#dbl_002_org_57">Hoover Institute</orgName>, which is out of <orgName ref="#dbl_002_org_58">Stanford</orgName>. He was a <orgName ref="#dbl_002_org_59">Stanford</orgName>… but he came to <orgName ref="#dbl_002_org_60">Dartmouth</orgName> to talk about the genetic inferiority of Black people. Oh, gees. So we had a meeting and we decided, “What are we gonna do? What are we gonna do? We can’t let this guy talk about that.” So, we made an agreement among us, and there were about 60 of us in the protest, that we were gonna clap him down. So, <persName ref="#dbl_002_person_17">President Kemeny</persName>, a brilliant guy, wanted to have this intellectual debate. No, no, no, no. So, I forgot, I think we were in Silsby Hall. And so <persName ref="#dbl_002_person_18">Professor Shockley</persName> was introduced, and we start clapping. And he was smiling. And we just kept clapping. So we clapped him down for about 30 minutes, and then finally it was cancelled. The concern was the repercussions because we could have got kicked out of the school. I’m a freshman. They sent letters to my mom and dad, and for Christmas I didn’t know what they were gonna do. But you know what? They supported me. And I’d never felt so much love in my life that they supported me. Also one reason why we didn’t get kicked out of school, <persName ref="#dbl_002_person_19">Bob Blackman</persName>, who was a football coach, there were some football players who were Rhode Scholars, they were getting drafted, and so I think he might have interceded. And I think thoroughly, there were a few Blacks on the student government committee, and so they argued for us not to get cut. So, they sent us a letter but it was a slap on the wrist kind of thing. But it was a scary scene in the sense that I thought I was going to get kicked out of school after being there for two months. But on the other hand, I felt we had to do what we had to do, and that is, I mean, we were smart and we weren’t gonna let nobody tell us that we were genetically inferior, you know, not during the Black Power Movement.</u>
       <u who="BRADLEY">Absolutely.</u>
       <u who="BYRD">That’s the last thing, so…</u>
-      <u who="BRADLEY">Yeah, I think <persName>Shockley</persName> had been doing his tour around colleges, [<persName>Tyrone</persName>: exactly] trying to make his case that… He was actually a physicist. That was his business was...</u>
+      <u who="BRADLEY">Yeah, I think <persName ref="#dbl_002_person_20">Shockley</persName> had been doing his tour around colleges, [<persName ref="#dbl_002_person_21">Tyrone</persName>: exactly] trying to make his case that… He was actually a physicist. That was his business was...</u>
       <u who="BYRD">Yeah, that’s right.</u>
       <u who="BRADLEY">And so, for him to make this pivot and to claim that Black people were inferior, and that sort of thing was very popular with the white supremacist crowd, and he was trying to put it off as though it was some kind of intellectual exercise. So, for you all to make that stand was terribly courageous at the moment. And the idea that you would be willing to do that, even though you knew your parents might not be happy about it, that must have been an incredible dilemma for yourself.</u>
       <u who="BYRD">Yeah it was. It took courage. But, you know, and there was a lot of fear, too, because we didn’t know what the repercussion… But we felt we were doing the right thing, so I guess, you know, we were willing to suffer the consequences, positive or negative. </u>
-      <u who="BRADLEY">The strange part about is in the <orgName>Ivy League</orgName>, I think, <orgName>Dartmouth College</orgName> students tended to make out a little bit better because of the communication they had with the administration, and even the trustees in some ways. I think in other spaces there wasn’t this conversation. But the toughest part about being at <orgName>Dartmouth</orgName>, though, there is no Black community to back you up. There is no—you know, so if this were <orgName>Columbia</orgName>, you know, <persName>H. Rap Brown</persName> and <persName>Stokely Carmichael</persName> and everybody, you know, could show up. Here in <placeName>Hanover</placeName> you all were on your own. This is it. And so, the decisions you made, you all would have to face the consequences [<persName>Tyrone</persName>: right, right] by yourselves.</u>
-      <u who="BYRD">Well, we felt strongly about that. But we did have some support, I mean. There were some Black alums who graduated in the ‘50s, in the ‘40s, who came back, and they helped create them. They were our mentors. And we were pretty well organized as a student body of Black students, and we were able to get a Black trustee back in the ‘60s, and I think that was the first time that we had a Black trustee, not only <orgName>Dartmouth</orgName>, but maybe in <orgName>Ivy League</orgName>. And so we used his influence to get things done, you know?</u>
+      <u who="BRADLEY">The strange part about is in the <orgName ref="#dbl_002_org_61">Ivy League</orgName>, I think, <orgName ref="#dbl_002_org_62">Dartmouth College</orgName> students tended to make out a little bit better because of the communication they had with the administration, and even the trustees in some ways. I think in other spaces there wasn’t this conversation. But the toughest part about being at <orgName ref="#dbl_002_org_63">Dartmouth</orgName>, though, there is no Black community to back you up. There is no—you know, so if this were <orgName ref="#dbl_002_org_64">Columbia</orgName>, you know, <persName ref="#dbl_002_person_22">H. Rap Brown</persName> and <persName ref="#dbl_002_person_23">Stokely Carmichael</persName> and everybody, you know, could show up. Here in <placeName ref="#dbl_002_place_54">Hanover</placeName> you all were on your own. This is it. And so, the decisions you made, you all would have to face the consequences [<persName ref="#dbl_002_person_24">Tyrone</persName>: right, right] by yourselves.</u>
+      <u who="BYRD">Well, we felt strongly about that. But we did have some support, I mean. There were some Black alums who graduated in the ‘50s, in the ‘40s, who came back, and they helped create them. They were our mentors. And we were pretty well organized as a student body of Black students, and we were able to get a Black trustee back in the ‘60s, and I think that was the first time that we had a Black trustee, not only <orgName ref="#dbl_002_org_65">Dartmouth</orgName>, but maybe in <orgName ref="#dbl_002_org_66">Ivy League</orgName>. And so we used his influence to get things done, you know?</u>
       <u who="BRADLEY">Yeah.</u>
       <u who="BYRD">So I think we were pretty well organized during that time in terms of making sure we did the best we can, and the alums of the ‘50s and ‘60s, and the ‘40s, they came back and they showed us a lot of love, you know?</u>
       <u who="BRADLEY">That’s beautiful.</u>
-      <u who="BYRD">Yeah. And some of them are still… I mean, one gentleman in western <placeName>Massachusetts</placeName>, he’s my surrogate father. He’s 86 years old. </u>
+      <u who="BYRD">Yeah. And some of them are still… I mean, one gentleman in western <placeName ref="#dbl_002_place_55">Massachusetts</placeName>, he’s my surrogate father. He’s 86 years old. </u>
       <u who="BRADLEY">Wow.</u>
       <u who="BYRD">And I call him every other week, you know? </u>
       <u who="BRADLEY">That’s beautiful.</u>
-      <u who="BYRD">He played basketball for <orgName>Dartmouth</orgName> during the ‘50s. He was almost so good to play in the <orgName>NBA</orgName>. But it’s good that we could reach back and get that support.</u>
+      <u who="BYRD">He played basketball for <orgName ref="#dbl_002_org_67">Dartmouth</orgName> during the ‘50s. He was almost so good to play in the <orgName ref="#dbl_002_org_68">NBA</orgName>. But it’s good that we could reach back and get that support.</u>
       <u who="BRADLEY">Yeah.</u>
       <u who="BYRD">Yeah. Because I mean, if you think it was more challenging when we were there, I mean, can you imagine being five or six Blacks in the ‘50s and ‘60s—I mean, ‘50s there? I mean, I don’t know how they did it. I mean, they didn’t even have—the highway wasn’t even there. So, yeah.</u>
       <u who="BRADLEY">I mean, you speak very well about the alumni who helped you. But now you are the alumnus who is helping others.</u>
@@ -155,8 +156,483 @@
       <u who="BRADLEY">And do you have any regrets about the pushes for justice that you made, the football playing, the partying at the Afro-American Society House, any of those things? Do you have any regrets about those?</u>
       <u who="BYRD">No, I mean, I don’t have any regrets. I mean, you always look back, you could do things a little bit better. You know, as I indicated, I think I have a strong network no matter what color you are, but I could have done a better job. I’m a businessman, and so, there are some alums in my class who knew they were going into business and I could have correlated with them early on, you know, for opportunities. But no, I don’t have any regrets.</u>
       <u who="BRADLEY">Yeah. No, it’s worked out wonderfully. And so, we really appreciate your time, and you’re such a valuable piece of this historical puzzle. And again, thank you for that and best of luck. Welcome back for the Homecoming and take good care.</u>
-      <u who="BYRD">Well, thank you for the opportunity, <persName>Professor Rabig</persName> and <persName>Winston</persName> and <persName>Bradley</persName>, and for the students here that are listening to me, and I hope it was of valuable use to them. Wish you the best luck in your plans. You can do it. “Why not me?” Remember that: “Why not me?”</u>
+      <u who="BYRD">Well, thank you for the opportunity, <persName ref="#dbl_002_person_25">Professor Rabig</persName> and <persName ref="#dbl_002_person_26">Winston</persName> and <persName ref="#dbl_002_person_27">Bradley</persName>, and for the students here that are listening to me, and I hope it was of valuable use to them. Wish you the best luck in your plans. You can do it. “Why not me?” Remember that: “Why not me?”</u>
       <u who="BRADLEY">“Why not me?” “Why not me?”[End of interview.]</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dbl_002_place_0">
+        <placeName>Houston</placeName>
+      </place>
+      <place xml:id="dbl_002_place_1">
+        <placeName>Hanover</placeName>
+      </place>
+      <place xml:id="dbl_002_place_2">
+        <placeName>Hanover</placeName>
+      </place>
+      <place xml:id="dbl_002_place_3">
+        <placeName>Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_4">
+        <placeName>Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_5">
+        <placeName>Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_6">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dbl_002_place_7">
+        <placeName>Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_8">
+        <placeName>Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_9">
+        <placeName>San Antonio</placeName>
+      </place>
+      <place xml:id="dbl_002_place_10">
+        <placeName>San Antonio</placeName>
+      </place>
+      <place xml:id="dbl_002_place_11">
+        <placeName>Virginia</placeName>
+      </place>
+      <place xml:id="dbl_002_place_12">
+        <placeName>East Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_13">
+        <placeName>Madisonville, Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_14">
+        <placeName>Houston</placeName>
+      </place>
+      <place xml:id="dbl_002_place_15">
+        <placeName>Madisonville, Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_16">
+        <placeName>San Antonio, Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_17">
+        <placeName>San Antonio</placeName>
+      </place>
+      <place xml:id="dbl_002_place_18">
+        <placeName>San Antonio, Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_19">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dbl_002_place_20">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dbl_002_place_21">
+        <placeName>Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_22">
+        <placeName>California</placeName>
+      </place>
+      <place xml:id="dbl_002_place_23">
+        <placeName>Chicago</placeName>
+      </place>
+      <place xml:id="dbl_002_place_24">
+        <placeName>Chicago</placeName>
+      </place>
+      <place xml:id="dbl_002_place_25">
+        <placeName>Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_26">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dbl_002_place_27">
+        <placeName>Texas</placeName>
+      </place>
+      <place xml:id="dbl_002_place_28">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dbl_002_place_29">
+        <placeName>Brooklyn</placeName>
+      </place>
+      <place xml:id="dbl_002_place_30">
+        <placeName>New York City</placeName>
+      </place>
+      <place xml:id="dbl_002_place_31">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dbl_002_place_32">
+        <placeName>Chicago</placeName>
+      </place>
+      <place xml:id="dbl_002_place_33">
+        <placeName>Chicago</placeName>
+      </place>
+      <place xml:id="dbl_002_place_34">
+        <placeName>Chicago</placeName>
+      </place>
+      <place xml:id="dbl_002_place_35">
+        <placeName>Hanover</placeName>
+      </place>
+      <place xml:id="dbl_002_place_36">
+        <placeName>Hanover</placeName>
+      </place>
+      <place xml:id="dbl_002_place_37">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="dbl_002_place_38">
+        <placeName>Afghanistan</placeName>
+      </place>
+      <place xml:id="dbl_002_place_39">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dbl_002_place_40">
+        <placeName>Canada</placeName>
+      </place>
+      <place xml:id="dbl_002_place_41">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dbl_002_place_42">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dbl_002_place_43">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dbl_002_place_44">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dbl_002_place_45">
+        <placeName>West Africa</placeName>
+      </place>
+      <place xml:id="dbl_002_place_46">
+        <placeName>Freetown, Sierra Leone</placeName>
+      </place>
+      <place xml:id="dbl_002_place_47">
+        <placeName>Freetown</placeName>
+      </place>
+      <place xml:id="dbl_002_place_48">
+        <placeName>Ethiopia</placeName>
+      </place>
+      <place xml:id="dbl_002_place_49">
+        <placeName>African</placeName>
+      </place>
+      <place xml:id="dbl_002_place_50">
+        <placeName>Africa</placeName>
+      </place>
+      <place xml:id="dbl_002_place_51">
+        <placeName>Europe</placeName>
+      </place>
+      <place xml:id="dbl_002_place_52">
+        <placeName>London</placeName>
+      </place>
+      <place xml:id="dbl_002_place_53">
+        <placeName>US</placeName>
+      </place>
+      <place xml:id="dbl_002_place_54">
+        <placeName>Hanover</placeName>
+      </place>
+      <place xml:id="dbl_002_place_55">
+        <placeName>Massachusetts</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dbl_002_event_0">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="dbl_002_event_1">
+        <desc>Vietnam War</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dbl_002_person_0">
+        <persName>Tyrone Byrd</persName>
+      </person>
+      <person xml:id="dbl_002_person_1">
+        <persName>Stefan Bradley</persName>
+      </person>
+      <person xml:id="dbl_002_person_2">
+        <persName>Byrd</persName>
+      </person>
+      <person xml:id="dbl_002_person_3">
+        <persName>Byrd</persName>
+      </person>
+      <person xml:id="dbl_002_person_4">
+        <persName>President [John] Dickey</persName>
+      </person>
+      <person xml:id="dbl_002_person_5">
+        <persName>Tyrone</persName>
+      </person>
+      <person xml:id="dbl_002_person_6">
+        <persName>Tyrone</persName>
+      </person>
+      <person xml:id="dbl_002_person_7">
+        <persName>Martin Luther King</persName>
+      </person>
+      <person xml:id="dbl_002_person_8">
+        <persName>Malcolm X</persName>
+      </person>
+      <person xml:id="dbl_002_person_9">
+        <persName>James Brown</persName>
+      </person>
+      <person xml:id="dbl_002_person_10">
+        <persName>James Brown</persName>
+      </person>
+      <person xml:id="dbl_002_person_11">
+        <persName>Colin Campbell</persName>
+      </person>
+      <person xml:id="dbl_002_person_12">
+        <persName>[John] Kemeny</persName>
+      </person>
+      <person xml:id="dbl_002_person_13">
+        <persName>Meryl Streep</persName>
+      </person>
+      <person xml:id="dbl_002_person_14">
+        <persName>Jim Wright</persName>
+      </person>
+      <person xml:id="dbl_002_person_15">
+        <persName>William Shockley</persName>
+      </person>
+      <person xml:id="dbl_002_person_16">
+        <persName>William Shockley</persName>
+      </person>
+      <person xml:id="dbl_002_person_17">
+        <persName>President Kemeny</persName>
+      </person>
+      <person xml:id="dbl_002_person_18">
+        <persName>Professor Shockley</persName>
+      </person>
+      <person xml:id="dbl_002_person_19">
+        <persName>Bob Blackman</persName>
+      </person>
+      <person xml:id="dbl_002_person_20">
+        <persName>Shockley</persName>
+      </person>
+      <person xml:id="dbl_002_person_21">
+        <persName>Tyrone</persName>
+      </person>
+      <person xml:id="dbl_002_person_22">
+        <persName>H. Rap Brown</persName>
+      </person>
+      <person xml:id="dbl_002_person_23">
+        <persName>Stokely Carmichael</persName>
+      </person>
+      <person xml:id="dbl_002_person_24">
+        <persName>Tyrone</persName>
+      </person>
+      <person xml:id="dbl_002_person_25">
+        <persName>Professor Rabig</persName>
+      </person>
+      <person xml:id="dbl_002_person_26">
+        <persName>Winston</persName>
+      </person>
+      <person xml:id="dbl_002_person_27">
+        <persName>Bradley</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dbl_002_org_0">
+        <orgName>Dartmouth College</orgName>
+      </org>
+      <org xml:id="dbl_002_org_1">
+        <orgName>Alumni Council Board of Trustees</orgName>
+      </org>
+      <org xml:id="dbl_002_org_2">
+        <orgName>Alumni Council</orgName>
+      </org>
+      <org xml:id="dbl_002_org_3">
+        <orgName>Board of Trustees</orgName>
+      </org>
+      <org xml:id="dbl_002_org_4">
+        <orgName>Alumni Council</orgName>
+      </org>
+      <org xml:id="dbl_002_org_5">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_6">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_7">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_8">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dbl_002_org_9">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="dbl_002_org_10">
+        <orgName>US Treasury</orgName>
+      </org>
+      <org xml:id="dbl_002_org_11">
+        <orgName>Treasury</orgName>
+      </org>
+      <org xml:id="dbl_002_org_12">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_13">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_14">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_15">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_16">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_17">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_18">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_19">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_20">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_21">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_22">
+        <orgName>Brooklyn Tech</orgName>
+      </org>
+      <org xml:id="dbl_002_org_23">
+        <orgName>Tucker Foundation</orgName>
+      </org>
+      <org xml:id="dbl_002_org_24">
+        <orgName>Tucker Foundation</orgName>
+      </org>
+      <org xml:id="dbl_002_org_25">
+        <orgName>Tucker Foundation</orgName>
+      </org>
+      <org xml:id="dbl_002_org_26">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_27">
+        <orgName>A Better Chance</orgName>
+      </org>
+      <org xml:id="dbl_002_org_28">
+        <orgName>ABC</orgName>
+      </org>
+      <org xml:id="dbl_002_org_29">
+        <orgName>ABC</orgName>
+      </org>
+      <org xml:id="dbl_002_org_30">
+        <orgName>ABC</orgName>
+      </org>
+      <org xml:id="dbl_002_org_31">
+        <orgName>Exeter</orgName>
+      </org>
+      <org xml:id="dbl_002_org_32">
+        <orgName>Andover</orgName>
+      </org>
+      <org xml:id="dbl_002_org_33">
+        <orgName>Black Panthers</orgName>
+      </org>
+      <org xml:id="dbl_002_org_34">
+        <orgName>Ivy League</orgName>
+      </org>
+      <org xml:id="dbl_002_org_35">
+        <orgName>Penn State</orgName>
+      </org>
+      <org xml:id="dbl_002_org_36">
+        <orgName>Ivy League</orgName>
+      </org>
+      <org xml:id="dbl_002_org_37">
+        <orgName>University of Chicago Business School</orgName>
+      </org>
+      <org xml:id="dbl_002_org_38">
+        <orgName>University of Chicago Business School</orgName>
+      </org>
+      <org xml:id="dbl_002_org_39">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_40">
+        <orgName>University of Chicago</orgName>
+      </org>
+      <org xml:id="dbl_002_org_41">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_42">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_43">
+        <orgName>Mount Holyoke</orgName>
+      </org>
+      <org xml:id="dbl_002_org_44">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_45">
+        <orgName>Dartmouth College</orgName>
+      </org>
+      <org xml:id="dbl_002_org_46">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_47">
+        <orgName>Mount Holyoke</orgName>
+      </org>
+      <org xml:id="dbl_002_org_48">
+        <orgName>Smith</orgName>
+      </org>
+      <org xml:id="dbl_002_org_49">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_50">
+        <orgName>Simmons College</orgName>
+      </org>
+      <org xml:id="dbl_002_org_51">
+        <orgName>Dartmouth College</orgName>
+      </org>
+      <org xml:id="dbl_002_org_52">
+        <orgName>Dartmouth College</orgName>
+      </org>
+      <org xml:id="dbl_002_org_53">
+        <orgName>Fourah Bay College</orgName>
+      </org>
+      <org xml:id="dbl_002_org_54">
+        <orgName>Fourah Bay College</orgName>
+      </org>
+      <org xml:id="dbl_002_org_55">
+        <orgName>West African College</orgName>
+      </org>
+      <org xml:id="dbl_002_org_56">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_57">
+        <orgName>Hoover Institute</orgName>
+      </org>
+      <org xml:id="dbl_002_org_58">
+        <orgName>Stanford</orgName>
+      </org>
+      <org xml:id="dbl_002_org_59">
+        <orgName>Stanford</orgName>
+      </org>
+      <org xml:id="dbl_002_org_60">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_61">
+        <orgName>Ivy League</orgName>
+      </org>
+      <org xml:id="dbl_002_org_62">
+        <orgName>Dartmouth College</orgName>
+      </org>
+      <org xml:id="dbl_002_org_63">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_64">
+        <orgName>Columbia</orgName>
+      </org>
+      <org xml:id="dbl_002_org_65">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_66">
+        <orgName>Ivy League</orgName>
+      </org>
+      <org xml:id="dbl_002_org_67">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dbl_002_org_68">
+        <orgName>NBA</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
