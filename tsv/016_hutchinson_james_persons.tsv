@@ -1,71 +1,70 @@
-id	persName
-dbl_016_person_0	Ariana Ramsey
-dbl_016_person_1	James Hutchinson
-dbl_016_person_2	Janice Hutchison
-dbl_016_person_3	Dorothy Hutchinson
-dbl_016_person_4	James Hutchison
-dbl_016_person_5	Lorraine Hansberry
-dbl_016_person_6	AB Willacy
-dbl_016_person_7	AB Willacy
-dbl_016_person_8	Ron Talley
-dbl_016_person_9	AB Willacy
-dbl_016_person_10	Ron Tally
-dbl_016_person_11	Talley
-dbl_016_person_12	Ronald Talley
-dbl_016_person_13	AB
-dbl_016_person_14	Aubrey Barrett
-dbl_016_person_15	Aubrey A.B
-dbl_016_person_16	A.B
-dbl_016_person_17	Ron Talley
-dbl_016_person_18	AB
-dbl_016_person_19	AB
-dbl_016_person_20	Ron Talley
-dbl_016_person_21	Ron
-dbl_016_person_22	Robert Bennett
-dbl_016_person_23	Alex Lowe
-dbl_016_person_24	Martin Luther King
-dbl_016_person_25	Wallace
-dbl_016_person_26	Nancy Wilson
-dbl_016_person_27	Nancy Wilson
-dbl_016_person_28	Wallace
-dbl_016_person_29	Wallace
-dbl_016_person_30	George Wallace
-dbl_016_person_31	Eisenhower
-dbl_016_person_32	Wallace
-dbl_016_person_33	Wallace
-dbl_016_person_34	Governor
-dbl_016_person_35	Rauner
-dbl_016_person_36	Bruce Rauner
-dbl_016_person_37	Bruce Rauner
-dbl_016_person_38	Robert Bennett
-dbl_016_person_39	Webster Hall
-dbl_016_person_40	Wallace
-dbl_016_person_41	Wallace
-dbl_016_person_42	Wallace
-dbl_016_person_43	Eric Severide
-dbl_016_person_44	Wallace
-dbl_016_person_45	Woody Lee
-dbl_016_person_46	Bill Mcuren
-dbl_016_person_47	Bill Mcuren
-dbl_016_person_48	Woody Lee
-dbl_016_person_49	Bill Mcuren
-dbl_016_person_50	George Wallace
-dbl_016_person_51	Jessie Spikes
-dbl_016_person_52	John Hennessy
-dbl_016_person_53	Dave McLaughlin
-dbl_016_person_54	McLaughlin
-dbl_016_person_55	Charles Davison
-dbl_016_person_56	Nelson Rockefeller
-dbl_016_person_57	Nixon
-dbl_016_person_58	Benjamin Hooks
-dbl_016_person_59	Wiley
-dbl_016_person_60	Wiley
-dbl_016_person_61	Hooks
-dbl_016_person_62	Hooks
-dbl_016_person_63	Kelly
-dbl_016_person_64	Ben Hooks
-dbl_016_person_65	Carter
-dbl_016_person_66	Walter Heller
-dbl_016_person_67	George Johnson
-dbl_016_person_68	Trayvon Martin
-dbl_016_person_69	James
+id	persName	QID	dbl_id
+dbl_016_person_0	Ariana Ramsey	Q107652797	
+dbl_016_person_1	James Hutchinson	Q118854254	
+dbl_016_person_2	Janice Hutchinson	Q118854259	
+dbl_016_person_3	Dorothy Hutchinson	Q118854285	
+dbl_016_person_4	James Hutchinson	Q118854254	
+dbl_016_person_5	Lorraine Hansberry	Q461758	
+dbl_016_person_6	Aubrey Barrett Willacy	Q118854288	
+dbl_016_person_7	Aubrey Barrett Willacy	Q118854288	
+dbl_016_person_8	Ronald Talley	Q114648278	
+dbl_016_person_9	Aubrey Barrett Willacy	Q118854288	
+dbl_016_person_10	Ronald Tally	Q118854290	
+dbl_016_person_11	Steve Talley	Q459380	
+dbl_016_person_12	Ronald Talley	Q114648278	
+dbl_016_person_13	Aubrey Barrett Willacy	Q118854288	
+dbl_016_person_14	Aubrey Barrett Willacy	Q118854288	
+dbl_016_person_15	Aubrey Barrett Willacy	Q118854288	
+dbl_016_person_16	Adriaan Boelens	Q107612656	
+dbl_016_person_17	Ronald Talley	Q114648278	
+dbl_016_person_18	Aubrey Barrett Willacy	Q118854288	
+dbl_016_person_19	Aubrey Barrett Willacy	Q118854288	
+dbl_016_person_20	Ronald Talley	Q114648278	
+dbl_016_person_21	Ronald Tally	Q118854290	
+dbl_016_person_22	Robert Bennett	Q114647553	
+dbl_016_person_23	Alex Lowe	Q118854292	
+dbl_016_person_24	Martin Luther King Jr.	Q8027	
+dbl_016_person_25	George Wallace	Q313776	
+dbl_016_person_26	Nancy Wilson	Q467690	
+dbl_016_person_27	Nancy Wilson	Q467690	
+dbl_016_person_28	George Wallace	Q313776	
+dbl_016_person_29	George Wallace	Q313776	
+dbl_016_person_30	George Wallace	Q313776	
+dbl_016_person_31	Dwight D. Eisenhower	Q9916	
+dbl_016_person_32	George Wallace	Q313776	
+dbl_016_person_33	George Wallace	Q313776	
+dbl_016_person_34	Governor	Q3774002	
+dbl_016_person_35	Bruce Rauner	Q15972549	
+dbl_016_person_36	Bruce Rauner	Q15972549	
+dbl_016_person_37	Bruce Rauner	Q15972549	
+dbl_016_person_38	Robert Bennett	Q114647553	
+dbl_016_person_40	George Wallace	Q313776	
+dbl_016_person_41	George Wallace	Q313776	
+dbl_016_person_42	George Wallace	Q313776	
+dbl_016_person_43	Eric Sevareid	Q5387483	
+dbl_016_person_44	George Wallace	Q313776	
+dbl_016_person_45	Woody Lee	Q8033682	
+dbl_016_person_46	William McCurine	Q114648071	
+dbl_016_person_47	William McCurine	Q114648071	
+dbl_016_person_48	Woody Lee	Q8033682	
+dbl_016_person_49	William McCurine	Q114648071	
+dbl_016_person_50	George Wallace	Q313776	
+dbl_016_person_51	Jesse Spikes	Q6186863	
+dbl_016_person_52	John W. Hennessey Jr	Q6262319	
+dbl_016_person_53	David T. McLaughlin	Q5240250	
+dbl_016_person_54	David T. McLaughlin	Q5240250	
+dbl_016_person_55	Charles Davison	Q118854300	
+dbl_016_person_56	Nelson Rockefeller	Q11237	
+dbl_016_person_57	Richard Nixon	Q9588	
+dbl_016_person_58	Benjamin Hooks	Q4888830	
+dbl_016_person_59	Richard E. Wiley	Q7325414	
+dbl_016_person_60	Richard E. Wiley	Q7325414	
+dbl_016_person_61	Benjamin Hooks	Q4888830	
+dbl_016_person_62	Benjamin Hooks	Q4888830	
+dbl_016_person_63	Kelly Hutchinson	Q118854306	
+dbl_016_person_64	Benjamin Hooks	Q4888830	
+dbl_016_person_65	Jimmy Carter	Q23685	
+dbl_016_person_66	Walter Heller	Q979074	
+dbl_016_person_67	George E. Johnson, Sr.	Q5538749	
+dbl_016_person_68	Trayvon Martin	Q13864562	
+dbl_016_person_69	James Hutchinson	Q118854254	
