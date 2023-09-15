@@ -1,12 +1,12 @@
-id	name
-dbl_007_event_0	World War One
-dbl_007_event_1	Korean War
-dbl_007_event_2	Korean War
-dbl_007_event_3	Korean War
-dbl_007_event_4	Korean War
-dbl_007_event_5	Vietnam War
-dbl_007_event_6	Vietnam War
-dbl_007_event_7	Watts civil unrest
-dbl_007_event_8	Vietnam
-dbl_007_event_9	Vietnam War
-dbl_007_event_10	shout him down and not let him speak
+id	name	QID	dbl_id	start time	end time	point in time
+dbl_007_event_0	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dbl_007_event_1	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dbl_007_event_2	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dbl_007_event_3	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dbl_007_event_4	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dbl_007_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dbl_007_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dbl_007_event_7	Watts riots	Q377682		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	
+dbl_007_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dbl_007_event_9	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dbl_007_event_10	Shockley Incident	Q115024875				1969-10-15T00:00:00Z
